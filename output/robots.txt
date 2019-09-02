@@ -1,0 +1,4 @@
+Sitemap: https://random8dots.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: random8dots.github.io

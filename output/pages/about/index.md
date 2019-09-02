@@ -1,0 +1,200 @@
+.. title: Hi!
+.. slug:
+.. date: 2018-10-28 09:04:38 UTC+05:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+
+I am Hasanth.
+
+I enjoy equipping myself with different set of skills, whilst I also like to register & share my learnings - purpose of this blog.
+
+
+<!-- I am [Hasanth](https://www.goodreads.com/user/show/73112556-hasanth-palanchu).
+ -->
+<!-- I'm <span style="color: #1d9447; font-size: 1.07rem">Hasanth</span>. --> 
+<!-- <p>I am a budding researcher having a propensity for theoretical aspects of sciences.</p>
+ -->
+ <p>In this blog I write posts related to <span style="color: #bf1818">Theoretical - (Computer Science & Machine Learning), </span>
+<span style="color: #bf1818">Mathematics - (Combinatorics, Geometry etc.), </span><span style="color: green">Economics, </span><span style="color: red">Public Policy, </span><span style="color: orange">Psychology</span> & <span style="color: #3897ff">Statistics.</span></p>
+
+<!-- <div class="container" style="padding-left: 0px;">
+<div class="row">
+<div class="col-md-7">
+<img title="Image from Pinterest" src="/images/tenor.gif" style="border-radius: 15px;">
+</div> -->
+<!-- <aside class="col-md-5"> <a class="twitter-timeline" data-height="280" data-link-color="#3897ff" href="https://twitter.com/random8dots?ref_src=twsrc%5Etfw">Tweets by random8dots</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</aside> -->
+</div>
+</div>
+
+<!-- <div class="container" style="padding-left: 0px;"> -->
+
+<!-- <details><summary>Activity</summary>
+<br>
+<li><a href="/pages/reading_list">Reading List</a></li>
+<li><a href="/pages/chess">Chess</a></li>
+<br>
+</details> -->
+
+
+<!-- <details><summary>Background</summary>
+<br>
+<p>I graduated with a Bachelors from Dept. of Electrical Engineering at <span style="color:#bf2a2f">IIT - Kharagpur</span> in 2016, post graduation I have spent a year working at <span style="color:#1d9447">Hewlett-Packarard Enterprise R&D</span>.</p>
+<br>
+</details> -->
+<!-- I also have interest for designing products which fit/fulfill fundamental needs within the society, [Education]() is my prime area of interest. 
+Some of my works are [Morphable Faces for Enthusiastic Learning](), [Sanjeevani](), [Contactless Transactions](), [Chemical Innovation]() -->
+
+<!-- <details><summary>Research Projects</summary>
+<br>
+<p> My undergraduate research spans in the areas of <span style="color: #3897ff">machine learning, bio-medical instrumentation, robotics, 3d reconstruction & sustainability</span>. Here are few of my projects in reverse chronological order.</p>
+<table width="100%" align="center" border="0" cellpadding="0"> <tbody><tr>
+<td width="17%"><img src="/images/body_recon.png" width="95%" height="150" style="border-style: none"></td>
+<td width="3%"></td>
+<td width="80%" valign="top">	<b>
+3D Reconstruction of Human pose from a single 2D image.
+</b>
+<br>
+Hasanth Palanchu.
+<br>
+<p>Using the keypoints technique used in facial reconstruction techniques we try to reconstruct the human pose from single 2D single image using the Morphable Model of Michael Blank's UP model by exploring in principal component directions and minimize the difference between projected and actual keypoints with a technique of non-linear least squares problem resulting in 3D reconstruction of the image.</p>
+</td>
+</tr></tbody>
+</table>
+<table width="100%" align="center" border="0" cellpadding="0"> <tbody><tr>
+<td width="17%"><img src="/images/yisong.png" width="95%" height="150" style="border-style: none"></td>
+<td width="3%"></td>
+<td width="80%" valign="top">
+<b>
+Voice to Face mapping.
+</b>
+<br>
+Hasanth Palanchu.
+<br>
+<p>We train the model on voice phenomes and keypoints positions in the jaw section of a human in the image. Given input voice to the learned model and image the learned deep learning model would estimate the variant of the image based on the voice in a particular instant of time. The learning is done using a sliding window approach.</p>
+</td>
+</tr></tbody>
+</table>
+<table width="100%" align="center" border="0" cellpadding="0"> <tbody><tr>
+<td width="17%"><img src="/images/mesh.png" width="95%" height="150" style="border-style: none"></td>
+<td width="3%"></td>
+<td width="80%" valign="top">	<b>
+3D Face reconstuction from 2D image using University of Surrey Morphable Model.
+</b>
+<br>
+Hasanth Palanchu.
+<br>
+<p>Using 38 keypoints we match the facial points with the corresponding 3D points in Morphable Model which is adjusted based on the difference between distances of projected 3D points on to the image plane and 2D keypoints and outputs the adjusted morphable model along principal component directions. </p>
+</td>
+</tr></tbody>
+</table>
+<table width="100%" align="center" border="0" cellpadding="0"> <tbody><tr>
+<td width="17%"><img src="/images/collage.jpg" width="95%" height="150" style="border-style: none"></td>
+<td width="3%"></td>
+<td width="80%" valign="top">
+<b>
+Variational Bayesian Matrix Factorization of Bounded Support Data
+</b>
+<br>
+Hasanth Palanchu, <a href="">Prof. Anirban Mukherjee.</a>
+<br>
+[<a href="/BTP.pdf">PDF & Code</a>]
+<p>In this project we try to apply the matrix factorization techniques for source separation,missing data estimation. By assuming the data in accordance of a couple of bounds: the distribution of the data, we apply variational theory to obtain the estimate of intractable soultion at the beginning.</p>
+</td>
+</tr></tbody>
+</table>
+<table width="100%" align="center" border="0" cellpadding="0"> <tbody><tr>
+<td width="17%"><img src="/images/lung-collage.jpg" width="95%" height="150" style="border-style: none"></td>
+<td width="3%"></td>
+<td width="80%" valign="top">
+<b>
+Measurement of fiber angular orientation distributions of the objects in the images	</b>
+<br>
+Hasanth Palanchu, Prabhat Yeluri, <a href="">Prof. Debdoot Sheet.</a>
+<br>
+[<a href="/imgp.pdf">PDF</a>]
+<p>In this experiment we took inspiration from the image processing techniques used in metallurgical studies in order to perform the estimation of orientation of lung fibres from the images. We transform the image to fourier space and try to figure the dominating direction of lung fibres.</p>
+</td>
+</tr></tbody>
+</table>
+<table width="100%" align="center" border="0" cellpadding="0"> <tbody><tr>
+<td width="17%"><img src="/images/multi-class.jpg" width="95%" height="150" style="border-style: none"></td>
+<td width="3%"></td>
+<td width="80%" valign="top">
+<b>
+Modelling the Transitions in Lung cancer cells and classification of different cells using Deep Belief Networks</b>
+<br>
+Hasanth Palanchu, <a href="">Prof. Anirban Mukherjee.</a>
+<br>
+[<a href="/deep_binary.m">Code</a>]
+<p>The progression of cancer cells happens in various different stages, we try to predict the different stages of lung cancer cells from images and output the respective counts of different staged cells. we try to use some feature like packing density, length & diagnol length of cells etc. as features and using the popular technique of Deep Belief Networks, we perform the multi-class classification.</p>
+</td>
+</tr></tbody>
+</table>
+<table width="100%" align="center" border="0" cellpadding="0"> <tbody><tr>
+<td width="17%"><img src="/images/ph.png" width="95%" height="150" style="border-style: none"></td>
+<td width="3%"></td>
+<td width="80%" valign="top">
+<b>
+Design and Construction of a low cost Digital PH-meter using constant phase element as sensor</b>
+<br>
+Hasanth Palanchu, <a href="">Prof. Karabi Biswas.</a>
+<br>
+[<a href="/karabi.pdf">PDF</a>]
+<p>Designed and constructed a low cost PH-meter from scratch using Operational-Amplifiers and Logic gates(for condition-
+ing the output of sensing element, PMMA, DQN-70 coated probes.</p>
+</td>
+</tr></tbody>
+</table>
+<table width="100%" align="center" border="0" cellpadding="0"> <tbody><tr>
+<td width="17%"><img src="/images/bci.png" width="95%" height="150" style="border-style: none"></td>
+<td width="3%"></td>
+<td width="80%" valign="top">
+<b>
+Feature extraction and selection techniques for Binary Classification problem of Right half and Left half brain activity based on EEG signals</b>
+<br>
+Hasanth Palanchu, <a href="">Prof. Manjunatha Mahadevappa.</a>
+<br>
+[<a href="/manju.pdf">PDF</a>]
+<p>In this experiment we tried to classify the Left & Right Brain activity with the help of EEG signals captured. We experimented with different kinds of Feature Extraction techniques on these signals obtained from various channels eventually classifying the activity based on the EEG signals of various samples activities - Sleeping, Reading, Watching etc.</p>
+</td>
+</tr></tbody>
+</table>
+<table width="100%" align="center" border="0" cellpadding="0"> <tbody><tr>
+<td width="17%"><img src="/images/finger_sensor.jpg" width="95%" height="150" style="border-style: none"></td>
+<td width="3%"></td>
+<td width="80%" valign="top">
+<b>
+Analog circuit design for Measuring Heart Rate and Blood flow rate - Plethysmography
+</b>
+<br>
+Hasanth Palanchu, <a href="">Prof. Saswat Chakrabarti.</a>
+<br>
+<p>We designed and implemented a system which can measure the Heart & Blood flow rates. Using a photo-detector cascaded by a bandpass filter circuit. We capture the varition in the light intensity and sense the variations with the help of detector. </p>
+</td>
+</tr></tbody>
+</table>
+</details>
+<details><summary> Bachelors Thesis</summary>
+<br>
+<a href="/BTP.pdf">Variational Bayesian Matrix Factorization for Bounded Support Data </a>
+</details> -->
+<!-- </div> -->
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
