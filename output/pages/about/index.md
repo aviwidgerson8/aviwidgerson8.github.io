@@ -8,25 +8,28 @@
 .. type: text
 
 
-I am Hasanth.
-
-I enjoy equipping myself with different set of skills, whilst I also like to register & share my learnings - purpose of this blog.
-
+I am Hasanth Palanchu.
 
 <!-- I am [Hasanth](https://www.goodreads.com/user/show/73112556-hasanth-palanchu).
  -->
 <!-- I'm <span style="color: #1d9447; font-size: 1.07rem">Hasanth</span>. --> 
 <!-- <p>I am a budding researcher having a propensity for theoretical aspects of sciences.</p>
  -->
- <p>In this blog I write posts related to <span style="color: #bf1818">Theoretical - (Computer Science & Machine Learning), </span>
+<p>In this blog I write posts related to <span style="color: #bf1818">Theoretical - (Computer Science & Machine Learning), </span>
 <span style="color: #bf1818">Mathematics - (Combinatorics, Geometry etc.), </span><span style="color: green">Economics, </span><span style="color: red">Public Policy, </span><span style="color: orange">Psychology</span> & <span style="color: #3897ff">Statistics.</span></p>
 
-<!-- <div class="container" style="padding-left: 0px;">
+<div class="container" style="padding-left: 0px;">
 <div class="row">
-<div class="col-md-7">
-<img title="Image from Pinterest" src="/images/tenor.gif" style="border-radius: 15px;">
-</div> -->
-<!-- <aside class="col-md-5"> <a class="twitter-timeline" data-height="280" data-link-color="#3897ff" href="https://twitter.com/random8dots?ref_src=twsrc%5Etfw">Tweets by random8dots</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="col-md-12">
+<!-- <img title="Image from Pinterest" src="/images/tenor.gif" style="border-radius: 15px;">
+ -->
+	<div id="gr_updates_widget">
+	  <iframe id="the_iframe" src="https://goodreads.com/widgets/user_update_widget?height=240&num_updates=8&user=73112556&width=400" width="358" height="170" frameborder="0"></iframe>
+          <div id="gr_footer">
+            <a href="https://www.goodreads.com/"><img alt="Goodreads: Book reviews, recommendations, and discussion" src="https://www.goodreads.com/images/layout/goodreads_logo_140.png" /></a>
+          </div>
+        </div>
+<!-- <aside class="col-md-6"> <a class="twitter-timeline" data-height="280" data-link-color="#3897ff" href="https://twitter.com/random08dots?ref_src=twsrc%5Etfw">Tweets</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </aside> -->
 </div>
 </div>
@@ -185,6 +188,7 @@ Hasanth Palanchu, <a href="">Prof. Saswat Chakrabarti.</a>
 </details> -->
 <!-- </div> -->
 <br>
+<p><a class="btn btn-danger" href="/pages/subscribe" role="button">Subscribe</a></p>
 
 
 
