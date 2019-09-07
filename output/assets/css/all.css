@@ -851,10 +851,10 @@ ul.pager li a {
 }
 
 .pagecentre {
-	margin-left: 22.5%;
-	margin-right:22.5%;
-	margin-top: 1%;
-	margin-bottom: 1%;
+	/*margin-left: 30%;
+	margin-right: 30%;*/
+  margin: auto; 
+  max-width: 700px;
 }
 
 .dotscolor {
@@ -862,9 +862,9 @@ ul.pager li a {
 }
 
 .dotsborder {
-	border-style: dashed;
-	border-width: thin;
-	border-radius: 5px;
+	border-style: solid;
+	border-width: medium;
+	border-radius: 8px;
 }
 
 .bg-light {
@@ -905,8 +905,8 @@ h6, .h6 {
 }
 
 #footer{
-	border-top-style: dashed;
-	border-width: thin;
+	border-top-style: solid;
+	border-width: medium;
 	border-color: black;
 }
 
