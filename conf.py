@@ -20,7 +20,7 @@ BLOG_AUTHOR = " pseudorandomdot "  # (translatable)
 BLOG_TITLE = " Random Dots "  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://random8dots.github.io/"
+SITE_URL = "https://pseudorandomdot.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
