@@ -16,8 +16,8 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = " pseudorandomdot "  # (translatable)
-BLOG_TITLE = " Random Dots "  # (translatable)
+BLOG_AUTHOR = " arjun "  # (translatable)
+BLOG_TITLE = " Nudging Head "  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://pseudorandomdot.github.io/"

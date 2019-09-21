@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title> Random Dots  (Posts about Caffe)</title><link>https://pseudorandomdot.github.io/</link><description></description><atom:link href="https://pseudorandomdot.github.io/categories/caffe.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:random8dots@gmail.com"&gt; pseudorandomdot &lt;/a&gt; 
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title> Nudging Head  (Posts about Caffe)</title><link>https://pseudorandomdot.github.io/</link><description></description><atom:link href="https://pseudorandomdot.github.io/categories/caffe.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:random8dots@gmail.com"&gt; arjun &lt;/a&gt; 
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sat, 21 Sep 2019 20:39:29 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Deep Learning Setup</title><link>https://pseudorandomdot.github.io/posts/misc/deeplearning_setup/</link><dc:creator> pseudorandomdot </dc:creator><description>&lt;div&gt;&lt;h3&gt;Specifications&lt;/h3&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sat, 21 Sep 2019 21:40:11 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Deep Learning Setup</title><link>https://pseudorandomdot.github.io/posts/misc/deeplearning_setup/</link><dc:creator> arjun </dc:creator><description>&lt;div&gt;&lt;h3&gt;Specifications&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;OS - Ubuntu 16.04&lt;/li&gt;
 &lt;li&gt;Graphics - Nvidia Optimus (GTX1070 + IntelHD)&lt;/li&gt;
