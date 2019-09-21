@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1569102009.551357
+_modified_time = 1569110169.5693882
 _enable_loop = True
 _template_filename = '/home/random8dots/site/lib/python3.5/site-packages/nikola/data/themes/base/templates/comments_helper_commento.tmpl'
 _template_uri = 'comments_helper_commento.tmpl'
@@ -61,6 +61,6 @@ def render_comment_link_script(context):
 
 """
 __M_BEGIN_METADATA
-{"uri": "comments_helper_commento.tmpl", "line_map": {"33": 8, "39": 2, "44": 2, "45": 5, "46": 5, "16": 0, "52": 11, "21": 6, "22": 9, "23": 12, "56": 11, "29": 8, "62": 56}, "source_encoding": "utf-8", "filename": "/home/random8dots/site/lib/python3.5/site-packages/nikola/data/themes/base/templates/comments_helper_commento.tmpl"}
+{"line_map": {"33": 8, "39": 2, "44": 2, "45": 5, "46": 5, "16": 0, "52": 11, "21": 6, "22": 9, "23": 12, "56": 11, "29": 8, "62": 56}, "source_encoding": "utf-8", "uri": "comments_helper_commento.tmpl", "filename": "/home/random8dots/site/lib/python3.5/site-packages/nikola/data/themes/base/templates/comments_helper_commento.tmpl"}
 __M_END_METADATA
 """

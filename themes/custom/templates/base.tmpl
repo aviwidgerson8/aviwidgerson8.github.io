@@ -20,7 +20,7 @@ navbar-light bg-light
 navbar-dark bg-dark
 % endif
 ">
-    <div class="container headsborder"><!-- This keeps the margins nice -->
+    <div class="container headsborder" style="padding-left: 0px;"><!-- This keeps the margins nice -->
         <a class="navbar-brand" href="${abs_link(_link("root", None, lang))}">
         %if logo_url:
             <img src="${logo_url}" alt="${blog_title|h}" id="logo" class="d-inline-block align-top">
@@ -72,7 +72,7 @@ navbar-dark bg-dark
             ${content_footer}
             ${template_hooks['page_footer']()}
             <span class = "float-right">
-            <a href="https://twitter.com/pseudorandomdot?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">Follow @Hasanth Palanchu</a></span>
+            <a href="https://twitter.com/nudginghead?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">Follow @Hasanth Palanchu</a></span>
         </footer>
     </div>
 </div>

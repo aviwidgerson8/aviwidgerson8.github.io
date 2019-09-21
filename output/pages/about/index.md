@@ -7,12 +7,20 @@
 .. description: 
 .. type: text
 
+<img align="right" height="260" src="/images/kai.jpg">
 
-I am Arjun.
-In this blog I write posts related to <span style="color: #bf1818">Theoretical - (Computer Science & Machine Learning), </span>
-<span style="color: #bf1818">Mathematics - (Combinatorics, Geometry etc.), </span><span style="color: green">Economics, </span><span style="color: red">Public Policy, </span><span style="color: orange">Psychology</span> & <span style="color: #3897ff">Statistics.</span>
-<p><a class="btn btn-secondary" href="/pages/subscribe" role="button">Subscribe</a></p>
+I am [ Nudging Head](https://www.goodreads.com/user/show/73112556-nudging).
 
+In this blog I write posts on topics related to:
+
+ - <span style="color: #bf1818">Theoretical aspects of Computer Science</span> - (Graph Theory, Machine Learning etc.)
+ - <span style="color: #bf1818">Pure Mathematical</span> topics like - (Combinatorics, Geometry etc.)
+ - <span style="color: green">Economics</span>; including concepts related with computational sciences
+ - <span style="color: green">Public Policy</span> 
+ - <span style="color: red">Psychology</span>; essentially the concepts related to neuro-functioning
+ - <span style="color: blue">Statistics</span>; concepts which help to study the above mentioned fields - (Ex: Sampling etc.)
+
+Contact - <random8dots@gmail.com>
 
 
 

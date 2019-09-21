@@ -1,4 +1,4 @@
-Sitemap: https://pseudorandomdot.github.io/sitemapindex.xml
+Sitemap: https://nudginghead.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: pseudorandomdot.github.io
+Host: nudginghead.github.io

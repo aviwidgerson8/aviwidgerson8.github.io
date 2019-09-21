@@ -892,7 +892,7 @@ body {
 
 h1, .h1 {
   font-size: 1.8rem;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 h2, .h2 {
@@ -926,16 +926,16 @@ h6, .h6 {
 }
 
 a {
-	color: #bf1818;
+	color: #3578E5;
 }
 
 .nav-link {
-	font-size: 1.2rem;
+	font-size: 1.4rem;
 }
 
 .navbar-light .navbar-brand {
 	font-size: 2rem;
-	font-weight: 800;
+	font-weight: 700;
 	color: #000000;
 }
 

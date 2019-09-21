@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1569102009.5483615
+_modified_time = 1569110169.5663538
 _enable_loop = True
 _template_filename = '/home/random8dots/site/lib/python3.5/site-packages/nikola/data/themes/base/templates/comments_helper_isso.tmpl'
 _template_uri = 'comments_helper_isso.tmpl'
@@ -44,9 +44,9 @@ def render_comment_link(context,link,identifier):
 def render_comment_form(context,url,title,identifier):
     __M_caller = context.caller_stack._push_frame()
     try:
+        comment_system_id = context.get('comment_system_id', UNDEFINED)
         lang = context.get('lang', UNDEFINED)
         isso_config = context.get('isso_config', UNDEFINED)
-        comment_system_id = context.get('comment_system_id', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if comment_system_id:
@@ -75,9 +75,9 @@ def render_comment_form(context,url,title,identifier):
 def render_comment_link_script(context):
     __M_caller = context.caller_stack._push_frame()
     try:
-        lang = context.get('lang', UNDEFINED)
-        pagekind = context.get('pagekind', UNDEFINED)
         comment_system_id = context.get('comment_system_id', UNDEFINED)
+        pagekind = context.get('pagekind', UNDEFINED)
+        lang = context.get('lang', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if comment_system_id and 'index' in pagekind:
@@ -95,6 +95,6 @@ def render_comment_link_script(context):
 
 """
 __M_BEGIN_METADATA
-{"uri": "comments_helper_isso.tmpl", "line_map": {"64": 8, "65": 8, "66": 8, "67": 8, "68": 8, "69": 11, "75": 22, "16": 0, "82": 22, "83": 23, "84": 24, "21": 13, "22": 19, "23": 26, "88": 24, "89": 24, "90": 24, "86": 24, "29": 15, "96": 90, "34": 15, "35": 16, "36": 17, "37": 17, "38": 17, "44": 2, "85": 24, "87": 24, "51": 2, "52": 3, "53": 4, "54": 4, "55": 4, "56": 5, "57": 5, "58": 5, "59": 5, "60": 5, "61": 5, "62": 6, "63": 7}, "source_encoding": "utf-8", "filename": "/home/random8dots/site/lib/python3.5/site-packages/nikola/data/themes/base/templates/comments_helper_isso.tmpl"}
+{"line_map": {"64": 8, "65": 8, "66": 8, "67": 8, "68": 8, "69": 11, "75": 22, "16": 0, "82": 22, "83": 23, "84": 24, "21": 13, "22": 19, "23": 26, "88": 24, "89": 24, "90": 24, "86": 24, "29": 15, "96": 90, "34": 15, "35": 16, "36": 17, "37": 17, "38": 17, "44": 2, "85": 24, "87": 24, "51": 2, "52": 3, "53": 4, "54": 4, "55": 4, "56": 5, "57": 5, "58": 5, "59": 5, "60": 5, "61": 5, "62": 6, "63": 7}, "source_encoding": "utf-8", "uri": "comments_helper_isso.tmpl", "filename": "/home/random8dots/site/lib/python3.5/site-packages/nikola/data/themes/base/templates/comments_helper_isso.tmpl"}
 __M_END_METADATA
 """

@@ -16,11 +16,11 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = " arjun "  # (translatable)
+BLOG_AUTHOR = " Hasanth "  # (translatable)
 BLOG_TITLE = " Nudging Head "  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://pseudorandomdot.github.io/"
+SITE_URL = "https://nudginghead.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
@@ -898,9 +898,9 @@ INDEX_TEASERS = True
 # }}                            A literal } (U+007D RIGHT CURLY BRACKET)
 
 # 'Read more...' for the index page, if INDEX_TEASERS is True (translatable)
-INDEX_READ_MORE_LINK = '<p class="more"><a href="{link}" style="color: #1c94e0;">{read_more}..</a></p>'
+INDEX_READ_MORE_LINK = '<p class="more"><a href="{link}" style="color: #bf1818;">{read_more}..</a></p>'
 # 'Read more...' for the feeds, if FEED_TEASERS is True (translatable)
-FEED_READ_MORE_LINK = '<p><a href="{link}" style="color: #1c94e0;">{read_more}…</a> ({min_remaining_read})</p>'
+FEED_READ_MORE_LINK = '<p><a href="{link}" style="color: #bf1818;">{read_more}…</a> ({min_remaining_read})</p>'
 
 # Append a URL query to the FEED_READ_MORE_LINK in Atom and RSS feeds. Advanced
 # option used for traffic source tracking.
