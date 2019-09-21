@@ -69,7 +69,7 @@ a {
 .navbar-light .navbar-brand {
 	font-size: 1.7rem;
 	font-weight: 800;
-	color: #bf1818;
+	color: #000000;
 }
 
 .navbar-light .navbar-nav .show > .nav-link,
@@ -80,7 +80,7 @@ a {
   font-weight: 600; }
 
 .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
-    color: #3897ff; }
+    color: #bf1818; }
 
 .page-link {
   position: relative;
