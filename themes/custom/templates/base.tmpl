@@ -13,7 +13,7 @@ ${template_hooks['extra_head']()}
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css" integrity="sha384-/rXc/GQVaYpyDdyxK+ecHPVYJSN9bmVFBvjA/9eOB+pb3F2w2N6fc5qB9Ew5yIns" crossorigin="anonymous">
 <!-- Menubar -->
 
-<nav class="navbar navbar-expand-md dotscolor dotsborder static-top mb-4 
+<nav class="navbar navbar-expand-md headscolor headsborder static-top mb-4 
 % if theme_config.get('navbar_light'):
 navbar-light bg-light
 % else:
@@ -27,7 +27,7 @@ navbar-dark bg-dark
         %endif
 
         % if show_blog_title:
-            <span id="blog-title"><i class="fas fa-yin-yang"></i>${blog_title|h}</span>
+            <span id="blog-title">${blog_title|h}</span>
         % endif
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">

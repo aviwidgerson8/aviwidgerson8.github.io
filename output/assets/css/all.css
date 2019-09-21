@@ -850,6 +850,11 @@ ul.pager li a {
     border-bottom-left-radius: 0;
 }
 
+body{
+  color: #000;
+}
+
+
 .pagecentre {
 	/*margin-left: 30%;
 	margin-right: 30%;*/
@@ -857,27 +862,37 @@ ul.pager li a {
   max-width: 700px;
 }
 
+.headscolor {
+	background-color: white;
+}
+
+.headsborder {
+	border-style: none;
+	border-bottom: solid;
+	border-width: 2px;
+}
+
 .dotscolor {
-	background-color: cornsilk;
+	background-color: white;
 }
 
 .dotsborder {
-	border-style: solid;
-	border-width: medium;
+	border-style: none;
+	border-width: 2px;
 	border-radius: 8px;
 }
 
 .bg-light {
-  background-color: cornsilk !important;
+  background-color: white !important;
 }
 
 body {
-	font-size: 0.9rem;
+	font-size: 1rem;
 }
 
 h1, .h1 {
   font-size: 1.8rem;
-  font-weight: 800;
+  font-weight: 600;
 }
 
 h2, .h2 {
@@ -906,7 +921,7 @@ h6, .h6 {
 
 #footer{
 	border-top-style: solid;
-	border-width: medium;
+	border-width: 2px;
 	border-color: black;
 }
 
@@ -919,7 +934,7 @@ a {
 }
 
 .navbar-light .navbar-brand {
-	font-size: 1.7rem;
+	font-size: 2rem;
 	font-weight: 800;
 	color: #000000;
 }
@@ -1035,4 +1050,6 @@ font-size:14px;
 width:100px;
 float:left;
 }
+
+
 
