@@ -8,7 +8,7 @@
 .. type: text
 
 
-I am Hasanth Palanchu.
+I am ```"."```
 
 <!-- I am [Hasanth](https://www.goodreads.com/user/show/73112556-hasanth-palanchu).
  -->
