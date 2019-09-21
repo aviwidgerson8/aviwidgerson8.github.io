@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://pseudorandomdot.github.io/</loc>
-  <lastmod>2019-09-07T23:36:00Z</lastmod>
+  <lastmod>2019-09-21T18:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://pseudorandomdot.github.io/2017/</loc>
@@ -38,8 +38,20 @@
   <lastmod>2019-09-07T23:36:00Z</lastmod>
  </url>
  <url>
+  <loc>https://pseudorandomdot.github.io/2019/</loc>
+  <lastmod>2019-09-21T18:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://pseudorandomdot.github.io/2019/09/</loc>
+  <lastmod>2019-09-21T18:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://pseudorandomdot.github.io/2019/09/21/</loc>
+  <lastmod>2019-09-21T18:03:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://pseudorandomdot.github.io/archive.html</loc>
-  <lastmod>2019-09-21T17:56:00Z</lastmod>
+  <lastmod>2019-09-21T18:18:00Z</lastmod>
  </url>
  <url>
   <loc>https://pseudorandomdot.github.io/categories.html</loc>
@@ -75,7 +87,7 @@
  </url>
  <url>
   <loc>https://pseudorandomdot.github.io/index-1.html</loc>
-  <lastmod>2019-09-21T17:56:00Z</lastmod>
+  <lastmod>2019-09-21T18:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://pseudorandomdot.github.io/listings/</loc>
@@ -98,11 +110,23 @@
   <lastmod>2019-09-07T23:36:00Z</lastmod>
  </url>
  <url>
+  <loc>https://pseudorandomdot.github.io/posts/discovering-the-self/</loc>
+  <lastmod>2019-09-07T23:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://pseudorandomdot.github.io/posts/meditations/</loc>
+  <lastmod>2019-09-21T18:03:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://pseudorandomdot.github.io/posts/misc/audiodrivers_installation/</loc>
   <lastmod>2019-09-07T23:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://pseudorandomdot.github.io/posts/misc/deeplearning_setup/</loc>
+  <lastmod>2019-09-07T23:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://pseudorandomdot.github.io/posts/oath-of-allegiance-to-the-self/</loc>
   <lastmod>2019-09-07T23:36:00Z</lastmod>
  </url>
  <url>
