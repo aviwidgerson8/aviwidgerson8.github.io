@@ -139,7 +139,7 @@ NAVIGATION_LINKS = {
     	("/pages/about/","about"),
     	("/","blog"),
         ("/archive.html","archive"),
-        ("/pages/google","google")
+        ("/pages/googlec46605215d0b3771","google")
     ),
 }
 
