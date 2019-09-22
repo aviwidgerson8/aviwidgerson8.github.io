@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1569151887.6854656
+_modified_time = 1569155005.7123914
 _enable_loop = True
-_template_filename = '/home/random8dots/site/lib/python3.5/site-packages/nikola/data/themes/base/templates/tag.tmpl'
+_template_filename = 'themes/custom/templates/tag.tmpl'
 _template_uri = 'tag.tmpl'
 _source_encoding = 'utf-8'
 _exports = ['content', 'extra_head']
@@ -32,19 +32,19 @@ def render_body(context,**pageargs):
         __M_locals = __M_dict_builtin(pageargs=pageargs)
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
-        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
-        date_format = _import_ns.get('date_format', context.get('date_format', UNDEFINED))
-        subcategories = _import_ns.get('subcategories', context.get('subcategories', UNDEFINED))
-        description = _import_ns.get('description', context.get('description', UNDEFINED))
         tag = _import_ns.get('tag', context.get('tag', UNDEFINED))
-        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
         messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
+        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
         def content():
             return render_content(context._locals(__M_locals))
-        title = _import_ns.get('title', context.get('title', UNDEFINED))
-        posts = _import_ns.get('posts', context.get('posts', UNDEFINED))
+        description = _import_ns.get('description', context.get('description', UNDEFINED))
+        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
+        date_format = _import_ns.get('date_format', context.get('date_format', UNDEFINED))
         def extra_head():
             return render_extra_head(context._locals(__M_locals))
+        posts = _import_ns.get('posts', context.get('posts', UNDEFINED))
+        title = _import_ns.get('title', context.get('title', UNDEFINED))
+        subcategories = _import_ns.get('subcategories', context.get('subcategories', UNDEFINED))
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer('\n\n')
@@ -68,17 +68,17 @@ def render_content(context,**pageargs):
     try:
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
-        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
-        date_format = _import_ns.get('date_format', context.get('date_format', UNDEFINED))
-        subcategories = _import_ns.get('subcategories', context.get('subcategories', UNDEFINED))
-        description = _import_ns.get('description', context.get('description', UNDEFINED))
-        tag = _import_ns.get('tag', context.get('tag', UNDEFINED))
         messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
-        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
         def content():
             return render_content(context)
-        title = _import_ns.get('title', context.get('title', UNDEFINED))
+        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
+        description = _import_ns.get('description', context.get('description', UNDEFINED))
+        kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
+        date_format = _import_ns.get('date_format', context.get('date_format', UNDEFINED))
+        subcategories = _import_ns.get('subcategories', context.get('subcategories', UNDEFINED))
         posts = _import_ns.get('posts', context.get('posts', UNDEFINED))
+        title = _import_ns.get('title', context.get('title', UNDEFINED))
+        tag = _import_ns.get('tag', context.get('tag', UNDEFINED))
         __M_writer = context.writer()
         __M_writer('\n<article class="tagpage">\n    <header>\n        <h1>')
         __M_writer(filters.html_escape(str(title)))
@@ -131,9 +131,9 @@ def render_extra_head(context,**pageargs):
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
         feeds_translations = _mako_get_namespace(context, 'feeds_translations')
         kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
-        tag = _import_ns.get('tag', context.get('tag', UNDEFINED))
         def extra_head():
             return render_extra_head(context)
+        tag = _import_ns.get('tag', context.get('tag', UNDEFINED))
         __M_writer = context.writer()
         __M_writer('\n    ')
         __M_writer(str(feeds_translations.head(tag, kind, rss_override=False)))
@@ -145,6 +145,6 @@ def render_extra_head(context,**pageargs):
 
 """
 __M_BEGIN_METADATA
-{"line_map": {"138": 5, "139": 6, "140": 6, "146": 140, "23": 3, "29": 0, "49": 2, "50": 3, "55": 7, "60": 37, "66": 9, "83": 9, "84": 12, "85": 12, "86": 13, "87": 14, "88": 14, "89": 14, "90": 16, "91": 17, "92": 17, "93": 17, "94": 19, "95": 20, "96": 20, "97": 20, "98": 20, "99": 20, "100": 22, "101": 24, "102": 25, "103": 25, "104": 27, "105": 27, "106": 29, "107": 30, "108": 31, "109": 32, "110": 32, "111": 32, "112": 32, "113": 32, "114": 32, "115": 32, "116": 32, "117": 32, "118": 32, "119": 32, "120": 34, "121": 36, "127": 5}, "filename": "/home/random8dots/site/lib/python3.5/site-packages/nikola/data/themes/base/templates/tag.tmpl", "source_encoding": "utf-8", "uri": "tag.tmpl"}
+{"uri": "tag.tmpl", "line_map": {"138": 5, "139": 6, "140": 6, "146": 140, "23": 3, "29": 0, "49": 2, "50": 3, "55": 7, "60": 37, "66": 9, "83": 9, "84": 12, "85": 12, "86": 13, "87": 14, "88": 14, "89": 14, "90": 16, "91": 17, "92": 17, "93": 17, "94": 19, "95": 20, "96": 20, "97": 20, "98": 20, "99": 20, "100": 22, "101": 24, "102": 25, "103": 25, "104": 27, "105": 27, "106": 29, "107": 30, "108": 31, "109": 32, "110": 32, "111": 32, "112": 32, "113": 32, "114": 32, "115": 32, "116": 32, "117": 32, "118": 32, "119": 32, "120": 34, "121": 36, "127": 5}, "filename": "themes/custom/templates/tag.tmpl", "source_encoding": "utf-8"}
 __M_END_METADATA
 """
