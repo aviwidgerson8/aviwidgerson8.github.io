@@ -138,7 +138,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
     	("/pages/about/","about"),
     	("/","blog"),
-        ((("/archive.html","archive"),("/categories.html","categories"),("/tags.html","tags"),),"")
+        ((("/archive.html","archive"),("/categories.html","categories"),("/tags.html","topics"),),"")
     ),
 }
 
@@ -514,7 +514,7 @@ ENABLE_AUTHOR_PAGES = True
 
 # If AUTHOR_PAGES_ARE_INDEXES is set to True, each author's page will contain
 # the posts themselves. If set to False, it will be just a list of links.
-# AUTHOR_PAGES_ARE_INDEXES = False
+AUTHOR_PAGES_ARE_INDEXES = True
 
 # Set descriptions for author pages to make them more interesting. The
 # default is no description. The value is used in the meta description
@@ -872,7 +872,7 @@ SHOW_INDEX_PAGE_NAVIGATION = True
 # paraiso-light, pastie, perldoc, rrt, tango, trac, vim, vs, xcode
 # This list MAY be incomplete since pygments adds styles every now and then.
 # Check with list(pygments.styles.get_all_styles()) in an interpreter.
-CODE_COLOR_SCHEME = 'default'
+CODE_COLOR_SCHEME = 'pastie'
 
 # FAVICONS contains (name, file, size) tuples.
 # Used to create favicon link like this:
