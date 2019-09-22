@@ -905,7 +905,7 @@ body {
 
 h1, .h1 {
   font-size: 1.8rem;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 h2, .h2 {
@@ -936,6 +936,7 @@ h6, .h6 {
 	border-top-style: solid;
 	border-width: 2px;
 	border-color: black;
+  padding-top: 10px;
 }
 
 a {
@@ -949,7 +950,7 @@ a {
 .navbar-light .navbar-brand {
 	font-size: 2rem;
 	font-weight: 700;
-	color: #000000;
+	color: #bf1818;
 }
 
 .navbar-light .navbar-nav .show > .nav-link,
@@ -960,7 +961,7 @@ a {
   font-weight: 600; }
 
 .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
-    color: #bf1818; }
+    color: #000000; }
 
 .page-link {
   position: relative;

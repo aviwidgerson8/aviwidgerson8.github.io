@@ -16,7 +16,7 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = " Hasanth "  # (translatable)
+BLOG_AUTHOR = " Kai Hitawari"  # (translatable)
 BLOG_TITLE = " Nudging Head "  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
@@ -1225,20 +1225,20 @@ INDEX_DISPLAY_POST_COUNT = 2
 # - link
 # - description
 #
-FEEDS = {
-    'goodreads': {
-        'url': 'https://www.goodreads.com/review/list_rss/73112556?key=0cK6aEgs6hGZ6ENtDzxbxHZyZKNlJtFFTfvZKzJdIA4Cg-YG&shelf=read',
-        'template': 'goodreads.tmpl',
-        'output_folder': 'posts/goodreads',
-        'format': 'html',
-        'lang': 'en',
-        'tags': 'books, goodreads',
-        'metadata': {
-            'title': 'title',
-            'date': ['user_read_at', 'user_date_added', 'published'],
-        }
-    }
-}
+# FEEDS = {
+#     'goodreads': {
+#         'url': 'https://www.goodreads.com/review/list_rss/73112556?key=0cK6aEgs6hGZ6ENtDzxbxHZyZKNlJtFFTfvZKzJdIA4Cg-YG&shelf=read',
+#         'template': 'goodreads.tmpl',
+#         'output_folder': 'posts/goodreads',
+#         'format': 'html',
+#         'lang': 'en',
+#         'tags': 'books, goodreads',
+#         'metadata': {
+#             'title': 'title',
+#             'date': ['user_read_at', 'user_date_added', 'published'],
+#         }
+#     }
+# }
 # An example re is the following:
 # '.*\/(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)-(?P<title>.*)\.rst'
 # (Note the '.*\/' in the beginning -- matches source paths relative to conf.py)

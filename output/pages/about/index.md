@@ -7,9 +7,9 @@
 .. description: 
 .. type: text
 
-<img align="right" height="260" src="/images/kai.jpg">
+<img align="right" height="260" src="/images/kai.png">
 
-I am [ Nudging Head](https://www.goodreads.com/user/show/73112556-nudging).
+I am **Kai Hitawari**.
 
 In this blog I write posts on topics related to:
 
@@ -20,12 +20,9 @@ In this blog I write posts on topics related to:
  - <span style="color: red">Psychology</span>; essentially the concepts related to neuro-functioning
  - <span style="color: #bf1818">Statistics</span>; concepts which help to study the above mentioned fields - (Ex: Sampling etc.)
 
+<a class="btn btn-secondary" href="https://www.goodreads.com/user/show/73112556-nudging" role="button">Book Shelf</a>
+
 Contact - <random8dots@gmail.com>
-
-
-
-
-
 
 
 

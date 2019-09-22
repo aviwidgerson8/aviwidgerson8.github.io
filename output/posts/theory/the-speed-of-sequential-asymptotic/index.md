@@ -2,12 +2,14 @@
 .. title: The Speed of Asymptotic Sequential Learning.
 .. slug: 
 .. date: 2018-06-26 19:35:59 UTC+05:30
-.. tags: Economics, Learning Theory
-.. category: Research			
+.. tags: Agents, EconComp
+.. category: Economics			
 .. link: 
 .. description: 
 .. type: text
 .. has_math: True
+
+***
 
 > Review of Journal of Economics Paper from Omer Tamuz's Group
 

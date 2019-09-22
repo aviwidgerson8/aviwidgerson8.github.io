@@ -7,8 +7,11 @@
 .. description: 
 .. type: text
 
+***
 
-I have been contemplating over various experiences of mine with an objective to "think objectively". In the below PDF I have written some lines which would question my functioning of thought processing and reminds to tune the linkages for the best to come.
+I have been contemplating over various experiences of mine with an objective to "think objectively". 
+
+In the below PDF I have written some lines which would question my functioning of thought processing and reminds to tune the linkages for the best to come.
 
 
 <object data="/Meditations.pdf" type="application/pdf" width= 100% height="300px">

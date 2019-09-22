@@ -1,11 +1,13 @@
 .. title: Deep Learning Setup
 .. slug: 
 .. date: 2017-11-23 7:24
-.. tags: Graphics-drivers, Caffe, Learning Theory
-.. category:Installation 
+.. tags: Installation, Code
+.. category: Computer Science 
 .. link: 
 .. description: 
 .. type: text
+
+***
 
 
 
