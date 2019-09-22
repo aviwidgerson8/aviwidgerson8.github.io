@@ -862,6 +862,18 @@ a {
   a:hover {
     color: #3578E5;}
 
+.verticalimage {
+  display: block;
+  max-height: 300px;
+  width: auto;
+}
+
+.horizontalimage {
+  display: block;
+  max-width: 400px;
+  height: auto;
+}
+
 .dropdown-menu {
   right: 0;
   left: auto;

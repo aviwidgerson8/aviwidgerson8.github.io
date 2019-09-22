@@ -11,9 +11,10 @@
 
 I have been contemplating over various experiences of mine with an objective to "think objectively". 
 
-In the below attached PDF I have written some lines which would question my functioning of thought processing and reminds to tune the linkages for the best to come.
+<img class="verticalimage" src="https://i.pinimg.com/564x/75/3d/2e/753d2eab809beaa71ee9f024cc1393c4.jpg"/>
 
-<h1><a href="/pdf/Meditations.pdf"><i class="far fa-file-pdf"></i></a></h1>
+In the below attached PDF I have written a few words to question my attention on thought processing, with these words I want to retune my brain linkages for the best to get delivered.
 
+<h1><a href="/pdf/Meditations.pdf"><i class="far fa-file-pdf"></i></a></h1> 
 
 
