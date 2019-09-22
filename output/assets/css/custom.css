@@ -2,6 +2,12 @@ body{
   color: #000;
 }
 
+.dropdown-menu {
+  right: 0;
+  left: auto;
+  text-align: right;
+  min-width: 8rem;
+}
 
 .pagecentre {
 	/*margin-left: 30%;
