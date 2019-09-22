@@ -5,12 +5,12 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1569150121.4669323
+_modified_time = 1569151184.4584012
 _enable_loop = True
 _template_filename = '/home/random8dots/site/lib/python3.5/site-packages/nikola/data/themes/base/templates/post_helper.tmpl'
 _template_uri = 'post_helper.tmpl'
 _source_encoding = 'utf-8'
-_exports = ['open_graph_metadata', 'html_pager', 'mathjax_script', 'meta_translations', 'html_tags', 'twitter_card_information']
+_exports = ['open_graph_metadata', 'html_pager', 'meta_translations', 'mathjax_script', 'html_tags', 'twitter_card_information']
 
 
 def _mako_get_namespace(context, name):
@@ -43,11 +43,11 @@ def render_body(context,**pageargs):
 def render_open_graph_metadata(context,post):
     __M_caller = context.caller_stack._push_frame()
     try:
-        permalink = context.get('permalink', UNDEFINED)
-        blog_title = context.get('blog_title', UNDEFINED)
-        url_replacer = context.get('url_replacer', UNDEFINED)
-        lang = context.get('lang', UNDEFINED)
         abs_link = context.get('abs_link', UNDEFINED)
+        url_replacer = context.get('url_replacer', UNDEFINED)
+        permalink = context.get('permalink', UNDEFINED)
+        lang = context.get('lang', UNDEFINED)
+        blog_title = context.get('blog_title', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n<meta property="og:site_name" content="')
         __M_writer(filters.html_escape(str(blog_title)))
@@ -113,24 +113,11 @@ def render_html_pager(context,post):
         context.caller_stack._pop_frame()
 
 
-def render_mathjax_script(context,post):
-    __M_caller = context.caller_stack._push_frame()
-    try:
-        math = _mako_get_namespace(context, 'math')
-        __M_writer = context.writer()
-        __M_writer('\n    ')
-        __M_writer(str(math.math_scripts_ifpost(post)))
-        __M_writer('\n')
-        return ''
-    finally:
-        context.caller_stack._pop_frame()
-
-
 def render_meta_translations(context,post):
     __M_caller = context.caller_stack._push_frame()
     try:
-        lang = context.get('lang', UNDEFINED)
         sorted = context.get('sorted', UNDEFINED)
+        lang = context.get('lang', UNDEFINED)
         translations = context.get('translations', UNDEFINED)
         len = context.get('len', UNDEFINED)
         __M_writer = context.writer()
@@ -143,6 +130,19 @@ def render_meta_translations(context,post):
                     __M_writer('" href="')
                     __M_writer(str(post.permalink(langname)))
                     __M_writer('">\n')
+        return ''
+    finally:
+        context.caller_stack._pop_frame()
+
+
+def render_mathjax_script(context,post):
+    __M_caller = context.caller_stack._push_frame()
+    try:
+        math = _mako_get_namespace(context, 'math')
+        __M_writer = context.writer()
+        __M_writer('\n    ')
+        __M_writer(str(math.math_scripts_ifpost(post)))
+        __M_writer('\n')
         return ''
     finally:
         context.caller_stack._pop_frame()
@@ -203,6 +203,6 @@ def render_twitter_card_information(context,post):
 
 """
 __M_BEGIN_METADATA
-{"filename": "/home/random8dots/site/lib/python3.5/site-packages/nikola/data/themes/base/templates/post_helper.tmpl", "source_encoding": "utf-8", "line_map": {"23": 2, "26": 0, "31": 2, "32": 12, "33": 24, "34": 41, "35": 68, "36": 84, "37": 89, "43": 43, "52": 43, "53": 44, "54": 44, "55": 45, "56": 45, "57": 46, "58": 46, "59": 47, "60": 48, "61": 48, "62": 48, "63": 49, "64": 50, "65": 50, "66": 50, "67": 52, "68": 53, "69": 53, "70": 53, "71": 55, "72": 60, "73": 61, "74": 61, "75": 61, "76": 63, "77": 64, "78": 65, "79": 65, "80": 65, "86": 26, "91": 26, "92": 27, "93": 28, "94": 29, "95": 30, "96": 31, "97": 31, "98": 31, "99": 31, "100": 31, "101": 31, "102": 34, "103": 35, "104": 36, "105": 36, "106": 36, "107": 36, "108": 36, "109": 36, "110": 39, "116": 87, "121": 87, "122": 88, "123": 88, "129": 4, "137": 4, "138": 5, "139": 6, "140": 7, "141": 8, "142": 8, "143": 8, "144": 8, "145": 8, "151": 14, "157": 14, "158": 15, "159": 16, "160": 17, "161": 18, "162": 19, "163": 19, "164": 19, "165": 19, "166": 19, "167": 22, "173": 70, "178": 70, "179": 71, "180": 72, "181": 72, "182": 72, "183": 73, "184": 74, "185": 74, "186": 74, "187": 75, "188": 76, "189": 76, "190": 76, "191": 78, "192": 79, "193": 79, "194": 79, "195": 80, "196": 81, "197": 81, "198": 81, "204": 198}, "uri": "post_helper.tmpl"}
+{"uri": "post_helper.tmpl", "source_encoding": "utf-8", "filename": "/home/random8dots/site/lib/python3.5/site-packages/nikola/data/themes/base/templates/post_helper.tmpl", "line_map": {"23": 2, "26": 0, "31": 2, "32": 12, "33": 24, "34": 41, "35": 68, "36": 84, "37": 89, "43": 43, "52": 43, "53": 44, "54": 44, "55": 45, "56": 45, "57": 46, "58": 46, "59": 47, "60": 48, "61": 48, "62": 48, "63": 49, "64": 50, "65": 50, "66": 50, "67": 52, "68": 53, "69": 53, "70": 53, "71": 55, "72": 60, "73": 61, "74": 61, "75": 61, "76": 63, "77": 64, "78": 65, "79": 65, "80": 65, "86": 26, "91": 26, "92": 27, "93": 28, "94": 29, "95": 30, "96": 31, "97": 31, "98": 31, "99": 31, "100": 31, "101": 31, "102": 34, "103": 35, "104": 36, "105": 36, "106": 36, "107": 36, "108": 36, "109": 36, "110": 39, "116": 4, "124": 4, "125": 5, "126": 6, "127": 7, "128": 8, "129": 8, "130": 8, "131": 8, "132": 8, "138": 87, "143": 87, "144": 88, "145": 88, "151": 14, "157": 14, "158": 15, "159": 16, "160": 17, "161": 18, "162": 19, "163": 19, "164": 19, "165": 19, "166": 19, "167": 22, "173": 70, "178": 70, "179": 71, "180": 72, "181": 72, "182": 72, "183": 73, "184": 74, "185": 74, "186": 74, "187": 75, "188": 76, "189": 76, "190": 76, "191": 78, "192": 79, "193": 79, "194": 79, "195": 80, "196": 81, "197": 81, "198": 81, "204": 198}}
 __M_END_METADATA
 """
