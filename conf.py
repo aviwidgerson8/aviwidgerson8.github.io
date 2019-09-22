@@ -16,7 +16,7 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = " Kai Hitawari"  # (translatable)
+BLOG_AUTHOR = " Hasanth"  # (translatable)
 BLOG_TITLE = " Nudging Head "  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
@@ -138,9 +138,10 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
     	("/pages/about/","about"),
     	("/","blog"),
-        ("/archive.html","archive")
+        ((("/archive.html","archive"),("/categories.html","categories"),("/tags.html","tags"),),"")
     ),
 }
+
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
 # although themes may not always support them. (translatable)

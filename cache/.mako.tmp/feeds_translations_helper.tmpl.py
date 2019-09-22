@@ -5,12 +5,12 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1569138390.9350343
+_modified_time = 1569146837.6605654
 _enable_loop = True
 _template_filename = '/home/random8dots/site/lib/python3.5/site-packages/nikola/data/themes/base/templates/feeds_translations_helper.tmpl'
 _template_uri = 'feeds_translations_helper.tmpl'
 _source_encoding = 'utf-8'
-_exports = ['feed_link', '_head_rss', '_head_atom', '_html_translation_link', '_head_feed_link', '_html_feed_link', 'translation_link', 'head']
+_exports = ['_head_rss', 'head', '_head_atom', '_head_feed_link', 'translation_link', 'feed_link', '_html_feed_link', '_html_translation_link']
 
 
 def render_body(context,**pageargs):
@@ -32,63 +32,19 @@ def render_body(context,**pageargs):
         context.caller_stack._pop_frame()
 
 
-def render_feed_link(context,classification,kind):
-    __M_caller = context.caller_stack._push_frame()
-    try:
-        translations = context.get('translations', UNDEFINED)
-        len = context.get('len', UNDEFINED)
-        generate_atom = context.get('generate_atom', UNDEFINED)
-        all_languages = context.get('all_languages', UNDEFINED)
-        sorted = context.get('sorted', UNDEFINED)
-        has_other_languages = context.get('has_other_languages', UNDEFINED)
-        def _html_feed_link(link_type,link_name,link_postfix,classification,kind,language,name=None):
-            return render__html_feed_link(context,link_type,link_name,link_postfix,classification,kind,language,name)
-        generate_rss = context.get('generate_rss', UNDEFINED)
-        __M_writer = context.writer()
-        __M_writer('\n')
-        if generate_atom or generate_rss:
-            if len(translations) > 1 and has_other_languages and kind != 'index':
-                for language, classification, name in all_languages:
-                    __M_writer('                <p class="feedlink">\n')
-                    if generate_atom:
-                        __M_writer('                        ')
-                        __M_writer(str(_html_feed_link('application/atom+xml', 'Atom feed', 'atom', classification, kind, language, name)))
-                        __M_writer('\n')
-                    if generate_rss and kind != 'archive':
-                        __M_writer('                        ')
-                        __M_writer(str(_html_feed_link('application/rss+xml', 'RSS feed', 'rss', classification, kind, language, name)))
-                        __M_writer('\n')
-                    __M_writer('                </p>\n')
-            else:
-                for language in sorted(translations):
-                    __M_writer('                <p class="feedlink">\n')
-                    if generate_atom:
-                        __M_writer('                        ')
-                        __M_writer(str(_html_feed_link('application/atom+xml', 'Atom feed', 'atom', classification, kind, language)))
-                        __M_writer('\n')
-                    if generate_rss and kind != 'archive':
-                        __M_writer('                        ')
-                        __M_writer(str(_html_feed_link('application/rss+xml', 'RSS feed', 'rss', classification, kind, language)))
-                        __M_writer('\n')
-                    __M_writer('                </p>\n')
-        return ''
-    finally:
-        context.caller_stack._pop_frame()
-
-
 def render__head_rss(context,classification=None,kind='index',rss_override=True):
     __M_caller = context.caller_stack._push_frame()
     try:
-        rss_link = context.get('rss_link', UNDEFINED)
-        translations = context.get('translations', UNDEFINED)
-        def _head_feed_link(link_type,link_name,link_postfix,classification,kind,language):
-            return render__head_feed_link(context,link_type,link_name,link_postfix,classification,kind,language)
         len = context.get('len', UNDEFINED)
         all_languages = context.get('all_languages', UNDEFINED)
-        sorted = context.get('sorted', UNDEFINED)
+        translations = context.get('translations', UNDEFINED)
         has_other_languages = context.get('has_other_languages', UNDEFINED)
+        sorted = context.get('sorted', UNDEFINED)
         _link = context.get('_link', UNDEFINED)
+        rss_link = context.get('rss_link', UNDEFINED)
         generate_rss = context.get('generate_rss', UNDEFINED)
+        def _head_feed_link(link_type,link_name,link_postfix,classification,kind,language):
+            return render__head_feed_link(context,link_type,link_name,link_postfix,classification,kind,language)
         __M_writer = context.writer()
         __M_writer('\n')
         if rss_link and rss_override:
@@ -124,18 +80,48 @@ def render__head_rss(context,classification=None,kind='index',rss_override=True)
         context.caller_stack._pop_frame()
 
 
+def render_head(context,classification=None,kind='index',feeds=True,other=True,rss_override=True,has_no_feeds=False):
+    __M_caller = context.caller_stack._push_frame()
+    try:
+        def _head_rss(classification=None,kind='index',rss_override=True):
+            return render__head_rss(context,classification,kind,rss_override)
+        other_languages = context.get('other_languages', UNDEFINED)
+        def _head_atom(classification=None,kind='index'):
+            return render__head_atom(context,classification,kind)
+        _link = context.get('_link', UNDEFINED)
+        has_other_languages = context.get('has_other_languages', UNDEFINED)
+        __M_writer = context.writer()
+        __M_writer('\n')
+        if feeds and not has_no_feeds:
+            __M_writer('        ')
+            __M_writer(str(_head_rss(classification, 'index' if (kind == 'archive' and rss_override) else kind, rss_override)))
+            __M_writer('\n        ')
+            __M_writer(str(_head_atom(classification, kind)))
+            __M_writer('\n')
+        if other and has_other_languages and other_languages:
+            for language, classification, _ in other_languages:
+                __M_writer('            <link rel="alternate" hreflang="')
+                __M_writer(str(language))
+                __M_writer('" href="')
+                __M_writer(str(_link(kind, classification, language)))
+                __M_writer('">\n')
+        return ''
+    finally:
+        context.caller_stack._pop_frame()
+
+
 def render__head_atom(context,classification=None,kind='index'):
     __M_caller = context.caller_stack._push_frame()
     try:
-        translations = context.get('translations', UNDEFINED)
-        def _head_feed_link(link_type,link_name,link_postfix,classification,kind,language):
-            return render__head_feed_link(context,link_type,link_name,link_postfix,classification,kind,language)
         len = context.get('len', UNDEFINED)
         generate_atom = context.get('generate_atom', UNDEFINED)
         all_languages = context.get('all_languages', UNDEFINED)
-        sorted = context.get('sorted', UNDEFINED)
+        translations = context.get('translations', UNDEFINED)
         has_other_languages = context.get('has_other_languages', UNDEFINED)
+        sorted = context.get('sorted', UNDEFINED)
         _link = context.get('_link', UNDEFINED)
+        def _head_feed_link(link_type,link_name,link_postfix,classification,kind,language):
+            return render__head_feed_link(context,link_type,link_name,link_postfix,classification,kind,language)
         __M_writer = context.writer()
         __M_writer('\n')
         if generate_atom:
@@ -162,36 +148,6 @@ def render__head_atom(context,classification=None,kind='index'):
                         __M_writer('                    ')
                         __M_writer(str(_head_feed_link('application/atom+xml', 'Atom', 'atom', classification, 'index', language)))
                         __M_writer('\n')
-        return ''
-    finally:
-        context.caller_stack._pop_frame()
-
-
-def render__html_translation_link(context,classification,kind,language,name=None):
-    __M_caller = context.caller_stack._push_frame()
-    try:
-        _link = context.get('_link', UNDEFINED)
-        messages = context.get('messages', UNDEFINED)
-        __M_writer = context.writer()
-        __M_writer('\n')
-        if name and kind != "archive" and kind != "author":
-            __M_writer('        <a href="')
-            __M_writer(str(_link(kind, classification, language)))
-            __M_writer('" hreflang="')
-            __M_writer(str(language))
-            __M_writer('" rel="alternate">')
-            __M_writer(str(messages("LANGUAGE", language)))
-            __M_writer(' (')
-            __M_writer(filters.html_escape(str(name)))
-            __M_writer(')</a>\n')
-        else:
-            __M_writer('        <a href="')
-            __M_writer(str(_link(kind, classification, language)))
-            __M_writer('" hreflang="')
-            __M_writer(str(language))
-            __M_writer('" rel="alternate">')
-            __M_writer(str(messages("LANGUAGE", language)))
-            __M_writer('</a>\n')
         return ''
     finally:
         context.caller_stack._pop_frame()
@@ -232,13 +188,81 @@ def render__head_feed_link(context,link_type,link_name,link_postfix,classificati
         context.caller_stack._pop_frame()
 
 
-def render__html_feed_link(context,link_type,link_name,link_postfix,classification,kind,language,name=None):
+def render_translation_link(context,kind):
+    __M_caller = context.caller_stack._push_frame()
+    try:
+        other_languages = context.get('other_languages', UNDEFINED)
+        def _html_translation_link(classification,kind,language,name=None):
+            return render__html_translation_link(context,classification,kind,language,name)
+        messages = context.get('messages', UNDEFINED)
+        has_other_languages = context.get('has_other_languages', UNDEFINED)
+        __M_writer = context.writer()
+        __M_writer('\n')
+        if has_other_languages and other_languages:
+            __M_writer('        <div class="translationslist translations">\n            <h3 class="translationslist-intro">')
+            __M_writer(str(messages("Also available in:")))
+            __M_writer('</h3>\n')
+            for language, classification, name in other_languages:
+                __M_writer('            <p>')
+                __M_writer(str(_html_translation_link(classification, kind, language, name)))
+                __M_writer('</p>\n')
+            __M_writer('        </div>\n')
+        return ''
+    finally:
+        context.caller_stack._pop_frame()
+
+
+def render_feed_link(context,classification,kind):
     __M_caller = context.caller_stack._push_frame()
     try:
         len = context.get('len', UNDEFINED)
+        generate_atom = context.get('generate_atom', UNDEFINED)
+        all_languages = context.get('all_languages', UNDEFINED)
+        translations = context.get('translations', UNDEFINED)
+        has_other_languages = context.get('has_other_languages', UNDEFINED)
+        sorted = context.get('sorted', UNDEFINED)
+        generate_rss = context.get('generate_rss', UNDEFINED)
+        def _html_feed_link(link_type,link_name,link_postfix,classification,kind,language,name=None):
+            return render__html_feed_link(context,link_type,link_name,link_postfix,classification,kind,language,name)
+        __M_writer = context.writer()
+        __M_writer('\n')
+        if generate_atom or generate_rss:
+            if len(translations) > 1 and has_other_languages and kind != 'index':
+                for language, classification, name in all_languages:
+                    __M_writer('                <p class="feedlink">\n')
+                    if generate_atom:
+                        __M_writer('                        ')
+                        __M_writer(str(_html_feed_link('application/atom+xml', 'Atom feed', 'atom', classification, kind, language, name)))
+                        __M_writer('\n')
+                    if generate_rss and kind != 'archive':
+                        __M_writer('                        ')
+                        __M_writer(str(_html_feed_link('application/rss+xml', 'RSS feed', 'rss', classification, kind, language, name)))
+                        __M_writer('\n')
+                    __M_writer('                </p>\n')
+            else:
+                for language in sorted(translations):
+                    __M_writer('                <p class="feedlink">\n')
+                    if generate_atom:
+                        __M_writer('                        ')
+                        __M_writer(str(_html_feed_link('application/atom+xml', 'Atom feed', 'atom', classification, kind, language)))
+                        __M_writer('\n')
+                    if generate_rss and kind != 'archive':
+                        __M_writer('                        ')
+                        __M_writer(str(_html_feed_link('application/rss+xml', 'RSS feed', 'rss', classification, kind, language)))
+                        __M_writer('\n')
+                    __M_writer('                </p>\n')
+        return ''
+    finally:
+        context.caller_stack._pop_frame()
+
+
+def render__html_feed_link(context,link_type,link_name,link_postfix,classification,kind,language,name=None):
+    __M_caller = context.caller_stack._push_frame()
+    try:
+        messages = context.get('messages', UNDEFINED)
+        len = context.get('len', UNDEFINED)
         _link = context.get('_link', UNDEFINED)
         translations = context.get('translations', UNDEFINED)
-        messages = context.get('messages', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if len(translations) > 1:
@@ -296,55 +320,31 @@ def render__html_feed_link(context,link_type,link_name,link_postfix,classificati
         context.caller_stack._pop_frame()
 
 
-def render_translation_link(context,kind):
+def render__html_translation_link(context,classification,kind,language,name=None):
     __M_caller = context.caller_stack._push_frame()
     try:
-        has_other_languages = context.get('has_other_languages', UNDEFINED)
-        other_languages = context.get('other_languages', UNDEFINED)
-        def _html_translation_link(classification,kind,language,name=None):
-            return render__html_translation_link(context,classification,kind,language,name)
+        _link = context.get('_link', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
-        if has_other_languages and other_languages:
-            __M_writer('        <div class="translationslist translations">\n            <h3 class="translationslist-intro">')
-            __M_writer(str(messages("Also available in:")))
-            __M_writer('</h3>\n')
-            for language, classification, name in other_languages:
-                __M_writer('            <p>')
-                __M_writer(str(_html_translation_link(classification, kind, language, name)))
-                __M_writer('</p>\n')
-            __M_writer('        </div>\n')
-        return ''
-    finally:
-        context.caller_stack._pop_frame()
-
-
-def render_head(context,classification=None,kind='index',feeds=True,other=True,rss_override=True,has_no_feeds=False):
-    __M_caller = context.caller_stack._push_frame()
-    try:
-        has_other_languages = context.get('has_other_languages', UNDEFINED)
-        other_languages = context.get('other_languages', UNDEFINED)
-        _link = context.get('_link', UNDEFINED)
-        def _head_rss(classification=None,kind='index',rss_override=True):
-            return render__head_rss(context,classification,kind,rss_override)
-        def _head_atom(classification=None,kind='index'):
-            return render__head_atom(context,classification,kind)
-        __M_writer = context.writer()
-        __M_writer('\n')
-        if feeds and not has_no_feeds:
-            __M_writer('        ')
-            __M_writer(str(_head_rss(classification, 'index' if (kind == 'archive' and rss_override) else kind, rss_override)))
-            __M_writer('\n        ')
-            __M_writer(str(_head_atom(classification, kind)))
-            __M_writer('\n')
-        if other and has_other_languages and other_languages:
-            for language, classification, _ in other_languages:
-                __M_writer('            <link rel="alternate" hreflang="')
-                __M_writer(str(language))
-                __M_writer('" href="')
-                __M_writer(str(_link(kind, classification, language)))
-                __M_writer('">\n')
+        if name and kind != "archive" and kind != "author":
+            __M_writer('        <a href="')
+            __M_writer(str(_link(kind, classification, language)))
+            __M_writer('" hreflang="')
+            __M_writer(str(language))
+            __M_writer('" rel="alternate">')
+            __M_writer(str(messages("LANGUAGE", language)))
+            __M_writer(' (')
+            __M_writer(filters.html_escape(str(name)))
+            __M_writer(')</a>\n')
+        else:
+            __M_writer('        <a href="')
+            __M_writer(str(_link(kind, classification, language)))
+            __M_writer('" hreflang="')
+            __M_writer(str(language))
+            __M_writer('" rel="alternate">')
+            __M_writer(str(messages("LANGUAGE", language)))
+            __M_writer('</a>\n')
         return ''
     finally:
         context.caller_stack._pop_frame()
@@ -352,6 +352,6 @@ def render_head(context,classification=None,kind='index',feeds=True,other=True,r
 
 """
 __M_BEGIN_METADATA
-{"line_map": {"16": 0, "21": 2, "22": 9, "23": 25, "24": 33, "25": 54, "26": 72, "27": 85, "28": 113, "29": 124, "35": 87, "48": 87, "49": 88, "50": 89, "51": 90, "52": 91, "53": 92, "54": 93, "55": 93, "56": 93, "57": 95, "58": 96, "59": 96, "60": 96, "61": 98, "62": 100, "63": 101, "64": 102, "65": 103, "66": 104, "67": 104, "68": 104, "69": 106, "70": 107, "71": 107, "72": 107, "73": 109, "79": 35, "93": 35, "94": 36, "95": 37, "96": 37, "97": 37, "98": 39, "99": 40, "100": 41, "101": 42, "102": 42, "103": 42, "104": 42, "105": 42, "106": 42, "107": 42, "108": 42, "109": 42, "110": 42, "111": 42, "112": 44, "113": 45, "114": 46, "115": 47, "116": 47, "117": 47, "118": 48, "119": 49, "120": 49, "121": 49, "127": 56, "140": 56, "141": 57, "142": 58, "143": 59, "144": 60, "145": 60, "146": 60, "147": 60, "148": 60, "149": 60, "150": 60, "151": 60, "152": 60, "153": 60, "154": 60, "155": 62, "156": 63, "157": 64, "158": 65, "159": 65, "160": 65, "161": 66, "162": 67, "163": 67, "164": 67, "170": 27, "176": 27, "177": 28, "178": 29, "179": 29, "180": 29, "181": 29, "182": 29, "183": 29, "184": 29, "185": 29, "186": 29, "187": 30, "188": 31, "189": 31, "190": 31, "191": 31, "192": 31, "193": 31, "194": 31, "200": 3, "207": 3, "208": 4, "209": 5, "210": 5, "211": 5, "212": 5, "213": 5, "214": 5, "215": 5, "216": 5, "217": 5, "218": 5, "219": 5, "220": 6, "221": 7, "222": 7, "223": 7, "224": 7, "225": 7, "226": 7, "227": 7, "228": 7, "229": 7, "235": 11, "243": 11, "244": 12, "245": 13, "246": 14, "247": 14, "248": 14, "249": 14, "250": 14, "251": 14, "252": 14, "253": 14, "254": 14, "255": 14, "256": 14, "257": 14, "258": 14, "259": 15, "260": 16, "261": 16, "262": 16, "263": 16, "264": 16, "265": 16, "266": 16, "267": 16, "268": 16, "269": 16, "270": 16, "271": 18, "272": 19, "273": 20, "274": 20, "275": 20, "276": 20, "277": 20, "278": 20, "279": 20, "280": 20, "281": 20, "282": 20, "283": 20, "284": 21, "285": 22, "286": 22, "287": 22, "288": 22, "289": 22, "290": 22, "291": 22, "292": 22, "293": 22, "299": 115, "308": 115, "309": 116, "310": 117, "311": 118, "312": 118, "313": 119, "314": 120, "315": 120, "316": 120, "317": 122, "323": 75, "334": 75, "335": 76, "336": 77, "337": 77, "338": 77, "339": 78, "340": 78, "341": 80, "342": 81, "343": 82, "344": 82, "345": 82, "346": 82, "347": 82, "353": 347}, "uri": "feeds_translations_helper.tmpl", "source_encoding": "utf-8", "filename": "/home/random8dots/site/lib/python3.5/site-packages/nikola/data/themes/base/templates/feeds_translations_helper.tmpl"}
+{"filename": "/home/random8dots/site/lib/python3.5/site-packages/nikola/data/themes/base/templates/feeds_translations_helper.tmpl", "line_map": {"16": 0, "21": 2, "22": 9, "23": 25, "24": 33, "25": 54, "26": 72, "27": 85, "28": 113, "29": 124, "35": 35, "49": 35, "50": 36, "51": 37, "52": 37, "53": 37, "54": 39, "55": 40, "56": 41, "57": 42, "58": 42, "59": 42, "60": 42, "61": 42, "62": 42, "63": 42, "64": 42, "65": 42, "66": 42, "67": 42, "68": 44, "69": 45, "70": 46, "71": 47, "72": 47, "73": 47, "74": 48, "75": 49, "76": 49, "77": 49, "83": 75, "94": 75, "95": 76, "96": 77, "97": 77, "98": 77, "99": 78, "100": 78, "101": 80, "102": 81, "103": 82, "104": 82, "105": 82, "106": 82, "107": 82, "113": 56, "126": 56, "127": 57, "128": 58, "129": 59, "130": 60, "131": 60, "132": 60, "133": 60, "134": 60, "135": 60, "136": 60, "137": 60, "138": 60, "139": 60, "140": 60, "141": 62, "142": 63, "143": 64, "144": 65, "145": 65, "146": 65, "147": 66, "148": 67, "149": 67, "150": 67, "156": 3, "163": 3, "164": 4, "165": 5, "166": 5, "167": 5, "168": 5, "169": 5, "170": 5, "171": 5, "172": 5, "173": 5, "174": 5, "175": 5, "176": 6, "177": 7, "178": 7, "179": 7, "180": 7, "181": 7, "182": 7, "183": 7, "184": 7, "185": 7, "191": 115, "200": 115, "201": 116, "202": 117, "203": 118, "204": 118, "205": 119, "206": 120, "207": 120, "208": 120, "209": 122, "215": 87, "228": 87, "229": 88, "230": 89, "231": 90, "232": 91, "233": 92, "234": 93, "235": 93, "236": 93, "237": 95, "238": 96, "239": 96, "240": 96, "241": 98, "242": 100, "243": 101, "244": 102, "245": 103, "246": 104, "247": 104, "248": 104, "249": 106, "250": 107, "251": 107, "252": 107, "253": 109, "259": 11, "267": 11, "268": 12, "269": 13, "270": 14, "271": 14, "272": 14, "273": 14, "274": 14, "275": 14, "276": 14, "277": 14, "278": 14, "279": 14, "280": 14, "281": 14, "282": 14, "283": 15, "284": 16, "285": 16, "286": 16, "287": 16, "288": 16, "289": 16, "290": 16, "291": 16, "292": 16, "293": 16, "294": 16, "295": 18, "296": 19, "297": 20, "298": 20, "299": 20, "300": 20, "301": 20, "302": 20, "303": 20, "304": 20, "305": 20, "306": 20, "307": 20, "308": 21, "309": 22, "310": 22, "311": 22, "312": 22, "313": 22, "314": 22, "315": 22, "316": 22, "317": 22, "323": 27, "329": 27, "330": 28, "331": 29, "332": 29, "333": 29, "334": 29, "335": 29, "336": 29, "337": 29, "338": 29, "339": 29, "340": 30, "341": 31, "342": 31, "343": 31, "344": 31, "345": 31, "346": 31, "347": 31, "353": 347}, "source_encoding": "utf-8", "uri": "feeds_translations_helper.tmpl"}
 __M_END_METADATA
 """

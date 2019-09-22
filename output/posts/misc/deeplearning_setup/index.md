@@ -1,8 +1,8 @@
 .. title: Deep Learning Setup
 .. slug: 
 .. date: 2017-11-23 7:24
-.. tags: Installation, Code
-.. category: Computer Science 
+.. tags: installation, code
+.. category: computer science 
 .. link: 
 .. description: 
 .. type: text

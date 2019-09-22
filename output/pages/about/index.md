@@ -9,16 +9,16 @@
 
 <img align="right" height="260" src="/images/kai.png">
 
-I am **Kai Hitawari**.
+I am **Hasanth**.
 
 In this blog I write posts on topics related to:
 
- - <span style="color: #3578E5">Theoretical aspects of Computer Science</span> - (Graph Theory, Machine Learning etc.)
- - <span style="color: #3578E5">Pure Mathematical</span> topics like - (Combinatorics, Geometry etc.)
- - <span style="color: green">Economics</span>; including concepts related with computational sciences
- - <span style="color: green">Public Policy</span> 
- - <span style="color: red">Psychology</span>; essentially the concepts related to neuro-functioning
- - <span style="color: #bf1818">Statistics</span>; concepts which help to study the above mentioned fields - (Ex: Sampling etc.)
+ - <a href="/categories/cat_theory/" style="color: #3578E5">Theoretical</a> aspects of <a href="/categories/cat_computer-science/" style="color: #bf1818">Computer Science</a> - (Graph Theory, Machine Learning, Programming etc.)
+ - <a href="/categories/cat_maths/" style="color: #3578E5">Pure Mathematics</a> topics like - (Combinatorics, Geometry etc.)
+ - <a href="/categories/cat_economics/" style="color: green">Economics</a>; including concepts related with computational sciences
+ - <a href="/categories/cat_policy/" style="color: green">Public Policy</a> 
+ - <a href="/categories/cat_psychology/" style="color: red">Psychology</a> ; essentially the concepts related to neuro-functioning
+ - <a href="/categories/cat_statistics/" style="color: #bf1818">Statistics</a>; concepts which help to study the above mentioned fields - (Ex: Sampling etc.)
 
 <a class="btn btn-secondary" href="https://www.goodreads.com/user/show/73112556-nudging" role="button">Book Shelf</a>
 

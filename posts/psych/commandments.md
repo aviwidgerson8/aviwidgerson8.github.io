@@ -1,8 +1,8 @@
 .. title: Commandments
 .. slug: commandments
 .. date: 2019-09-21 23:27:08 UTC+05:30
-.. tags: Meditations
-.. category: Pscyhology
+.. tags: meditations
+.. category: psychology
 .. link: 
 .. description: 
 .. type: text

@@ -7,70 +7,42 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://nudginghead.github.io/categories/agents.xml</loc>
-  <lastmod>2019-09-22T07:46:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://nudginghead.github.io/categories/audio-driver.xml</loc>
-  <lastmod>2019-09-22T04:50:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://nudginghead.github.io/categories/caffe.xml</loc>
-  <lastmod>2019-09-22T04:50:00Z</lastmod>
+  <lastmod>2019-09-22T10:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://nudginghead.github.io/categories/cat_computer-science.xml</loc>
-  <lastmod>2019-09-22T07:46:00Z</lastmod>
+  <lastmod>2019-09-22T10:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://nudginghead.github.io/categories/cat_economics.xml</loc>
-  <lastmod>2019-09-22T07:46:00Z</lastmod>
+  <lastmod>2019-09-22T10:07:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://nudginghead.github.io/categories/cat_installation.xml</loc>
-  <lastmod>2019-09-22T04:50:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://nudginghead.github.io/categories/cat_pscyhology.xml</loc>
-  <lastmod>2019-09-22T07:46:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://nudginghead.github.io/categories/cat_research.xml</loc>
-  <lastmod>2019-09-22T04:50:00Z</lastmod>
+  <loc>https://nudginghead.github.io/categories/cat_psychology.xml</loc>
+  <lastmod>2019-09-22T10:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://nudginghead.github.io/categories/code.xml</loc>
-  <lastmod>2019-09-22T07:46:00Z</lastmod>
+  <lastmod>2019-09-22T10:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://nudginghead.github.io/categories/econcomp.xml</loc>
-  <lastmod>2019-09-22T07:46:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://nudginghead.github.io/categories/economics.xml</loc>
-  <lastmod>2019-09-22T04:50:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://nudginghead.github.io/categories/graphics-drivers.xml</loc>
-  <lastmod>2019-09-22T04:50:00Z</lastmod>
+  <lastmod>2019-09-22T10:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://nudginghead.github.io/categories/installation.xml</loc>
-  <lastmod>2019-09-22T07:46:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://nudginghead.github.io/categories/learning-theory.xml</loc>
-  <lastmod>2019-09-22T07:16:00Z</lastmod>
+  <lastmod>2019-09-22T10:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://nudginghead.github.io/categories/meditations.xml</loc>
-  <lastmod>2019-09-22T07:46:00Z</lastmod>
+  <lastmod>2019-09-22T10:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://nudginghead.github.io/rss.xml</loc>
-  <lastmod>2019-09-22T07:46:00Z</lastmod>
+  <lastmod>2019-09-22T10:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://nudginghead.github.io/sitemap.xml</loc>
-  <lastmod>2019-09-22T07:46:00Z</lastmod>
+  <lastmod>2019-09-22T10:07:00Z</lastmod>
  </sitemap>
 </sitemapindex>

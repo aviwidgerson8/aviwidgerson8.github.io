@@ -2,8 +2,8 @@
 .. title: The Speed of Asymptotic Sequential Learning.
 .. slug: 
 .. date: 2018-06-26 19:35:59 UTC+05:30
-.. tags: Agents, EconComp
-.. category: Economics			
+.. tags: agents, econcomp
+.. category: economics			
 .. link: 
 .. description: 
 .. type: text

@@ -2,8 +2,8 @@
 .. title: Audio Drivers Installion
 .. slug: 
 .. date: 2017-11-17 11:06 
-.. tags: Installation, Code
-.. category: Computer Science
+.. tags: installation, code
+.. category: computer science
 .. link: 
 .. description: 
 .. type: text
