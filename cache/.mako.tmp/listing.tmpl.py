@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1569151184.8374984
+_modified_time = 1569151887.9506252
 _enable_loop = True
 _template_filename = '/home/random8dots/site/lib/python3.5/site-packages/nikola/data/themes/bootstrap4/templates/listing.tmpl'
 _template_uri = 'listing.tmpl'
@@ -32,17 +32,17 @@ def render_body(context,**pageargs):
         __M_locals = __M_dict_builtin(pageargs=pageargs)
         def sourcelink():
             return render_sourcelink(context._locals(__M_locals))
-        folders = context.get('folders', UNDEFINED)
-        title = context.get('title', UNDEFINED)
-        ui = _mako_get_namespace(context, 'ui')
-        code = context.get('code', UNDEFINED)
-        show_sourcelink = context.get('show_sourcelink', UNDEFINED)
-        source_link = context.get('source_link', UNDEFINED)
-        crumbs = context.get('crumbs', UNDEFINED)
         files = context.get('files', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
+        ui = _mako_get_namespace(context, 'ui')
         def content():
             return render_content(context._locals(__M_locals))
-        messages = context.get('messages', UNDEFINED)
+        code = context.get('code', UNDEFINED)
+        crumbs = context.get('crumbs', UNDEFINED)
+        source_link = context.get('source_link', UNDEFINED)
+        folders = context.get('folders', UNDEFINED)
+        show_sourcelink = context.get('show_sourcelink', UNDEFINED)
+        title = context.get('title', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer('\n')
@@ -64,10 +64,10 @@ def render_body(context,**pageargs):
 def render_sourcelink(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
+        ui = _mako_get_namespace(context, 'ui')
         def sourcelink():
             return render_sourcelink(context)
         show_sourcelink = context.get('show_sourcelink', UNDEFINED)
-        ui = _mako_get_namespace(context, 'ui')
         source_link = context.get('source_link', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
@@ -83,16 +83,16 @@ def render_sourcelink(context,**pageargs):
 def render_content(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
-        folders = context.get('folders', UNDEFINED)
-        title = context.get('title', UNDEFINED)
-        ui = _mako_get_namespace(context, 'ui')
-        code = context.get('code', UNDEFINED)
-        source_link = context.get('source_link', UNDEFINED)
-        crumbs = context.get('crumbs', UNDEFINED)
         files = context.get('files', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
+        ui = _mako_get_namespace(context, 'ui')
         def content():
             return render_content(context)
-        messages = context.get('messages', UNDEFINED)
+        code = context.get('code', UNDEFINED)
+        crumbs = context.get('crumbs', UNDEFINED)
+        source_link = context.get('source_link', UNDEFINED)
+        folders = context.get('folders', UNDEFINED)
+        title = context.get('title', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         __M_writer(str(ui.breadcrumbs(crumbs)))
@@ -132,6 +132,6 @@ def render_content(context,**pageargs):
 
 """
 __M_BEGIN_METADATA
-{"uri": "listing.tmpl", "source_encoding": "utf-8", "filename": "/home/random8dots/site/lib/python3.5/site-packages/nikola/data/themes/bootstrap4/templates/listing.tmpl", "line_map": {"133": 127, "23": 3, "29": 0, "47": 2, "48": 3, "53": 24, "58": 30, "64": 26, "73": 26, "74": 27, "75": 28, "76": 28, "77": 28, "83": 4, "97": 4, "98": 5, "99": 5, "100": 6, "101": 7, "102": 8, "103": 9, "104": 9, "105": 9, "106": 9, "107": 9, "108": 11, "109": 12, "110": 12, "111": 12, "112": 12, "113": 12, "114": 14, "115": 16, "116": 17, "117": 17, "118": 17, "119": 18, "120": 19, "121": 19, "122": 19, "123": 19, "124": 19, "125": 21, "126": 22, "127": 22}}
+{"line_map": {"133": 127, "23": 3, "29": 0, "47": 2, "48": 3, "53": 24, "58": 30, "64": 26, "73": 26, "74": 27, "75": 28, "76": 28, "77": 28, "83": 4, "97": 4, "98": 5, "99": 5, "100": 6, "101": 7, "102": 8, "103": 9, "104": 9, "105": 9, "106": 9, "107": 9, "108": 11, "109": 12, "110": 12, "111": 12, "112": 12, "113": 12, "114": 14, "115": 16, "116": 17, "117": 17, "118": 17, "119": 18, "120": 19, "121": 19, "122": 19, "123": 19, "124": 19, "125": 21, "126": 22, "127": 22}, "filename": "/home/random8dots/site/lib/python3.5/site-packages/nikola/data/themes/bootstrap4/templates/listing.tmpl", "source_encoding": "utf-8", "uri": "listing.tmpl"}
 __M_END_METADATA
 """

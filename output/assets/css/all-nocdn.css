@@ -855,6 +855,13 @@ body{
   color: #000;
 }
 
+a {
+  color: #bf1818;
+  text-decoration: none;
+  background-color: transparent; }
+  a:hover {
+    color: #3578E5;}
+
 .dropdown-menu {
   right: 0;
   left: auto;

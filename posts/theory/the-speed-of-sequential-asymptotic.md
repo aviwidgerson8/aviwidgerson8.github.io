@@ -17,4 +17,5 @@ In brief this paper tries to focus on the convergance rate and its dependencies 
 <!-- TEASER_END -->
 They were also emphasizing on the sublinerity of the actions influence. Sublinearity means \\(\lim\limits_{n \to \infty} \frac{x_n}{n}\\).
 
-[[PDF]](http://tamuz.caltech.edu/papers/cascades.pdf)
+<h1><a href="http://tamuz.caltech.edu/papers/cascades.pdf"><i class="far fa-file-pdf"></i></a></h1>
+
