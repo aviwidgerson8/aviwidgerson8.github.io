@@ -51,11 +51,11 @@
  </url>
  <url>
   <loc>https://nudginghead.github.io/archive.html</loc>
-  <lastmod>2019-09-22T00:12:00Z</lastmod>
+  <lastmod>2019-09-22T04:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://nudginghead.github.io/categories.html</loc>
-  <lastmod>2019-09-22T00:12:00Z</lastmod>
+  <lastmod>2019-09-22T04:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://nudginghead.github.io/categories/audio-driver/</loc>
@@ -95,7 +95,7 @@
  </url>
  <url>
   <loc>https://nudginghead.github.io/index-1.html</loc>
-  <lastmod>2019-09-22T00:12:00Z</lastmod>
+  <lastmod>2019-09-22T04:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://nudginghead.github.io/listings/</loc>
@@ -104,6 +104,10 @@
  <url>
   <loc>https://nudginghead.github.io/pages/about/</loc>
   <lastmod>2019-09-22T00:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nudginghead.github.io/pages/google/</loc>
+  <lastmod>2019-09-22T04:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://nudginghead.github.io/pages/googlec46605215d0b3771/</loc>
@@ -135,6 +139,6 @@
  </url>
  <url>
   <loc>https://nudginghead.github.io/tags.html</loc>
-  <lastmod>2019-09-22T00:12:00Z</lastmod>
+  <lastmod>2019-09-22T04:33:00Z</lastmod>
  </url>
 </urlset>
