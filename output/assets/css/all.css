@@ -893,7 +893,7 @@ a {
 .headsborder {
 	border-style: none;
 	border-bottom: solid;
-	border-width: 2px;
+	padding-bottom: 1rem;
 }
 
 .dotscolor {
@@ -915,32 +915,28 @@ body {
 }
 
 h1, .h1 {
-  font-size: 1.8rem;
+  font-size: 1.9rem;
   font-weight: 600;
 }
 
 h2, .h2 {
-  font-size: 1.6rem;
+  font-size: 1.7rem;
 }
 
 h3, .h3 {
-  font-size: 1.3rem;
+  font-size: 1.4rem;
 }
 
 h4, .h4 {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 
 h5, .h5 {
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 
 h6, .h6 {
   font-size: 0.8rem;
-}
-
-.spacer{
-	padding-top: 10px;
 }
 
 #footer{
@@ -955,11 +951,11 @@ a {
 }
 
 .nav-link {
-	font-size: 1.4rem;
+	font-size: 1.65rem;
 }
 
 .navbar-light .navbar-brand {
-	font-size: 2rem;
+	font-size: 2.1rem;
 	font-weight: 700;
 	color: #bf1818;
 }
@@ -1076,5 +1072,5 @@ width:100px;
 float:left;
 }
 
-
-
+.navbar {
+  padding: 0.85rem 1rem; }

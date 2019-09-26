@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1569162028.121835
+_modified_time = 1569467374.6027057
 _enable_loop = True
-_template_filename = '/home/random8dots/site/lib/python3.5/site-packages/nikola/data/themes/bootstrap4/templates/index_helper.tmpl'
+_template_filename = '/home/luffy/nikola/lib/python3.5/site-packages/nikola/data/themes/bootstrap4/templates/index_helper.tmpl'
 _template_uri = 'index_helper.tmpl'
 _source_encoding = 'utf-8'
 _exports = ['html_pager']
@@ -54,6 +54,6 @@ def render_html_pager(context):
 
 """
 __M_BEGIN_METADATA
-{"source_encoding": "utf-8", "uri": "index_helper.tmpl", "filename": "/home/random8dots/site/lib/python3.5/site-packages/nikola/data/themes/bootstrap4/templates/index_helper.tmpl", "line_map": {"48": 9, "34": 2, "35": 3, "36": 4, "37": 5, "38": 6, "39": 6, "40": 6, "41": 6, "42": 6, "43": 8, "44": 9, "45": 9, "46": 9, "47": 9, "16": 0, "49": 11, "21": 13, "55": 49, "27": 2}}
+{"uri": "index_helper.tmpl", "filename": "/home/luffy/nikola/lib/python3.5/site-packages/nikola/data/themes/bootstrap4/templates/index_helper.tmpl", "line_map": {"48": 9, "34": 2, "35": 3, "36": 4, "37": 5, "38": 6, "39": 6, "40": 6, "41": 6, "42": 6, "43": 8, "44": 9, "45": 9, "46": 9, "47": 9, "16": 0, "49": 11, "21": 13, "55": 49, "27": 2}, "source_encoding": "utf-8"}
 __M_END_METADATA
 """
