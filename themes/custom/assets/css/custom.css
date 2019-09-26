@@ -26,6 +26,7 @@ a {
   left: auto;
   text-align: right;
   min-width: 8rem;
+  border-color: black;
 }
 
 .pagecentre {
@@ -40,9 +41,16 @@ a {
 }
 
 .headsborder {
-	border-style: none;
-	border-bottom: solid;
-	padding-bottom: 1rem;
+	border-style: solid;
+	border-top-style: none;
+  border-bottom-style: none;
+}
+
+.headingborder {
+  border-style: none;
+  border-bottom-style: solid;
+  padding-bottom: 1rem;
+
 }
 
 .dotscolor {
@@ -50,9 +58,10 @@ a {
 }
 
 .dotsborder {
-	border-style: none;
-	border-width: 2px;
-	border-radius: 8px;
+	border-style: solid;
+	border-top-style: none;
+	border-bottom-style: none;
+	padding-top: 1rem;
 }
 
 .bg-light {
@@ -223,3 +232,4 @@ float:left;
 
 .navbar {
   padding: 0.85rem 1rem; }
+

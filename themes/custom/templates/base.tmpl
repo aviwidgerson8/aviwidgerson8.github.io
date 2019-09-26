@@ -13,14 +13,14 @@ ${template_hooks['extra_head']()}
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css" integrity="sha384-/rXc/GQVaYpyDdyxK+ecHPVYJSN9bmVFBvjA/9eOB+pb3F2w2N6fc5qB9Ew5yIns" crossorigin="anonymous">
 <!-- Menubar -->
 
-<nav class="navbar navbar-expand-md headscolor static-top
+<nav class="navbar navbar-expand-md headscolor headsborder static-top 
 % if theme_config.get('navbar_light'):
 navbar-light bg-light
 % else:
 navbar-dark bg-dark
 % endif
 ">
-    <div class="container headsborder" style="padding-left: 0px;"><!-- This keeps the margins nice -->
+    <div class="container headingborder" style="padding-left: 0px;"><!-- This keeps the margins nice -->
         <a class="navbar-brand" href="${abs_link(_link("root", None, lang))}">
         %if logo_url:
             <img src="${logo_url}" alt="${blog_title|h}" id="logo" class="d-inline-block align-top">
@@ -61,7 +61,7 @@ navbar-dark bg-dark
 
 <!-- End of Menubar -->
 
-<div class="container dotsborder dotscolor spacer" id="content" role="main">
+<div class="container dotsborder dotscolor" id="content" role="main">
     <div class="body-content">
         <!--Body content-->
         ${template_hooks['page_header']()}

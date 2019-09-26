@@ -138,7 +138,8 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
     	("/pages/about/","about"),
     	("/","blog"),
-        ((("/archive.html","archive"),("/categories.html","categories"),("/tags.html","topics"),),"")
+        ("/archive.html","archive"),
+        ((("/categories.html","categories"),("/tags.html","topics"),),"")
     ),
 }
 
