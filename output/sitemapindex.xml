@@ -6,6 +6,10 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://nudginghead.github.io/categories/aalmes.xml</loc>
+  <lastmod>2019-10-02T19:27:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://nudginghead.github.io/categories/agents.xml</loc>
   <lastmod>2019-10-02T18:20:00Z</lastmod>
  </sitemap>
@@ -15,7 +19,7 @@
  </sitemap>
  <sitemap>
   <loc>https://nudginghead.github.io/categories/cat_economics.xml</loc>
-  <lastmod>2019-10-02T18:20:00Z</lastmod>
+  <lastmod>2019-10-02T19:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://nudginghead.github.io/categories/cat_psychology.xml</loc>
@@ -39,10 +43,10 @@
  </sitemap>
  <sitemap>
   <loc>https://nudginghead.github.io/rss.xml</loc>
-  <lastmod>2019-10-02T18:20:00Z</lastmod>
+  <lastmod>2019-10-02T19:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://nudginghead.github.io/sitemap.xml</loc>
-  <lastmod>2019-10-02T18:20:00Z</lastmod>
+  <lastmod>2019-10-02T19:27:00Z</lastmod>
  </sitemap>
 </sitemapindex>
