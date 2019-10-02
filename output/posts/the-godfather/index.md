@@ -1,15 +1,11 @@
-.. title: The GodFather,
-.. slug: 
-.. date: 2018-06-26 19:35:59 UTC+05:30
-.. tags: aalmes
-.. category: economics			
+.. title: "The Godfather"
+.. slug: the-godfather
+.. date: 2019-10-03 05:08:34 UTC+05:30
+.. tags: 
+.. category: movie
 .. link: 
 .. description: 
 .. type: text
-
-***
-
-# The Godfather
 
 In the quest of attaining a steel heart and a hard head I have been  looking in for sources like books, movies, video-clips etc. which would make me closer to the objective end, this is when I pulled out the movie which had kept me in waiting to analyse why it is honoured as one of the greatest movies of all time - "The Godfather".
 
@@ -19,4 +15,3 @@ Working on mastering the attention at times I digress and board the old boats wh
 - Intelligence - A blow to Intelligence is what excites me about the targets.
 - No Friends - In reality there will be no free friends & relying on the mind is the best of anything.
 - Composure - The indifference expression on the face is what I would like to carry with me throughout.
-

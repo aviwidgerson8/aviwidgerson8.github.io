@@ -39,7 +39,7 @@
  </url>
  <url>
   <loc>https://nudginghead.github.io/2019/</loc>
-  <lastmod>2019-10-02T18:20:00Z</lastmod>
+  <lastmod>2019-10-02T23:40:00Z</lastmod>
  </url>
  <url>
   <loc>https://nudginghead.github.io/2019/09/</loc>
@@ -50,12 +50,20 @@
   <lastmod>2019-10-02T18:20:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nudginghead.github.io/2019/10/</loc>
+  <lastmod>2019-10-02T23:40:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nudginghead.github.io/2019/10/03/</loc>
+  <lastmod>2019-10-02T23:40:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nudginghead.github.io/archive.html</loc>
-  <lastmod>2019-10-02T19:27:00Z</lastmod>
+  <lastmod>2019-10-02T23:44:00Z</lastmod>
  </url>
  <url>
   <loc>https://nudginghead.github.io/categories.html</loc>
-  <lastmod>2019-10-02T19:27:00Z</lastmod>
+  <lastmod>2019-10-02T23:44:00Z</lastmod>
  </url>
  <url>
   <loc>https://nudginghead.github.io/categories/aalmes/</loc>
@@ -72,6 +80,10 @@
  <url>
   <loc>https://nudginghead.github.io/categories/cat_economics/</loc>
   <lastmod>2019-10-02T18:20:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nudginghead.github.io/categories/cat_movie/</loc>
+  <lastmod>2019-10-02T23:44:00Z</lastmod>
  </url>
  <url>
   <loc>https://nudginghead.github.io/categories/cat_psychology/</loc>
@@ -135,6 +147,6 @@
  </url>
  <url>
   <loc>https://nudginghead.github.io/tags.html</loc>
-  <lastmod>2019-10-02T19:27:00Z</lastmod>
+  <lastmod>2019-10-02T23:40:00Z</lastmod>
  </url>
 </urlset>

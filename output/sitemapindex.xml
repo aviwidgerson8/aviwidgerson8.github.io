@@ -19,7 +19,11 @@
  </sitemap>
  <sitemap>
   <loc>https://nudginghead.github.io/categories/cat_economics.xml</loc>
-  <lastmod>2019-10-02T19:27:00Z</lastmod>
+  <lastmod>2019-10-02T23:40:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://nudginghead.github.io/categories/cat_movie.xml</loc>
+  <lastmod>2019-10-02T23:44:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://nudginghead.github.io/categories/cat_psychology.xml</loc>
@@ -43,10 +47,10 @@
  </sitemap>
  <sitemap>
   <loc>https://nudginghead.github.io/rss.xml</loc>
-  <lastmod>2019-10-02T19:27:00Z</lastmod>
+  <lastmod>2019-10-02T23:44:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://nudginghead.github.io/sitemap.xml</loc>
-  <lastmod>2019-10-02T19:27:00Z</lastmod>
+  <lastmod>2019-10-02T23:44:00Z</lastmod>
  </sitemap>
 </sitemapindex>
