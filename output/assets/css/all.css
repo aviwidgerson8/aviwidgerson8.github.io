@@ -850,9 +850,10 @@ ul.pager li a {
 }
 
 body{
-  color: #000;
-  background-image: url("/images/background.jpg");
-}
+  color: #1a1a1a;
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+/*  background-image: url("/images/background.jpg");
+*/}
 
 a {
   color: #bf1818;
@@ -889,7 +890,7 @@ a {
 }
 
 .headscolor {
-	background-color: white;
+	background-color: cornsilk;
 }
 
 .headsborder {
@@ -906,7 +907,7 @@ a {
 }
 
 .dotscolor {
-	background-color: white;
+	background-color: cornsilk;
 }
 
 .dotsborder {
@@ -917,7 +918,7 @@ a {
 }
 
 .bg-light {
-  background-color: white !important;
+  background-color: cornsilk !important;
 }
 
 body {
@@ -925,12 +926,12 @@ body {
 }
 
 h1, .h1 {
-  font-size: 1.9rem;
-  font-weight: 600;
+  font-size: 1.7rem;
+  font-weight: 500;
 }
 
 h2, .h2 {
-  font-size: 1.7rem;
+  font-size: 1.5rem;
 }
 
 h3, .h3 {
@@ -938,7 +939,7 @@ h3, .h3 {
 }
 
 h4, .h4 {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
 }
 
 h5, .h5 {
@@ -965,8 +966,8 @@ a {
 }
 
 .navbar-light .navbar-brand {
-	font-size: 2.1rem;
-	font-weight: 700;
+	font-size: 1.9rem;
+	font-weight: 600;
 	color: #bf1818;
 }
 
