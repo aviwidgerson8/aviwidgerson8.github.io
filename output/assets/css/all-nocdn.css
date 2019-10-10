@@ -852,7 +852,10 @@ ul.pager li a {
 
 body{
   color: #1a1a1a;
+  /*font-weight: 500;*/
   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-size: 0.88rem;
+  /*background-color: ivory;*/
 /*  background-image: url("/images/background.jpg");
 */}
 
@@ -881,13 +884,17 @@ a {
   text-align: right;
   min-width: 8rem;
   border-color: black;
+  border-style: none;
+  background-color: cornsilk;
 }
 
 .pagecentre {
 	/*margin-left: 30%;
 	margin-right: 30%;*/
-  margin: auto; 
-  max-width: 670px;
+margin: auto; 
+max-width: 670px;
+padding-top: 1.5rem;
+padding-bottom: 1.5rem;
 }
 
 .headscolor {
@@ -896,14 +903,16 @@ a {
 
 .headsborder {
 	border-style: solid;
-	border-top-style: none;
+	/*border-top-style: none;*/
   border-bottom-style: none;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
 }
 
 .headingborder {
-  border-style: none;
-  border-bottom-style: solid;
-  padding-bottom: 1rem;
+  /*border-style: none;*/
+  /*border-bottom-style: solid;*/
+  padding-bottom: 0.5rem;
 
 }
 
@@ -914,16 +923,14 @@ a {
 .dotsborder {
 	border-style: solid;
 	border-top-style: none;
-	border-bottom-style: none;
+	/*border-bottom-style: none;*/
 	padding-top: 1rem;
+	border-bottom-left-radius: 1rem;
+	border-bottom-right-radius: 1rem;
 }
 
 .bg-light {
   background-color: cornsilk !important;
-}
-
-body {
-	font-size: 1rem;
 }
 
 h1, .h1 {
@@ -958,12 +965,8 @@ h6, .h6 {
   padding-top: 10px;
 }
 
-a {
-	color: #bf1818;
-}
-
 .nav-link {
-	font-size: 1.65rem;
+	font-size: 1.45rem;
 }
 
 .navbar-light .navbar-brand {
@@ -1055,36 +1058,16 @@ a {
   margin-left:20px;
   list-style:none;
 }
-#gr_updates_widget{
-float:left;
-border-radius: 5px;
-background-color:#fff;
-border:solid #683205 10px;
--webkit-box-shadow: 0px 0px 4px 1px #595959,
-inset 0px 0px 0px 1px #7D730B;
--moz-box-shadow: 0px 0px 4px 1px #595959,
-inset 0px 0px 0px 1px #7D730B;
-box-shadow: 0px 0px 4px 1px #595959,
-inset 0px 0px 0px 1px #7D730B;
-padding:15px 0 0px 15px;
-width:400px;
-height:240px;
-}
-#gr_footer{
-margin-bottom:0px;
-height:30px;
-}
-#gr_updates_widget p{
-padding:0px;
-margin:0;
-font-size:14px;
-}
-#gr_footer img{
-width:100px;
-float:left;
-}
 
 .navbar {
   padding: 0.85rem 1rem; }
 
+.badge {
+	padding: 0.4rem;
+	font-size: 90%;
+}
 
+.tag {
+	padding: 0.4rem;
+	font-size: 90%;
+}

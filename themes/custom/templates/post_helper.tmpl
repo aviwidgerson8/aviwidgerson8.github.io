@@ -16,7 +16,7 @@
         <ul itemprop="keywords" class="tags">
         %for tag in post.tags:
           % if tag not in hidden_tags:
-            <li><a class="tag p-category" href="${_link('tag', tag)}" rel="tag">${tag|h}</a></li>
+            <li><a class="tag p-category" href="${_link('tag', tag)}" style="padding: 0.4em;font-size: 90%;" rel="tag">${tag|h}</a></li>
           % endif
         %endfor
         </ul>
@@ -38,6 +38,7 @@
         %endif
         </ul>
     %endif
+    <br>
 </%def>
 
 <%def name="open_graph_metadata(post)">
