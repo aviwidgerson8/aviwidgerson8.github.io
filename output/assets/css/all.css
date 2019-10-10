@@ -884,7 +884,7 @@ a {
   min-width: 8rem;
   border-color: black;
   border-style: none;
-  background-color: cornsilk;
+  background-color: white;
 }
 
 .pagecentre {
@@ -897,7 +897,7 @@ padding-bottom: 1.5rem;
 }
 
 .headscolor {
-	background-color: cornsilk;
+	background-color: white;
 }
 
 .headsborder {
@@ -916,7 +916,7 @@ padding-bottom: 1.5rem;
 }
 
 .dotscolor {
-	background-color: cornsilk;
+	background-color: white;
 }
 
 .dotsborder {
@@ -929,7 +929,7 @@ padding-bottom: 1.5rem;
 }
 
 .bg-light {
-  background-color: cornsilk !important;
+  background-color: white !important;
 }
 
 h1, .h1 {
@@ -970,8 +970,8 @@ h6, .h6 {
 
 .navbar-light .navbar-brand {
 	font-size: 1.9rem;
-	font-weight: 600;
-	color: #bf1818;
+	font-weight: 500;
+	color: black;
 }
 
 .navbar-light .navbar-nav .show > .nav-link,
@@ -979,7 +979,7 @@ h6, .h6 {
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .nav-link.active {
   color: rgba(0, 0, 0, 1);
-  font-weight: 600; }
+  font-weight: 500; }
 
 .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
     color: #000000; }
