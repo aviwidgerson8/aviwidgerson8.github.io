@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1570732302.7467697
+_modified_time = 1570763759.6957388
 _enable_loop = True
 _template_filename = 'themes/custom/templates/tag.tmpl'
 _template_uri = 'tag.tmpl'
@@ -32,17 +32,17 @@ def render_body(context,**pageargs):
         __M_locals = __M_dict_builtin(pageargs=pageargs)
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
-        subcategories = _import_ns.get('subcategories', context.get('subcategories', UNDEFINED))
         tag = _import_ns.get('tag', context.get('tag', UNDEFINED))
+        posts = _import_ns.get('posts', context.get('posts', UNDEFINED))
+        date_format = _import_ns.get('date_format', context.get('date_format', UNDEFINED))
+        title = _import_ns.get('title', context.get('title', UNDEFINED))
+        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
+        subcategories = _import_ns.get('subcategories', context.get('subcategories', UNDEFINED))
         kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
         feeds_translations = _mako_get_namespace(context, 'feeds_translations')
-        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
-        description = _import_ns.get('description', context.get('description', UNDEFINED))
-        posts = _import_ns.get('posts', context.get('posts', UNDEFINED))
         def extra_head():
             return render_extra_head(context._locals(__M_locals))
-        title = _import_ns.get('title', context.get('title', UNDEFINED))
-        date_format = _import_ns.get('date_format', context.get('date_format', UNDEFINED))
+        description = _import_ns.get('description', context.get('description', UNDEFINED))
         def content():
             return render_content(context._locals(__M_locals))
         __M_writer = context.writer()
@@ -68,11 +68,11 @@ def render_extra_head(context,**pageargs):
     try:
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
-        def extra_head():
-            return render_extra_head(context)
-        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
         tag = _import_ns.get('tag', context.get('tag', UNDEFINED))
         kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
+        feeds_translations = _mako_get_namespace(context, 'feeds_translations')
+        def extra_head():
+            return render_extra_head(context)
         __M_writer = context.writer()
         __M_writer('\n    ')
         __M_writer(str(feeds_translations.head(tag, kind, rss_override=False)))
@@ -87,15 +87,15 @@ def render_content(context,**pageargs):
     try:
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
-        subcategories = _import_ns.get('subcategories', context.get('subcategories', UNDEFINED))
         tag = _import_ns.get('tag', context.get('tag', UNDEFINED))
+        posts = _import_ns.get('posts', context.get('posts', UNDEFINED))
+        date_format = _import_ns.get('date_format', context.get('date_format', UNDEFINED))
+        title = _import_ns.get('title', context.get('title', UNDEFINED))
+        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
+        subcategories = _import_ns.get('subcategories', context.get('subcategories', UNDEFINED))
         kind = _import_ns.get('kind', context.get('kind', UNDEFINED))
         feeds_translations = _mako_get_namespace(context, 'feeds_translations')
         description = _import_ns.get('description', context.get('description', UNDEFINED))
-        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
-        posts = _import_ns.get('posts', context.get('posts', UNDEFINED))
-        title = _import_ns.get('title', context.get('title', UNDEFINED))
-        date_format = _import_ns.get('date_format', context.get('date_format', UNDEFINED))
         def content():
             return render_content(context)
         __M_writer = context.writer()
@@ -145,6 +145,6 @@ def render_content(context,**pageargs):
 
 """
 __M_BEGIN_METADATA
-{"filename": "themes/custom/templates/tag.tmpl", "line_map": {"128": 32, "129": 32, "130": 32, "131": 32, "132": 32, "133": 32, "134": 32, "135": 32, "136": 32, "137": 32, "138": 32, "139": 34, "140": 36, "146": 140, "23": 3, "29": 0, "49": 2, "50": 3, "55": 7, "60": 37, "66": 5, "77": 5, "78": 6, "79": 6, "85": 9, "102": 9, "103": 12, "104": 12, "105": 13, "106": 14, "107": 14, "108": 14, "109": 16, "110": 17, "111": 17, "112": 17, "113": 19, "114": 20, "115": 20, "116": 20, "117": 20, "118": 20, "119": 22, "120": 24, "121": 25, "122": 25, "123": 27, "124": 27, "125": 29, "126": 30, "127": 31}, "uri": "tag.tmpl", "source_encoding": "utf-8"}
+{"line_map": {"128": 32, "129": 32, "130": 32, "131": 32, "132": 32, "133": 32, "134": 32, "135": 32, "136": 32, "137": 32, "138": 32, "139": 34, "140": 36, "146": 140, "23": 3, "29": 0, "49": 2, "50": 3, "55": 7, "60": 37, "66": 5, "77": 5, "78": 6, "79": 6, "85": 9, "102": 9, "103": 12, "104": 12, "105": 13, "106": 14, "107": 14, "108": 14, "109": 16, "110": 17, "111": 17, "112": 17, "113": 19, "114": 20, "115": 20, "116": 20, "117": 20, "118": 20, "119": 22, "120": 24, "121": 25, "122": 25, "123": 27, "124": 27, "125": 29, "126": 30, "127": 31}, "uri": "tag.tmpl", "source_encoding": "utf-8", "filename": "themes/custom/templates/tag.tmpl"}
 __M_END_METADATA
 """

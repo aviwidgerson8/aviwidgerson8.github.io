@@ -885,7 +885,7 @@ a {
   min-width: 8rem;
   border-color: black;
   border-style: none;
-  background-color: white;
+  background-color: inherit;
 }
 
 .pagecentre {
@@ -893,8 +893,8 @@ a {
 	margin-right: 30%;*/
 margin: auto; 
 max-width: 670px;
-padding-top: 1.5rem;
-padding-bottom: 1.5rem;
+padding-top: 1rem;
+padding-bottom: 1rem;
 }
 
 .headscolor {
@@ -902,7 +902,7 @@ padding-bottom: 1.5rem;
 }
 
 .headsborder {
-	border-style: solid;
+	/*border-style: solid;*/
 	/*border-top-style: none;*/
   border-bottom-style: none;
   border-top-left-radius: 1rem;
@@ -921,7 +921,7 @@ padding-bottom: 1.5rem;
 }
 
 .dotsborder {
-	border-style: solid;
+	/*border-style: solid;*/
 	border-top-style: none;
 	/*border-bottom-style: none;*/
 	padding-top: 1rem;
