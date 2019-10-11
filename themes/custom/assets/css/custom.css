@@ -3,6 +3,7 @@ body{
   /*font-weight: 500;*/
   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   font-size: 0.88rem;
+  
   /*background-color: ivory;*/
 /*  background-image: url("/images/background.jpg");
 */}
@@ -40,9 +41,9 @@ a {
 	/*margin-left: 30%;
 	margin-right: 30%;*/
 margin: auto; 
-max-width: 670px;
-padding-top: 1rem;
-padding-bottom: 1rem;
+max-width: 710px;
+padding-top: 0.75rem;
+/*padding-bottom: 0.5rem;*/
 }
 
 .headscolor {
@@ -52,9 +53,9 @@ padding-bottom: 1rem;
 .headsborder {
 	/*border-style: solid;*/
 	/*border-top-style: none;*/
-  border-bottom-style: none;
-  border-top-left-radius: 1rem;
-  border-top-right-radius: 1rem;
+  /*border-bottom-style: none;*/
+  /*border-top-left-radius: 0.5rem;*/
+  /*border-top-right-radius: 0.5rem;*/
 }
 
 .headingborder {
@@ -70,11 +71,11 @@ padding-bottom: 1rem;
 
 .dotsborder {
 	/*border-style: solid;*/
-	border-top-style: none;
+	/*border-top-style: none;*/
 	/*border-bottom-style: none;*/
 	padding-top: 1rem;
-	border-bottom-left-radius: 1rem;
-	border-bottom-right-radius: 1rem;
+	/*border-bottom-left-radius: 0.5rem;*/
+	/*border-bottom-right-radius: 0.5rem;*/
 }
 
 .bg-light {
