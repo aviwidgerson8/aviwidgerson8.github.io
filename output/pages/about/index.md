@@ -18,7 +18,7 @@ In this blog I write posts on topics related to:
  - <a href="/categories/cat_maths/" style="color: #3578E5">Pure Mathematics</a> topics like - (Combinatorics, Geometry etc.)
  - <a href="/categories/cat_economics/" style="color: green">Economics</a>; including concepts related with computational sciences
  - <a href="/categories/cat_policy/" style="color: green">Public Policy</a> 
- - <a href="/categories/cat_psychology/" style="color: red">Psychology</a> ; essentially the concepts related to neuro-functioning
+ - <a href="/categories/cat_psychology/" style="color: red">Psychology</a> ; essentially the concepts related to thought cycle (genesis -> process -> death)
  - <a href="/categories/cat_statistics/" style="color: #bf1818">Statistics</a>; concepts which help to study the above mentioned fields - (Ex: Sampling etc.)
 
 <a class="btn btn-secondary" style="border-radius: 1rem;" href="https://www.goodreads.com/user/show/73112556-nudging" role="button">Goodreads </a>

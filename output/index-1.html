@@ -13,7 +13,6 @@
 <link rel="canonical" href="https://nudginghead.github.io/index-1.html">
 <link rel="icon" href="images/favicon.png" sizes="48x48">
 <link rel="prev" href="." type="text/html">
-<link rel="next" href="index-2.html" type="text/html">
 <!--[if lt IE 9]><script src="assets/js/html5.js"></script><![endif]-->
 </head>
 <body class="content pagecentre">
@@ -70,34 +69,7 @@ navbar-light bg-light
 <div class="row">
 <div class="col-md-8 blog-main">
 <div class="postindex">
-    <article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/theory/the-speed-of-sequential-asymptotic/" class="u-url">The Speed of Asymptotic Sequential Learning.</a></h1>
-        <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
-                 Hasanth
-            </span></p>
-            <p class="dateline">
-            <a href="posts/theory/the-speed-of-sequential-asymptotic/" rel="bookmark">
-            <time class="published dt-published" datetime="2018-06-26T19:35:59+05:30" itemprop="datePublished" title="26 June-2018">26 June-2018</time></a>
-            </p>
-                <p class="commentline">
-        
-    <a href="posts/theory/the-speed-of-sequential-asymptotic/#disqus_thread" data-disqus-identifier="cache/posts/theory/the-speed-of-sequential-asymptotic.html">Discussions</a>
-
-
-        </p>
-</div>
-    </header><div class="p-summary entry-summary">
-    <div>
-<hr>
-<blockquote>
-<p>Review of Journal of Economics Paper from Omer Tamuz's Group</p>
-</blockquote>
-<p>In brief this paper tries to focus on the convergance rate and its dependencies on actions and signals. They try to prove that the convergence occurs quickly with respect to signals <em>external observations</em> rather than actions using a two state stochastic process. Taking the case of Gaussian distribution as the signal distribution they prove that the convergence with respect to actions occurs by \(\sqrt{\log t}\) times faster. They also discuss the definitivity of the convergence. 
-</p>
-<p class="more"><a href="posts/theory/the-speed-of-sequential-asymptotic/" style="color: #3578E5;">Click to read more..</a></p>
-</div>
-    </div>
-    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/compsci/deeplearning_setup/" class="u-url">Deep Learning Setup</a></h1>
+    <article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/compsci/deeplearning_setup/" class="u-url">Deep Learning Setup</a></h1>
         <div class="metadata">
             <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                  Hasanth
@@ -132,6 +104,41 @@ sudo apt-get upgrade
 <p class="more"><a href="posts/compsci/deeplearning_setup/" style="color: #3578E5;">Click to read more..</a></p>
 </div>
     </div>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/compsci/audiodrivers_installation/" class="u-url">Audio Drivers Installion</a></h1>
+        <div class="metadata">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
+                 Hasanth
+            </span></p>
+            <p class="dateline">
+            <a href="posts/compsci/audiodrivers_installation/" rel="bookmark">
+            <time class="published dt-published" datetime="2017-11-17T11:06:00+05:30" itemprop="datePublished" title="17 November-2017">17 November-2017</time></a>
+            </p>
+                <p class="commentline">
+        
+    <a href="posts/compsci/audiodrivers_installation/#disqus_thread" data-disqus-identifier="cache/posts/compsci/audiodrivers_installation.html">Discussions</a>
+
+
+        </p>
+</div>
+    </header><div class="p-summary entry-summary">
+    <div>
+<hr>
+<p>It has been that there is a requirement of 4.11 kernel version for Realtek-ALC1220 to support. So if you too built a your new PC like me then it might be helpful to you for temporary replacement. Uninstall your alsa-base and reinstall latest version it will work fine.</p>
+<pre class="code literal-block"><span></span><span class="n">sudo</span> <span class="n">apt</span><span class="o">-</span><span class="k">get</span> <span class="n">remove</span> <span class="n">alsa</span><span class="o">-</span><span class="n">base</span>
+</pre>
+
+
+<p>Now go to http://www.stchman.com/tools/alsa/alsa_setup.sh and download the script and then do</p>
+<pre class="code literal-block"><span></span>sudo ./alsa_setup.sh
+</pre>
+
+
+<p>This will reinstall the lastest driver in your system and reboots it.
+ Precautions if you are having Hybrid Graphics(Intel + Nvidia) then it is suggested to run on Intel HD Graphics and then install. Because this driver is supported for Intel HDA versions if you try to install when you are running in NVIDIA this might cause several failures.
+</p>
+<p class="more"><a href="posts/compsci/audiodrivers_installation/" style="color: #3578E5;">Click to read more..</a></p>
+</div>
+    </div>
     </article>
 </div>
 </div>
@@ -144,11 +151,8 @@ sudo apt-get upgrade
 <li class="page-item"><a href="." class="page-link" aria-label="Newer posts"><span aria-hidden="true">«</span></a></li>
       <li class="page-item "><a href="." class="page-link">1</a></li>
       <li class="page-item active"><a href="#" class="page-link">2 <span class="sr-only">(current)</span></a></li>
-      <li class="page-item "><a href="index-2.html" class="page-link">3</a></li>
-      <li class="page-item"><a href="index-2.html" class="page-link" aria-label="Older posts"><span aria-hidden="true">»</span></a></li>
-  </ul></nav><script>var disqus_shortname="https-hasanthpalanchu-github-io";(function(){var a=document.createElement("script");a.async=true;a.src="https://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}());</script><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML" integrity="sha384-3lJUsx1TJHt7BA4udB5KPnDrlkO8T6J6v/op7ui0BbCjvZ9WqV4Xm6DTP6kQ/iBH" crossorigin="anonymous"></script><script type="text/x-mathjax-config">
-        MathJax.Hub.Config({tex2jax: {inlineMath: [['$latex ','$'], ['\\(','\\)']]}});
-        </script><!--End of body content--><footer id="footer">
+      <li class="page-item disabled"><a href="#" class="page-link" aria-label="Older posts"><span aria-hidden="true">»</span></a></li>
+  </ul></nav><script>var disqus_shortname="https-hasanthpalanchu-github-io";(function(){var a=document.createElement("script");a.async=true;a.src="https://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}());</script><!--End of body content--><footer id="footer">
             Contents © 2019 <a href="mailto:%20random8dots@gmail.com">  Hasanth </a> - Powered by <a href="https://getnikola.com" rel="nofollow"> Nikola </a>
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
 <img alt="Creative Commons License BY-NC-SA" style="border-width:0; margin-bottom:12px;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>
