@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>nudginghead (List of posts related to agents)</title><link>https://nudginghead.github.io/</link><description></description><atom:link href="https://nudginghead.github.io/categories/agents.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:nudginghead@gmail.com"&gt; Hasanth&lt;/a&gt; 
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Random Dots (List of posts related to agents)</title><link>https://nudginghead.github.io/</link><description></description><atom:link href="https://nudginghead.github.io/categories/agents.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:nudginghead@gmail.com"&gt; Hasanth&lt;/a&gt; 
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Mon, 06 Apr 2020 02:09:11 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Asymptotic Sequential Learning.</title><link>https://nudginghead.github.io/posts/theory/the-speed-of-sequential-asymptotic/</link><dc:creator> Hasanth</dc:creator><description>&lt;div&gt;&lt;hr&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Mon, 06 Apr 2020 02:52:05 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Asymptotic Sequential Learning.</title><link>https://nudginghead.github.io/posts/theory/the-speed-of-sequential-asymptotic/</link><dc:creator> Hasanth</dc:creator><description>&lt;div&gt;&lt;hr&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Review of Journal of Economics Paper from Omer Tamuz's Group&lt;/p&gt;
 &lt;/blockquote&gt;
