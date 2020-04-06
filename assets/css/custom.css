@@ -1,0 +1,222 @@
+body{
+  color: #1a1a1a;
+  /*font-weight: 500;*/
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-size: 0.88rem;
+  
+  /*background-color: ivory;*/
+/*  background-image: url("/images/background.jpg");
+*/}
+
+a {
+  color: #bf1818;
+  text-decoration: none;
+  background-color: transparent; }
+  a:hover {
+    color: #3578E5;}
+
+.verticalimage {
+  display: block;
+  max-height: 300px;
+  width: auto;
+}
+
+.horizontalimage {
+  display: block;
+  max-width: 400px;
+  height: auto;
+}
+
+.dropdown-menu {
+  right: 0;
+  left: auto;
+  text-align: right;
+  min-width: 8rem;
+  border-color: black;
+  border-style: none;
+  background-color: inherit;
+}
+
+.pagecentre {
+	/*margin-left: 30%;
+	margin-right: 30%;*/
+margin: auto; 
+max-width: 710px;
+padding-top: 0.75rem;
+/*padding-bottom: 0.5rem;*/
+}
+
+.headscolor {
+	background-color: white;
+}
+
+.headsborder {
+	/*border-style: solid;*/
+	/*border-top-style: none;*/
+  /*border-bottom-style: none;*/
+  /*border-top-left-radius: 0.5rem;*/
+  /*border-top-right-radius: 0.5rem;*/
+}
+
+.headingborder {
+  /*border-style: none;*/
+  /*border-bottom-style: solid;*/
+  padding-bottom: 0.5rem;
+
+}
+
+.dotscolor {
+	background-color: white;
+}
+
+.dotsborder {
+	/*border-style: solid;*/
+	/*border-top-style: none;*/
+	/*border-bottom-style: none;*/
+	padding-top: 1rem;
+	/*border-bottom-left-radius: 0.5rem;*/
+	/*border-bottom-right-radius: 0.5rem;*/
+}
+
+.bg-light {
+  background-color: white !important;
+}
+
+h1, .h1 {
+  font-size: 1.7rem;
+  font-weight: 500;
+}
+
+h2, .h2 {
+  font-size: 1.5rem;
+}
+
+h3, .h3 {
+  font-size: 1.4rem;
+}
+
+h4, .h4 {
+  font-size: 1.2rem;
+}
+
+h5, .h5 {
+  font-size: 1.1rem;
+}
+
+h6, .h6 {
+  font-size: 0.8rem;
+}
+
+#footer{
+	border-top-style: solid;
+	border-width: 2px;
+	border-color: black;
+  padding-top: 10px;
+}
+
+.nav-link {
+	font-size: 1.45rem;
+}
+
+.navbar-light .navbar-brand {
+	font-size: 1.9rem;
+	font-weight: 500;
+	color: #3578E5;
+}
+
+.navbar-light .navbar-nav .show > .nav-link,
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .nav-link.active {
+  color: rgba(0, 0, 0, 1);
+  font-weight: 500; }
+
+.navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
+    color: #000000; }
+
+.page-link {
+  position: relative;
+  display: block;
+  padding: 0.5rem 0.75rem;
+  margin-left: -1px;
+  line-height: 1.25;
+  color: #bf1818;
+  background-color: #fff;
+  border: 1px solid black; }
+  .page-link:hover {
+    z-index: 2;
+    color: #7b0f0f;
+    text-decoration: none;
+    background-color: #e9ecef;
+    border-color: black; }
+  .page-link:focus {
+    z-index: 2;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(191, 24, 24, 0.25); }
+
+.page-item:first-child .page-link {
+  margin-left: 0;
+  border-top-left-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem; }
+
+.page-item:last-child .page-link {
+  border-top-right-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem; }
+
+.page-item.active .page-link {
+  z-index: 1;
+  color: #fff;
+  background-color: #bf1818;
+  border-color: #bf1818; }
+
+.page-item.disabled .page-link {
+  color: #868e96;
+  pointer-events: none;
+  cursor: auto;
+  background-color: #fff;
+  border-color: black; }
+
+.pagination-lg .page-link {
+  padding: 0.75rem 1.5rem;
+  font-size: 1.25rem;
+  line-height: 1.5; }
+
+.pagination-lg .page-item:first-child .page-link {
+  border-top-left-radius: 0.3rem;
+  border-bottom-left-radius: 0.3rem; }
+
+.pagination-lg .page-item:last-child .page-link {
+  border-top-right-radius: 0.3rem;
+  border-bottom-right-radius: 0.3rem; }
+
+.pagination-sm .page-link {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+  line-height: 1.5; }
+
+.pagination-sm .page-item:first-child .page-link {
+  border-top-left-radius: 0.2rem;
+  border-bottom-left-radius: 0.2rem; }
+
+.pagination-sm .page-item:last-child .page-link {
+  border-top-right-radius: 0.2rem;
+  border-bottom-right-radius: 0.2rem; }
+
+#customize-list{
+  float:left;
+  margin-left:20px;
+  list-style:none;
+}
+
+.navbar {
+  padding: 0.85rem 1rem; }
+
+.badge {
+	padding: 0.4rem;
+	font-size: 90%;
+}
+
+.tag {
+	padding: 0.4rem;
+	font-size: 90%;
+}

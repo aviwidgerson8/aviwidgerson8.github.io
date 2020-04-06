@@ -1,0 +1,4 @@
+Sitemap: https://nudginghead.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: nudginghead.github.io

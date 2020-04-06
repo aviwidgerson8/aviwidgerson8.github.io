@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <sitemap>
+  <loc>https://nudginghead.github.io/categories/agents.xml</loc>
+  <lastmod>2020-04-06T02:09:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://nudginghead.github.io/categories/cat_economics.xml</loc>
+  <lastmod>2020-04-06T02:09:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://nudginghead.github.io/categories/cat_software.xml</loc>
+  <lastmod>2020-04-06T02:09:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://nudginghead.github.io/categories/code.xml</loc>
+  <lastmod>2020-04-06T02:09:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://nudginghead.github.io/categories/econcomp.xml</loc>
+  <lastmod>2020-04-06T02:09:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://nudginghead.github.io/rss.xml</loc>
+  <lastmod>2020-04-06T02:09:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://nudginghead.github.io/sitemap.xml</loc>
+  <lastmod>2020-04-06T02:19:00Z</lastmod>
+ </sitemap>
+</sitemapindex>
