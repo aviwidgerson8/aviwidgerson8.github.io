@@ -17,13 +17,13 @@ a {
 
 .verticalimage {
   display: block;
-  max-height: 300px;
+  max-height: 500px;
   width: auto;
 }
 
 .horizontalimage {
   display: block;
-  max-width: 400px;
+  max-width: 500px;
   height: auto;
 }
 
@@ -41,7 +41,7 @@ a {
 	/*margin-left: 30%;
 	margin-right: 30%;*/
 margin: auto; 
-max-width: 710px;
+max-width: 800px;
 padding-top: 0.75rem;
 /*padding-bottom: 0.5rem;*/
 }

@@ -7,10 +7,9 @@
 .. description: 
 .. type: text
 
-
-<!-- <img align="right" height="260" src="/images/kai.png"> -->
-
 I am **Hasanth Palanchu**.
+
+<img class="horizontalimage" alt="Simonyi Hall" src="/images/simonyi hall.jpg"/>    
 
 In this blog I write posts on topics related to:
 

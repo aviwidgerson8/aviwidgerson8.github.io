@@ -1,4 +1,4 @@
-.. title: deep learning setup
+.. title: Deep learning Setup
 .. slug: 
 .. date: 2017-11-23 7:24
 .. tags: code
