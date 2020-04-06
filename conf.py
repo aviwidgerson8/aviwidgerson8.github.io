@@ -17,14 +17,14 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = " Hasanth"  # (translatable)
-BLOG_TITLE = " Nudging Head "  # (translatable)
+BLOG_TITLE = "nudginghead"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://nudginghead.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
-BLOG_EMAIL = "random8dots@gmail.com"
+BLOG_EMAIL = "nudginghead@gmail.com"
 BLOG_DESCRIPTION = "Personal Website"  # (translatable)
 
 # Nikola is multilingual!
@@ -969,7 +969,8 @@ COMMENT_SYSTEM = "disqus"
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
-COMMENT_SYSTEM_ID = "https-hasanthpalanchu-github-io"
+COMMENT_SYSTEM_ID = "nudging-head"
+# COMMENT_SYSTEM_ID = "https-hasanthpalanchu-github-io"
 
 # Create index.html for page folders?
 # WARNING: if a page would conflict with the index file (usually

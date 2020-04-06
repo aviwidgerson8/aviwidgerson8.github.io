@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1577203883.6464088
+_modified_time = 1586139572.6237016
 _enable_loop = True
-_template_filename = '/home/nudginghead/nikola/lib/python3.6/site-packages/nikola/data/themes/bootstrap4/templates/base_helper.tmpl'
+_template_filename = '/home/nudginghead/blog/lib/python3.6/site-packages/nikola/data/themes/bootstrap4/templates/base_helper.tmpl'
 _template_uri = 'base_helper.tmpl'
 _source_encoding = 'utf-8'
 _exports = ['html_headstart', 'late_load_js', 'html_stylesheets', 'html_navigation_links', 'html_navigation_links_entries', 'html_feedlinks', 'html_translations']
@@ -33,29 +33,29 @@ def render_body(context,**pageargs):
 def render_html_headstart(context):
     __M_caller = context.caller_stack._push_frame()
     try:
-        url_type = context.get('url_type', UNDEFINED)
-        mathjax_config = context.get('mathjax_config', UNDEFINED)
-        theme_color = context.get('theme_color', UNDEFINED)
         url_replacer = context.get('url_replacer', UNDEFINED)
-        description = context.get('description', UNDEFINED)
-        def html_feedlinks():
-            return render_html_feedlinks(context)
-        title = context.get('title', UNDEFINED)
-        nextlink = context.get('nextlink', UNDEFINED)
-        blog_title = context.get('blog_title', UNDEFINED)
-        favicons = context.get('favicons', UNDEFINED)
-        permalink = context.get('permalink', UNDEFINED)
         def html_stylesheets():
             return render_html_stylesheets(context)
-        comment_system_id = context.get('comment_system_id', UNDEFINED)
-        prevlink = context.get('prevlink', UNDEFINED)
-        comment_system = context.get('comment_system', UNDEFINED)
-        abs_link = context.get('abs_link', UNDEFINED)
-        meta_generator_tag = context.get('meta_generator_tag', UNDEFINED)
-        is_rtl = context.get('is_rtl', UNDEFINED)
         use_cdn = context.get('use_cdn', UNDEFINED)
-        extra_head_data = context.get('extra_head_data', UNDEFINED)
+        meta_generator_tag = context.get('meta_generator_tag', UNDEFINED)
+        title = context.get('title', UNDEFINED)
         lang = context.get('lang', UNDEFINED)
+        def html_feedlinks():
+            return render_html_feedlinks(context)
+        nextlink = context.get('nextlink', UNDEFINED)
+        theme_color = context.get('theme_color', UNDEFINED)
+        comment_system = context.get('comment_system', UNDEFINED)
+        mathjax_config = context.get('mathjax_config', UNDEFINED)
+        description = context.get('description', UNDEFINED)
+        blog_title = context.get('blog_title', UNDEFINED)
+        url_type = context.get('url_type', UNDEFINED)
+        comment_system_id = context.get('comment_system_id', UNDEFINED)
+        favicons = context.get('favicons', UNDEFINED)
+        permalink = context.get('permalink', UNDEFINED)
+        extra_head_data = context.get('extra_head_data', UNDEFINED)
+        prevlink = context.get('prevlink', UNDEFINED)
+        is_rtl = context.get('is_rtl', UNDEFINED)
+        abs_link = context.get('abs_link', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n<!DOCTYPE html>\n<html\n')
         __M_writer("prefix='")
@@ -139,13 +139,13 @@ def render_late_load_js(context):
     __M_caller = context.caller_stack._push_frame()
     try:
         date_fanciness = context.get('date_fanciness', UNDEFINED)
-        social_buttons_code = context.get('social_buttons_code', UNDEFINED)
         use_cdn = context.get('use_cdn', UNDEFINED)
         use_bundles = context.get('use_bundles', UNDEFINED)
+        social_buttons_code = context.get('social_buttons_code', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if use_cdn:
-            __M_writer('        <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>\n        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.15.0/umd/popper.min.js" integrity="sha256-fTuUgtT7O2rqoImwjrhDgbXTKUwyxxujIMRIK7TbuNU=" crossorigin="anonymous"></script>\n        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>\n        <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.js" integrity="sha256-yQGjQhFs3LtyiN5hhr3k9s9TWZOh/RzCkD3gwwCKlkg=" crossorigin="anonymous"></script>\n')
+            __M_writer('        <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>\n        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js" integrity="sha256-/ijcOLwFf26xEYAjW75FizKVo5tnTYiQddPZoLUHHZ8=" crossorigin="anonymous"></script>\n        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>\n        <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.js" integrity="sha256-yQGjQhFs3LtyiN5hhr3k9s9TWZOh/RzCkD3gwwCKlkg=" crossorigin="anonymous"></script>\n')
         if use_bundles and use_cdn:
             __M_writer('        <script src="/assets/js/all.js"></script>\n')
         elif use_bundles:
@@ -171,14 +171,14 @@ def render_late_load_js(context):
 def render_html_stylesheets(context):
     __M_caller = context.caller_stack._push_frame()
     try:
-        needs_ipython_css = context.get('needs_ipython_css', UNDEFINED)
-        has_custom_css = context.get('has_custom_css', UNDEFINED)
         use_cdn = context.get('use_cdn', UNDEFINED)
+        has_custom_css = context.get('has_custom_css', UNDEFINED)
+        needs_ipython_css = context.get('needs_ipython_css', UNDEFINED)
         use_bundles = context.get('use_bundles', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if use_cdn:
-            __M_writer('        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">\n        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" integrity="sha256-cKiyvRKpm8RaTdU71Oq2RUVgvfWrdIXjvVdQF2oZ1Y4=" crossorigin="anonymous" />\n')
+            __M_writer('        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">\n        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.0/baguetteBox.min.css" integrity="sha256-cKiyvRKpm8RaTdU71Oq2RUVgvfWrdIXjvVdQF2oZ1Y4=" crossorigin="anonymous">\n')
         if use_bundles and use_cdn:
             __M_writer('        <link href="/assets/css/all.css" rel="stylesheet" type="text/css">\n')
         elif use_bundles:
@@ -199,9 +199,9 @@ def render_html_stylesheets(context):
 def render_html_navigation_links(context):
     __M_caller = context.caller_stack._push_frame()
     try:
+        navigation_links = context.get('navigation_links', UNDEFINED)
         def html_navigation_links_entries(navigation_links_source):
             return render_html_navigation_links_entries(context,navigation_links_source)
-        navigation_links = context.get('navigation_links', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n    ')
         __M_writer(str(html_navigation_links_entries(navigation_links)))
@@ -214,12 +214,12 @@ def render_html_navigation_links(context):
 def render_html_navigation_links_entries(context,navigation_links_source):
     __M_caller = context.caller_stack._push_frame()
     try:
-        permalink = context.get('permalink', UNDEFINED)
-        tuple = context.get('tuple', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
+        tuple = context.get('tuple', UNDEFINED)
+        permalink = context.get('permalink', UNDEFINED)
+        lang = context.get('lang', UNDEFINED)
         rel_link = context.get('rel_link', UNDEFINED)
         isinstance = context.get('isinstance', UNDEFINED)
-        lang = context.get('lang', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         for url, text in navigation_links_source[lang]:
@@ -266,13 +266,13 @@ def render_html_navigation_links_entries(context,navigation_links_source):
 def render_html_feedlinks(context):
     __M_caller = context.caller_stack._push_frame()
     try:
-        rss_link = context.get('rss_link', UNDEFINED)
-        len = context.get('len', UNDEFINED)
         sorted = context.get('sorted', UNDEFINED)
         _link = context.get('_link', UNDEFINED)
+        len = context.get('len', UNDEFINED)
         translations = context.get('translations', UNDEFINED)
         generate_rss = context.get('generate_rss', UNDEFINED)
         generate_atom = context.get('generate_atom', UNDEFINED)
+        rss_link = context.get('rss_link', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if rss_link:
@@ -311,12 +311,12 @@ def render_html_feedlinks(context):
 def render_html_translations(context):
     __M_caller = context.caller_stack._push_frame()
     try:
+        _link = context.get('_link', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
         sorted = context.get('sorted', UNDEFINED)
-        abs_link = context.get('abs_link', UNDEFINED)
-        _link = context.get('_link', UNDEFINED)
-        lang = context.get('lang', UNDEFINED)
         translations = context.get('translations', UNDEFINED)
+        lang = context.get('lang', UNDEFINED)
+        abs_link = context.get('abs_link', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         for langname in sorted(translations):
@@ -335,6 +335,6 @@ def render_html_translations(context):
 
 """
 __M_BEGIN_METADATA
-{"filename": "/home/nudginghead/nikola/lib/python3.6/site-packages/nikola/data/themes/bootstrap4/templates/base_helper.tmpl", "uri": "base_helper.tmpl", "source_encoding": "utf-8", "line_map": {"16": 0, "21": 62, "22": 94, "23": 122, "24": 126, "25": 149, "26": 172, "27": 180, "33": 2, "60": 2, "61": 6, "62": 7, "63": 8, "64": 9, "65": 11, "66": 12, "67": 13, "68": 16, "69": 16, "70": 16, "71": 19, "72": 20, "73": 20, "74": 20, "75": 22, "76": 23, "77": 24, "78": 24, "79": 24, "80": 25, "81": 26, "82": 26, "83": 26, "84": 26, "85": 26, "86": 28, "87": 29, "88": 29, "89": 30, "90": 30, "91": 31, "92": 32, "93": 34, "94": 34, "95": 34, "96": 35, "97": 35, "98": 37, "99": 38, "100": 39, "101": 39, "102": 39, "103": 39, "104": 39, "105": 39, "106": 39, "107": 42, "108": 43, "109": 44, "110": 44, "111": 44, "112": 46, "113": 47, "114": 48, "115": 48, "116": 48, "117": 50, "118": 51, "119": 51, "120": 51, "121": 53, "122": 54, "123": 54, "124": 55, "125": 56, "126": 57, "127": 58, "128": 58, "129": 58, "130": 60, "131": 61, "132": 61, "138": 64, "146": 64, "147": 65, "148": 66, "149": 71, "150": 72, "151": 73, "152": 74, "153": 75, "154": 76, "155": 77, "156": 83, "157": 84, "158": 85, "159": 86, "160": 87, "161": 89, "162": 90, "163": 93, "164": 93, "165": 93, "171": 97, "179": 97, "180": 98, "181": 99, "182": 102, "183": 103, "184": 104, "185": 105, "186": 106, "187": 107, "188": 108, "189": 111, "190": 114, "191": 115, "192": 118, "193": 119, "199": 124, "206": 124, "207": 125, "208": 125, "214": 128, "224": 128, "225": 129, "226": 130, "227": 131, "228": 131, "229": 131, "230": 133, "231": 134, "232": 135, "233": 135, "234": 135, "235": 135, "236": 135, "237": 135, "238": 135, "239": 136, "240": 137, "241": 137, "242": 137, "243": 137, "244": 137, "245": 140, "246": 141, "247": 142, "248": 143, "249": 143, "250": 143, "251": 143, "252": 143, "253": 143, "254": 143, "255": 144, "256": 145, "257": 145, "258": 145, "259": 145, "260": 145, "266": 151, "277": 151, "278": 152, "279": 153, "280": 153, "281": 153, "282": 154, "283": 155, "284": 156, "285": 157, "286": 157, "287": 157, "288": 157, "289": 157, "290": 159, "291": 160, "292": 160, "293": 160, "294": 163, "295": 164, "296": 165, "297": 166, "298": 166, "299": 166, "300": 166, "301": 166, "302": 168, "303": 169, "304": 169, "305": 169, "311": 174, "321": 174, "322": 175, "323": 176, "324": 177, "325": 177, "326": 177, "327": 177, "328": 177, "329": 177, "330": 177, "336": 330}}
+{"filename": "/home/nudginghead/blog/lib/python3.6/site-packages/nikola/data/themes/bootstrap4/templates/base_helper.tmpl", "uri": "base_helper.tmpl", "source_encoding": "utf-8", "line_map": {"16": 0, "21": 62, "22": 94, "23": 122, "24": 126, "25": 149, "26": 172, "27": 180, "33": 2, "60": 2, "61": 6, "62": 7, "63": 8, "64": 9, "65": 11, "66": 12, "67": 13, "68": 16, "69": 16, "70": 16, "71": 19, "72": 20, "73": 20, "74": 20, "75": 22, "76": 23, "77": 24, "78": 24, "79": 24, "80": 25, "81": 26, "82": 26, "83": 26, "84": 26, "85": 26, "86": 28, "87": 29, "88": 29, "89": 30, "90": 30, "91": 31, "92": 32, "93": 34, "94": 34, "95": 34, "96": 35, "97": 35, "98": 37, "99": 38, "100": 39, "101": 39, "102": 39, "103": 39, "104": 39, "105": 39, "106": 39, "107": 42, "108": 43, "109": 44, "110": 44, "111": 44, "112": 46, "113": 47, "114": 48, "115": 48, "116": 48, "117": 50, "118": 51, "119": 51, "120": 51, "121": 53, "122": 54, "123": 54, "124": 55, "125": 56, "126": 57, "127": 58, "128": 58, "129": 58, "130": 60, "131": 61, "132": 61, "138": 64, "146": 64, "147": 65, "148": 66, "149": 71, "150": 72, "151": 73, "152": 74, "153": 75, "154": 76, "155": 77, "156": 83, "157": 84, "158": 85, "159": 86, "160": 87, "161": 89, "162": 90, "163": 93, "164": 93, "165": 93, "171": 97, "179": 97, "180": 98, "181": 99, "182": 102, "183": 103, "184": 104, "185": 105, "186": 106, "187": 107, "188": 108, "189": 111, "190": 114, "191": 115, "192": 118, "193": 119, "199": 124, "206": 124, "207": 125, "208": 125, "214": 128, "224": 128, "225": 129, "226": 130, "227": 131, "228": 131, "229": 131, "230": 133, "231": 134, "232": 135, "233": 135, "234": 135, "235": 135, "236": 135, "237": 135, "238": 135, "239": 136, "240": 137, "241": 137, "242": 137, "243": 137, "244": 137, "245": 140, "246": 141, "247": 142, "248": 143, "249": 143, "250": 143, "251": 143, "252": 143, "253": 143, "254": 143, "255": 144, "256": 145, "257": 145, "258": 145, "259": 145, "260": 145, "266": 151, "277": 151, "278": 152, "279": 153, "280": 153, "281": 153, "282": 154, "283": 155, "284": 156, "285": 157, "286": 157, "287": 157, "288": 157, "289": 157, "290": 159, "291": 160, "292": 160, "293": 160, "294": 163, "295": 164, "296": 165, "297": 166, "298": 166, "299": 166, "300": 166, "301": 166, "302": 168, "303": 169, "304": 169, "305": 169, "311": 174, "321": 174, "322": 175, "323": 176, "324": 177, "325": 177, "326": 177, "327": 177, "328": 177, "329": 177, "330": 177, "336": 330}}
 __M_END_METADATA
 """

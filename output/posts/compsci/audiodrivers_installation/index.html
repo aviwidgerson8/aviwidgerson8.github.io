@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Audio Drivers Installion |  Nudging Head </title>
+<title>Audio Drivers Installion | nudginghead</title>
 <link href="../../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
@@ -12,15 +12,14 @@
 <link rel="canonical" href="https://nudginghead.github.io/posts/compsci/audiodrivers_installation/">
 <link rel="icon" href="../../../images/favicon.png" sizes="48x48">
 <!--[if lt IE 9]><script src="../../../assets/js/html5.js"></script><![endif]--><meta name="author" content=" Hasanth">
-<link rel="next" href="../deeplearning_setup/" title="Deep Learning Setup" type="text/html">
-<meta property="og:site_name" content=" Nudging Head ">
+<link rel="next" href="../deeplearning_setup/" title="deep learning setup" type="text/html">
+<meta property="og:site_name" content="nudginghead">
 <meta property="og:title" content="Audio Drivers Installion">
 <meta property="og:url" content="https://nudginghead.github.io/posts/compsci/audiodrivers_installation/">
 <meta property="og:description" content="It has been that there is a requirement of 4.11 kernel version for Realtek-ALC1220 to support. So if you too built a your new PC like me then it might be helpful to you for temporary replacement. Unin">
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2017-11-17T11:06:00+05:30">
 <meta property="article:tag" content="code">
-<meta property="article:tag" content="installation">
 </head>
 <body class="content pagecentre">
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -31,7 +30,7 @@ navbar-light bg-light
 <!-- This keeps the margins nice -->
         <a class="navbar-brand" href="https://nudginghead.github.io/">
 
-            <span id="blog-title"><i class="fas fa-brain"></i> Nudging Head </span>
+            <span id="blog-title">nudginghead</span>
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -93,13 +92,13 @@ navbar-light bg-light
     <div>
 <hr>
 <p>It has been that there is a requirement of 4.11 kernel version for Realtek-ALC1220 to support. So if you too built a your new PC like me then it might be helpful to you for temporary replacement. Uninstall your alsa-base and reinstall latest version it will work fine.</p>
-<pre class="code literal-block"><span></span><span class="n">sudo</span> <span class="n">apt</span><span class="o">-</span><span class="k">get</span> <span class="n">remove</span> <span class="n">alsa</span><span class="o">-</span><span class="n">base</span>
-</pre>
+<pre class="code literal-block"><span></span><code><span class="err">sudo apt-get remove alsa-base</span>
+</code></pre>
 
 
 <p>Now go to http://www.stchman.com/tools/alsa/alsa_setup.sh and download the script and then do</p>
-<pre class="code literal-block"><span></span>sudo ./alsa_setup.sh
-</pre>
+<pre class="code literal-block"><span></span><code>sudo ./alsa_setup.sh
+</code></pre>
 
 
 <p>This will reinstall the lastest driver in your system and reboots it.
@@ -109,11 +108,10 @@ navbar-light bg-light
     </div>
     <aside class="postpromonav"><nav><ul itemprop="keywords" class="tags">
 <li><a class="tag p-category" href="../../../categories/code/" style="padding: 0.4em;font-size: 90%;" rel="tag">code</a></li>
-            <li><a class="tag p-category" href="../../../categories/installation/" style="padding: 0.4em;font-size: 90%;" rel="tag">installation</a></li>
         </ul>
 <ul class="pager hidden-print">
 <li class="next">
-                <a class="btn btn-secondary" href="../deeplearning_setup/" rel="next" title="Deep Learning Setup">Next Post</a>
+                <a class="btn btn-secondary" href="../deeplearning_setup/" rel="next" title="deep learning setup">Next Post</a>
             </li>
         </ul>
 <br></nav></aside><section class="comments hidden-print"><h2>Discussions</h2>
@@ -121,7 +119,7 @@ navbar-light bg-light
         
         <div id="disqus_thread"></div>
         <script>
-        var disqus_shortname ="https-hasanthpalanchu-github-io",
+        var disqus_shortname ="nudging-head",
             disqus_url="https://nudginghead.github.io/posts/compsci/audiodrivers_installation/",
         disqus_title="Audio Drivers Installion",
         disqus_identifier="cache/posts/compsci/audiodrivers_installation.html",
@@ -138,8 +136,8 @@ navbar-light bg-light
     <a href="https://disqus.com" class="dsq-brlink" rel="nofollow">Comments powered by <span class="logo-disqus">Disqus</span></a>
 
 
-        </section></article><script>var disqus_shortname="https-hasanthpalanchu-github-io";(function(){var a=document.createElement("script");a.async=true;a.src="https://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}());</script><!--End of body content--><footer id="footer">
-            Contents © 2019 <a href="mailto:%20random8dots@gmail.com">  Hasanth </a> - Powered by <a href="https://getnikola.com" rel="nofollow"> Nikola </a>
+        </section></article><script>var disqus_shortname="nudging-head";(function(){var a=document.createElement("script");a.async=true;a.src="https://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}());</script><!--End of body content--><footer id="footer">
+            Contents © 2020 <a href="mailto:%20nudginghead@gmail.com">  Hasanth </a> - Powered by <a href="https://getnikola.com" rel="nofollow"> Nikola </a>
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
 <img alt="Creative Commons License BY-NC-SA" style="border-width:0; margin-bottom:12px;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>
             

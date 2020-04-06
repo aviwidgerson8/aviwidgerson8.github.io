@@ -10,7 +10,7 @@
 
 <!-- <img align="right" height="260" src="/images/kai.png"> -->
 
-I am **Hasanth**.
+I am **Hasanth Palanchu**.
 
 In this blog I write posts on topics related to:
 
@@ -23,7 +23,7 @@ In this blog I write posts on topics related to:
 
 <a class="btn btn-secondary" style="border-radius: 1rem;" href="https://www.goodreads.com/user/show/73112556-nudging" role="button">Goodreads </a>
 
-Contact - <random8dots@gmail.com>
+Email - <nudginghead@gmail.com>
 
 
 
