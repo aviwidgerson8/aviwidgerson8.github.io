@@ -7,9 +7,7 @@
 .. description: 
 .. type: text
 
-I am **Hasanth Palanchu**.
-
-<img class="horizontalimage" alt="Simonyi Hall" src="/images/simonyi hall.jpg"/>    
+I am **Hasanth Palanchu**.    
 
 In this blog I write posts on topics related to:
 

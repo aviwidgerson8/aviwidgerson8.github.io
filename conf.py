@@ -255,7 +255,7 @@ DATE_FORMAT = 'dd MMMM-YYYY'
 
 # Date format used to display post dates, if local dates are used. (translatable)
 # Used by moment.js: https://momentjs.com/docs/#/displaying/format/
-JS_DATE_FORMAT = 'MMMM Do YYYY, h:mm:ss a'
+MOMENTJS_DATE_FORMAT = 'MMMM Do YYYY, h:mm:ss a'
 
 # Date fanciness.
 #

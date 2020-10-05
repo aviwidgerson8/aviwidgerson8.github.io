@@ -23,7 +23,7 @@
     ${front_index_header}
 % endif
 <div class="row">
-<div class="col-md-8 blog-main">
+<div class="col-md-12 blog-main">
 <div class="postindex">
 % for post in posts:
     <article class="h-entry post-${post.meta('type')}" itemscope="itemscope" itemtype="http://schema.org/Article">
@@ -63,9 +63,6 @@
     </article>
 % endfor
 </div>
-</div>
-<div class="col-md-4 mt-5">
-<a class="twitter-timeline" data-height="375" data-theme="light" data-link-color="#3578E5" href="https://twitter.com/nudginghead/likes?ref_src=twsrc%5Etfw">Likes</a>
 </div>
 </div>
 % if page_links:
