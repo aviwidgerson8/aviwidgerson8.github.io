@@ -13,6 +13,7 @@
 <link rel="canonical" href="https://nudginghead.github.io/index-2.html">
 <link rel="icon" href="images/favicon.png" sizes="48x48">
 <link rel="prev" href="index-1.html" type="text/html">
+<link rel="next" href="index-3.html" type="text/html">
 <!--[if lt IE 9]><script src="assets/js/html5.js"></script><![endif]-->
 </head>
 <body class="content pagecentre">
@@ -69,18 +70,18 @@ navbar-light bg-light
 <div class="row">
 <div class="col-md-12 blog-main">
 <div class="postindex">
-    <article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/compsci/audiodrivers_installation/" class="u-url">Audio Drivers Installion</a></h1>
+    <article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/compsci/deeplearning_setup/" class="u-url">Deep learning Setup</a></h1>
         <div class="metadata">
             <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                  Hasanth
             </span></p>
             <p class="dateline">
-            <a href="posts/compsci/audiodrivers_installation/" rel="bookmark">
-            <time class="published dt-published" datetime="2017-11-17T11:06:00+05:30" itemprop="datePublished" title="17 November-2017">17 November-2017</time></a>
+            <a href="posts/compsci/deeplearning_setup/" rel="bookmark">
+            <time class="published dt-published" datetime="2017-11-23T07:24:00+05:30" itemprop="datePublished" title="23 November-2017">23 November-2017</time></a>
             </p>
                 <p class="commentline">
         
-    <a href="posts/compsci/audiodrivers_installation/#disqus_thread" data-disqus-identifier="cache/posts/compsci/audiodrivers_installation.html">Discussions</a>
+    <a href="posts/compsci/deeplearning_setup/#disqus_thread" data-disqus-identifier="cache/posts/compsci/deeplearning_setup.html">Discussions</a>
 
 
         </p>
@@ -88,20 +89,19 @@ navbar-light bg-light
     </header><div class="p-summary entry-summary">
     <div>
 <hr>
-<p>It has been that there is a requirement of 4.11 kernel version for Realtek-ALC1220 to support. So if you too built a your new PC like me then it might be helpful to you for temporary replacement. Uninstall your alsa-base and reinstall latest version it will work fine.</p>
-<pre class="code literal-block"><span></span><code><span class="err">sudo apt-get remove alsa-base</span>
-</code></pre>
+<h3>Specifications</h3>
+<ul>
+<li>OS - Ubuntu 16.04</li>
+<li>Graphics - Nvidia Optimus (GTX1070 + IntelHD)</li>
+</ul>
+<blockquote>
+<p>After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"</p>
+</blockquote>
+<pre class="code literal-block">sudo apt-get update
+sudo apt-get upgrade
+</pre>
 
-
-<p>Now go to http://www.stchman.com/tools/alsa/alsa_setup.sh and download the script and then do</p>
-<pre class="code literal-block"><span></span><code>sudo ./alsa_setup.sh
-</code></pre>
-
-
-<p>This will reinstall the lastest driver in your system and reboots it.
- Precautions if you are having Hybrid Graphics(Intel + Nvidia) then it is suggested to run on Intel HD Graphics and then install. Because this driver is supported for Intel HDA versions if you try to install when you are running in NVIDIA this might cause several failures.
-</p>
-<p class="more"><a href="posts/compsci/audiodrivers_installation/" style="color: #3578E5;">Click to read more..</a></p>
+<p class="more"><a href="posts/compsci/deeplearning_setup/" style="color: #3578E5;">Click to read more..</a></p>
 </div>
     </div>
     </article>
@@ -114,7 +114,8 @@ navbar-light bg-light
       <li class="page-item "><a href="." class="page-link">1</a></li>
       <li class="page-item "><a href="index-1.html" class="page-link">2</a></li>
       <li class="page-item active"><a href="#" class="page-link">3 <span class="sr-only">(current)</span></a></li>
-      <li class="page-item disabled"><a href="#" class="page-link" aria-label="Older posts"><span aria-hidden="true">»</span></a></li>
+      <li class="page-item "><a href="index-3.html" class="page-link">4</a></li>
+      <li class="page-item"><a href="index-3.html" class="page-link" aria-label="Older posts"><span aria-hidden="true">»</span></a></li>
   </ul></nav><script>var disqus_shortname="nudging-head";(function(){var a=document.createElement("script");a.async=true;a.src="https://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}());</script><!--End of body content--><footer id="footer">
             Contents © 2020 <a href="mailto:%20nudginghead@gmail.com">  Hasanth </a> - Powered by <a href="https://getnikola.com" rel="nofollow"> Nikola </a>
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
