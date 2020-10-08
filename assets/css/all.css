@@ -925,7 +925,7 @@ padding-bottom: 0.5rem;
 .headsborder {
 	border-style: solid;
 	/*border-top-style: none;*/
-  /*border-bottom-style: none;*/
+  border-bottom-style: none;
   border-top-left-radius: 0.5rem;
   border-top-right-radius: 0.5rem;
 }
