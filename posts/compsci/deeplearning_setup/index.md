@@ -7,9 +7,10 @@
 .. description: 
 .. type: text
 
+*installing tools for NVIDIA GPU & creating a deeplearing setup (caffe)*
+<!-- TEASER_END -->
+
 ***
-
-
 
 ## Specifications
 
@@ -22,7 +23,6 @@
 sudo apt-get update
 sudo apt-get upgrade
 ```
-<!-- TEASER_END -->
 Install one editor which you like the most
 ```sh
 sudo apt-get install vim

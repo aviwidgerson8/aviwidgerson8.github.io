@@ -3,50 +3,9 @@
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Wed, 07 Oct 2020 09:28:34 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>UPSC Booklist</title><link>https://nudginghead.github.io/posts/upsc-booklist/</link><dc:creator> Hasanth</dc:creator><description>&lt;div&gt;&lt;h2&gt;Book List&lt;/h2&gt;
-&lt;h3&gt;Art &amp;amp; Culture&lt;/h3&gt;
-&lt;h4&gt;Prelims &amp;amp; Mains&lt;/h4&gt;
-&lt;ul class="checklist"&gt;
-&lt;li&gt;&lt;input type="checkbox" disabled&gt; 11th NCERT - 1&lt;/li&gt;
-&lt;li&gt;&lt;input type="checkbox" disabled&gt; 11th NCERT - 2&lt;/li&gt;
-&lt;li&gt;&lt;input type="checkbox" disabled&gt; 12th NCERT&lt;/li&gt;
-&lt;li&gt;&lt;input type="checkbox" disabled&gt; CCRT Notes&lt;/li&gt;
-&lt;li&gt;&lt;input type="checkbox" disabled&gt; Art &amp;amp; Culture - Slides&lt;/li&gt;
-&lt;li&gt;&lt;input type="checkbox" disabled&gt; Wikipedia Summary&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Extras&lt;/h4&gt;
-&lt;ul class="checklist"&gt;
-&lt;li&gt;&lt;input type="checkbox" disabled&gt; NCERT - Art &amp;amp; Culture Dictionary&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://nudginghead.github.io/posts/upsc-booklist/" style="color: #3578E5;"&gt;Click to read more…&lt;/a&gt; (2 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>booklist</category><guid>https://nudginghead.github.io/posts/upsc-booklist/</guid><pubDate>Wed, 07 Oct 2020 09:14:03 GMT</pubDate></item><item><title>Asymptotic Sequential Learning.</title><link>https://nudginghead.github.io/posts/theory/the-speed-of-sequential-asymptotic/</link><dc:creator> Hasanth</dc:creator><description>&lt;div&gt;&lt;hr&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Review of Journal of Economics Paper from Omer Tamuz's Group&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;In brief this paper tries to focus on the convergance rate and its dependencies on actions and signals. They try to prove that the convergence occurs quickly with respect to signals &lt;em&gt;external observations&lt;/em&gt; rather than actions using a two state stochastic process. Taking the case of Gaussian distribution as the signal distribution they prove that the convergence with respect to actions occurs by \(\sqrt{\log t}\) times faster. They also discuss the definitivity of the convergence. 
-&lt;/p&gt;&lt;p&gt;&lt;a href="https://nudginghead.github.io/posts/theory/the-speed-of-sequential-asymptotic/" style="color: #3578E5;"&gt;Click to read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>agents</category><category>econcomp</category><guid>https://nudginghead.github.io/posts/theory/the-speed-of-sequential-asymptotic/</guid><pubDate>Tue, 26 Jun 2018 14:05:59 GMT</pubDate></item><item><title>Deep learning Setup</title><link>https://nudginghead.github.io/posts/compsci/deeplearning_setup/</link><dc:creator> Hasanth</dc:creator><description>&lt;div&gt;&lt;hr&gt;
-&lt;h3&gt;Specifications&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;OS - Ubuntu 16.04&lt;/li&gt;
-&lt;li&gt;Graphics - Nvidia Optimus (GTX1070 + IntelHD)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;pre class="code literal-block"&gt;sudo apt-get update
-sudo apt-get upgrade
-&lt;/pre&gt;
-
-&lt;p&gt;&lt;a href="https://nudginghead.github.io/posts/compsci/deeplearning_setup/" style="color: #3578E5;"&gt;Click to read more…&lt;/a&gt; (8 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>code</category><guid>https://nudginghead.github.io/posts/compsci/deeplearning_setup/</guid><pubDate>Thu, 23 Nov 2017 01:54:00 GMT</pubDate></item><item><title>Audio Drivers Installion</title><link>https://nudginghead.github.io/posts/compsci/audiodrivers_installation/</link><dc:creator> Hasanth</dc:creator><description>&lt;div&gt;&lt;hr&gt;
-&lt;p&gt;It has been that there is a requirement of 4.11 kernel version for Realtek-ALC1220 to support. So if you too built a your new PC like me then it might be helpful to you for temporary replacement. Uninstall your alsa-base and reinstall latest version it will work fine.&lt;/p&gt;
-&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="err"&gt;sudo apt-get remove alsa-base&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-
-&lt;p&gt;Now go to http://www.stchman.com/tools/alsa/alsa_setup.sh and download the script and then do&lt;/p&gt;
-&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;sudo ./alsa_setup.sh
-&lt;/code&gt;&lt;/pre&gt;
-
-
-&lt;p&gt;This will reinstall the lastest driver in your system and reboots it.
- Precautions if you are having Hybrid Graphics(Intel + Nvidia) then it is suggested to run on Intel HD Graphics and then install. Because this driver is supported for Intel HDA versions if you try to install when you are running in NVIDIA this might cause several failures.
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Thu, 08 Oct 2020 14:37:17 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>UPSC Maths Resource</title><link>https://nudginghead.github.io/posts/upsc/upsc-maths-booklist/</link><dc:creator> Hasanth</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;em&gt;mathematics optional preparation material for UPSC exam&lt;/em&gt;
+&lt;/p&gt;&lt;p&gt;&lt;a href="https://nudginghead.github.io/posts/upsc/upsc-maths-booklist/" style="color: #3578E5;"&gt;Click to read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>booklist</category><category>maths</category><guid>https://nudginghead.github.io/posts/upsc/upsc-maths-booklist/</guid><pubDate>Thu, 08 Oct 2020 13:07:11 GMT</pubDate></item><item><title>UPSC General Studies Resources</title><link>https://nudginghead.github.io/posts/upsc/upsc-booklist/</link><dc:creator> Hasanth</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;em&gt;general studies preparation material seggregated for various staged of UPSC exam.&lt;/em&gt;
+&lt;/p&gt;&lt;p&gt;&lt;a href="https://nudginghead.github.io/posts/upsc/upsc-booklist/" style="color: #3578E5;"&gt;Click to read more…&lt;/a&gt; (2 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>booklist</category><guid>https://nudginghead.github.io/posts/upsc/upsc-booklist/</guid><pubDate>Wed, 07 Oct 2020 09:14:03 GMT</pubDate></item><item><title>Asymptotic Sequential Learning.</title><link>https://nudginghead.github.io/posts/theory/the-speed-of-sequential-asymptotic/</link><dc:creator> Hasanth</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;em&gt;a review of paper (Journal of Economics) from &lt;strong&gt;&lt;em&gt;Omer Tamuz's Group&lt;/em&gt;&lt;/strong&gt;&lt;/em&gt;
+&lt;/p&gt;&lt;p&gt;&lt;a href="https://nudginghead.github.io/posts/theory/the-speed-of-sequential-asymptotic/" style="color: #3578E5;"&gt;Click to read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>agents</category><category>econcomp</category><guid>https://nudginghead.github.io/posts/theory/the-speed-of-sequential-asymptotic/</guid><pubDate>Tue, 26 Jun 2018 14:05:59 GMT</pubDate></item><item><title>Deep learning Setup</title><link>https://nudginghead.github.io/posts/compsci/deeplearning_setup/</link><dc:creator> Hasanth</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;em&gt;installing tools for NVIDIA GPU &amp;amp; creating a deeplearing setup (caffe)&lt;/em&gt;
+&lt;/p&gt;&lt;p&gt;&lt;a href="https://nudginghead.github.io/posts/compsci/deeplearning_setup/" style="color: #3578E5;"&gt;Click to read more…&lt;/a&gt; (8 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>code</category><guid>https://nudginghead.github.io/posts/compsci/deeplearning_setup/</guid><pubDate>Thu, 23 Nov 2017 01:54:00 GMT</pubDate></item><item><title>Audio Drivers Installion</title><link>https://nudginghead.github.io/posts/compsci/audiodrivers_installation/</link><dc:creator> Hasanth</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;em&gt;repairing (installation) audio drivers of Debian PC&lt;/em&gt;
 &lt;/p&gt;&lt;p&gt;&lt;a href="https://nudginghead.github.io/posts/compsci/audiodrivers_installation/" style="color: #3578E5;"&gt;Click to read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>code</category><guid>https://nudginghead.github.io/posts/compsci/audiodrivers_installation/</guid><pubDate>Fri, 17 Nov 2017 05:36:00 GMT</pubDate></item></channel></rss>

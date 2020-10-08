@@ -1,4 +1,4 @@
-.. title: UPSC Booklist
+.. title: UPSC General Studies Resources
 .. slug: upsc-booklist
 .. date: 2020-10-07 14:44:03 UTC+05:30
 .. tags: booklist	
@@ -7,9 +7,13 @@
 .. description: 
 .. type: text
 
-# Book List
+*general studies preparation material seggregated for various staged of UPSC exam.*
+<!-- TEASER_END -->
+
+***
 
 ## Art & Culture
+
 ### Prelims & Mains
 - [ ] 11th NCERT - 1
 - [ ] 11th NCERT - 2
@@ -19,8 +23,6 @@
 - [ ] Wikipedia Summary
 ### Extras
 - [ ] NCERT - Art & Culture Dictionary
-
-<!-- TEASER_END -->
 
 ## Ancient History
 ### Prelims
