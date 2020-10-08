@@ -913,15 +913,14 @@ a {
 	/*margin-left: 30%;
 	margin-right: 30%;*/
 margin: auto; 
-max-width: 700px;
-padding-top: 0.5rem;
+max-width: 650px;
+padding-top: 0.75rem;
 padding-bottom: 0.5rem;
-padding-left: 1rem;
 
 }
 
 .headscolor {
-	background-color: white;
+	background-color: lightyellow;
 }
 
 .headsborder {
@@ -940,7 +939,7 @@ padding-left: 1rem;
 }
 
 .dotscolor {
-	background-color: white;
+	background-color: lightyellow;
 }
 
 .dotsborder {
@@ -953,7 +952,7 @@ padding-left: 1rem;
 }
 
 .bg-light {
-  background-color: white !important;
+  background-color: lightyellow !important;
 }
 
 h1, .h1 {
