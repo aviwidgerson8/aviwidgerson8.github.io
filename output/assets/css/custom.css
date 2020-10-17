@@ -1,12 +1,13 @@
 body{
   color: #1a1a1a;
   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  font-size: 0.88rem;
+  font-size: 1rem;
   }
 
 a {
   color: #bf1818;
   text-decoration: none;
+  font-weight: 500;
   background-color: transparent; }
   a:hover {
     color: #3578E5;}
@@ -44,39 +45,39 @@ padding-bottom: 0.5rem;
 }
 
 .headscolor {
-	background-color: lightyellow;
+	background-color: white;
 }
 
 .headsborder {
-	border-style: solid;
-	/*border-top-style: none;*/
+	/*border-style: solid;*/
+	border-top-style: none;
   border-bottom-style: none;
-  border-top-left-radius: 0.5rem;
-  border-top-right-radius: 0.5rem;
+  /*border-top-left-radius: 0.5rem;*/
+  /*border-top-right-radius: 0.5rem;*/
 }
 
 .headingborder {
-  /*border-style: none;*/
+  border-style: none;
   /*border-bottom-style: solid;*/
   padding-bottom: 0.5rem;
 
 }
 
 .dotscolor {
-	background-color: lightyellow;
+	background-color: white;
 }
 
 .dotsborder {
-	border-style: solid;
-	/*border-top-style: none;*/
-	/*border-bottom-style: none;*/
+	/*border-style: solid;*/
+	border-top-style: none;
+	border-bottom-style: none;
 	padding-top: 1rem;
-	border-bottom-left-radius: 0.5rem;
-	border-bottom-right-radius: 0.5rem;
+	/*border-bottom-left-radius: 0.5rem;*/
+	/*border-bottom-right-radius: 0.5rem;*/
 }
 
 .bg-light {
-  background-color: lightyellow !important;
+  background-color: white !important;
 }
 
 h1, .h1 {
@@ -86,27 +87,29 @@ h1, .h1 {
 
 h2, .h2 {
   font-size: 1.5rem;
-  font-weight: 500;
+  font-weight: 600;
+  color: firebrick;
 }
 
 h3, .h3 {
   font-size: 1.4rem;
-  font-weight: 500;
+  font-weight: 600;
+  color: seagreen;
 }
 
 h4, .h4 {
   font-size: 1.2rem;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 h5, .h5 {
   font-size: 1.1rem;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 h6, .h6 {
   font-size: 0.8rem;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 #footer{
@@ -121,7 +124,7 @@ h6, .h6 {
 }
 
 .navbar-light .navbar-brand {
-	font-size: 1.9rem;
+	font-size: 2.1rem;
 	font-weight: 500;
 	color: #3578E5;
 }
@@ -134,7 +137,8 @@ h6, .h6 {
   font-weight: 500; }
 
 .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
-    color: #000000; }
+    color: #000000;
+    font-weight: 500;}
 
 .page-link {
   position: relative;
@@ -222,5 +226,6 @@ h6, .h6 {
 	padding: 0.4rem;
 	font-size: 90%;
 }
+
 
 
