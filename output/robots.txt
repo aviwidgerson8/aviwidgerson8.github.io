@@ -1,4 +1,4 @@
-Sitemap: https://nudginghead.github.io/sitemapindex.xml
+Sitemap: https://jeanbourgain8.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: nudginghead.github.io
+Host: jeanbourgain8.github.io
