@@ -952,35 +952,37 @@ padding-bottom: 0.5rem;
 }
 
 h1, .h1 {
-  font-size: 1.7rem;
+  font-size: 1.9rem;
   font-weight: 600;
 }
 
 h2, .h2 {
-  font-size: 1.5rem;
-  font-weight: 600;
+  font-size: 1.7rem;
+  font-weight: 500;
   color: firebrick;
 }
 
 h3, .h3 {
-  font-size: 1.4rem;
-  font-weight: 600;
-  color: seagreen;
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: #3578E5;
 }
 
 h4, .h4 {
-  font-size: 1.2rem;
-  font-weight: 600;
+  font-size: 1.3rem;
+  font-weight: 500;
+  color: firebrick;
 }
 
 h5, .h5 {
   font-size: 1.1rem;
   font-weight: 600;
+  color: seagreen;
 }
 
 h6, .h6 {
   font-size: 0.8rem;
-  font-weight: 600;
+  font-weight: 300;
 }
 
 #footer{
