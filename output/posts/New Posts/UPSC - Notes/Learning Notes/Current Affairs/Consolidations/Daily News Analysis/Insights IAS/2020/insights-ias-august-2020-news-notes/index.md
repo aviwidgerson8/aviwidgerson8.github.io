@@ -1,0 +1,502 @@
+.. title: Insights IAS - August'20 News Analysis Notes
+.. slug: insights-ias-august-2020-news-notes
+.. date: 2020-08-01 
+.. tags: upsc, insights ias, news analysis, notes
+.. category: upsc-pages
+
+*consolidated notes of monthly current affairs amagazines*
+<!-- TEASER_END -->
+
+***
+
+## 1st Aug 2020
+- Parties appoint chief whips among the legislators of the house, he can also be assisted by additional whips
+	- whip system was inherited from British Parliamentary System 
+- In cases of Presidential elections whips cannot be applied
+- one-line whip - issued to inform members of a party about a vote where a member can abstain incase he doesn't wish to follow the party's line with prior information followed
+- Kihoto Hollohan Case, 1992 ? 
+- Gramodyog Vikas Yojana ? Min. of MSME has approved a program to benefit artisans in manufacturing agarbatti as a pilot project
+- Smog Towers ? structures designed to work as large scale air purifiers
+	- SC has directed Delhi govt. & CPCB to submit a plan of setting up such towers, these towers have shown a positive result in case of China, Netherlands, South Korea & Poland
+	- it could potentially reduce 50% of particulate matter load in air
+	- Since 2014, Delhi has been ranked one among the most polluted cities in the world 
+	- to tackle the pollution control spikes measures such as GRAP (Graded Response Action Plan)  are taken
+- National Clean Air Programme ?
+- A report by UNICEF + Pure Earth says that 1 in 3 children - upto 800M globally the lead levels in blood are above 5micrograms/decilitre - the amount at which action is required & half among these live in South Asia
+- Lead is a potential neurotoxin which can cause irrepairable harm to childrens brain & behaviour
+- Childhood lead exposure is estimated to cost almost 1T USD to lower+middle income countries
+	-  informal & substandrad recycling of lead-acid batteries & increase in vehicles ownership, open-air fumes emitting the toxic fumes etc. are some reasons for the increase of lead
+	- lead can be released into blood during pregnancy which was accumulated into the body becoming source of problem to the foetus
+- What the chemical that WHO identified as a mjor public concern ? 
+- WHO also joined UNEPs program - Global Alliance to eliminate lead paint ? 
+- What is the protocol of resolving water disputes - as of with tribunals & SC ? 
+- Mullaperiyar Dam though it exists in Kerala is operated by Tamil Nadu due to an agreement between - Maharaja of Travancore & then Secretary of State for India
+	- the dam redirects the flow into BoB instead of Arabian Sea
+	- it is located at the confluence of Mullaya & Periyar #river ? locations ? river plains region ? 
+	- In 1970s the agreement was renewed giving the rights of land & water - hence TN pays rent to Kerala , the authority also conceived to develop hydropower project but the increase in levels of dam has a potential problem of withstanding/earthquakes, 
+	- as per CWC a recommendation was made to lower the water level but only further increase if necessary measures are taken. 
+	- In 2006, SC directed that Kerala to not object the increase in level raise, so in response Kerala ammended -  Irrigation Water Conservation Act, 2003 to counter in last SC struck down the act as unconstitutional and directed GoI + Kerala + TN to prepare a contingency plan in case of disaster
+- Central Water Commission ? 
+- Interstate #river Waters Disputes Act, 1959 ? 
+- SKOCH Gold Award ? as highest civilian honour in the country conferred by an independent institution - it was awarded to Min.  of Tribal Affairs for its "Empowerment of Tribals thourgh IT enabled Scholarship Schemes" project
+- Muslim Women( Protection of Rights on Marriage) Act ? 
+- UN Economic Commission for Europe (UNECE ) ? 
+- What are the five regional commissions of UN ? 
+
+## 3rd Aug 2020
+- Khukri is a signature weapon of Ghorka rifles
+- 1947 pact on Gorkha soldiers ? after independence the 10 regiments of Gorkha soldiers was settle by Britain-India-Nepal tripartrite agreement
+- recently Nepal has raised an objection of gorkhas serving in Indian military & is planning to terminate 1947 agreement
+- Treaty of Sugauli ? Anglo-Nepalese War (1814-16)? 
+- J&K's Public Safety Act ? more than 500 people were booked under PSA since Aug-5, 2019
+	- it is a preventive detention law, under this a person is taken into custody to prevent him from acting in any manner that is prejudicial to the security of state or maintainance of the public order, any person above 16 can be detained for 2 years (without trial)
+	- it comes into force when Divisional Commissioner or Magistrate orders & authority need not disclose any facts about the detention, which it considers to be against the public interest to disclose
+	- Adminstrative Detention ? (1 year)
+	- it was introduced to prevent the smuggling of timber
+- Article 370 ? Article 35A ? 
+- What are the powers of courts in uptaking cases of Habeus Corpus ? more than 600 petitions were filed before HC of UT - K&K and not even 1% of them have been decided 
+- Article - 22(3) ? If a person is arrested or detained under any law providing for preventive detention, then the protection against arrest & detention under Article - 22(1) & 22(2) shall not be available
+- Production Linked Incentive Scheme - MeiTY ? National Policy on Electronics ? promotes domestic manufacturing and attracts large investments in electronics value chain ? 
+	- investment done by companies on land & buildings for the project will not be considered for any incentives or determine elgibility of the incentive offered by the scheme
+- What is meant by term value chain ?
+- Electronics Sector suffers disability of around 8.5-11% on lack of infra, domestic supply chain & logistics, power, cost of finance, R&D & inadequate skills etc.
+- BeiDou - Navigation Satellite System Constellation
+	- it is prime importance in allowing China's military to employ this navigation guded system to perform conventional strike operations
+- GPS is owned by US, GLONASS by Russia, Galileo by EU & NaVIC by India are all navigational satellites systems
+- Geostationary Orbit vs Geosynchronous Orbit ?
+- National Transit Pass System - an online transit pass generation system for timber, bamboo & other forest produce by Min. of Environment
+- Smart India Hackathon was organised jointly by MRD + i4C ? etc.
+- Bharath Air Fibre Services ? aims to provide wireless conectivity in range of 20kms from BSNL locations thsu it cnaa be accessed even at remote locations
+- NEP has droppped Mandarin from its list of examples of foreign languages which can be taught in schools
+- Barakh Nuclear Energy Plant ? UAE, was built with the help of Korea Electric Power Corp.
+- Agatti Island ? location
+- What are atolls ? 
+
+## 4th Aug 2020 
+- SC in a contempt case against form Madras HC Judge C.S.Karnan has held that law of contempt is not made for the protection of judges who may be sensitive to the winds of opinion, they are supposed to be men of fortitude, able to thrive in hardy climate
+- Article-129 grants the power of contempt, to be utilized in administration of justice
+- What is the current relevance of Criminal Contempt of Court today ? 
+- Code of Social Security, 2019 ? parliamentary committee has made fe recommendations which are 
+	- regarding graduity payment time & to extend the benefit to all kinds of employees
+	- a welfare fund must be constituted for inter-state migrant workers, contribution is to be made in proportions - sending state, recieving state, principal employers & migrant workers
+	- Registration of all kinds of employees (agri, no-agro, contract, self-employed etc.) under one body and make it respondible for the provisions of social security for all types workers
+- Building & Contruction Workers Welfare Funds(B&CWF) ? enabling a mechanism for inter state portability of the funds irrespective of the source  state of cess collection
+	-  it is raised by levying a cess of 1% on construciton cost
+	- it is part of Building & Other Construction Workers(BOCW) Act, 1996
+- What are the four labour codes that are replacing 44 labour laws ?
+- Draft Defence Production & Export Promotion Policy 2020 ? 
+	- to achieve a trunover of 35B USD (175K Cr rupees) including export of 5B USD(35KCr rupees) in Aerospace & Defence goods & services by 2025
+	- share of domestic procurement in overall defence procurement is 60%, to enhance it is incumbent that procurement is doubled from current 70K Cr by 2025
+- Technology Assessment Cell ? to assess the industrial capability of design, development & production, including re-engineering for production of major systems (armoured vehicles, subamariens, fighter jets etc.)
+- All India Kisan Sangharsh Coordination Committee (AIKSCC) ? announded a "Corporates leave Farming" campaignagainst centres ordinances in agri & farming issues
+- What are the recent changes made in agric laws
+	-  **Essential Commodities(Amendment) Ordinance, 2020** ? it allows for regulating the supply & stock limit of certain specified agricultural produce un der extra-oridnary situations (calamities etc.)
+		- price range fluctiation allowed is narrow
+		- stock limit regulation will not be applicable for value chain participants of any agricultural produce if their sotck limit lies within the installed capacity
+		- will not apply for exporters which can show demans for their export
+	- **Farmers Produce Trade & Commerce (Promotion & Facilitation) Ordinance, 2020** ? it seeks to effectiuvely bypass the APMC markets by providing for the freeodm to trade in any area outside of private & APMC markets
+		- local farmers not finding adequate demand for their produce at MSP in local markerts
+		- most of the farmers being small or marginal landowners their cannot bear the logsitical cost inorder to make their produce travel longer distances leading to selling at lower price than the MSP  at local markets
+	- **Farmers (Empowerment & Protection) Agreement on Price Assurance & Farm Services Ordinance, 2020** ? seeks to create a legal framework for contract farming in India
+		- contract by nature itself involves two sides making a negotiation where farmer being of less powerful makes it unlikely becoming a negotiation
+		- quality parameters will be mutually decide in making an agreement but this unifromity of need by the corporate would result in decrease in diversity (agro-ecological one) in the country
+- What is Model Contract Farming Act ? 
+- Gulf of Mexico ? 
+- Crew Dragon becomes the first space vehicle to launch humans from USA in 9 years
+- Leapords are habituated to live in the edges of the forests & human habitats, whereas tigers are just opposite of it  - elusive in nature, hence the total reporting cannot be made of the leapords by using the cameras that were used to survey the tiger numbers
+- its more imperative to reasearch better conservation strategies  of leapords rather than counting, which are already enough in number and widely distributed, in a century the leapords population has fallen down to 1/10
+- Degradation of Aravali threatens NCR's water security, high levels of cracks and fissures make it a superior zone for recharging groundwater
+- Aravali moutatin range ? one of the oldest fold mountains in the world - it joins two of ancient earths crust segements - Aravalli Craton + Bundelkhand Craton
+- What does a Craton mean ? 
+- Valley of Banas ? 
+- Pipli Ghat ? Dewari ? Desuri are passes 
+- Banas, Sahibi rivers are tributaries of Yamuna & Luni #river all arise from Aravalli Range (Great Green Wall - acts as buffer against pollution)
+- Shivalik Range ? 
+- Galapagos Islands ? are part of Ecuador
+- Cold Humboldt Current ? it brings a high concentration of nutrients to the ecuadors islands this results in high congregation of marine species
+- Northern Ireland's 1998 peace Agreement ? 
+- Electronic Vaccince Intelligence Network(eVIN) ? being implemented under National Health Mission ? eVIN aims to provide realtime information on vaccine stocks and flows & storage tempts across all cold storage chain points in the country
+
+## 5th Aug 2020
+- Who is Raja Suhaldev ? 
+- Nagar Style Architecture ? usually doesn't have any boundary walls or water tank in temple premises, also the pradhakshina patha is covered
+	- shikara? Kalasha ? Garbagriha ? amalaka ? mandapas ? plinth
+	- nagara architecture can be divided into different schools - Odisha, Khajuraho, Solanki etc.
+- Dravida Style Architecture ?
+	- Gopuram ? Mandapa ? Garbagriha ? Vimana ? Shikara ? 
+- Vesara Style Architecture ? 
+- Higher Education Financing Agency (HEFA) ? joint venture of MHRD & Canara Bank - 90.91%, 9.09% equity respectively
+	- HEFA is registered as a non-deposit taking NBFC with RBI under Companies Act, 2013
+	- it will mobilize resources from the market by way of equity from individuals/corporates by issuing bonds to finance the requirements
+	- channelizes CSR contributions from companies & donations for various schemes
+	- all educational institutions setup/funded by various ministries will be allowed for financing their capital expenditure from HEFA
+- RISE 2022 - Revitalising Infrastructure & Systems in Education?
+	- under RISE, HEFA's scope has greatly expanded from financing of HEIs to extent of 20KCr
+	- it prosposes to accelerate investment in these institutions to 1Lakh Cr over next 4 years
+- To what extent can the courts(judiciary) intervene in the proceedings of govt.(executive)
+- Which states have multiple capitals divided for divisions like in AP ? Maharashtra (Mumbai, Nagpur) , Himachal Pradesh (Shimla,Dharmashala) , J&K (Srinagar,Jammu)
+- AP state govt. backs its proposition that the decentralization has been mentioned as central theme by various committees - N. Srikrishna, K Sivaramakrishnan, GN Rao Committee etc.
+- logistics & operations of officers & common people are sighted as main point of dispute against this decision 
+- What are the norms of PIL ? 
+- As per UN due to pandemic 1.6B learners have been affected due to disruption of the educational systems
+- almost 24M are at the risk of not returning to schools due to economic fallout of pandemic
+- girls & young women are disproportionately affected as school closures make them more vulnerable to child marriage, early pregnancy & gender-base violence
+- Programme for International Student Assesment (PISA) says
+	- a loss of learning of 3 months during grade-3 might result in 72% of students falling behind that by grade-10, resulting in a 16K USD lost in earnings over students lifetime ~ 10T USD globallly lost, also increases the financial gaps to fufill the SDGs
+- US executive order bans its federal agencies from hiring H1-B visa holders for its contract operations
+	- of 65K new visas granted every year, 1800-2K (3%) are H-1Bs granted to workers employed by federal agencies & 70% of H1-Bs go to people of India
+- Parivar Pehachan Patra ? provides a unique identity to complete family, with a head of the family mentioned, this will help various govt. schemes launched by it to reach its door steps
+- Beirut ? location ? Lebanon location ? 
+- Ammonium Nitrate ? characteristics ? 
+
+## 6th Aug 2020
+- Green Line ? Thalweng Doctrine in International Maritime Law ? river boundaries between two state may be devided by the mid-channel if the water body is navigable 
+- Gulf of Kuchchh, Gulf of Khambat
+- Criminal Defamation has been specifically defined as offence under Sect-499 of IPC
+- Civil Defamation is based on a tort law - area of law which does not rely on statutes to define wrongs but takes from every increasing body of case laws to define what would constitute a wrong
+	- very similar to that contempt of court even defamation has exceptions - imputation of truth, which is required for the public good & thus been published
+		- public conduct of govt officials - the conduct of persons touching any public question & merits of public performance
+	-  in Subramanian Swamy vs Union of India case 2014, the court approved the constitutitonal validity of Sect-499 & 500 in IPC - individual's fundamental right to live with dignity cannot be ruined solely because another individual can have his freedom
+- Bru-Reang Crisis ? 
+- Brus are recognized as PVTG in the state of Tripura
+- Brus fled from Mizoram in 1997 after ethinic voilence, they are now spread across Tripura, Assam, Manipur & Mizoram
+- In Jan 2020, centre signed a pact for permanent solution for the crisis, the agreement was made b/w Union, State govts. of Tripura & Mizoram & Bru-Reang reps, 
+- JMC(joint movement committe) was formed and submitted its memorandum to Tripura six places in North Tripura District with a cap of 500 families in each cluster, this has been opposed by the Bru community due to involvement of non-brus in JMC and the six places lack conncetivity by roads to necesseary places & electricty
+- What are the vows made by govt. for Brus resettlement ? 
+- NGT has struck down the CGWA 2020 guidelines, it has specifically banned the general permission for the withdrawal of groundwater, especially to commercial entitites without EIA, it has mentioend that permits should be given for permitted quantities of water which are to be measure by digital flow meteres and audit for every year should be conducted
+- What is water mapping ? 
+- Authorities are given 3 months to make water management plans for all overexploited, critical & semi-critical areas
+- India was at the bottom of the water quality index at 120 among 122 countries 
+- 54% of India's groundwater wells have decreased in levels with 21 major cities expected to run out of groundwater by 2020
+- India accounted for 25% of total annual ground water extracted, with it still increasing
+- Atal Bhujal Yojana ? 
+- Centre Water Commission ? 
+- Ammonium Nitrate is a white crystalline water soluble chemical compound - ingredient of fertilizers, mining explosives etc.
+- UN classification of dangerous goods ? 
+- In India Ammonium nitrate usage is regulated by specific Ammonium Nitrates Rules, 2012 and other common acts
+- Pure Ammonium Nitrate doens't explode easily - it decomposes at higher temperatures and later can explode with presence of impurities
+- Pokkali Variety of Rice has GI tag, it's endemic to Kerala and is unique due to its taste & high protein content
+- Powers of NGT ? 
+- States whihc have the GI tag of Basmati Rice ? Punjab, Haryana, Himachal Pradesh, Uttharakhand, Delhi, Western UP & select districts of J&K
+
+## 7th Aug 2020
+- Abindranath Tagore created the Indian Society of Oriental Art & later established Bengal School of Art, he believed that indian art stressed on spirituality unlike the western's stress on materialism
+- His works rounded most around Hindu Philospohy, in later staged he integated Chinese & Japanese caligraphic traditions to cosntruct an amalgamation of modern pan-asian artistic tradition
+- He also was a literary and concentrated his writing more on children - Budo Angla, KhirerPutul, Rajkahani are some of his works
+- Who is Kudhiram Bose ? 
+- What is Black Rain ? 
+- Little Boy - Hiroshima, Fat man - Nagasaki
+- What is battle of Midway ? 
+- Articles 148-151 mention about the CAG in the constitution
+- CAG is appointed by the president & holds the office for a period of 6 years or till he attains age of 65 whichever is earlier
+- CAG othe than Centre & State govts. accounts also audits receitps & expenditures of all bodies & authorities substantially financed by the govts. revenues(centre & state) - govt. companies, other corporations & bodies when so required by related laws
+- He submits 3 reports - Audits reports on Appropriation Account, Finance Account & Public Undertakings
+- CAG along with its aduditory functions also performs the performance as well as efficiency audit to question executives wisdom & economy in order to identify cases of improper expenditure & waste of public money
+- CAG though is appointed by president doesn't hold office on the pleasure of the president, post of this he is not eligible for any further office, salary is equal to that of supreme court of India
+- After his appointment neither his salary, nor rights in respect of leave of absence, pension or age of retirement can be altered
+- Administrative expenses are charged directly from Consolidated Fund thus they are not subject to vote of the parliament
+- Article 145(3) ? minimum number of judges to sit for the purpose of deciding any case involving a substantial question of law as to the interpretation of constitution shall be five
+- Supreme Court rules, 2013 - usually writs in respect to fundamental rights will be addresse by a bench of two and if the case raises substantial questions of law then it shall be addressed by 5 member bench
+- As per Basic Structure, the special protections were gaurenteed for socially disadvantaged groups where as the EWS was made on the basis of economic status, it also violates Indra Sawhney vs Union of India which upheld Mandal Commission capping reservation to 50%, in this ruling the court held that economic backwardness cannot be considered as a sole criterion in identifying the backward class
+-  Articles 15(6) , 16(6) ? 103rd Amendment Act ? the decision is left to the state if it would take EWS category in its appointments to public offices
+- Centre also argues tha Article - 46 (DPSP) says state has the duty to protect the interests of economically weaker sections
+- What is the ruling of Ashok Kumar Thakur vs Union of India , 2008 case ? regarding the 27% quota for OBCs
+- Which sectors have the Priority Sector Lending Status(PSL) in India, RBI has added India's startup to priority sector lending
+- RBI guidelines on PSL for Scheduled Commercial Banks ? 
+	- 40% of total net bank credit shoudl go to PSL
+		- 10% of PSL or 10% of total bank credit whichever is higher should go to the weaker sections
+		- 18% of total net bank credit for agriculture, out of it 8 percent of ANBC or Credit equivalent of Off-Balanced Sheet Exposure whichever is higher is prescribed for Small & Marginal Farmerrs & 5 should go to Micro Enterprises
+- What is ANBC ? Adjusted Net Bank Credit ? 
+- Agriculture, MSME, Export Credit, Education, Housing , Social Infra, Renerwable Energy etc. included in PSL categories
+- Priority Sector Lending Certificates ? a mechanism to enable banks to achieve PSL targets & sub-targets by purchase of these instruments in the event of shortfall, 
+- How can PSL Certificates be used  ? other ways ? 
+- Rashtriya krishi Vikas Yojana ? scheme incentivizes public investment in Agri & allied Sectors & to develop farming as a main source of economuic activity, centrally sponsored scheme
+	- a component, Innovation & Agriprenuership program has been launched by Min. of Agriculture under RKVY - providing financial support and nurturing the incubation ecosystem
+	- Mentorship(10K/month), Idea/Pre-Seed Stage Funding(upto 5L) , Seed Stage Funding of Agri-prenuers (upto 25L)
+- RKVY-RAFTAAR ? 
+- UNESCO-IOC ? Intergovernmental Oceanographic Commission ? to promote tsunami preparedness trhough active collaboration of public, leaders & national + local emergency management agencies
+	- it is the only competent oraganization for marine science within UN system
+- National Handloom Day is celebrated to commemorate Swadeshi Movement on Aug 7th ? 
+- CKisan Rail ? 
+- Chinese Pangolin has been listed as critically endangered, India only 2 species of pangolins are found - Chinese & Indian( has been listed as endangered), pangolins are most illegally traded vertebrate within the class of mammals
+- What is Violations Committee in EIA Draft, 2020 ? 
+
+## 8th Aug 2020
+- What is Anglo Boer War ? 
+- Indian National Flag designed by Pingali Venkaiah was adopted by INC in 1931
+- TRIFED ? under the authroity of Min. of Tribal Affairs, it is involved actively in capacity building of the tribal people through sensitization & formation of SHGs
+- Surplus Argicultureal Produce is also part of TRIFED trade
+- Van Dhan Samajik Doori Jagrookta Abhiyaan ? aimed in educating tribal people engaged in gathering forest produce to maintain norms of social distancing & hygiene
+- TRIFOOD Scheme ? joint initiative by Min. of Tribal Affaris & Min. of Food Processing & TIRFED
+- Van Dhan Yojana ? 
+- Permanent Court of Arbitration ? 
+- The judgement of Italian marines case delivered by PCA is in conflict with that of SC judgement in 2013, so an international award which is in conflict with a domestic law, notwithstanding India's ratification of UNCLOS can be implemented only if it is made into law under Article-253 of the constiution 
+- What was NIA's mistake in enrica lexis case ? 
+	- Suppression of Unlawful Acts against Safety of Maritime Navigation & Fixed Paltforms on Continental Shelf Act, 2002 ? 
+	- NIA seems to have attached case in regards to damage of ships rather than of life, hence the case seems to have turned upside down
+- ITLOS ? International Tribunal for Law of Sea
+- What is Arakunomics ? it is new integrated economic model that ensures profits for farmers, quality for consumers through regenerative agriculture
+	- it was one among the finalists of Food Vision Prize 2020
+	- successes of this model to support the livelihood of farming was also replicated in villages of Wardha, Maharasthra & New Delhi and it hope to expand its foot-print by creating thousands of farm livelihoods by transforming their agriculture over 1M acres spread across India
+	- it follows ABCDEFGH approach ( Agriculture, Biology, Compost, Decentralised decision-making, Entrepreneurs, Families, Global Markets, Headstands or turning current approaches on their head)
+- Electric Vehicle Policy of Delhi govt. ? 
+	- with this policy delhi aims to generate employement and reduce the pollution levels in the capital region
+	- aims to constitute 25% e-vehicles by 2024 where currently it is 0.29%
+	- give incentives upto 30K for 2,3 weelers and for cars 1.5L
+	- EV Cell to implement the policy & also State Electric Vehicle Board
+	- 200 charging stations 
+	- Scrapping Incentives
+- As per TRAFFIC study out of 747 leapord deaths- 596 are linked to illegal wildlife trade & activites related to poaching in 2015-19
+- Skin has been most in-demand product and it constiuted 69% of the seizures
+- As per last formal census conducted on leapords, 2014 estimated a population of 12k-14K
+- TRAFFIC - Wildlife Trade Monitoring Network, a leading NGO was founded as a strategic alliance of WWF & IUCN
+- World Wildlife Fund for Nature ? 
+- K.V. Kamath Committee ? RBI constituted to make recommendations on norms for the resolution of Covid19 related stressed loans ? 
+- Business Confidence Index ? conducted by NCAER quarterly, tracks business sentiments of 600 Indian companies to compute a composite Index 
+- Loya Jirga - considered as a  highest expression of Afghan people, a mass national gathering. recently a 3 days LoyaJirga has been called to decide about the freeding of 400 taliban fighters
+- Kavkaz 2020 ? a strategic command-post exercise, invitees also include China, Pak & other SCO members
+
+## 10th Aug 2020
+- Cripps Mission ? 
+- August Kranthi ? 
+- Quit India Movement ? First half was peaceful protest till Gandhi's release, the later half with raids and setting fire at post offices, govt. buildings & railways stations. Lord Linlithgow adopted a policy of violence
+	- Lack of leadership, lead to not well-coordinated progress of the movement
+	- Some parties didn't support the movement - Muslim League, Hindu Mahasabha, Communist Party of India
+- Aruna Asaf Ali ? Grand Old Lady of the Independence movement, for hoisting Indian Flag at Gowalia Tank Maidan during Quit India Movement
+- Usha Mehta helped in setting up an underground radio station
+- Article - 316 ?
+- The chairman of Public Service Commission is appointed by president in case of centre and tenure is of 6 years or 65 years which ever is earlier, post the stint hee would ineligible to hold that office again
+- Article - 317 ? removal of chairman can only be done by the order of president on ground of misbehaviour after the SC, on reference being made to it by the president, has on inquiry held in accordance with Article-145 ? 
+- SAMA - an online dispute resolution platform, recognized by Dep.t of Justice through video conference
+- Lok-Adalat ? E-Lok Adalat ? 
+- Lok Adalats are one of the alternative dispure redressal mechanisms
+	-  it derives it basis from Article-39A - which mentions the provision for free legal aid to the deprived & weaker sections to promote justice on the basis of equal opportunity
+	- under Leagal Services Authorities, 1987 lok adalats were given statutory status
+	- the decisions of lok adalats are considered equal to the verdict of civil court & is binding on all no appeal can be filed against the appeal but one is free to initiate litigation
+	- any matter relating to an offence not compundable under the shall not be settled in Lok Adalat
+- Defence Min. has vowed that 101 items will be stopped from importing from abroad and this will be done in a progressive manner from Dec 2020 - Dec 2025, it plans to reduce dependence on imported items in defence and support domestic defence manufacturing industry
+- As per Stockholm International Peace Research Institute - India has been the second largest importer b/w 2014-19 with 16.75B USD worth
+- Indus Water Treaty ? 
+	- led by Indus Water Commissionsers from both countries
+	- water distribution treaty signed in 1960 Karachi was b/e then PMs & mediated by World Bank, as per that India has control over water flowing in eastern rivers - Beas, Ravi, Sutlej
+	- Pak has control over - Indus, Chenab & Jhelum
+	- both sides meet twice a year to dicuss the technicalities and monitor the water flow and quantums 
+- Agriculture Infrastructure Fund ? 
+	- scheme shall provide a medium - long term debt financing facility for investment in viable projects for post harvest manageement infrastructure & community farming assets through interest subvention(by 3% upto 2 Cr and max for 7 years) & financial support, it will be for 10 years
+	- 1 lakh Crore will be provided for Primary Agri Credt Societites (PACS), Marketing COoperative Socieites, FPOs, SHGs, Farmers Joint Liability Group etc.
+	- CGTMSE will be available for eligible borrowers ? 
+- Gandagi Mukt Bharat ? 
+
+## 11th August 2020
+- Rajgrih ? Bodhgaya ? Varansi ? Kushinagar ?  places visited by Gautam Buddha in pirsuit of spiritual experience
+- Magadha Kingdom (one of 16 Mahajanapadhas ) ? included republic communities - Rajkmura, villaged had own assemblies under local chief - Gramakas
+	- Bimbisara & Ajatasatru were two famous Magadha rulers
+- | #river Champa ? #river Son ?
+- When were Vedas scritpted ? 
+- Geothermal Springs ? produced bu the emergence of geothermallu headeted hroundwater that rises from the earth's crust
+- Garhwal regions - Uttarakhand ? 
+- International Finance Corporation ? offers investment advisory & asset management services to encourage private sector development in developing countries
+	- was established as private sector arm of the WorldBank Group, to advance development by investing in for profit & commercial projects that plan to reduce poverty & promote development
+![IFC](https://www.insightsonindia.com/wp-content/uploads/2020/08/world_bank_group.jpg)
+- International Development Association ? 
+- International Bank for Reconstruction & Development ? 
+- Open Data Initiative ? by World Bank 
+- National Infrastructure Pipeline 
+	- sharing would be 39:40:21 - Centre: State : Private Players
+	- Energy, ROads, Urban, Railways constitute 70% of the projects
+	- Atanu Task Force committee is associated with 
+- What is India Investment Grid ? 
+- Universal Service Obligation Fund ? MeitY
+- Submarine Commuications Cable ? 
+	- to estabish better connectivity from Chennai to Port Blair & 7 other islands - Swaraj Deep, Long Island, Rangat, Hutbay, Kamorta, Car Nicobar & Campbell Bay 
+- What are Biofuels ? fuels produces from living organic matter within short periods of time, can be in solid, liquid & gaseous states
+	- 1st Gen Bio-fuels - made form feedstock, materials can also be consumed as food
+	- 2nd Gen Bio-fuels - produced from sustainable feedstock, no food product can be considered as second generation bio-fuel -  Advanced Biofuels
+	- 3rd Gen Bio-fuels - produced form algae
+	- 4th Gen Biofuels - crops genetically engineered to take in high amounts of carbon are grown to be converted into biofuels (using methods similar to those of 2nd Gen)
+- National Policy on Biofuels ?
+- Surakshya - National Portal on human elephant conflict, collection of information in real time to manage conflicts
+- Rights of Persons with Disabilities Act, 2016 ? 
+- Mission on Agriculture Mechanization ? 
+- A significant decline was observed in respect of in care utilization under PMJAY where claims fell by 50% with variations in states, in Assam the decline was about 75% and concerning was significant decline in admissions for child delivery & oncology
+- Famers Produce Trade & Commerce (Promotion & Facilitation) Ordinance ? 
+- Farmers (Empowerment & Protection) Agreement on Price Assurance and Farm Services Ordinance ? 
+
+## 12th August 2020
+- Mt. Sinabung - Sumatra, Indonesia
+- Thin lava vs Thick lava which is more explosive ? 
+- Pacific Ring of Fire extends through which countries ? 
+- What is a Complex Valcano ? 
+- Clause 6 of Assam Accord ? it was signed in 1985  in consequence to Assam Agitation (1979-85) - appropriate cosntitutional, legislative, administrative safegaurds be provided to protect, preserve & promote, cultural, social, linguistic identity & heritage of the people of Assam
+	- A committe was appointed by MHA headed by retired judge - Biplab Kumar Sarma
+		- committe recommends - all communities - indigeneous & living from or before Jan - 1,1951 & their respective descendants will be considered eleigible for safegaruds gaurenteed to Assame people, this means that thought the migrants (1951-1971) having Indian Citizenship will not be eligible to these safegarud under Clause 6 of Assam Accord
+- What are the safegaurds promised to Assamese people ? 
+- Hindu Succession (Amendment) Act, 2005 ? women were given the right to be coparceners or joint legal heirs as the same way male heir does - doesn't depend on whether father is alive or not when the law was enacted in 2005
+	- Law applies to ancestral property & to intestate succession in personal property - succession per law not through will
+- What is a review petition ? 
+- What is Shillong Accord ? 
+- What is 2015 Naga Framework Agreement ? sharing the sovereign power & provide for an enduring inclusive new relationship of peaceful co-existance of the two entities
+	- NSCN(IM) demands areas in neighbouring Assam, Manipur & Arunachal Pradesh to unite 1.2M Nagas
+- In, 1958 then govt. has enacted Armed Forces (Special Powers) act to contain the aggrresion of Naga groupings
+- New itck borne virus ? SFTS - Sever Fever with Thrombocytopenia Syndrome 
+- ATL labs program ? 
+- SpaceX's SN5 Starship - a prototype for reusable transportation of crew & cargo to Earth's orbit, moon & mars
+
+## 13th August 2020
+- PM SVANidhi is monitored by MoHUA, with SIDBI being the implementing agency.
+- SIDBI will manage credit gaurentee to the lending institutions through CGTMSE
+- Krishi Megh ? National Agricultural Research & Education System - Cloud Infrastructure & Services, it's a data recovery centre of ICAR
+	- enables farmers, reasearchers, students & policymakers to be equipped with the latest information regarding agricultre & research
+- NAHEP ? National Agricultural HIgher Education Project, this project is funded by GoI & World Bank
+	- objective is to provide more high quality education to the agricultural university students
+- What is MCA 21 portal ? 
+- Business Responsibility Reporting ? it is a disclosure of adaption of responsible business practices by a listed company to all its stakeholders
+- National Voluntary Guidelines on Social, Environmental & Economic Responsibilities of Business was issued by MCA in 2011 to encourage reporting on environment, social & governance issues 
+- National Guidelines on Responsible Business Conduct (NGRBC) released in 2019
+- Business Responsibility & Sustainability Report (BRSR) will be integrated with the MCA 21 portal
+- What is the necessity of BRSR ? with daily increasing penetration of private entities into social arena and also recieving funds from govt. its necessary to not only make the financial parameteres open, also the non-financial parameters should be dispensed
+	- this BRSR can also be used in developmet of BRSR-Index
+- CSIR moots about setting of mega labs which would detect covid19 with genome sequencing
+- What is a gnome & how is it's sequencing done ? What are nucleotides ? 
+	- Adenine, Cytosine, Guanine & Thymine
+- Difference between RNA & DNA ? 
+- One Sun One World One Grid - Initiative ? to setup a framework for facilitating global cooperation which aims at building a global ecosystem of interconnected RNWE(renewable energy) source that can be easily shared
+	- Indian plans to generate 40% of power thorugh non-fossil fuels by 2030
+- Global environment facility - World Bank ? 
+- Sarsika Reserve ? Rajasthan, tigers got extinct in this reserve for the first time which came out as a wake up call in 2005 leadin g to set up a Tiger Task Force 
+- Global Tiger Forum is the only Intergovernmental International body to emark on a global campain
+- NTCA is a statutory body ? what are its duties ? 
+- Government monopoly over domains of Tiger Conservation should be erased as it more being taken advantage by Forest Beuracrats than the conservation, private NGOs, local communities  -  diverse talent and energy shoudl be brought into engagement 
+- GTIC ? World Bank
+- MP followed by Karnataka have the highes number of Tigers
+- Project Tiger ? launched in 1973 
+- Human - Elephants Conflict ? about 500 humans die every year in encouters with elephants 
+- Asian Elephants are listed as Endangered species by IUCN 
+- What is the difference betwenn IUCN & CITES classification of thretened speices ?
+- Convention of Migratory #species ? this year convention - CMS COP13 was held at Gandhinagar in India - added 7 new species to Appendix I - Bengal Florican, Little Bustard, Antipodean Albatross, Jaguar, Great Indian Bustard, Asian Elephant & Oceanic White-tip Shark
+- India accounts of 60% of wild Asian elephants 
+- Pakke Wildlife Sanctuary ? Arunachal Pradesh
+- Papum Reserve Forest ? satellite study has flagged a high rate of deforestation in the region
+
+## 14th August 2020
+- What are the differences in terms of administration between 5th & 6th Schdeuled areas ? autonomy in specific ? 
+- District Administration Councils ? Powers of Governor ? 6th schedule
+- Tribal Advisory Councils ? Fifth Schedule areas they advice the governor, and governor can modify the laws applied by Parliament or State in regards to the schdeuled areas. This is a constitutional body
+- Article 371(A) ? 
+- What is the criteria for a scheduled area ? the tribal population shoudl be more than 50%
+- Tribal habitations of Kerala, TN, Karnataka, WB, UP, J&K have not been brought under 5th/6th schedule areas
+- 6th Scheduled areas constitute districts of Assam, Meghalaya, Mizoram, Tripura
+- Special Minister for Tribal Advisory ? in which scheduled areas ? for which states ? 
+- Under 6th Schedule currently 10 Autonomous Districts  exists
+- What are the powers of the District Councils ? 
+	- which subjects of the parliament or state won't apply to the district councils ? 
+- Article 244(2) ? , 275(1) ? 
+- Governor must create a commission before making changes to the autonomous districts
+- National Pharmaceutiacal Pricing Authority ? duties & responsibilities ? Min. of Chemicals & fertilizers
+- Drugs Price Control Order (DPCO) ? 
+- Price Monitoring & Resource Units ? funded by NPPA & State Drug Control 
+- Consumer Awareness, Publicity & Price Monitoring (CAPPM) ? central sector scheme by NPPA
+- Naval Innovation & Indegenisation Organisation (NIIO) ? a three tired organisation to bring together the aspects of Indegenization & Innovation
+	- NTAC (National Technology Accelaration Council) ? will provide the directives & working group will implement the projects
+	- TDAC (Technology Development Acceleration Cell) for induction of emerging disruptive tech in an accelerated time frame
+- What are important points made in Draft Defence Acquisition Policy, 2020 ? 
+- Vivad Se Vishwas Scheme ? 
+- Transparent Taxation Platform ?
+- Piggery is a major source of livelihood in northeast almost 7L farmers are engaged in the business in Assam. African Swine Fever has affected lives of these farmers 
+- India ranks first in number of organic farmers & 9th in terms of area under organic farming
+- Govt. initiatives to support organic farming
+	- Mission Organic Value Chain Development for NE Region (MOVCD)
+	- Paramparaghat Krishi VIkas Yojana (PKVY) encourgaes chemical free farming
+- What is Participatory gaurentee Scheme ?
+- National Program for Organic Production ? 
+- Villingil, Thilafushi & Gulhifahu are islands of Maldives, which India is assisting the Maldives in its connectivity projects part of Greater Male Connectivity Project
+- Line of Credit means a soft loan provided on concessional interest rates to developing countries, recently India has extended to Maldives it also imporves the exports of India because 75% of the value of the contract must be sourced from India
+- Sarthak - Indian Coast Gaurd Offshore vessel
+- Mediterranean Sea is connected to Atlantic Ocean by Strait of Gibraltar, to Sea of Marmara & Black Sea by Straits of Dardanelles & Bosporous, to Red Sea in South East by Suez Canal
+- Suez Canal ? Balck Sea ? Sea of Marmara ? Red Sea ? 
+- Straits of Gibraltar, Drendelles, Bosporous ?
+- Secular was added to the constitution in 42nd Amendment Act, 1976
+
+## 15th August 2020
+- In 1929, Nehru as Congress president gave the call for Poorna Swaraj & Jan 26 was choosen as the Independence Day
+- On the inputs from Moutbatten, British Parliament introduced Indian Independence Bill on July4,1947 - the end of british rule and establishment of two dominions of India & Pakistan
+- Another reason for Aug 15th,1947 - it was the second anniversiary of Japan's surrender
+- What was Cabinet Mission Plan ? 
+- What is Composite Floor Test ? 
+- Legislators are allowed to choose not to vote in case of Composite floor test, then the test would be made only based on the numbers present 
+- Article 75(3) ? Article 164 ? council of ministers are collectively responsible to the house of people
+- In which house is the no-confidence motino tested in ? 
+	- In case of tie speaker is allowed to cast his vote
+- Why are the contempt of court cases problematic ? judge himself acts as prosecutor and the victim , it also starts with a presumption of guilt rather than innocence
+- Waht are tests that are checked in case of contempt of court cases ? test of loss of public confidence, the loose use of the test and liberal exercise of suo motu oiwers can be dangerous, this makes judiciary also uncanny parallel to executive, in using laws for chilling effect
+- What is the present relevance of contempt of court ? what is the need for its enforcement 
+- Official Languages Act, 1963 ? CJI ha recommended that more vernacular langueages to be added into governance not just Hindi & English
+- Article 348(1) - tells that all proceedings in the SC and in every HC shall be in English language untill parliament by law otherwise provides
+- Article - 348(2) - Governor of the State may with the previous consent of President may authorize Hindi or any other language be used for oifficial purposes of the State, however with principal seat in State provided that decress, judgements or orders be passed by such HCs shall be in English
+- Dead Sea ? 
+- Countries which signed agreements for diplomatic relations with Israel ? Egypt, 1979 & Jordan, 1994 & UAE has recently signed an agreement 
+- West Bank was captured by Jordan after the 1948 Arab-Israel War & Israel snatched it back using Six Day War of 1967 and occupied ever since defeatiing the armies of Egypt, Jordan & Syria
+- Over 4L Israeli settlers now live there along with Palestenians
+- Gaza Strip ? 
+- What is Middle East Peace Plan ? 
+- Sarabai Crater ? Moon
+- Vikram Sarabhai was repsonsible for bringing cable television to India, with the help of NASA paved a way for the establishment of SITE,1975 ( Satellite Instructional Television Experiment )
+- SRIJAN portal of MoD is a one-stop shop portal to access items from various vendors that can be taken up for Indigenization
+- Swasthya Portal - online portal to present all information pertaining to the health and nutrition related to STs - managed my Min. of Tribal Affairs
+- National Health Authority ? apex body for implementing  flagship public health insurance/assurance scheme - Ayushman Bharat 
+ - PM JAY
+- NHA is the successor of National Health Agency and it is governed by a Board chaired by Min. of Health & FW
+
+## 19th August 2020
+- there exists no statutory prohibition on individuals to make voluntary contributions to NDRF - Sect - 46(1)b of DM Act
+- Article 266 ? Consolidated Fund & Public Account
+- | #river Sutlej & Yamuna ? 
+- Eradi Tribunal ? in 1987 SC setup a tribunal and it recommended an increase in Punjab & Haryana - 5 & 3.83 MAF (million acre feet) respectively 
+- Beas is a tributary of ? 
+- Satluj Yamuna Link Canal ?  Tripartite Agreement ? Punjab, Haryana & Rajasthan
+- Article 262 ? adjudication of disputes relating to waters of Inter State rivers or river valleys
+- Interstate #river Water Disputes Act, 1956 ? 
+- ARIIA,2020 (Atal Ranking of Istitutions on Innovation Achievements) ? intiative of MHRD to systemically rank of major higher educational institutions & universities in India
+- Digital Quality of Life Index 2020  - SurfShark
+	- India ranked 9th on internet affordability & 15th on e-government
+	- India's rank in security was 57th
+	- In internet quality it ranked 78 falling behind Bangladesh, Nepal, Nigeria & Philippines
+	- Indian electronic infr adoption rate is ranked 79th - behind neighbours
+	- overall rank was 57th
+- Since 2015, out of 49 blocks cleared for coal mining - previously 9 were in no-go blocks dues to dense forests hence closed for coal-mining
+- In 2020, of the 41 blocks put up for auction 21 feature in original no-go list
+- India is not utilizing its existing capacity to full  - 67% of mines auctioned since 2015 were not operational yet
+- As per power min. coal shortage is likely to hold up new power projects over 17K MW aggregate capacity, this triggered debate on go/ no-go 
+- No-Go areas are those having more than 10% weighted forest cover or more than 30% gross forest cover. In 2009, MoeFCC & Coal ministry has placed India's forest areas under go & no-go zones
+- Forest Conservation Act, 1980 ? this classification has no legal standing neither mandated under Forest Conservation Rules, 2003 nor under any circular issued by MoEFCC
+- Asian Cheetah is classified as critically endangered by IUCN redlist - believed to survive only in Iran
+- Ninja UAVs - Indian Railways servelliance drones
+- Article 217 ? Appointment of HC Judges ? Supreme Court Collegium ? the names by collegium will be sent to Min. of Law, who would forward them to the President of India
+
+## 20th August 2020
+- Kalinga Style Architecture ? 
+- Duela Style ? Vimana, Jagamohana, Natamandira, Bhigamandapa
+- Bindusagar Lake ? 
+- Somavamshi dynasty ? 
+- Waht is Curative Petition ? 
+	- Rupa Ashok Hurra vs Ashok Hurra etc., 2002 if an aggreived person is entitled to any relief against the final judgement / order of SC even after the dismissal of a review petition 
+	- Article 137 ? Article 145 ? 
+- Article 16 - gaurentees equal treatment, prohibits the state from discriminating on grounds of place of birth or residence
+	- Artiucle 16(2) ? Article - 16(3) ? provides an exception, parliament may make a law prescribing a requirement of residence for jobs in a state - power solely vests in parliament
+	- Public Employment (Requirement as to Residence) Act ? abloshing all existing residence requirements in the states and exceptions in special instances of - Andhra Pradesh, Manipur, Tripura & HP
+	- Article - 371 ? special protections ? 
+- National Recruitment Agency ? 
+- Vaccine Nationalism ? 
+- Covax Facility ? to procure atleast 2B doses of Covid19 vaccines by the end of the next year for deployment & dostribution mainly in low & middle income countries
+- Millenium Alliance ? innovation driven & impact focussed initiative leveraging collaborative resources to identify test & scale indian innovations - address global development solutions
+- Quality Council of India ? functions & authority ? it also monitors the Swacch Sarvekshan Survey
+- Parliamentary Committees draw their authroity from Article - 105 ? Article - 118 ?
+- Cabinet Committee vs Parliamentrary Committee ? 
+- Standing Committee ? 
+- Which committees are exclusive to Loksabha ? 
+- Sero Survey results shouldn't be mistaken as the proportion having obtained the immunity against the disease - it is not designed to detect neutalizing or protective antibodies in humans
+- National Strategy for Financial Education ? NCFE + four regulators (RBI, SEBI, IRDAI, PFRDA)  & others have come up with it, first was prepared in 2013
+	-  seeks to develop credit discipline & encourage availing credit from financial institutions
+- National Centre for FInancial Education (NCFE) ? a non-profit company promoted by four regulators
+-  Namath Basai ? teaching tribal children in their mother toungue
+- Trifood ? TRIFED - MoTA + MoFPI

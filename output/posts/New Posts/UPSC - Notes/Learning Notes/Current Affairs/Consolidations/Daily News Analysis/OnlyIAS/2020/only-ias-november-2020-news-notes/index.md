@@ -1,0 +1,192 @@
+.. title: Only IAS - November'20 News Analysis Notes
+.. slug: only-ias-november-2020-news-notes
+.. date: 2020-11-01 
+.. tags: upsc, only ias, news analysis, notes
+.. category: upsc-pages
+
+*consolidated notes of monthly current affairs amagazines*
+<!-- TEASER_END -->
+
+***
+
+## 1st - 30th Novemeber 2020
+- | #map : Aegan Sea ? 
+- | #map : Strait of Dardanelles
+- | #map : Sea of Marmara ? 
+- | #map : Black Sea ? 
+- | #map : Sea of Crete & Thracian Sea ? 
+- What were the committees headed by Sardar Vallabhai Patel ? 
+- What are the functions of Wildlife Institute of India ? Who is its authority ? 
+- | #map : Costa rica ? 
+- EC derives its power to supervise elections from Article - 324 to Parliament & State Legislatures 
+- MCC is operational netween which dates ? from release of election shcedule to elections results release date
+- MCC is not enforcable by law, however certain provision of MCC can be enforced through statutes IPC, CrPC, RPA, 1951 ? How ? 
+- What is National Accredition Board for Certification Body (NABCB) ? What are its functions & Who is its authority ? 
+- What is Quality Council of India ? What are its funcitons & Who is its authority ? 
+- What is National Productivity Council ? Who is its authority ? What are its functions ?
+- | #map : Mansar Lake ? Surinsar Lake ? 
+- | #national-parks : Surinsar-Mansar Wildlife Sanctuary ? 
+- Asteroid 16 Psyche b/w Mars & Jupiter 
+- | #dictionary : succour ?
+- What is World Wide Fund for Nature ? What is its role in internaitonal arena ? What are its functions & responsibilities & affiliations ? 
+- | #reports : Living Planet Report is published by WWF
+- Who publishes Living Planet Index ? 
+- What is Debt-for Nature Swap ? 
+- | #national-parks : Panna Biosphere Reserve ? this was included in Man & Biosphere Programme 
+- What is Man & Biosphere Programme (MAB) ? Who is the governing authority ? List of areas in MAB from India ?
+- What is UNESCO's World Network of Biosphere Reserves ? 
+- Khjuraho Group of Monuments are part of World Heritage Sites 
+- | #river  : Ken
+- What, When, How did Anglo-Sikh wars happen ? 
+- | #river  : Bhagmati ? 
+- List of countries to which India reached out as part of Misison Sagar ? 
+- What are Articles-129 & 215 ? 
+- The power of HC to punish contempts of its sub-ordinate courts is derived from Sect 10 of Contempt of Courts Act, 1971 
+- What are the exemptions mentioned in Article-19's Freedom of Speech & Expression ?
+- What is Ecological Flow ? 
+- Yamuna is the second largest trib of Ganga after Ghaghara, it merges with Ganga at Prayagraj 
+- | #river  : Yamuna flows in which states ? 
+- What are the objectives of National Mission for Clean Ganga ? 
+- What is UN-Habitat ? What are its objectives ? Who is its authority ? 
+- | #river : Satluj ? Indus tribs ? 
+- What is Project Lion ? What are the 6 identified sites to which Lions can be potentially relocated ?
+- | #species : Asiatic Lion ? 
+- What is National Infra Investment Fund ? 
+- What is the issue of Char-Chaporis in Assam ? 
+- What is National Monsoon Mission ? 
+- Who are the member countries of Gulf Cooperation Council ? 
+- What are the function of Telecom Regulatory Authority of India ? Who is its authority ?  
+- What are the funcitons of BARC ? Who is its authority ? 
+- What does plug & play facility mean ? 
+- Who are the member countries of OPEC ? 
+- What is OPEC fund for International Development & Who are its member countries ? 
+- | #national-parks : Pakke Tiger Reserve ? 
+- What is Brown Carbon ? 
+- What are Tar-Balls 
+- What is Naitonal Agriculture Higher Education Project ? 
+- What is RATS in SCO ? 
+- Thirty Meter Telescope is a collaboration of which countries ? 
+- | #map : Which countries surround the caspian sea ? 
+- What are morley-minto reforms ? 
+- What is the weekly journal by Abul Kalam Azad in Urudu - Al-Hilal, it played important role in forging Hindu-Muslim unity
+- | #national-parks : Hastinapur Wildlife Sanctuary ? 
+- | #river  : Solani ? 
+- What are the protection laws & rules present in support of wetlands ? 
+- What are the functions of International Atomic Energy Agency ? 
+- Pneumonia is caused by various agents - fungi, baceria & viruses 
+- Which parameters are monitored in SAFAR ? Does SAFAR also monitor meterological parameters other than pollutants ? 
+- What are the constituents of Air Quality Index ? 
+- Who are other service providers ? What is recent ease which was provided to these organizations ?
+- What are the functions of SERB ? Who is its authority ? 
+- Does chief minister have any role in summoning or prorouging the state legislative assembly ? What is the role of speaker & governor in this functions ?
+- | #map : Tristan da Cunha ? 
+- | #ramsar-sites : Lonar Wildlife Sanctuary ? Soor Sarovar ?
+- | #national-parks : Melghat Tiger Reserve ? 
+- | #lakes : Keetham Lake ? 
+- | #national-parks : Soor Sarovar Bird Sanctuary ? 
+- What is Montreux Record ? 
+- | #national-parks : Keoladeo National Park ? 
+- | #lakes : Loktak Lake ? 
+- | #personalities : Jainacharya Shree Vijay Vallabh Surishwer Ji Maharaj ? 
+- What is Group of 77 ? 
+- President can also rporouge hte house while in session 
+- What is Article 217(1) ? 
+- Does CJI has the power to appoint additional judges to HC ? 
+- | #judgements : Romesh Thappar vs State of Madras,1950 - SC observed that Article 32 provides a gaurenteed remedy for the enforcement of fundamental rights (SC cannot refuse)
+- Under Article-32 SC cannot refuse to exercise its writ jurisdiction whereas under Article-226 it is discretionary HC may refuse to exercise writ jurisdiction
+- | #traditions : Hojagiri Folk Dance ?
+- | #traditions : Buisu ?
+- List of PVTGs ?
+- | #river : Chalakudy ? Tribs ? 
+- | #national-parks : Parambikulam Tiger Reserve ? 
+- | #rivers : Periyar ?
+- What is Green Energy COnvergence Project ? 
+- List of Drug Resitant TB Drugs ? Bedaquiline & Delamanid ? 
+- What is MDR-TB ? & XDR-TB ? Isoniazid & Rifampicin ? 
+- What are TB goals of India ? 
+- What is Nikshay Ecosystem related to TB?
+- | #map : Bolivia ? 
+- What is National Super Computing Mission ? 
+- What is Human Papillomavirus Vaccine for ? 
+- | #data : India recorded tge highest estimated number of cervical cancer deaths in 2018, according to Lancet Global Health
+- Which vaccines are part of Naitonal Immunisation Programme ? 
+- NPR is conducted under the provisions of Citizenship Act, 1955 & Citizenship (Registration of Citizens & issue of National Identity Cards) Rules, 2003 ? 
+- What is Safaimitra Suraksha Challenge ? 
+- What is Palearctic ?
+- What is Global HIV Prevention Coalition ? What are its goals ? 
+- What is UNAIDS ? Who is its authority ? What are its functions ? 
+- What is Project Sunrise related to AIDS ? 
+- | #reports : Global Bribery Risk Matrix ? 
+- | #map : luxemborg ? 
+- Luxemborg is the 3rd largest foreign investor in India 
+- What is India's International Stock Exchamge (INX) ? 
+- What is Coalition for Disaster Resilient Infrastructure (CDRI) ? 
+- What are Deemed Forests ? 
+- The freedom to define which tracts of forest qualify as forest has been the prerogative of states, since 1996
+- Who are the member countries of APEC ? 
+- Exercises b/w India & Thailand ? CORPAT, MAITREE, SIAM BHARAT ? 
+- What is UNCLOS ? What are its functions & Who is its authority ? 
+- What is Raksha Bhoomi Software for ? 
+- What are the frunctions of International Maritime Organization ? Who is its authority ? 
+- Wht are GPS & GLONASS ? What is the difference between GPS & IRNSS ?  What is NavIC ? 
+- What is the difference b/w SPS & GPS ? 
+- Who are Hindu Shahis ? 
+- What is Time use Survey & Who is the authority ? 
+- | #data : An average Indian woman spends 19.5% of her time engaged in either unpaid domestic/care-giving services where as man spends only 2.5% on such activities 
+- Exercise - SITMEX ? 
+- Exercises b/w India & Singapore - Bold Kurukshetra, Joint Military Training, SIMBEX ? 
+- What are Bioluminescent Fungi ? in fungi the bioluminescence comes from enzyme - luciferase 
+- What is Jason-CS Mission ? What are the functions of Sentinel-6 Satellite ? 
+- What is the aim of founding G20 ? 
+- What are the topics on which member countries hold discussions on ? 
+- What is One Health Global Leaders Group on Anti Microbial Resistance ? 
+- What are superbugs ? 
+- What is World Organisation for Animal Health (OIE) ? What are its functions ? 
+- What is FAO & What are its functions & Who is its authority ? 
+- What is Creation & Expansion of Food Preocessing & Prevention Capacities (CEFPPC) Scheme ? 
+- What is Frontier Highway Project ? 
+- | #national-parks : Dibang Wildlife Sanctuary ? 
+- What is Lunar Reconnaissance Orbiter (LRO) ? 
+- What are names proposed by India for tropical cyclones in BoB + Arabian Sea regions - as per formula agreed by WMO & UNECOSOC 
+- Why do storms formed in the north of equator rotate counter-clockwise ?
+- | #personalities : Guru Tej Bahadur ? 
+- How can investors gain from -ve yield bonds ? 
+- What is Kadamba Nagara Style ? 
+- What is vesara style architecture ? 
+- What is Kala-Azar ? What is its status in India ? It is caused by Leishmania Parasite, What is miltefosine ? 
+- | #personalities : Lachit Borphukan ? 
+- What are stunting & wasting ? 
+- | #personalities : Sir Chhotu Ram ? 
+- What is Battle of Saraighat ? 
+- The recent DAP 2020 has introduced an option for leasing military platforms 
+- The authoiryt ot invoke ESMA law rests with the state govts. & this law was made under the List-33 of Concurrent List - 7th Schedule
+- What are M dwarfs , Red Dwarfs, Brown Dwarfs  ? 
+- What are Osmosis & Reverse-Osmosis ? 
+- What is UN Office for Project Services ? What is Saniation & Hygiene Fund of UN ? 
+- What is UNDP ? What are its funcitons ? Who is its authority ? 
+- What is SDG investor Map for India ? 
+- What is Invest India ? Who is its authority ? 
+- In which conference were SDG goals launched ? Are SDG goals legally binding ? 
+- What is Garima Greh ? Which ministry is responsible for issues of transgenders ?
+- What is the clause which includes an approval/certification by magistrate in case of transgenders in recently introduced Transgenders persons (Protection of Rights) Act / Rules ? 
+- What are the functions of Indian Navy Infromation Management & Analysis Centre ( now changed to National Maritime Domain Awareness Centre) ?
+- What are the functions of National Command Control Communication & Intelligence System (NC3I) ?
+- What are the functions of Information Fusion Centre ? 
+- What are the color codes of Shipping ? What are white shipping agreements ?
+- | #national-parks : Pilibhit Tiger Reserve ? 
+- What is TX2 program ? 
+- What is World Wildlife Foundation ? What are its functions ? Who is its authroity ? 
+- What ar the Tiger Range Countries ? 
+- What is TRAFFIC ? 
+- | #river : Sharada & Khakra ? 
+- What is Wildlife Institute of India ? What are its functions ? 
+- | #map : Tarai Region ? 
+- What is Project Tiger ? 
+- What is National Tiger Conservation Authority (NTCA) ? What are its functions ? Who is its authority ? 
+- What is PRAGATI platform ? 
+- What are scintillans ? What is their association with unicellular phytoplankton ? 
+- What is the link b/w bloom of Noctiluca Scintillans & marine fish, invertibrate kills ?  
+- What are diatoms ? What is its role in marine food chain ? 
+- Waht is Brain Fingerprinting ? What is Brain Electrical Oscillation Signature Profiling (BEOSP) ?
+- In Selvi vs State of KA, 2010, SC observed that brain mapping test results cannot be admitted solely as evidence 
+- What is the case of Anti-Defection when nominated member joins a party 6 months after becoming a member & in similar what would be the case when he joins 6 months before ? 

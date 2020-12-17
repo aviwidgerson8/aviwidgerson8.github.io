@@ -16,7 +16,7 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = " Hasanth"  # (translatable)
+BLOG_AUTHOR = "jeanbourgain8"  # (translatable)
 BLOG_TITLE = "#randomdots"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
@@ -138,6 +138,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
     	("/pages/about/","about"),
     	("/","blog"),
+    	("/tags.html","topics"),
         ("/archive.html","archive")
         # ((("/categories.html","categories"),("/tags.html","topics"),),"")
     ),
@@ -547,7 +548,7 @@ FRONT_INDEX_HEADER = {
 # Create per-month archives instead of per-year
 CREATE_MONTHLY_ARCHIVE = True
 # Create one large archive instead of per-year
-# CREATE_SINGLE_ARCHIVE = False
+# CREATE_SINGLE_ARCHIVE = True
 # Create year, month, and day archives each with a (long) list of posts
 # (overrides both CREATE_MONTHLY_ARCHIVE and CREATE_SINGLE_ARCHIVE)
 # CREATE_FULL_ARCHIVES = False
@@ -1112,7 +1113,7 @@ SHOW_SOURCELINK = False
 
 # Modify the number of Post per Index Page
 # Defaults to 10
-INDEX_DISPLAY_POST_COUNT = 2
+INDEX_DISPLAY_POST_COUNT = 10
 
 # By default, Nikola generates RSS files for the website and for tags, and
 # links to it.  Set this to False to disable everything RSS-related.
@@ -1353,7 +1354,7 @@ INDEX_DISPLAY_POST_COUNT = 2
 
 # If set to True, the tags 'draft', 'mathjax' and 'private' have special
 # meaning. If set to False, these tags are handled like regular tags.
-USE_TAG_METADATA = False
+USE_TAG_METADATA = True
 
 # If set to True, a warning is issued if one of the 'draft', 'mathjax'
 # and 'private' tags are found in a post. Useful for checking that

@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "380fae67a5b3c909",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a57db62bd042ef7",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "UPSC - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/December 2020.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7d293e43674ba92",
+    "type": "split",
+    "children": [
+      {
+        "id": "60da82cb18e261ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d9eb4f474065fa0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1468a0868a3ddfaf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#map",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "623114e2b0b3e8ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "07352d98249c60ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14454af4b888d01c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UPSC - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/December 2020.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "UPSC - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/December 2020.md",
+    "UPSC - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/Insights IAS/2020/November 2020.md",
+    "UPSC - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/Insights IAS/2020/July 2020.md",
+    "UPSC - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/Insights IAS/2020/December 2020.md",
+    "UPSC - Notes/Tags - Mains.md",
+    "UPSC - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/Drishti IAS/2020/August 2020.md"
+  ]
+}

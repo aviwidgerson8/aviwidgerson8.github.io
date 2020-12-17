@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "2c0de67002deb2f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "31eb481829aa241a",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Learning Notes/Current Affairs/Consolidations/Daily News Analysis/Insights IAS/2020/November 2020.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80759d3592c7a08a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c935a9277e27934",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "055a4bd67fdcd26e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "db94b8fa107b2026",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 396
+  },
+  "right": {
+    "id": "b85b3d11d872f8cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d464563fa5a6749a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b01177be639737d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learning Notes/Current Affairs/Consolidations/Daily News Analysis/Insights IAS/2020/November 2020.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Learning Notes/Current Affairs/Consolidations/Daily News Analysis/Insights IAS/2020/November 2020.md",
+    "Learning Notes/Current Affairs/Daily News/Hindu/2020/November 2020.md",
+    "Untitled.md",
+    "Learning Notes/Current Affairs/Daily News/Hindu/2020/August 2020.md",
+    "Learning Notes/Current Affairs/Consolidations/Daily News Analysis/Insights IAS/2020/October 2020.md",
+    "Learning Notes/Current Affairs/Opinion/Hindu/November 2020.md",
+    "Learning Notes/Static/GS-1/History/World History/NCERT - 11th World History.md",
+    "Learning Notes/Static/GS-1/History/World History/Untitled.md",
+    "Learning Notes/Current Affairs/Consolidations/Daily News Analysis/Drishti IAS/2020/November 2020.md",
+    "Learning Notes/Current Affairs/Daily News/Business Standard/Novemeber 2020.md"
+  ]
+}
