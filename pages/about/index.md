@@ -7,15 +7,13 @@
 .. description: 
 .. type: text
 
-I am **Hasanth**.    
+I am **Jean Bourgain** (#pen-name). In this blog I write posts on concepts & issues related to: 
 
-In this blog I write posts on topics related to:
-
- - <a href="/categories/cat_theory/" style="color: #3578E5">Theoretical</a> aspects of <a href="/categories/cat_computer-science/" style="color: #bf1818">Computer Science</a> - (Graph Theory, Machine Learning etc.)
- - <a href="/categories/cat_maths/" style="color: #3578E5">Pure Mathematics</a> topics like - (Combinatorics, Geometry etc.)
- - <a  href="/categories/cat_economics/" style="color: seagreen">Economics</a>; including concepts related with computational sciences
- - <a href="/categories/cat_policy/" style="color: seagreen">Public Policy</a> 
- - <a href="/categories/cat_psychology/" style="color: firebrick ">Psychology</a> ; essentially the concepts related to thought cycle (genesis -> process -> death)
+-  <a href="/categories/tcs/" style="color: #3578E5">Theoretical Computer Science</a>
+-  <a href="/categories/maths/" style="color: firebrick">Pure Mathematics</a>
+-  <a href="/categories/upsc/" style="color: seagreen">UPSC</a>
+-  <a  href="/categories/economics/" style="color: #3578E5">Economics</a>
+-  <a href="/categories/goodreads/" style="color: firebrick ">Psychology</a> 
 
 <a class="btn btn-secondary" style="border-radius: 1rem;" href="https://www.goodreads.com/user/show/73112556-nudging" role="button">Goodreads </a>
 
