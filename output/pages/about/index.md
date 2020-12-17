@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-I am **Hasanth Palanchu**.    
+I am **Hasanth**.    
 
 In this blog I write posts on topics related to:
 
@@ -19,7 +19,7 @@ In this blog I write posts on topics related to:
 
 <a class="btn btn-secondary" style="border-radius: 1rem;" href="https://www.goodreads.com/user/show/73112556-nudging" role="button">Goodreads </a>
 
-Email - <nudginghead@gmail.com>
+Email - <jeanbourgain8@gmail.com>
 
 
 
