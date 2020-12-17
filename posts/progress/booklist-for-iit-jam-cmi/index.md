@@ -1,8 +1,8 @@
 .. title: Mathematics for IIT-JAM & CMI
 .. slug: booklist-for-iit-jam-cmi
 .. date: 2020-12-17 15:41:52 UTC+05:30
-.. tags: progress, syllabus
-.. category: maths
+.. tags: maths, syllabus
+.. category: progress
 .. link: 
 .. description: 
 .. type: text

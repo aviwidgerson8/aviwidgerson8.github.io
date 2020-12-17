@@ -1,8 +1,8 @@
 .. title: Goodreads
 .. slug: booklist-of-goodreads
 .. date: 2020-12-17 16:09:15 UTC+05:30
-.. tags: progress
-.. category: goodreads
+.. tags: goodreads
+.. category: progress
 .. link: 
 .. description: 
 .. type: text

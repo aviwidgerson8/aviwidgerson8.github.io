@@ -6,55 +6,51 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://jeanbourgain8.github.io/categories/agents.xml</loc>
-  <lastmod>2020-12-17T11:16:00Z</lastmod>
+  <loc>https://jeanbourgain8.github.io/categories/cat_progress.xml</loc>
+  <lastmod>2020-12-17T13:25:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://jeanbourgain8.github.io/categories/cat_economics.xml</loc>
-  <lastmod>2020-12-17T11:16:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jeanbourgain8.github.io/categories/cat_goodreads.xml</loc>
-  <lastmod>2020-12-17T11:16:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jeanbourgain8.github.io/categories/cat_maths.xml</loc>
-  <lastmod>2020-12-17T11:16:00Z</lastmod>
+  <loc>https://jeanbourgain8.github.io/categories/cat_research.xml</loc>
+  <lastmod>2020-12-17T13:25:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/cat_software.xml</loc>
-  <lastmod>2020-12-17T11:16:00Z</lastmod>
+  <lastmod>2020-12-17T13:25:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://jeanbourgain8.github.io/categories/cat_upsc-maths.xml</loc>
-  <lastmod>2020-12-17T11:16:00Z</lastmod>
+  <loc>https://jeanbourgain8.github.io/categories/economics.xml</loc>
+  <lastmod>2020-12-17T13:25:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://jeanbourgain8.github.io/categories/cat_upsc.xml</loc>
-  <lastmod>2020-12-17T11:16:00Z</lastmod>
+  <loc>https://jeanbourgain8.github.io/categories/goodreads.xml</loc>
+  <lastmod>2020-12-17T13:25:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://jeanbourgain8.github.io/categories/code.xml</loc>
-  <lastmod>2020-12-17T11:16:00Z</lastmod>
+  <loc>https://jeanbourgain8.github.io/categories/installation.xml</loc>
+  <lastmod>2020-12-17T13:25:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://jeanbourgain8.github.io/categories/econcomp.xml</loc>
-  <lastmod>2020-12-17T11:16:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jeanbourgain8.github.io/categories/progress.xml</loc>
-  <lastmod>2020-12-17T11:16:00Z</lastmod>
+  <loc>https://jeanbourgain8.github.io/categories/maths.xml</loc>
+  <lastmod>2020-12-17T13:25:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/syllabus.xml</loc>
-  <lastmod>2020-12-17T11:16:00Z</lastmod>
+  <lastmod>2020-12-17T13:25:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://jeanbourgain8.github.io/categories/tcs.xml</loc>
+  <lastmod>2020-12-17T13:25:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://jeanbourgain8.github.io/categories/upsc.xml</loc>
+  <lastmod>2020-12-17T13:25:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/rss.xml</loc>
-  <lastmod>2020-12-17T11:16:00Z</lastmod>
+  <lastmod>2020-12-17T13:25:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/sitemap.xml</loc>
-  <lastmod>2020-12-17T11:16:00Z</lastmod>
+  <lastmod>2020-12-17T13:25:00Z</lastmod>
  </sitemap>
 </sitemapindex>

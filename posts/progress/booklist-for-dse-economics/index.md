@@ -1,8 +1,8 @@
 .. title: Economics for DSE
 .. slug: booklist-for-dse-economics
 .. date: 2020-12-17 15:40:20 UTC+05:30
-.. tags: progress
-.. category: economics
+.. tags: economics
+.. category: progress
 .. link: 
 .. description: 
 .. type: text
