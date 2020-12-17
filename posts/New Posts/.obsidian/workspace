@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "UPSC - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/December 2020.md",
+            "file": "Progress/UPSC - General Studies.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#map",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UPSC - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/December 2020.md",
+                "file": "Progress/UPSC - General Studies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +85,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Progress/UPSC - General Studies.md",
     "UPSC - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/December 2020.md",
     "UPSC - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/Insights IAS/2020/November 2020.md",
     "UPSC - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/Insights IAS/2020/July 2020.md",
