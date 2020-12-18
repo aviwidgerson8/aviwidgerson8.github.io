@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "pages/about.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -97,6 +97,7 @@
   },
   "lastOpenFiles": [
     "pages/about.md",
+    "output/posts/New Posts/meditations.md",
     "output/posts/New Posts/meditations/index.md",
     "posts/New Posts/Meditations.md",
     "posts/New Posts/meditations.md",
