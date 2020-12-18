@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meditations.md",
+            "file": "Planning/Pending Tasks/Pending Tasks.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meditations.md",
+                "file": "Planning/Pending Tasks/Pending Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Planning/Pending Tasks/Pending Tasks.md",
     "Meditations.md",
     "UPSC - Notes/Tags - Prelims.md",
     "UPSC - Notes/Tags - Mains.md",
@@ -104,7 +105,6 @@
     "Planning/Targets Timeline.md",
     "UPSC - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/December 2020.md",
     "UPSC - Notes/Learning Notes/Current Affairs/Daily News/Business Standard/December 2020.md",
-    "Progress/UPSC - General Studies.md",
-    "UPSC - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/Insights IAS/2020/November 2020.md"
+    "Progress/UPSC - General Studies.md"
   ]
 }
