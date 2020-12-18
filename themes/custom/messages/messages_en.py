@@ -21,7 +21,7 @@ MESSAGES = {
     "Older posts": "Older posts",
     "Original site": "Original site",
     "Posted:": "Posted:",
-    "Posts about %s": "List of posts related to %s",
+    "Posts about %s": "Posts related to %s",
     "Posts by %s": "Posts by %s",
     "Posts for year %s": "Posts for year %s",
     "Posts for {month_day_year}": "Posts for {month_day_year}",
