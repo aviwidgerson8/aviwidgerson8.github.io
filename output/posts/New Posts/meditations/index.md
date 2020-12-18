@@ -1,4 +1,4 @@
-.. title : Meditations
+.. title: Meditations
 .. slug: meditations
 .. date: 2020-07-26 08:08 UTC+05:30
 .. tags: self
