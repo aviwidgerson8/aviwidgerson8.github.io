@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "eacf74ca856bd2c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f779635ea70aef8",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "posts/New Posts/Planning/Progress/TCS.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b17a237390fe266",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb03ec0f0d43b449",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e93128b620834355",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c66c5e24614a803",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6be460fb1f3324b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7242e1a96c7cfde1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59fc8bd3d6ace4c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/New Posts/Planning/Progress/TCS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75b33fc40f411a9c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "posts/New Posts/Planning/Progress/TCS.md",
+    "pages/about.md"
+  ]
+}
