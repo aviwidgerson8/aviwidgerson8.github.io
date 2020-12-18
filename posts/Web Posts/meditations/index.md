@@ -9,7 +9,7 @@
 <!-- TEASER_END -->
 
 ***
-<img class="verticalimage" src="/images/arjun.jpg"/>
+<img class="verticalimage" src="/images/arjun.jpg" />
 
 - Stay wary; all of life is a war and there exists no reason to deny
 - Stay grounded against characteristics which are not possessed (when come across); analyse, understand and take in as much information as you can and contain patience towards time in preparing to equip it by self.
