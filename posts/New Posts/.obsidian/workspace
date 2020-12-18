@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Progress/UPSC - General Studies.md",
-            "mode": "preview"
+            "file": "Planning/Schedule/Current Schedule (General Days).md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progress/UPSC - General Studies.md",
+                "file": "Planning/Schedule/Current Schedule (General Days).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,12 +85,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Progress/UPSC - General Studies.md",
+    "Planning/Schedule/Current Schedule (General Days).md",
+    "Planning/Targets Timeline.md",
     "UPSC - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/December 2020.md",
-    "UPSC - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/Insights IAS/2020/November 2020.md",
-    "UPSC - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/Insights IAS/2020/July 2020.md",
-    "UPSC - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/Insights IAS/2020/December 2020.md",
+    "UPSC - Notes/Learning Notes/Current Affairs/Daily News/Business Standard/December 2020.md",
+    "UPSC - Notes/Tags - Prelims.md",
     "UPSC - Notes/Tags - Mains.md",
-    "UPSC - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/Drishti IAS/2020/August 2020.md"
+    "Meditations.md",
+    "Progress/UPSC - General Studies.md",
+    "UPSC - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/Insights IAS/2020/November 2020.md",
+    "UPSC - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/Insights IAS/2020/July 2020.md"
   ]
 }

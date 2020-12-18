@@ -3,6 +3,7 @@
 .. date: 2020-07-26 08:08 UTC+05:30
 .. tags: self
 .. category: personal
+.. status: private
 
 *core principles*
 <!-- TEASER_END -->
