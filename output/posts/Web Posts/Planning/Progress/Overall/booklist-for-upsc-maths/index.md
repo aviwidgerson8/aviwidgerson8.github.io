@@ -6,6 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. status: draft
 
 *account of progress in mathematics preparation for UPSC*
 <!-- TEASER_END -->

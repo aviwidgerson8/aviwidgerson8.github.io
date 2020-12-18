@@ -6,6 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. status: draft
 
 *syllabus & account of progress in maths preparation for IIT-JAM & CMI*
 <!-- TEASER_END -->

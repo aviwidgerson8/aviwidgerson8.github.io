@@ -7,6 +7,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. status: draft
 
 *account of pending tasks in preparation for UPSC*
 <!-- TEASER_END -->

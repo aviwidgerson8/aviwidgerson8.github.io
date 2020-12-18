@@ -6,6 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. status: draft
 
 *syllabus & account of progress in general studies preparation for UPSC*
 <!-- TEASER_END -->

@@ -3,6 +3,7 @@
 .. date: 2020-12-18 01:50 UTC+05:30
 .. tags: schedule
 .. category: planning
+.. status: draft
 
 *time-table for normal days*
 <!-- TEASER_END -->
@@ -10,7 +11,7 @@
 ***
 
 |  Time |  Work |
-| --------------- | ----------------------------------------------------------- |
+| :--------------- | :----------------------------------------------------------- |
 |  3:00am - 6:00am  |  UPSC Mathematics                                             |
 |  6:00am - 6:30am  |  Pending News ( Newspapers + Daily News Analysis)             |
 |  6:30am - 7:00am  |  Freshup                                                      |

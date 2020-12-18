@@ -6,6 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. status: draft
 
 *syllabus & account of progress in preparation of TCS for TIFR, JEST & CMI*
 <!-- TEASER_END -->

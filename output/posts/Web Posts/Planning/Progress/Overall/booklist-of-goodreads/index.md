@@ -6,6 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. status: draft
 
 *account of reading of my goodreads booklist*
 <!-- TEASER_END -->
