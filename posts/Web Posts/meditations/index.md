@@ -3,7 +3,7 @@
 .. date: 2020-07-26 08:08 UTC+05:30
 .. tags: self
 .. category: personal
-.. status: featured
+.. status: draft
 
 *core principles*
 <!-- TEASER_END -->
