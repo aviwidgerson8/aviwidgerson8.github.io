@@ -3,7 +3,7 @@
 .. date: 2020-07-26 08:08 UTC+05:30
 .. tags: self
 .. category: personal
-.. status: private
+.. status: featured
 
 *core principles*
 <!-- TEASER_END -->
@@ -13,11 +13,10 @@
 - Stay wary; all of life is a war and there exists no reason to deny
 - Stay grounded against characteristics which are not possessed (when come across); analyse, understand and take in as much information as you can and contain patience towards time in preparing to equip it by self.
 - On meeting despair or anxiety
-
-  - Recognise current  feeling
-  - Recognise current state of mind
-  - Act to bring down the state of mind to moderate level
-  - Contemplate the reason for the excitation and come up with a counteracting argument to dispense the apprehension.
+	  - Recognise current  feeling
+	  - Recognise current state of mind
+	  - Act to bring down the state of mind to moderate level
+	  - Contemplate the reason for the excitation and come up with a counteracting argument to dispense the apprehension.
 - We live to act; Action has to be conscientious (dutiful) based on conscience
 - We are supposed to act with others in a way which we expect others to act towards us; consider the universality of action.
 - Practice & Live in Moderation
@@ -27,7 +26,6 @@
 - Speak only what is asked/required of, not more & not less (when you are opening your mouth there should be a justifiable reason which is worthy enough the cost of silence.)
 - One shall stay as warrior only when he fights & is capable of defending his pride
 - #### **करम प्र ध्यान धेने से डर अपने आप दूर हो जायेगा**
-
 - Guiding the conscious through towards the desired goals with an intention in becoming unison with the unconscious to experience the truth.
 - Attention is a prime tool which helps in operating the mental activity efficaciously. The ability to control the unconscious resides in temperately handling the attention of conscious actions. One which is given more attention will more likely have the unconscious attended. Unconscious is a great instrument in coming up with thoughts that err from normality.
 - Not in any world shall one let have his control in the hands of others. It's a very strict no. It clearly means that you are handing over your life to someone and asking them to lead it by their wishes. It's sure that you will repent for doing it.
@@ -39,37 +37,30 @@
 - Always have mind in a state which is earnest to process information , contemplate and ready to take action.
 - To emotions as alarms to hint about the context or add weight to it but not to submit oneself to it.
 - Cardinal Virtues are 
-
-  - **Bravery**
-
-  - **Insight**
-
-  - **Self Control**
-
-  - **Justice**
+	  - **Bravery**
+	  - **Insight**
+	  - **Self Control**
+	  - **Justice**
 - Principles alone don't define a man; Actions are also to be considered.
 - Cycle of Dhukka ( Despair / Anxiety)
-
-  - Truth of Dhukka - Is it for real or just a mere imagination
-  - Reason for Dhukka - To identity the cause / reason
-    - Is Dhukka because of inability to accept a change
-    - Is Dhukka due to faulty expectations
+	- Truth of Dhukka - Is it for real or just a mere imagination
+	- Reason for Dhukka - To identity the cause / reason
+		- Is Dhukka because of inability to accept a change
+		- Is Dhukka due to faulty expectations
 - ***Dharma Chakra*** - Eight Principles of Buddhism
-
-  - **Right Understanding**
-  - **Right Thought**
-  - **Right Speech**
-  - **Right Action**
-  - **Right Livelihood**
-  - **Right Effort**
-  - **Right Mindfulness / Cognition** 
-  - **Right Concentration**
+	  - **Right Understanding**
+	  - **Right Thought**
+	  - **Right Speech**
+	  - **Right Action**
+	  - **Right Livelihood**
+	  - **Right Effort**
+	  - **Right Mindfulness / Cognition** 
+	  - **Right Concentration**
 - As I grow older, I see manliness as answer to all
-
-  - Take Responsibility
-  - Never Surrender to momentary gratifications
-  - Put Effort & Be Patient
-  - Fearlessness; Nothing can be done in fear
+	  - Take Responsibility
+	  - Never Surrender to momentary gratifications
+	  - Put Effort & Be Patient
+	  - Fearlessness; Nothing can be done in fear
 - In order to protect you should become the best to face the best
 - No problem or task is hard; one just lacks the patience and resolve to break it down to pieces and then comprehend to arrive at the solution
 - Inherently there always exists and personal opinion, don't cloud it, instead face the duality
@@ -86,10 +77,9 @@
 - Forgetting what you are ought to do is straying away from the present. 
 - The toughest dreams and personality demands toughest of hearts & toughest sacrifices & greatest efficiencies of the trinity(mind,body,soul).
 - Stay Calm, put effort to think about every thought/activity/impulse that comes across the mind be patient in unfolding and segregating each and every emotion that is/trying to occupying/occupy certain part of your mind.
-
-  - **Current Box** - If the thought/activity is in compliance with the current activity/goal you are occupied with.
-  - **Not Now Box** - If the thought/activity doesn’t comply with the current activity/goal which is in process.
-  - **Junk Box** - If the thought is arising out of some past shades / irrational beliefs
+	  - **Current Box** - If the thought/activity is in compliance with the current activity/goal you are occupied with.
+	  - **Not Now Box** - If the thought/activity doesn’t comply with the current activity/goal which is in process.
+	  - **Junk Box** - If the thought is arising out of some past shades / irrational beliefs
 - To be the truest to the self, never lie/ convince yourself no matter what the thought/activity may be.
 - When involuntarily unnecessary thoughts spring in mind just self that they are born out of the past beliefs & actions.
 - Engagement with thought/activity is essential as it alters the amount of brain faculty that gets allocated which usually is commensurate with the compliance between agent & thought.
