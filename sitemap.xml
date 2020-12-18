@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://jeanbourgain8.github.io/</loc>
-  <lastmod>2020-12-18T16:48:00Z</lastmod>
+  <lastmod>2020-12-18T16:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/2017/</loc>
@@ -55,11 +55,11 @@
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/archive.html</loc>
-  <lastmod>2020-12-18T16:48:00Z</lastmod>
+  <lastmod>2020-12-18T16:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories.html</loc>
-  <lastmod>2020-12-18T16:48:00Z</lastmod>
+  <lastmod>2020-12-18T16:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories/business-standard/</loc>
@@ -203,19 +203,23 @@
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/index-1.html</loc>
-  <lastmod>2020-12-18T16:48:00Z</lastmod>
+  <lastmod>2020-12-18T16:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/index-2.html</loc>
-  <lastmod>2020-12-18T16:48:00Z</lastmod>
+  <lastmod>2020-12-18T16:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/index-3.html</loc>
-  <lastmod>2020-12-18T16:48:00Z</lastmod>
+  <lastmod>2020-12-18T16:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/index-4.html</loc>
-  <lastmod>2020-12-18T16:48:00Z</lastmod>
+  <lastmod>2020-12-18T16:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/index-5.html</loc>
+  <lastmod>2020-12-18T16:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/pages/about/</loc>
@@ -238,12 +242,44 @@
   <lastmod>2020-12-18T16:48:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Planning/Pending%20Taks/backlogs/</loc>
+  <lastmod>2020-12-18T16:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Planning/Pending%20Taks/pending-tasks/</loc>
+  <lastmod>2020-12-18T16:58:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Planning/Pending%20Tasks/backlogs/</loc>
   <lastmod>2020-12-18T16:48:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Planning/Pending%20Tasks/pending-tasks/</loc>
   <lastmod>2020-12-18T16:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Planning/Progress/Overall/booklist-for-dse-economics/</loc>
+  <lastmod>2020-12-18T16:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Planning/Progress/Overall/booklist-for-iit-jam-cmi/</loc>
+  <lastmod>2020-12-18T16:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Planning/Progress/Overall/booklist-for-upsc-general-studies/</loc>
+  <lastmod>2020-12-18T16:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Planning/Progress/Overall/booklist-for-upsc-maths/</loc>
+  <lastmod>2020-12-18T16:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Planning/Progress/Overall/booklist-of-goodreads/</loc>
+  <lastmod>2020-12-18T16:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Planning/Progress/Overall/booklist-of-tcs/</loc>
+  <lastmod>2020-12-18T16:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Planning/Progress/booklist-for-dse-economics/</loc>
@@ -423,6 +459,6 @@
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/tags.html</loc>
-  <lastmod>2020-12-18T16:48:00Z</lastmod>
+  <lastmod>2020-12-18T16:58:00Z</lastmod>
  </url>
 </urlset>
