@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Planning/Pending Tasks/Pending Tasks.md",
-            "mode": "source"
+            "file": "Planning/Progress/Monthly/January 2021.md",
+            "mode": "preview"
           }
         }
       }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410
+    "width": 299
   },
   "right": {
     "id": "623114e2b0b3e8ce",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning/Pending Tasks/Pending Tasks.md",
+                "file": "Planning/Progress/Monthly/January 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Planning/Pending Tasks/Pending Tasks.md",
-    "Meditations.md",
-    "UPSC - Notes/Tags - Prelims.md",
-    "UPSC - Notes/Tags - Mains.md",
-    "Planning/Pending Works/Backlogs.md",
-    "Planning/Schedule/Current Schedule (General Days).md",
+    "Planning/Progress/Monthly/December 2020.md",
+    "Planning/Progress/Overall/Economics.md",
+    "Planning/Progress/Overall/Goodreads.md",
+    "Planning/Progress/Overall/UPSC - Maths.md",
+    "Planning/Progress/Overall/UPSC - General Studies.md",
+    "Planning/Progress/Overall/Maths.md",
     "Planning/Targets Timeline.md",
-    "UPSC - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/December 2020.md",
-    "UPSC - Notes/Learning Notes/Current Affairs/Daily News/Business Standard/December 2020.md",
-    "Progress/UPSC - General Studies.md"
+    "Planning/Progress/Monthly/Untitled.md",
+    "Planning/Pending Tasks/Backlogs.md",
+    "Planning/Pending Tasks/Pending Tasks.md"
   ]
 }
