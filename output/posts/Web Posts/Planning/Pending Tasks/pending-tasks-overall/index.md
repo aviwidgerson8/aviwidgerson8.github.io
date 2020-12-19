@@ -1,6 +1,6 @@
 
-.. title: Pending Tasks
-.. slug: pending-tasks
+.. title: Overall Pending Tasks
+.. slug: pending-tasks-overall
 .. date: 2020-12-18 19:57 UTC+05:30
 .. tags: pending
 .. category: pending tasks

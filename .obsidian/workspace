@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Web Posts/Meditations.md",
+            "file": "pages/about.md",
             "mode": "source"
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6be460fb1f3324b4",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Web Posts/Meditations.md",
+                "file": "pages/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +97,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "posts/Web Posts/Meditations.md",
     "pages/about.md",
+    "posts/Web Posts/Meditations.md",
     "output/posts/New Posts/meditations.md",
     "output/posts/New Posts/meditations/index.md",
     "posts/New Posts/Meditations.md",
