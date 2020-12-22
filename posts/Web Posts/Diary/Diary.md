@@ -22,11 +22,8 @@ None
 
 ### 21st December 2020
 #### Work
-- [ ] Mathematical Analysis - Malik & Arora
-- [ ] Hindu Newspaper
-- [ ] Insights IAS News Analysis + Quiz + Editorials
-- [ ] Only IAS News Analysis + Editorials
-- [ ] Opinion
-- [ ] 12th NCERT - Macroeconomics
-- [ ] Yoajana & Kurukshetra Jan'20
-- [ ] A Practical English Grammar - A. J. Thomson
+I wasted my time in frivulous chat, I regret for that.
+
+### 22nd December 2020
+#### Work
+
