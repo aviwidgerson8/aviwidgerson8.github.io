@@ -10,7 +10,7 @@
 ***
 
 ## 14th Jul 2020
-- Covid19 has put almost 9.7M people at risk of never going back to class, the economic fallout can force and extra 90 to 117M children into poverty
-- India has 1/3rd of world's poorest children
-- recent reports of UNICEF & ILO say that pandemic is likely to undo 20 year battle against child labour
-- Over 31M children depend on anganwadi network for early learning , health & nutrition
+- [ ] Covid19 has put almost 9.7M people at risk of never going back to class, the economic fallout can force and extra 90 to 117M children into poverty
+- [ ] India has 1/3rd of world's poorest children
+- [ ] recent reports of UNICEF & ILO say that pandemic is likely to undo 20 year battle against child labour
+- [ ] Over 31M children depend on anganwadi network for early learning , health & nutrition

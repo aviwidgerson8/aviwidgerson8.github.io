@@ -10,7 +10,7 @@
 ***
 
 ## 2nd November 2020
-- | #dictionary : Obviate ?
-- What are the functions of SFAC ? NCDC ? 
-- What progress has been made in agriculture with FPOs ?
-- 
+- [ ] | #dictionary : Obviate ?
+- [ ] What are the functions of SFAC ? NCDC ? 
+- [ ] What progress has been made in agriculture with FPOs ?
+- [ ] 

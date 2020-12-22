@@ -10,67 +10,67 @@
 ***
 
 ## 1st Aug 2020
-- Parties appoint chief whips among the legislators of the house, he can also be assisted by additional whips
-	- whip system was inherited from British Parliamentary System 
-- In cases of Presidential elections whips cannot be applied
-- one-line whip - issued to inform members of a party about a vote where a member can abstain incase he doesn't wish to follow the party's line with prior information followed
-- Kihoto Hollohan Case, 1992 ? 
-- Gramodyog Vikas Yojana ? Min. of MSME has approved a program to benefit artisans in manufacturing agarbatti as a pilot project
-- Smog Towers ? structures designed to work as large scale air purifiers
-	- SC has directed Delhi govt. & CPCB to submit a plan of setting up such towers, these towers have shown a positive result in case of China, Netherlands, South Korea & Poland
-	- it could potentially reduce 50% of particulate matter load in air
-	- Since 2014, Delhi has been ranked one among the most polluted cities in the world 
-	- to tackle the pollution control spikes measures such as GRAP (Graded Response Action Plan)  are taken
-- National Clean Air Programme ?
-- A report by UNICEF + Pure Earth says that 1 in 3 children - upto 800M globally the lead levels in blood are above 5micrograms/decilitre - the amount at which action is required & half among these live in South Asia
-- Lead is a potential neurotoxin which can cause irrepairable harm to childrens brain & behaviour
-- Childhood lead exposure is estimated to cost almost 1T USD to lower+middle income countries
-	-  informal & substandrad recycling of lead-acid batteries & increase in vehicles ownership, open-air fumes emitting the toxic fumes etc. are some reasons for the increase of lead
-	- lead can be released into blood during pregnancy which was accumulated into the body becoming source of problem to the foetus
-- What the chemical that WHO identified as a mjor public concern ? 
-- WHO also joined UNEPs program - Global Alliance to eliminate lead paint ? 
-- What is the protocol of resolving water disputes - as of with tribunals & SC ? 
-- Mullaperiyar Dam though it exists in Kerala is operated by Tamil Nadu due to an agreement between - Maharaja of Travancore & then Secretary of State for India
-	- the dam redirects the flow into BoB instead of Arabian Sea
-	- it is located at the confluence of Mullaya & Periyar #river ? locations ? river plains region ? 
-	- In 1970s the agreement was renewed giving the rights of land & water - hence TN pays rent to Kerala , the authority also conceived to develop hydropower project but the increase in levels of dam has a potential problem of withstanding/earthquakes, 
-	- as per CWC a recommendation was made to lower the water level but only further increase if necessary measures are taken. 
-	- In 2006, SC directed that Kerala to not object the increase in level raise, so in response Kerala ammended -  Irrigation Water Conservation Act, 2003 to counter in last SC struck down the act as unconstitutional and directed GoI + Kerala + TN to prepare a contingency plan in case of disaster
-- Central Water Commission ? 
-- Interstate #river Waters Disputes Act, 1959 ? 
-- SKOCH Gold Award ? as highest civilian honour in the country conferred by an independent institution - it was awarded to Min.  of Tribal Affairs for its "Empowerment of Tribals thourgh IT enabled Scholarship Schemes" project
-- Muslim Women( Protection of Rights on Marriage) Act ? 
-- UN Economic Commission for Europe (UNECE ) ? 
-- What are the five regional commissions of UN ? 
+- [ ] Parties appoint chief whips among the legislators of the house, he can also be assisted by additional whips
+  - whip system was inherited from British Parliamentary System 
+- [ ] In cases of Presidential elections whips cannot be applied
+- [ ] one-line whip - issued to inform members of a party about a vote where a member can abstain incase he doesn't wish to follow the party's line with prior information followed
+- [ ] Kihoto Hollohan Case, 1992 ? 
+- [ ] Gramodyog Vikas Yojana ? Min. of MSME has approved a program to benefit artisans in manufacturing agarbatti as a pilot project
+- [ ] Smog Towers ? structures designed to work as large scale air purifiers
+  - SC has directed Delhi govt. & CPCB to submit a plan of setting up such towers, these towers have shown a positive result in case of China, Netherlands, South Korea & Poland
+  - it could potentially reduce 50% of particulate matter load in air
+  - Since 2014, Delhi has been ranked one among the most polluted cities in the world 
+  - to tackle the pollution control spikes measures such as GRAP (Graded Response Action Plan)  are taken
+- [ ] National Clean Air Programme ?
+- [ ] A report by UNICEF + Pure Earth says that 1 in 3 children - upto 800M globally the lead levels in blood are above 5micrograms/decilitre - the amount at which action is required & half among these live in South Asia
+- [ ] Lead is a potential neurotoxin which can cause irrepairable harm to childrens brain & behaviour
+- [ ] Childhood lead exposure is estimated to cost almost 1T USD to lower+middle income countries
+  -  informal & substandrad recycling of lead-acid batteries & increase in vehicles ownership, open-air fumes emitting the toxic fumes etc. are some reasons for the increase of lead
+  - lead can be released into blood during pregnancy which was accumulated into the body becoming source of problem to the foetus
+- [ ] What the chemical that WHO identified as a mjor public concern ? 
+- [ ] WHO also joined UNEPs program - Global Alliance to eliminate lead paint ? 
+- [ ] What is the protocol of resolving water disputes - as of with tribunals & SC ? 
+- [ ] Mullaperiyar Dam though it exists in Kerala is operated by Tamil Nadu due to an agreement between - Maharaja of Travancore & then Secretary of State for India
+  - the dam redirects the flow into BoB instead of Arabian Sea
+  - it is located at the confluence of Mullaya & Periyar #river ? locations ? river plains region ? 
+  - In 1970s the agreement was renewed giving the rights of land & water - hence TN pays rent to Kerala , the authority also conceived to develop hydropower project but the increase in levels of dam has a potential problem of withstanding/earthquakes, 
+  - as per CWC a recommendation was made to lower the water level but only further increase if necessary measures are taken. 
+  - In 2006, SC directed that Kerala to not object the increase in level raise, so in response Kerala ammended -  Irrigation Water Conservation Act, 2003 to counter in last SC struck down the act as unconstitutional and directed GoI + Kerala + TN to prepare a contingency plan in case of disaster
+- [ ] Central Water Commission ? 
+- [ ] Interstate #river Waters Disputes Act, 1959 ? 
+- [ ] SKOCH Gold Award ? as highest civilian honour in the country conferred by an independent institution - it was awarded to Min.  of Tribal Affairs for its "Empowerment of Tribals thourgh IT enabled Scholarship Schemes" project
+- [ ] Muslim Women( Protection of Rights on Marriage) Act ? 
+- [ ] UN Economic Commission for Europe (UNECE ) ? 
+- [ ] What are the five regional commissions of UN ? 
 
 ## 3rd Aug 2020
-- Khukri is a signature weapon of Ghorka rifles
-- 1947 pact on Gorkha soldiers ? after independence the 10 regiments of Gorkha soldiers was settle by Britain-India-Nepal tripartrite agreement
-- recently Nepal has raised an objection of gorkhas serving in Indian military & is planning to terminate 1947 agreement
-- Treaty of Sugauli ? Anglo-Nepalese War (1814-16)? 
-- J&K's Public Safety Act ? more than 500 people were booked under PSA since Aug-5, 2019
-	- it is a preventive detention law, under this a person is taken into custody to prevent him from acting in any manner that is prejudicial to the security of state or maintainance of the public order, any person above 16 can be detained for 2 years (without trial)
-	- it comes into force when Divisional Commissioner or Magistrate orders & authority need not disclose any facts about the detention, which it considers to be against the public interest to disclose
-	- Adminstrative Detention ? (1 year)
-	- it was introduced to prevent the smuggling of timber
-- Article 370 ? Article 35A ? 
-- What are the powers of courts in uptaking cases of Habeus Corpus ? more than 600 petitions were filed before HC of UT - K&K and not even 1% of them have been decided 
-- Article - 22(3) ? If a person is arrested or detained under any law providing for preventive detention, then the protection against arrest & detention under Article - 22(1) & 22(2) shall not be available
-- Production Linked Incentive Scheme - MeiTY ? National Policy on Electronics ? promotes domestic manufacturing and attracts large investments in electronics value chain ? 
-	- investment done by companies on land & buildings for the project will not be considered for any incentives or determine elgibility of the incentive offered by the scheme
-- What is meant by term value chain ?
-- Electronics Sector suffers disability of around 8.5-11% on lack of infra, domestic supply chain & logistics, power, cost of finance, R&D & inadequate skills etc.
-- BeiDou - Navigation Satellite System Constellation
-	- it is prime importance in allowing China's military to employ this navigation guded system to perform conventional strike operations
-- GPS is owned by US, GLONASS by Russia, Galileo by EU & NaVIC by India are all navigational satellites systems
-- Geostationary Orbit vs Geosynchronous Orbit ?
-- National Transit Pass System - an online transit pass generation system for timber, bamboo & other forest produce by Min. of Environment
-- Smart India Hackathon was organised jointly by MRD + i4C ? etc.
-- Bharath Air Fibre Services ? aims to provide wireless conectivity in range of 20kms from BSNL locations thsu it cnaa be accessed even at remote locations
-- NEP has droppped Mandarin from its list of examples of foreign languages which can be taught in schools
-- Barakh Nuclear Energy Plant ? UAE, was built with the help of Korea Electric Power Corp.
-- Agatti Island ? location
-- What are atolls ? 
+- [ ] Khukri is a signature weapon of Ghorka rifles
+- [ ] 1947 pact on Gorkha soldiers ? after independence the 10 regiments of Gorkha soldiers was settle by Britain-India-Nepal tripartrite agreement
+- [ ] recently Nepal has raised an objection of gorkhas serving in Indian military & is planning to terminate 1947 agreement
+- [ ] Treaty of Sugauli ? Anglo-Nepalese War (1814-16)? 
+- [ ] J&K's Public Safety Act ? more than 500 people were booked under PSA since Aug-5, 2019
+  - it is a preventive detention law, under this a person is taken into custody to prevent him from acting in any manner that is prejudicial to the security of state or maintainance of the public order, any person above 16 can be detained for 2 years (without trial)
+  - it comes into force when Divisional Commissioner or Magistrate orders & authority need not disclose any facts about the detention, which it considers to be against the public interest to disclose
+  - Adminstrative Detention ? (1 year)
+  - it was introduced to prevent the smuggling of timber
+- [ ] Article 370 ? Article 35A ? 
+- [ ] What are the powers of courts in uptaking cases of Habeus Corpus ? more than 600 petitions were filed before HC of UT - K&K and not even 1% of them have been decided 
+- [ ] Article - 22(3) ? If a person is arrested or detained under any law providing for preventive detention, then the protection against arrest & detention under Article - 22(1) & 22(2) shall not be available
+- [ ] Production Linked Incentive Scheme - MeiTY ? National Policy on Electronics ? promotes domestic manufacturing and attracts large investments in electronics value chain ? 
+  - investment done by companies on land & buildings for the project will not be considered for any incentives or determine elgibility of the incentive offered by the scheme
+- [ ] What is meant by term value chain ?
+- [ ] Electronics Sector suffers disability of around 8.5-11% on lack of infra, domestic supply chain & logistics, power, cost of finance, R&D & inadequate skills etc.
+- [ ] BeiDou - Navigation Satellite System Constellation
+  - it is prime importance in allowing China's military to employ this navigation guded system to perform conventional strike operations
+- [ ] GPS is owned by US, GLONASS by Russia, Galileo by EU & NaVIC by India are all navigational satellites systems
+- [ ] Geostationary Orbit vs Geosynchronous Orbit ?
+- [ ] National Transit Pass System - an online transit pass generation system for timber, bamboo & other forest produce by Min. of Environment
+- [ ] Smart India Hackathon was organised jointly by MRD + i4C ? etc.
+- [ ] Bharath Air Fibre Services ? aims to provide wireless conectivity in range of 20kms from BSNL locations thsu it cnaa be accessed even at remote locations
+- [ ] NEP has droppped Mandarin from its list of examples of foreign languages which can be taught in schools
+- [ ] Barakh Nuclear Energy Plant ? UAE, was built with the help of Korea Electric Power Corp.
+- [ ] Agatti Island ? location
+- [ ] What are atolls ? 
 
 ## 4th Aug 2020 
 - SC in a contempt case against form Madras HC Judge C.S.Karnan has held that law of contempt is not made for the protection of judges who may be sensitive to the winds of opinion, they are supposed to be men of fortitude, able to thrive in hardy climate

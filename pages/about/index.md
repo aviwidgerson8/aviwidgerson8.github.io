@@ -31,11 +31,11 @@ My current progress & pending tasks in all topics can be gauged from here:
 ## Temporary Pending Tasks
 - [Temporary Pending Tasks](link://slug/pending-tasks-temporary)
 
-My daily-tasks diary can be checked here: [Diary]()
+My daily-tasks diary can be checked here: [Diary](/categories/cat_diary)
 
 My daily answer writing (preparation for UPSC) posts can be checked here: [Answer Writing]()
 
-If you find my work interesting, you can follow me in either one among or both -  Goodreads, Twitter or you can email me at <jeanbourgain8@gmail.com>
+If you find my work interesting, you can follow me in either one among or both -  Goodreads, Twitter; for more infromation you can email me at <jeanbourgain8@gmail.com>
 
 
 
