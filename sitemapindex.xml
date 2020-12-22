@@ -10,10 +10,6 @@
   <lastmod>2020-12-22T06:13:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://jeanbourgain8.github.io/categories/cat_diary.xml</loc>
-  <lastmod>2020-12-22T06:15:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/cat_research.xml</loc>
   <lastmod>2020-12-22T06:13:00Z</lastmod>
  </sitemap>
@@ -24,10 +20,6 @@
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/cat_upsc-pages.xml</loc>
   <lastmod>2020-12-22T06:13:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jeanbourgain8.github.io/categories/diary.xml</loc>
-  <lastmod>2020-12-22T06:15:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/categories/down-to-earth.xml</loc>
@@ -111,6 +103,6 @@
  </sitemap>
  <sitemap>
   <loc>https://jeanbourgain8.github.io/sitemap.xml</loc>
-  <lastmod>2020-12-22T06:16:00Z</lastmod>
+  <lastmod>2020-12-22T06:21:00Z</lastmod>
  </sitemap>
 </sitemapindex>
