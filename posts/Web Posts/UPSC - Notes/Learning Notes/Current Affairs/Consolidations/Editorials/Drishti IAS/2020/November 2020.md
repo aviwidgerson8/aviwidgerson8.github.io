@@ -12,5 +12,5 @@
 # November 2020
 
 ##  3rd November 2020 
-- What are latest marketing reforms made in regards to Natural Gas ?
-- What do Field Development Plans & Pricing Freedom in Natural Gas Sector mean ?
+- [ ] What are latest marketing reforms made in regards to Natural Gas ?
+- [ ] What do Field Development Plans & Pricing Freedom in Natural Gas Sector mean ?

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Planning/Pending Tasks/Pending Tasks - Overall.md",
+            "file": "Diary/Diary.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning/Pending Tasks/Pending Tasks - Overall.md",
+                "file": "Diary/Diary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Planning/Pending Tasks/Pending Tasks - Overall.md",
-    "Planning/Pending Tasks/Pending Tasks - Temporary.md",
-    "Planning/Pending Tasks/Pending Tasks - Monthly.md",
+    "Diary/Diary.md",
     "Planning/Progress/Monthly/January 2021.md",
+    "Planning/Targets Timeline.md",
+    "Planning/Pending Tasks/Pending Tasks - Temporary.md",
+    "Diary/Untitled.md",
+    "Planning/Pending Tasks/Pending Tasks - Overall.md",
+    "Planning/Pending Tasks/Pending Tasks - Monthly.md",
     "Planning/Pending Tasks/Backlogs.md",
     "Planning/Pending Tasks/Pending Tasks.md",
-    "Planning/Progress/Overall/Goodreads.md",
-    "Planning/Progress/Overall/Economics.md",
-    "Planning/Progress/Overall/Maths.md",
-    "Planning/Progress/Overall/TCS.md"
+    "Planning/Progress/Overall/Goodreads.md"
   ]
 }
