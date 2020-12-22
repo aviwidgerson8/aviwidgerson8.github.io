@@ -31,7 +31,7 @@ My current progress & pending tasks in all topics can be gauged from here:
 ## Temporary Pending Tasks
 - [Temporary Pending Tasks](link://slug/pending-tasks-temporary)
 
-My daily-tasks diary can be checked here: [Diary](/categories/cat_diary/)
+My daily-tasks diary can be checked here: [Diary](link://slug/diary)
 
 My daily answer writing (preparation for UPSC) posts can be checked here: [Answer Writing]()
 
