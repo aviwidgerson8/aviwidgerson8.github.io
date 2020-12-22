@@ -18,7 +18,7 @@
 - [ ] 1st - 15th Dec'20 Insights IAS Daily News Analysis
 - [ ] 1st - 15th Dec'20 Only IAS Slides
 - [ ] 1st - 15th Dec'20 Opinion
-- [ ] 1st - 15th Hindu News
+- [x] 1st - 15th Hindu News
 - [ ] 1st - 15th Dec'20 Insights IAS Editorials
 - [ ] 1st - 15th Dec'20 Drishti IAS Editorials
 - [ ] 1st - 15th Dec'20 Only IAS Editorials
