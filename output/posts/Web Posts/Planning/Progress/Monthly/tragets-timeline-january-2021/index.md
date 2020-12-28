@@ -73,6 +73,8 @@
 - [ ] 12th NCERT - 2
 ### Economy
 - [ ] TN 11th Economy
+- [ ] 11th NCERT - Economics
+- [ ] 12th NCERT - Macroeconomics
 - [ ] TN 12th Economy
 - [ ] Mrunal PDF 
 - [ ] Wikipedia Summary
