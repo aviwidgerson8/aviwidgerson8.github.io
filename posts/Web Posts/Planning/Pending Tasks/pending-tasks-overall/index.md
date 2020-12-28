@@ -15,18 +15,18 @@
 ---
 
 ## Dec'20
-- [ ] 1st - 15th Dec'20 Insights IAS Daily News Analysis
-- [ ] 1st - 15th Dec'20 Only IAS Slides
-- [ ] 1st - 15th Dec'20 Opinion
-- [x] 1st - 15th Hindu News
-- [ ] 1st - 15th Dec'20 Insights IAS Editorials
-- [ ] 1st - 15th Dec'20 Drishti IAS Editorials
-- [ ] 1st - 15th Dec'20 Only IAS Editorials
-- [ ] 1st - 15th Dec'20 Insights Static Quiz
-- [ ] 1st - 15th Dec'20 Insights Current Affairs Quiz
-- [ ] 1st - 15th Dec'20 Insights Revision Quiz
-- [ ] 1st - 15th Dec'20 Drishti IAS Daily News Analysis (Optional)
-- [ ] 1st - 15th Dec'20 Business Standard News (Optional)
+- [ ] 1st - 28th Dec'20 Insights IAS Daily News Analysis
+- [ ] 1st - 28th Dec'20 Only IAS Slides
+- [ ] 1st - 28th Dec'20 Opinion
+- [x] 1st - 28th Hindu News
+- [ ] 1st - 28th Dec'20 Insights IAS Editorials
+- [ ] 1st - 28th Dec'20 Drishti IAS Editorials
+- [ ] 1st - 28th Dec'20 Only IAS Editorials
+- [ ] 1st - 28th Dec'20 Insights Static Quiz
+- [ ] 1st - 28th Dec'20 Insights Current Affairs Quiz
+- [ ] 1st - 28th Dec'20 Insights Revision Quiz
+- [ ] 1st - 28th Dec'20 Drishti IAS Daily News Analysis (Optional)
+- [ ] 1st - 28th Dec'20 Business Standard News (Optional)
 
 
 ## Nov'20
@@ -49,6 +49,11 @@
 - [ ] Jan'20 - Present - Down to Earth Magazines
 - [ ] Jan'20 - Present - Economic & Political Weekly Magazines 
 - [ ] Jan'20 - Present - Only IAS Current Affairs 
+- [ ] Jan'20 - Present - PRS - Policy Review
+- [ ] Jan'20 - Present - PRS - Committe Reports
+- [ ] Jan'20 - Present - PRS - Blog
+- [ ] Jan'20 - Present - PRS - Articles
+- [ ] PRS - Annual Policy Review - 2019-20
 - [ ] October'20 - Opinion
 - [ ] Jan'20 - Present - Opinions (optional)
 - [ ] Jan'20 - Present - Hindu News (optional)
