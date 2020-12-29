@@ -60,7 +60,6 @@
 - [ ] abet
 - [ ] conviction
 - [ ] duping
-
 - [ ] What are different schedules under Wild Life Protection Act ? 
 - [ ] What are the restrictions on encroachment of forests ? 
 - [ ] National Green Tribunal derives power from which acts ? 

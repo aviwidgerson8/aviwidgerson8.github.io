@@ -10,7 +10,6 @@
 ***
 
 ## 1st Jul 2020
-
 - [ ] Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAy)
 - [ ] Integrated Disease Survelliance Programme (IDSP)
 - [ ] Crimean-Congo Haemorraghic Fever

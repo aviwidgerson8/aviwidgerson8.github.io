@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Diary/Diary.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -97,14 +97,14 @@
   },
   "lastOpenFiles": [
     "Diary/Diary.md",
-    "Meditations.md",
-    "Web - Notes/Tags - Prelims.md",
-    "Web - Notes/Tags - Mains.md",
-    "Web - Notes/Learning Notes/Current Affairs/Opinion/Livemint/July 2020.md",
-    "Web - Notes/Learning Notes/Current Affairs/Opinion/Livemint/August 2020.md",
-    "Web - Notes/Learning Notes/Current Affairs/Opinion/Indian Express/July 2020.md",
-    "Web - Notes/Learning Notes/Current Affairs/Opinion/Indian Express/August 2020.md",
+    "Planning/Pending Tasks/Pending Tasks - Overall.md",
     "Web - Notes/Learning Notes/Current Affairs/Opinion/Hindu/November 2020.md",
-    "Web - Notes/Learning Notes/Current Affairs/Opinion/Financial Express/Novemeber 2020.md"
+    "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/November 2020.md",
+    "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/August 2020.md",
+    "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/December 2020.md",
+    "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/July 2020.md",
+    "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/October 2020.md",
+    "Meditations.md",
+    "Web - Notes/Tags - Prelims.md"
   ]
 }
