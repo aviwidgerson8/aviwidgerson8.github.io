@@ -7,9 +7,9 @@
 .. link: 
 .. description: 
 .. type: text
-.. status: draft
+.. status: private
 
-*account of pending tasks in preparation for UPSC*
+**Description** : *account of pending tasks in preparation for UPSC*
 <!-- TEASER_END -->
 
 ---

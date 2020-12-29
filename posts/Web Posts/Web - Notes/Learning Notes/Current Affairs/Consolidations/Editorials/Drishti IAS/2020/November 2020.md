@@ -1,0 +1,16 @@
+.. title: Drishti IAS - November'20 Editorials Notes
+.. slug: drishti-ias-november-2020-editorials-notes
+.. date: 2020-11-01 
+.. tags: upsc, drishti ias, editorials, notes
+.. category: upsc-pages
+
+**Description** : *consolidated notes of monthly current affairs amagazines*
+<!-- TEASER_END -->
+
+***
+
+# November 2020
+
+##  3rd November 2020 
+- [ ] What are latest marketing reforms made in regards to Natural Gas ?
+- [ ] What do Field Development Plans & Pricing Freedom in Natural Gas Sector mean ?

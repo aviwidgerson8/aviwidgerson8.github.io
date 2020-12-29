@@ -7,9 +7,9 @@
 .. link: 
 .. description: 
 .. type: text
-.. status: draft
+.. status: private
 
-*account of backlogs in daily preparation for UPSC*
+**Description** : *account of backlogs in daily preparation for UPSC*
 <!-- TEASER_END -->
 
 ---

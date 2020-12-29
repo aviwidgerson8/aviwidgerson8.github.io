@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-*repairing (installation) audio drivers of Debian PC*
+**Description** : *repairing (installation) audio drivers of Debian PC*
 <!-- TEASER_END -->
 
 ***

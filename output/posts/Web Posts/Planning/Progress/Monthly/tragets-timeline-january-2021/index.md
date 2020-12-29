@@ -8,7 +8,7 @@
 .. type: text
 .. status: draft
 
-*account of progress in monthly targets*
+**Description** : *account of progress in monthly targets*
 <!-- TEASER_END -->
 
 ---

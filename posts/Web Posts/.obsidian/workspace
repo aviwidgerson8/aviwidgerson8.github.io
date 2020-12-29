@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "UPSC - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/OnlyIAS/2020/December 2020.md",
+            "file": "Diary/Diary.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UPSC - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/OnlyIAS/2020/December 2020.md",
+                "file": "Diary/Diary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "UPSC - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/OnlyIAS/2020/December 2020.md",
     "Diary/Diary.md",
-    "Planning/Pending Tasks/Pending Tasks - Overall.md",
-    "Planning/Progress/Monthly/January 2021.md",
-    "Planning/Targets Timeline.md",
-    "Planning/Schedule/Current Schedule (Running Days).md",
-    "Planning/Schedule/Current Schedule (General Days).md",
-    "Planning/Pending Tasks/Pending Tasks - Temporary.md",
-    "Diary/Untitled.md",
-    "Planning/Pending Tasks/Pending Tasks - Monthly.md"
+    "Meditations.md",
+    "Web - Notes/Tags - Prelims.md",
+    "Web - Notes/Tags - Mains.md",
+    "Web - Notes/Learning Notes/Current Affairs/Opinion/Livemint/July 2020.md",
+    "Web - Notes/Learning Notes/Current Affairs/Opinion/Livemint/August 2020.md",
+    "Web - Notes/Learning Notes/Current Affairs/Opinion/Indian Express/July 2020.md",
+    "Web - Notes/Learning Notes/Current Affairs/Opinion/Indian Express/August 2020.md",
+    "Web - Notes/Learning Notes/Current Affairs/Opinion/Hindu/November 2020.md",
+    "Web - Notes/Learning Notes/Current Affairs/Opinion/Financial Express/Novemeber 2020.md"
   ]
 }

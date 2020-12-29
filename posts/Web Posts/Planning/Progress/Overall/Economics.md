@@ -8,7 +8,7 @@
 .. type: text
 .. status: draft
 
-*account of progress in preparation for DSE-Economics*
+**Description** : *account of progress in preparation for DSE-Economics*
 <!-- TEASER_END -->
 
 ***

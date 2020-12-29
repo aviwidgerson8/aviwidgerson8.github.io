@@ -8,7 +8,7 @@
 .. type: text
 .. has_math: true
 
-_a review of paper (Journal of Economics) from ***Omer Tamuz's Group***_
+**Description** : _a review of paper (Journal of Economics) from ***Omer Tamuz's Group***_
 <!-- TEASER_END -->
 
 ***
