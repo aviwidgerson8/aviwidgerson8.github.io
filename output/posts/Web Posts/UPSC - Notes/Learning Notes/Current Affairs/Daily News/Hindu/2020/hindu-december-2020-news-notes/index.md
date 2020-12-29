@@ -188,7 +188,58 @@
 - [ ] What is the relation between Law Ministry & Election Commission of India ?
 - [ ] Does Modal Code of Conduct has any statutory backing ? From which articles of the constitution does ECI draw its powers to implement MCC ? 
 - [ ] Who is the authority of District Child Protection Units ? What is the hierarchy of NCPCR from top to the ground level ? What is the realtion of Women & Child Welfare Ministry with NCPCR ? 
-- [ ] #data : Operation Muskaan ? in AP, 25k children of different states were rescued 
+- [ ]  | #data : Operation Muskaan ? in AP, 25k children of different states were rescued 
+- [ ]  | #interview : Do reservations have to be followed in professors recrutiment at IITs considering the lack of adequate numbers of PHDs ?
+- [ ]  What is the difference bw OCI cardholders & NRIs ?
+- [ ]  What are the differences between various types of vaccines ? (ex: m-RNA etc.)
+- [ ]  What is DakPay by Indian Postal Payments Bank ?
+- [ ]  What are the functions of Financial Stability & Development Council ? Who are its members ? What are its functions ? Who is its authority ?
+- [ ]  What are the functions of Securities Apellate Tribunal ? Who is its authority ?
+
+## 17th December 2020
+- [ ]  What is a randomized double blind trial ? 
+- [ ]  What is the total spectrum ranges of different generations of telecom ? 
+- [ ]  What are Blue Collar jobs ? 
+- [ ]  What is Energy Conservation Building Code ? 
+- [ ]  What is MPEDA ? What are its functions ? Who is its authority ? 
+- [ ]  What are the functions of CMS-01 satelllite launched by PSLV-C50 ? 
+- [ ]  What do Adjusted Gross Revenue include ? 
+- [ ]  | #dictionary : armamentarium ?
+- [ ]  What is Article - 15 ? 
+- [ ]  Who are the members of Chief of Staff Committe ? What are its functions ? 
+- [ ]   | #reports : United Nations Human Development Index ? What is the metric added into latest report ? 
+- [ ]   Who is Bangbandhu ? 
+- [ ]   In which sectors was the PLI scheme announced ? 
+- [ ]   Did centre do any amendment to FRBM act to allow states to borrow an additional 2% over the existsing statutory limit of 3% of GSDP ? 
+- [ ]   How useful are export subsidies ? How effective have they been in contribution to Indian Economy ?
+
+## 18th December 2020
+- [ ] What is the significance of Chilahati & Halibdari rail link ? 
+- [ ] Who holds the power over IAS officers ? In the case of IAS & IPS officers, who holds the authority to depute them & who can block the order ? 
+- [ ] Critically analyse India's Neighbourhood First Policy ? 
+- [ ]  | #dictionary : elicit ? 
+- [ ]  What are the list of transboundary rivers between India & Bangladesh ?
+- [ ]  | #dictionary : cow-down ? 
+- [ ]  What is electroni project appraisal management system (e-PAMS) ? 
+- [ ]  What are functions of Defense Acquisition Council ? Who is its authority ? 
+- [ ]  Wht is C band of frequency spectrum ? What are other bands in it ? 
+- [ ]  What is Geosynchronous Transfer Orbit ? 
+- [ ]  What are different series of satellites ? their functions ? 
+- [ ]  | #dictionary : depose ? 
+- [ ]  What are the rules & restrictions on board & others in an organization under Companies Act ? 
+- [ ]  | #data : currently gas accounts for 6% of total energy mix in India, we plan to increase it to 15% by 2030 
+- [ ]  What is the latest unvieled gas trading platform in India ?
+- [ ]  What are the locations of Petroleum Reserves in India ? are these reserves maintained completely by govt. or by PPP ? 
+- [ ]  | #dictionary : delinquency ?
+
+## 19th December 2020
+- [ ] Who has the power to decide if there's a consitutional breakdown ? Executive / Judiciary / Legislature ? What does Article - 356 say ?
+- [ ] What is PESA Act ? 
+- [ ] What is Article 243-ZA(2) ? Who is conferred with the power to make provision wrt all matters relating to elections to municipalities ? 
+- [ ] What is the issue of urea shortage faced by farmers ? Did it get resolved ? 
+- [ ] What is Montreal Convention related to airplanes ? What is the compensation paid to dead passengers ?
+- [ ] What is Indomethacin ? How is it related to Covid19 ?
+- [ ] How effective were Epidemic Diseases Act, 1897 & Diasaster Management Act, 2005 in dealing with the pandemic ?
 - [ ] 
 
 

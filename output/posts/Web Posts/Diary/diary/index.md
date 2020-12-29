@@ -17,13 +17,11 @@
 
 ### 29th December 2020
 #### Work
+I want to clear as many pending tasks as possible before new year starts & from then on I shall stick to my planned routine.
 - [ ] 19th Dec - 28th Dec : Hindu Newspaper
-- [ ] 4th Dec - 13th Dec & 15th Dec - 28th Dec : Insights IAS
-- [ ] Real Analysis - Malik & Arora
-- [ ] TN 11th Economy
-- [ ] A Practical English Grammar - A. J. Thomson
-- [ ] The Will to Power - Friedrich Nietzsche
-- [ ] Principles of Economics - N. Gregory Mankiw
+- [ ] 4th Dec - 13th Dec & 15th Dec - 28th Dec : Insights IAS Daily News Analysis
+- [ ] 1st Nov - 30th Nov : Insights IAS Daily News Analysis
+
 
 ### 23rd - 28th December 2020
 ***Jyothi's Marriage Break***
@@ -43,7 +41,7 @@ I reflected on changes I had gone through & assesed, whether they effective. I a
 #### Work 
 None
 #### Personal
-- Today, I felt that nights had me brave than the days while riding, during nights I only bothered about what's necessary, while during days I would bother about everything that comes across
+- Today, I felt that nights had me brave than the days while riding, during nights I only bothered about what's necessary, while during days I would bother about everything that passes me.
 
 
 
