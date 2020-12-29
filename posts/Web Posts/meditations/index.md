@@ -5,7 +5,7 @@
 .. category: personal
 .. status: draft
 
-*core principles*
+**Description** : *core principles*
 <!-- TEASER_END -->
 
 ***

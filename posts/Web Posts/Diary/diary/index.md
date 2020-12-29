@@ -8,7 +8,7 @@
 .. type: text
 .. status: private
 
-*daily memories & workings are reported here*
+**Description** : *daily memories & workings are reported here*
 <!-- TEASER_END -->
 
 ---

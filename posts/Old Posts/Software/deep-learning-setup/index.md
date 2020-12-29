@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-*installing tools for NVIDIA GPU & creating a deeplearing setup (caffe)*
+**Description** : *installing tools for NVIDIA GPU & creating a deeplearing setup (caffe)*
 <!-- TEASER_END -->
 
 ***
