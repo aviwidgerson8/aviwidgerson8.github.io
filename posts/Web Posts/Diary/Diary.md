@@ -15,10 +15,16 @@
 
 ## December'20
 
-### 29th December 2020
+### 30th December 2020
 #### Work Planned
-I want to clear as many pending tasks as possible before new year starts & from then on I shall stick to my planned routine.
+- [ ] 8th Dec - 13th Dec & 15th Dec - 28th Dec : Insights IAS Daily News Analysis
+- [ ] 19th Dec - 29th Dec : Hindu Newspaper
+- [ ] 1st Nov - 30th Nov : Insights IAS Daily News Analysis
 
+---
+### 29th December 2020
+Note: I want to clear as many pending tasks as possible before new year starts & from then on I shall stick to my planned routine.
+#### Work Planned
 - [ ] 19th Dec - 28th Dec : Hindu Newspaper
 - [ ] 4th Dec - 13th Dec & 15th Dec - 28th Dec : Insights IAS Daily News Analysis
 - [ ] 1st Nov - 30th Nov : Insights IAS Daily News Analysis
