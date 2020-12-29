@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "eacf74ca856bd2c4",
+    "id": "dbec87bfb1fa3428",
     "type": "split",
     "children": [
       {
-        "id": "3f779635ea70aef8",
+        "id": "c7a45f37622eec4d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Old Posts/Software/Deep Learning Setup.md",
+            "file": "pages/about.md",
             "mode": "source"
           }
         }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6b17a237390fe266",
+    "id": "8223e048769d1a56",
     "type": "split",
     "children": [
       {
-        "id": "cb03ec0f0d43b449",
+        "id": "931de91335cdacf8",
         "type": "tabs",
         "children": [
           {
-            "id": "e93128b620834355",
+            "id": "0a7e7e2010ec35ba",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "8c66c5e24614a803",
+            "id": "a67ed0552b969107",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,23 +53,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409
+    "width": 300
   },
   "right": {
-    "id": "6be460fb1f3324b4",
+    "id": "74111609c15ef39f",
     "type": "split",
     "children": [
       {
-        "id": "7242e1a96c7cfde1",
+        "id": "5efcbaf6cacf4e0f",
         "type": "tabs",
         "children": [
           {
-            "id": "59fc8bd3d6ace4c4",
+            "id": "15b3063d754cfa7f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Old Posts/Software/Deep Learning Setup.md",
+                "file": "pages/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,7 +79,7 @@
             }
           },
           {
-            "id": "75b33fc40f411a9c",
+            "id": "44361de09fd2f35d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -96,15 +96,6 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "posts/Old Posts/Software/Deep Learning Setup.md",
-    "posts/Old Posts/Software/Audio Drivers Installation.md",
-    "posts/Old Posts/Research/Asymptotic Sequential Learning.md",
-    "pages/about.md",
-    "posts/Web Posts/Meditations.md",
-    "output/posts/New Posts/meditations.md",
-    "output/posts/New Posts/meditations/index.md",
-    "posts/New Posts/Meditations.md",
-    "posts/New Posts/meditations.md",
-    "posts/New Posts/Planning/Progress/TCS.md"
+    "pages/about.md"
   ]
 }

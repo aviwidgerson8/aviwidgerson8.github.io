@@ -7,6 +7,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. nocomments: True
 .. status: private
 
 **Description** : *account of backlogs in daily preparation for UPSC*

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diary/Diary.md",
+            "file": "Answer Writing/Answer Writing.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Diary.md",
+                "file": "Answer Writing/Answer Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Answer Writing/Answer Writing.md",
     "Diary/Diary.md",
+    "Answer Writing/Untitled.md",
+    "Planning/Pending Tasks/Pending Tasks - Temporary.md",
     "Planning/Pending Tasks/Pending Tasks - Overall.md",
     "Web - Notes/Learning Notes/Current Affairs/Opinion/Hindu/November 2020.md",
     "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/November 2020.md",
     "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/August 2020.md",
     "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/December 2020.md",
-    "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/July 2020.md",
-    "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/October 2020.md",
-    "Meditations.md",
-    "Web - Notes/Tags - Prelims.md"
+    "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/July 2020.md"
   ]
 }

@@ -6,6 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. nocomments: True
 .. status: private
 
 **Description** : *daily memories & workings are reported here*

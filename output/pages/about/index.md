@@ -33,7 +33,7 @@ My current progress & pending tasks in all topics can be gauged from here:
 
 My daily-tasks diary can be checked here: [Diary](link://slug/diary)
 
-My daily answer writing (preparation for UPSC) posts can be checked here: [Answer Writing]()
+My daily answer writing (preparation for UPSC) posts can be checked here: [Answer Writing](link://slug/answer-writing-practice)
 
 If you find my work interesting, you can follow me in either one among or both -  Goodreads, Twitter; for more infromation you can email me at <jeanbourgain8@gmail.com>
 
