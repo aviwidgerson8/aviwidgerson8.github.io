@@ -9,9 +9,9 @@
 .. status: draft
 
 **Description** : *account of progress in mathematics preparation for UPSC*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## Real Analysis
 **Syllabus:** Real number system as an ordered field with least upper bound property; sequences, limit of a sequence, Cauchy sequence, completeness of real line; series and its convergence, absolute and conditional convergence of series of real and complex terms, rearrangement of series. Continuity and uniform continuity of functions, properties of continuous functions on compact sets. Riemann integral, improper integrals; fundamental theorems of integral calculus. Uniform convergence, continuity, differentiability and integrability for sequences and series of functions; partial derivatives of functions of several (two or three) variables, maxima and minima.

@@ -9,9 +9,9 @@
 .. status: draft
 
 **Description** : *account of reading of my goodreads booklist*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## Philosophy
 - [ ] The Will to Power - Friedrich Nietzsche

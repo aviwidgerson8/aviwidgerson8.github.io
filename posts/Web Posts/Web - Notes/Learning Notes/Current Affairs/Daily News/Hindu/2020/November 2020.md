@@ -5,9 +5,9 @@
 .. category: upsc-pages
 
 **Description** : *consolidated notes of newspapers*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## 1st November 2020
 - [ ] What is Goa Maritime Conclave ? 

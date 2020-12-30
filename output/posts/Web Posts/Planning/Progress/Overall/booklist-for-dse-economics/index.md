@@ -9,9 +9,10 @@
 .. status: draft
 
 **Description** : *account of progress in preparation for DSE-Economics*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
+
 ## Introduction
 
 - [ ] Principles of Economics - N. Gregory Mankiw

@@ -5,9 +5,9 @@
 .. category: upsc-pages
 
 **Description** : *consolidated notes of newspapers*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## 1st Jul 2020
 - [ ] Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAy)

@@ -5,9 +5,9 @@
 .. category: upsc-pages
 
 **Description** : *consolidated notes of monthly current affairs amagazines*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## 1st Aug 2020
 - [ ] Parties appoint chief whips among the legislators of the house, he can also be assisted by additional whips

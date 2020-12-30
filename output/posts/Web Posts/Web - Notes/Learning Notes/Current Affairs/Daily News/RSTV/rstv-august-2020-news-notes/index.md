@@ -5,9 +5,9 @@
 .. category: upsc-pages
 
 **Description** : *consolidated notes of news*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## Northeast's Growth Potential 
 - [ ] After partition the region has lost the connectivity links through Kolkata port and Chittagong port

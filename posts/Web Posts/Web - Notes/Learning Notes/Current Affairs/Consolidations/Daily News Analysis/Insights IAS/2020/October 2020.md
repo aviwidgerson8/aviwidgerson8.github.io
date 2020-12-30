@@ -6,9 +6,9 @@
 .. category: upsc-pages
 
 **Description** : *consolidated notes of monthly current affairs amagazines*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## 1st October 2020
 - [ ] What are the technicalities/ conditions for registering a case against Scheduled Castes & Scheduled Tribes (Prevention of Atrocities Act), 1989 ?

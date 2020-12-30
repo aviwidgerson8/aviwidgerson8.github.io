@@ -5,9 +5,9 @@
 .. category: upsc-pages
 
 **Description** : *consolidated notes of monthly current affairs amagazines*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## 10th Aug 2020
 - [ ] What is a transshipment hub ?  a transhipment hub has been proposed in Andaman & Nicorbar Islands, it will also emphasize on boosting trade & tourism

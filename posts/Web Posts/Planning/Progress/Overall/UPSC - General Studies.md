@@ -9,9 +9,9 @@
 .. status: draft
 
 **Description** : *syllabus & account of progress in general studies preparation for UPSC*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ### Prelims Syllabus (General)
 - Current Events of National & International Importance

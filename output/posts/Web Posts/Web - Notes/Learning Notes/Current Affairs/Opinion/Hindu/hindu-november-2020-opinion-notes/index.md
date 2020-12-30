@@ -5,9 +5,9 @@
 .. category: upsc-pages
 
 **Description** : *consolidated notes of opinions*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## November 2020
 - [ ] | #dictionary : peregrinations ?

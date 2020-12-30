@@ -6,9 +6,9 @@
 .. status: private
 
 **Description** : *timeline for 2021-22*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## Targets
 - UPSC

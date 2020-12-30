@@ -5,9 +5,10 @@
 .. category: upsc-pages
 
 **Description** : *consolidated notes of monthly current affairs amagazines*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
+
 ## 1st - 6th December 2020
 - [ ] Who are the member countries of organisation of Islamic Cooperation (OIC) ? 
 - [ ] | #passes : Mariam La ? 

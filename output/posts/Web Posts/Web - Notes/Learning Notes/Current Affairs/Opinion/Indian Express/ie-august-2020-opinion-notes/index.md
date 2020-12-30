@@ -5,9 +5,9 @@
 .. category: upsc-pages
 
 **Description** : *consolidated notes of opinions*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## 12th Aug 2020
 - [ ] I K Gujral's Doctrine ? India made a unilateral concessions to neighbouring countries with regard to trade and travel without expecting reciprocal treatment

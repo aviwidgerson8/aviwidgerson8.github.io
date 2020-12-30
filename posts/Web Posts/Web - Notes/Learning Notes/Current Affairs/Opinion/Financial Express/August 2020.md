@@ -5,9 +5,9 @@
 .. category: upsc-pages
 
 **Description** : *consolidated notes of opinions*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## 11th Aug 2020
 - [ ] In 2003-04 to 07-08 the unprecedented growth was an outcome of global boom which India managed to leverage riding on the wave of IT outsourcing & subsequently the domestic stimulus pushed the economy upwards in 2010 & 2011 bu thte cyclical factors are not sustainable because the structural deficiencies keep pulling the economy down

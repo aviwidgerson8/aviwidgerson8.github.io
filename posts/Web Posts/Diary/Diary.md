@@ -10,9 +10,9 @@
 .. status: private
 
 **Description** : *daily memories & workings are reported here*
-<!-- TEASER_END -->
 
----
+***
+<!-- TEASER_END -->
 
 ## December'20
 

@@ -5,9 +5,9 @@
 .. category: upsc-pages
 
 **Description** : *consolidated notes of monthly current affairs amagazines*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## RIC, a triangle that is still important
 - [ ] RIC countries make up 19% of global landmass & 33% of global GDP

@@ -10,6 +10,6 @@
 .. status: private
 
 **Description** : *daily account & progress in answer writing*
-<!-- TEASER_END -->
 
----
+***
+<!-- TEASER_END -->

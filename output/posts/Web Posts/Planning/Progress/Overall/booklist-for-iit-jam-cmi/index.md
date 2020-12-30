@@ -9,9 +9,9 @@
 .. status: draft
 
 **Description** : *syllabus & account of progress in maths preparation for IIT-JAM & CMI*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## Real Analysis, Calculus & Vector Analysis
 ### IIT JAM

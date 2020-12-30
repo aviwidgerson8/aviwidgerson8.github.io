@@ -5,9 +5,9 @@
 .. category: upsc-pages
 
 **Description** : *consolidated notes of newspapers*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## 1st October 2020
 - [ ] What are Solid Waste Management Rules, 2016 ? did any latest amendments happen ? 
