@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Answer Writing/Answer Writing.md",
+            "file": "Diary/Diary.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Answer Writing/Answer Writing.md",
+                "file": "Diary/Diary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +96,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Answer Writing/Answer Writing.md",
     "Diary/Diary.md",
+    "Answer Writing/Answer Writing.md",
     "Answer Writing/Untitled.md",
     "Planning/Pending Tasks/Pending Tasks - Temporary.md",
     "Planning/Pending Tasks/Pending Tasks - Overall.md",
