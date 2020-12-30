@@ -10,9 +10,9 @@
 .. status: private
 
 **Description** : *account of progress in monthly targets*
-<!-- TEASER_END -->
 
----
+***
+<!-- TEASER_END -->
 
 ## UPSC General Studies
 ### Art & Culture

@@ -5,9 +5,9 @@
 .. category: upsc-pages
 
 **Description** : *consolidated notes of news*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## Treaty of Open Skies
 - [ ] US coming out of the treaty is also in a way to send a message to China that it is not tied up to any of the treaties which have the ability to restrain it's power or to be on a disadvantaged side.

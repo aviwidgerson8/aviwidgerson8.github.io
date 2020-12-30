@@ -5,9 +5,9 @@
 .. category: upsc-pages
 
 **Description** : *consolidated notes of monthly current affairs magazines*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## Maternal death rate declining: report
 - [ ] Aspirational Districts Program ?

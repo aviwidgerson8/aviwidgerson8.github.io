@@ -5,9 +5,9 @@
 .. category: upsc-pages
 
 **Description** : *consolidated notes of opinions*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## 2nd Jul 2020
 - [ ] At one time, more than 70% of the world's ports of entry (sea,air & land) restricted travel (due to Corona) - implies the truth of Globalization

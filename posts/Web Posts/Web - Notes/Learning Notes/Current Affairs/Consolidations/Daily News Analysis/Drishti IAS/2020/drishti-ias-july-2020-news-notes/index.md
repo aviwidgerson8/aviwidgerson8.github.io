@@ -5,9 +5,9 @@
 .. category: upsc-pages
 
 **Description** : *consolidated notes of monthly current affairs amagazines*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## 8th July 2020
 

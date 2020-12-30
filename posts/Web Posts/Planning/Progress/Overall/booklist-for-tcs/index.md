@@ -9,9 +9,9 @@
 .. status: draft
 
 **Description** : *syllabus & account of progress in preparation of TCS for TIFR, JEST & CMI*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## Common
 

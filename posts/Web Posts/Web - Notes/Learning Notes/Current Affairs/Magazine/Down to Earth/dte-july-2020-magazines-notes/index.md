@@ -5,9 +5,9 @@
 .. category: upsc-pages
 
 **Description** : *consolidated notes of magazine*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 
 ## 8th Jul 2020

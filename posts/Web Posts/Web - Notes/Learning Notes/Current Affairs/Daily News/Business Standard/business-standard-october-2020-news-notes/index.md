@@ -5,9 +5,9 @@
 .. category: upsc-pages
 
 **Description** : *consolidated notes of newspapers*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## 28th October 2020
 - [ ] What are the current limits of different sectors in FDI & FPI including the details of automatic & govt. routes ?
