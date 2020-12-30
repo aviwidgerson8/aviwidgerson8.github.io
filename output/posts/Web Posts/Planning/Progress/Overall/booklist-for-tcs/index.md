@@ -3,7 +3,7 @@
 .. date: 2020-12-17 17:31:52 UTC+05:30
 .. tags: tcs
 .. category: progress
-.. link: 
+.. template: page.tmpl
 .. description: 
 .. type: text
 .. status: draft

@@ -4,10 +4,9 @@
 .. date: 2020-12-18 19:57 UTC+05:30
 .. tags: pending
 .. category: pending tasks
-.. link: 
+.. template: page.tmpl
 .. description: 
 .. type: text
-.. nocomments: True
 .. status: private
 
 **Description** : *account of backlogs in daily preparation for UPSC*

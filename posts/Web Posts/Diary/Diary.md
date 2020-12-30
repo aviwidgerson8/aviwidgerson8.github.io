@@ -6,7 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
-.. nocomments: True
+.. template: page.tmpl
 .. status: private
 
 **Description** : *daily memories & workings are reported here*

@@ -5,8 +5,9 @@
 .. category: progress
 .. link: 
 .. description: 
+.. template: page.tmpl
 .. type: text
-.. status: draft
+.. status: private
 
 **Description** : *account of progress in monthly targets*
 <!-- TEASER_END -->

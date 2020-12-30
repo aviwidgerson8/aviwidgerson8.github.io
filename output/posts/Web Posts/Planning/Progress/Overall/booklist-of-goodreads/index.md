@@ -3,7 +3,7 @@
 .. date: 2020-12-17 16:09:15 UTC+05:30
 .. tags: goodreads
 .. category: progress
-.. link: 
+.. template: page.tmpl
 .. description: 
 .. type: text
 .. status: draft
