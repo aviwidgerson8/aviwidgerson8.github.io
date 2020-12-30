@@ -1,6 +1,6 @@
 .. title: Hindu - August'20  Notes
 .. slug: hindu-august-2020-news-notes
-.. date: 2020-08-01 
+.. date: 2020-08-01 08:00 UTC+05:30
 .. tags: upsc, hindu, newspapers, notes
 .. category: upsc-pages
 

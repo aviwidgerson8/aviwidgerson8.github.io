@@ -1,6 +1,6 @@
 .. title: Business Standard - December'20  Notes
 .. slug: business-standard-december-2020-news-notes
-.. date: 2020-12-01 
+.. date: 2020-12-01 10:00 UTC+05:30
 .. tags: upsc, business standard, newspapers, notes
 .. category: upsc-pages
 

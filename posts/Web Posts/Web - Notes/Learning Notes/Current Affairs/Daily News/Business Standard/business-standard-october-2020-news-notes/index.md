@@ -1,6 +1,6 @@
 .. title: Business Standard - October'20  Notes
 .. slug: business-standard-october-2020-news-notes
-.. date: 2020-10-01 
+.. date: 2020-10-01 10:30 UTC+05:30
 .. tags: upsc, business standard, newspapers, notes
 .. category: upsc-pages
 

@@ -1,6 +1,6 @@
 .. title: Livemint - July'20  Notes
 .. slug: livemint-july-2020-opinion-notes
-.. date: 2020-07-01 
+.. date: 2020-07-01 12:30 UTC+05:30
 .. tags: upsc, livemint, opinion, notes
 .. category: upsc-pages
 

@@ -1,6 +1,6 @@
 .. title: Insights IAS - November'20 News Analysis Notes
 .. slug: insights-ias-nov-2020-news-notes
-.. date: 2020-11-01 
+.. date: 2020-11-01 09:00 UTC+05:30
 .. tags: upsc, insights ias, news analysis, notes
 .. category: upsc-pages
 

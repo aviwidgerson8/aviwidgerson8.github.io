@@ -1,6 +1,6 @@
 .. title: Indian Express - July'20  Notes
 .. slug: ie-july-2020-opinion-notes
-.. date: 2020-07-01 
+.. date: 2020-07-01 09:30 UTC+05:30
 .. tags: upsc, indian express, opinion, notes
 .. category: upsc-pages
 
