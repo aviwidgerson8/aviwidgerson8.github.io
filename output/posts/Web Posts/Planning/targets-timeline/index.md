@@ -10,106 +10,91 @@
 ***
 <!-- TEASER_END -->
 
-## Targets
-- UPSC
-- IIT JAM (Maths)
-- CMI (Maths)
-- DSE (Economics)
-- TIFR (Theoretical Computer Science)
-- JEST (Theoretical Computer Science)
-- Competitive Programming
-- Enterprise Programming
-- Research Internship / Employment (abroad)
-- Goodreads
-- Chess
-- Blogging
-- Language
+## Targets List
+---
+- [ ] UPSC Prelims
+- [ ] UPSC Mains - General Studies
+- [ ] UPSC Mains - Maths
+- [ ] Competitive Programming
+- [ ] TIFR
+- [ ] Goodreads
+- [ ] Chess
+- [ ] Enterprise Programming
+- [ ] JEST
+- [ ] IIT JAM - Maths
+- [ ] UPSC Interview
+- [ ] Employement / Research Internship (Abroad)
+- [ ] CMI - Maths
+- [ ] DSE - Economics
 
-## Dec (mid) - Jan
-- UPSC Maths - 7hrs
-- UPSC General Studies - 3hrs
-- Goodreads - 2hrs
-	- English - 3 times
-	- Economics - 4 times
+---
+## Timeline
+---
+### Jan, Feb, Mar
+#### Targets
+- [ ] UPSC General Studies Syllabus 
+- [ ] UPSC Maths Syllabus
+- [ ] 60 PYs Prelims Test Series 
+#### Schedule
+- Goodreads / TCS : (3:00am - 4:00am)
+- UPSC - Maths : (4:00am - 6:00am + 9:30am - 1:30pm)
+- General Studies : (2:00pm - 5:00pm) + (running-days) - (7:00pm - 9:00pm)
+- Previous Years Prelims Test Series : 2/3 days(non-running days) - (7:00pm - 9:00pm)
 
-## Feb - Feb(mid) : [IIT JAM]
-- UPSC Maths - 7hrs
-- UPSC General Studies - 3hrs
-- Goodreads - 2hrs
-	- Economics - 4 times
-	- Books - 3 times
+### Apr, May
+#### Targets
+- [ ] 60 Mains Previous Years Tests Series
+- [ ] UPSC General Studies - Note Making
+- [ ] UPSC General Studies - Revision - 1
+- [ ] 30 UPSC Maths Previous Years Test Series
+- [ ] 30 Current Year Prelims Test Series
+#### Schedule
+- Programming : (3:00am - 4:00am)
+- UPSC Maths : (4:00am - 6:00am) 
+- Previous Years UPSC - Maths Practice Tests: (3:00am - 4:00am) - on alternate days
+- Previous Years Mains Test Series : (9:30am - 1:30pm)
+- Genereal Studies : (2:00pm - 5:00pm)
+- Current Year Prelims Test Series : (7:00pm - 9:00pm) - on alternate days
+- Goodreads : (7:00pm - 9:00pm) - other days
 
-## Feb(mid) - Feb(end)
-- Competitive Programming - 1hr
-- (PYQs) - Prelims / Essay / Language - 2hrs
-- (PYQs) - UPSC Ethics / Maths - I / Maths - II  - 3hrs
-- (PYQs) - UPSC General Studies - I / II / III - 3hrs
-- Learnings / Corrections - 3hrs
+### Jun
+#### Targets
+- [ ] Prelims Revision & Specific Revision
+- [ ] 30-45 Current Year Prelims Test Series
+- [ ] UPSC Prelims Exam
+#### Schedule
+- Programming : (3:00am - 4:00am)
+- UPSC Maths : (4:00am - 6:00am) 
+- Current Year Prelims Test Series : (9:30am - 1:30pm) - first 15days + (7:00pm - 9:00pm) - on alternate days
+- Prelims Final Revision + Practice : (9:30am - 1:30pm) - till exam
+- General Studies - Prelims Specific Revision : (2:00pm - 5:00pm)
+- Goodreads : (7:00pm - 9:00pm) - other days 
 
-## Mar - Apr
-- Competitive Programming - 1hr
-- CMI Maths - 2hrs
-- USPC Maths - 2hrs
-- UPSC General Studies : Prelims Exam Practice - 2hrs
-- UPSC General Studies - Notes Making / Revision - 3hrs
-- Goodreads - 2hrs
-	- Economics - 3 times
-	- Books - 2 times
-	- TCS - 2 times
+### Jul, Aug
+#### Targets
+- [ ] 30-60 UPSC General Studies Current Year Mains Test Series
+- [ ] 30-60 UPSC Maths Current Year Test Series
+- [ ] 30-60 UPSC Essay & Language Current Year Test Series
+#### Schedule
+- Programming : (3:00am - 4:00am)
+- UPSC Essay / Language Paper Practice Tests : (4:00am - 6:00am)
+- UPSC General Studies Current Year Mains Test Series : (9:30am - 1:30pm)
+- UPSC Maths Current Year Test Series : (2:00pm - 5:00pm) + (7:00pm - 8:00pm)
+- Goodreads : (8:00pm - 9:00pm)
 
-## May - Jun : [CMI + DSE Econ+ UPSC Prelims]
-- Competitive Programming - 1hr
-- CMI Maths / DSE Economics / Prelims - 2hrs
-- UPSC General Studies : Prelims Exam Practice - 2hrs
-- UPSC General Studies : Prelims Specific Revision - 2hrs + 3hrs
-- Goodreads - 2hrs
-	- Economics - 3 times
-	- Books - 2 times
-	- TCS - 2 times
+### Sept
+#### Targets
+- [ ] UPSC Mains General Studies
+- [ ] UPSC Mains Maths
+#### Schedule
+- Programming : (3:00am - 4:00am)
+- UPSC Essay / Language Paper Practice Tests : (4:00am - 6:00am)
+- UPSC General Studies - Revision / Current Year Mains Test Series : (9:30am - 1:30pm) 
+- UPSC Maths - Revision / Current Year Test Series : (2:00pm - 5:00pm) + (7:00pm - 8:00pm)
+- Goodreads : (8:00pm - 9:00pm)
 
-## Jul 
-- Competitive Programming - 1hr
-- (Test Series) - Essay / Language - 2hrs
-- (Test Series) - UPSC General Studie - I / General Studies - III / Maths - I / - 3hrs
-- (Test Series) - UPSC General Studies - II / Ethics / Maths - II / - 3hrs
-- Learnings / Corrections - 3hrs
 
-## Aug - Aug(mid)
-- Competitive Programming - 1hr
-- UPSC Maths Revision - 2hrs + 2hrs
-- UPSC General Studies Revision - 2hrs + 3hrs
-- Goodreads - 2hrs
-	- TCS - 4 times
-	- Books - 3 times
 
-## Aug(mid) - Aug(end)
-- Competitive Programming - 1hr
-- (Test Series) - Essay / Language - 2hrs
-- (Test Series) - UPSC General Studie - I / General Studies - III / Maths - I / - 3hrs
-- (Test Series) - UPSC General Studies - II / Ethics / Maths - II / - 3hrs
-- Learnings / Corrections - 3hrs
-
-## Sept : [UPSC Mains]
-- Competitive Programming - 1hr
-- Essay / Language - 2hrs
-- UPSC Maths/Ethics : Revision / Tests - 3hrs
-- UPSC General Studies : Revision / Tests - 3hrs
-- Learnings / Corrections - 3hrs
-
-## Oct - Nov
-- Competitive Programming - 1hr
-- TCS - 2hrs + 4hrs
-- Interview Preparation - 3hrs
-- Goodreads/Chess - 2hrs
-- Blogging - 0.5hrs
-
-## Dec - Mar : [TIFR + JEST]
-- Competitive Programming - 1hr
-- TCS - 2hrs
-- Enterprise Programming - 4hrs
-- Interview Preparation - 3hrs
-- Goodreads/Chess - 2hrs
-- Blogging - 0.5hrs
 
 
 
