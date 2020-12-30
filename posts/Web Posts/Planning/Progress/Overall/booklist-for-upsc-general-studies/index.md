@@ -3,7 +3,7 @@
 .. date: 2020-12-17 15:41:10 UTC+05:30
 .. tags: upsc
 .. category: progress
-.. link: 
+.. template: page.tmpl
 .. description: 
 .. type: text
 .. status: draft

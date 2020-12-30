@@ -3,7 +3,8 @@
 .. date: 2020-12-18 01:53 UTC+05:30
 .. tags: schedule
 .. category: planning
-.. status: draft
+.. status: private
+.. template: page.tmpl
 
 *time-table for running days*
 <!-- TEASER_END -->
