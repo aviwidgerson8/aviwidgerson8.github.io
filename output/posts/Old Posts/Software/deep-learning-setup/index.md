@@ -8,9 +8,9 @@
 .. type: text
 
 **Description** : *installing tools for NVIDIA GPU & creating a deeplearing setup (caffe)*
-<!-- TEASER_END -->
 
 ***
+<!-- TEASER_END -->
 
 ## Specifications
 
