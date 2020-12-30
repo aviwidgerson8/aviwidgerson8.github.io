@@ -1,6 +1,6 @@
 .. title: Only IAS - October'20 News Analysis Notes
 .. slug: only-ias-october-2020-news-notes
-.. date: 2020-10-01 
+.. date: 2020-10-01 12:00 UTC+05:30
 .. tags: upsc, only ias, news analysis, notes
 .. category: upsc-pages
 

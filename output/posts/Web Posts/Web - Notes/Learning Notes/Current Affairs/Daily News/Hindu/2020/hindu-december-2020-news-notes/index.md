@@ -1,6 +1,6 @@
 .. title: Hindu - December'20  Notes
 .. slug: hindu-december-2020-news-notes
-.. date: 2020-12-01 
+.. date: 2020-12-01 08:00 UTC+05:30
 .. tags: upsc, hindu, newspapers, notes
 .. category: upsc-pages
 

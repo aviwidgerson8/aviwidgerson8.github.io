@@ -1,6 +1,6 @@
 .. title: Indian Express - August'20  Notes
 .. slug: ie-august-2020-opinion-notes
-.. date: 2020-08-01 
+.. date: 2020-08-01 12:30 UTC+05:30
 .. tags: upsc, indian express, opinion, notes
 .. category: upsc-pages
 

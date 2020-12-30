@@ -1,6 +1,6 @@
 .. title: Hindu - November'20  Notes
 .. slug: hindu-november-2020-opinion-notes
-.. date: 2020-11-01 
+.. date: 2020-11-01 08:30 UTC+05:30
 .. tags: upsc, hindu, opinion, notes
 .. category: upsc-pages
 

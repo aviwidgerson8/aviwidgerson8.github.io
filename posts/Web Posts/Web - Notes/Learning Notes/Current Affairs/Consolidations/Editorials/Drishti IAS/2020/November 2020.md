@@ -1,6 +1,6 @@
 .. title: Drishti IAS - November'20 Editorials Notes
 .. slug: drishti-ias-november-2020-editorials-notes
-.. date: 2020-11-01 
+.. date: 2020-11-01 09:45 UTC+05:30
 .. tags: upsc, drishti ias, editorials, notes
 .. category: upsc-pages
 

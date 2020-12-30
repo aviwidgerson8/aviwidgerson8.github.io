@@ -1,6 +1,6 @@
 .. title: Down to Earth - July'20  Notes
 .. slug: dte-july-2020-magazines-notes
-.. date: 2020-07-01 
+.. date: 2020-07-01 10:00 UTC+05:30
 .. tags: upsc, down to earth, magazines, notes
 .. category: upsc-pages
 

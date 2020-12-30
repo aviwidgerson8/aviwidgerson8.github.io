@@ -1,6 +1,6 @@
 .. title: Drishti IAS - August'20 News Analysis Notes
 .. slug: drishti-ias-august-2020-news-notes
-.. date: 2020-08-01 
+.. date: 2020-08-01 10:00 UTC+05:30
 .. tags: upsc, drishti ias, news analysis, notes
 .. category: upsc-pages
 

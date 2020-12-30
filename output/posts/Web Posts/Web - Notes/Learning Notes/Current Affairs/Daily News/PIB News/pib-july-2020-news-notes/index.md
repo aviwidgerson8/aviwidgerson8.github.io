@@ -1,6 +1,6 @@
 .. title: PIB - July'20  Notes
 .. slug: pib-july-2020-news-notes
-.. date: 2020-07-01 
+.. date: 2020-07-01 11:00 UTC+05:30
 .. tags: upsc, pib, newspapers, notes
 .. category: upsc-pages
 

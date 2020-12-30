@@ -1,6 +1,6 @@
 .. title: Insights IAS - August'20 Editorials Notes
 .. slug: insights-ias-august-2020-editorials-notes
-.. date: 2020-08-01 
+.. date: 2020-08-01 09:30 UTC+05:30
 .. tags: upsc, insights ias, editorials, notes
 .. category: upsc-pages
 

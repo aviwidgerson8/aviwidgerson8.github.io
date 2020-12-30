@@ -1,6 +1,6 @@
 .. title: Financial Express - November'20  Notes
 .. slug: fe-november-2020-opinion-notes
-.. date: 2020-11-01 
+.. date: 2020-11-01 11:00 UTC+05:30
 .. tags: upsc, financial express, opinion, notes
 .. category: upsc-pages
 

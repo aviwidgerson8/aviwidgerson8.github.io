@@ -1,6 +1,6 @@
 .. title: Financial Express - August'20  Notes
 .. slug: fe-august-2020-opinion-notes
-.. date: 2020-08-01 
+.. date: 2020-08-01 11:30 UTC+05:30
 .. tags: upsc, financial express, opinion, notes
 .. category: upsc-pages
 
