@@ -3,6 +3,7 @@
 .. date: 2020-12-17 18:40:20 UTC+05:30
 .. tags: timeline
 .. category: planning
+.. template: page.tmpl
 .. status: private
 
 **Description** : *timeline for 2021-22*
