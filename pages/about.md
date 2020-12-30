@@ -13,7 +13,9 @@ I am **Jean Bourgain** (#pen-name).
 I currently am preparing for UPSC & few other examinations on Mathematics & Theoretical Computer Science, I intend to use this blog as an account of my progress & efficiency wrt planning in my preparation, in parallel, the blog would also be a comprehensive knowledge resource for the interested - especially on topics related to 
 <a href="/categories/tcs/">Theoretical Computer Science</a>,  <a href="/categories/maths/">Pure Mathematics</a>,  <a href="/categories/upsc/">UPSC</a>,  <a  href="/categories/economics/">Economics</a>, <a href="/categories/goodreads/">Psychology</a>.
 
-My current progress & pending tasks in all topics can be gauged from here:
+My targets, timeline, current progress & pending tasks in all topics can be gauged from here:
+## Targets & Timeline
+- [2021-22](link://slug/targets-timeline)
 ## Overall Progress
 - [UPSC - General Studies](link://slug/booklist-for-upsc-general-studies)
 - [UPSC - Maths](link://slug/booklist-for-upsc-maths)
@@ -21,13 +23,10 @@ My current progress & pending tasks in all topics can be gauged from here:
 - [Maths](link://slug/booklist-for-iit-jam-cmi)
 - [Economics](link://slug/booklist-for-dse-economics)
 - [Goodreads](link://slug/booklist-of-goodreads)
-
 ## Monthly Progress
 - [January 2021](link://slug/tragets-timeline-january-2021)
-
 ## Overall Pending Tasks
 - [Overall Pending Tasks](link://slug/pending-tasks-overall)
-
 ## Temporary Pending Tasks
 - [Temporary Pending Tasks](link://slug/pending-tasks-temporary)
 
