@@ -14,13 +14,22 @@
 ***
 <!-- TEASER_END -->
 
-## December'20
+## January'21
+#### Work Planned
+- [ ] 10th Dec - 28th Dec : Insights IAS Daily News Analysis
+- [ ] 19th Dec - 29th Dec : Hindu Newspaper
+- [ ] 9th Nov - 30th Nov : Insights IAS Daily News Analysis
 
+---
+## December'20
+---
 ### 31st December 2020
 #### Work Planned
-- [ ] 8th Dec - 13th Dec & 15th Dec - 28th Dec : Insights IAS Daily News Analysis
+- [ ] 10th Dec - 28th Dec : Insights IAS Daily News Analysis
 - [ ] 19th Dec - 29th Dec : Hindu Newspaper
-- [ ] 1st Nov - 30th Nov : Insights IAS Daily News Analysis
+- [ ] 9th Nov - 30th Nov : Insights IAS Daily News Analysis
+#### Work Done
+- None
 
 ---
 ### 30th December 2020
