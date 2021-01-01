@@ -1,4 +1,0 @@
-Sitemap: https://jeanbourgain8.github.io/localsite/sitemapindex.xml
-
-User-Agent: *
-Host: jeanbourgain8.github.io
