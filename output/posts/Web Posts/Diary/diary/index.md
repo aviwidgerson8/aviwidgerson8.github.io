@@ -15,10 +15,22 @@
 <!-- TEASER_END -->
 
 ## January'21
+### 2nd January 2021
+#### Work Planned 
+- [ ] 10th Dec - 28th Dec : Insights IAS Daily News Analysis
+- [ ] 19th Dec - 29th Dec : Hindu Newspaper
+- [ ] 9th Nov - 30th Nov : Insights IAS Daily News Analysis
+
+---
+### 1st January 2021
 #### Work Planned
 - [ ] 10th Dec - 28th Dec : Insights IAS Daily News Analysis
 - [ ] 19th Dec - 29th Dec : Hindu Newspaper
 - [ ] 9th Nov - 30th Nov : Insights IAS Daily News Analysis
+#### Work Done
+- [x] 8th Dec - 16th Dec : Only IAS News Analysis Slides
+#### Personal
+- I can see myself moving away from my father in connection, I don't wish to cater my attention to that aspect, either for good or bad it doesn't anything to my probability of winning. I can sense the aura that I am all alone & I'm on my own. It is my life & I have to win to live. 
 
 ---
 ## December'20
