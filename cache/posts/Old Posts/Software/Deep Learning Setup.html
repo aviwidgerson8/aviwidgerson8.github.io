@@ -7,9 +7,7 @@
 <li>OS - Ubuntu 16.04</li>
 <li>Graphics - Nvidia Optimus (GTX1070 + IntelHD)</li>
 </ul>
-<blockquote>
-<p>After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"</p>
-</blockquote>
+<h3>After fresh installation of Ubuntu 16.04 "Disabling nouveau driver"</h3>
 <pre class="code literal-block">sudo apt-get update
 sudo apt-get upgrade
 </pre>
@@ -31,9 +29,7 @@ options nouveau <span class="nv">modeset</span><span class="o">=</span><span cla
 sudo update-initramfs -u
 sudo reboot
 </pre>
-<blockquote>
-<p>Intel+Nvidia GPU working setup using bumblebee and primus</p>
-</blockquote>
+<h3>Intel+Nvidia GPU working setup using bumblebee and primus</h3>
 <p>Basically using primus we can switch between the graphics and we take the help of bumblebee to make it smooth and we also take the help of a GUI indicator to make the transistions more simple.</p>
 <p>Add the following repositories</p>
 <pre class="code literal-block">sudo apt-add-repository ppa:graphics-drivers
@@ -63,10 +59,10 @@ Wed Sep <span class="m">26</span> <span class="m">23</span>:16:16 <span class="m
 <span class="p">|</span>  <span class="m">0</span>.  <span class="m">7336</span>     ./align                                                 61MB  <span class="p">|</span>
 +-----------------------------------------------------------------------------+
 </pre>
-<p>Now either use command line or Synaptics Manager to install the requirements inorder to keep it simple I shall use Synaptic Manager to demonstrate</p>
-<p>1) Enter bumblebee in the search dialog then you will be able to see bumblebee, bumblebee-nvidia, primus select all the three and Mark up for Installation and then click Apply
-2) After installing above three we check for bbswitch-dkms in search dialog box.It can be seen as already installed ( if not then install it)</p>
-<p>We get back to our terminal and take the help of prime to select Intel Graphics as primary</p>
+<p>Now either use command line or Synaptics Manager to install the requirements inorder to keep it simple I shall use Synaptic Manager to demonstrate
+1. Enter bumblebee in the search dialog then you will be able to see bumblebee, bumblebee-nvidia, primus select all the three and Mark up for Installation and then click Apply
+2. After installing above three we check for bbswitch-dkms in search dialog box.It can be seen as already installed ( if not then install it)
+We get back to our terminal and take the help of prime to select Intel Graphics as primary</p>
 <pre class="code literal-block">sudo prime-select intel
 sudo reboot
 </pre>
@@ -86,9 +82,7 @@ Inorder to make the bumblebee and bbswitch to take care of your system and use l
 <pre class="code literal-block">sudo reboot
 </pre>
 <p>We are done with our Nvidia driver installation and we also can switch between Intel and Nvidia Graphics which will help with saving the battery</p>
-<blockquote>
-<p>Installation of CUDA-8.0 and verifying if it works or not</p>
-</blockquote>
+<h3>Installation of CUDA-8.0 and verifying if it works or not</h3>
 <p>Now switch to Nvidia Graphics and download the run file. In my case I have downloaded <code>cuda_8.0.61_375.26_linux.run</code> file because previous ones need a below 4.9 gcc compiler but when it comes to 16.04 by defualt it installs gcc-5.0 and the installation of Caffe requires a gcc-5 compiler to work ( portbuf). After downloading go to the specific folder and then</p>
 <pre class="code literal-block">chmod <span class="m">755</span> cuda_8.0.61_375.26_linux.run
 sudo ./cuda_8.0.61_375.26_linux.run
@@ -185,18 +179,14 @@ sudo make
 sudo ./bandwidthTest
 </pre>
 <p>With this we are ready with our system to use CUDA and NVIDIA GPU.</p>
-<blockquote>
-<p>Installation of CUDNN (Easiest of All I should say)</p>
-</blockquote>
+<h3>Installation of CUDNN (Easiest of All I should say)</h3>
 <p>Go to Nvidia's site and download cuDNN ( I myself used cuDNN 5.1) you will get almost 98MB file now extract the contents and go to the extracted folder</p>
 <pre class="code literal-block"><span class="nb">cd</span> /cuda
 sudo cp -P include/cudnn.h /usr/include
 sudo cp -P lib64/libcudnn* /usr/lib/x86_64-linux-gnu/
 sudo chmod a+r /usr/lib/x86_64-linux-gnu/libcudnn*
 </pre>
-<blockquote>
-<p>Installing OpenCV3.2 (may not be complete but is enough for working with caffe)</p>
-</blockquote>
+<h3>Installing OpenCV3.2 (may not be complete but is enough for working with caffe)</h3>
 <p>In Ubuntu 16.04, install the dependencies first and then build the OpenCV 3.2 from source.</p>
 <pre class="code literal-block">sudo apt-get install --assume-yes build-essential cmake git
 sudo apt-get install --assume-yes pkg-config unzip ffmpeg qtbase5-dev python-dev python3-dev python-numpy python3-numpy
@@ -224,11 +214,9 @@ sudo apt-get update
 <pre class="code literal-block">python
 &gt;&gt;&gt; import cv2
 </pre>
-<p>if it doesn't work then there is some error with OpenCV3.2 installation</p>
-<p>With this we are done with our OpenCV3 installation next we jump into Caffe installation</p>
-<blockquote>
-<p>Installing Caffe in 16.04 along with support of OpenCV3 &amp; GPU (CUDA+cuDNN)</p>
-</blockquote>
+<p>If it doesn't work then there is some error with OpenCV3.2 installation.
+With this we are done with our OpenCV3 installation next we jump into Caffe installation.</p>
+<h3>Installing Caffe in 16.04 along with support of OpenCV3 &amp; GPU (CUDA+cuDNN)</h3>
 <p>For pre-requisites we execute the following lines</p>
 <pre class="code literal-block">sudo apt-get update
 sudo apt-get upgrade
