@@ -291,7 +291,7 @@
 - Rajgrih ? Bodhgaya ? Varansi ? Kushinagar ?  places visited by Gautam Buddha in pirsuit of spiritual experience
 - Magadha Kingdom (one of 16 Mahajanapadhas ) ? included republic communities - Rajkmura, villaged had own assemblies under local chief - Gramakas
 	- Bimbisara & Ajatasatru were two famous Magadha rulers
-- | #river Champa ? #river Son ?
+- #river Champa ? #river Son ?
 - When were Vedas scritpted ? 
 - Geothermal Springs ? produced bu the emergence of geothermallu headeted hroundwater that rises from the earth's crust
 - Garhwal regions - Uttarakhand ? 
@@ -450,7 +450,7 @@
 ## 19th August 2020
 - there exists no statutory prohibition on individuals to make voluntary contributions to NDRF - Sect - 46(1)b of DM Act
 - Article 266 ? Consolidated Fund & Public Account
-- | #river Sutlej & Yamuna ? 
+- #river Sutlej & Yamuna ? 
 - Eradi Tribunal ? in 1987 SC setup a tribunal and it recommended an increase in Punjab & Haryana - 5 & 3.83 MAF (million acre feet) respectively 
 - Beas is a tributary of ? 
 - Satluj Yamuna Link Canal ?  Tripartite Agreement ? Punjab, Haryana & Rajasthan

@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://jeanbourgain8.github.io/</loc>
-  <lastmod>2021-01-02T06:29:00Z</lastmod>
+  <lastmod>2021-01-02T12:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/2017/</loc>
@@ -54,12 +54,20 @@
   <lastmod>2021-01-02T06:29:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/2021/</loc>
+  <lastmod>2021-01-02T12:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/2021/01/</loc>
+  <lastmod>2021-01-02T12:27:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/archive.html</loc>
-  <lastmod>2021-01-02T11:43:00Z</lastmod>
+  <lastmod>2021-01-02T12:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories.html</loc>
-  <lastmod>2021-01-02T11:43:00Z</lastmod>
+  <lastmod>2021-01-02T12:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories/business-standard/</loc>
@@ -155,15 +163,15 @@
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/index-1.html</loc>
-  <lastmod>2021-01-02T11:43:00Z</lastmod>
+  <lastmod>2021-01-02T12:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/index-2.html</loc>
-  <lastmod>2021-01-02T11:43:00Z</lastmod>
+  <lastmod>2021-01-02T12:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/index-3.html</loc>
-  <lastmod>2021-01-02T11:43:00Z</lastmod>
+  <lastmod>2021-01-02T12:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/pages/about/</loc>
@@ -278,6 +286,10 @@
   <lastmod>2021-01-02T06:29:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Daily%20News/Hindu/2021/hindu-january-2021-news-notes/</loc>
+  <lastmod>2021-01-02T12:27:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Daily%20News/PIB%20News/pib-august-2020-news-notes/</loc>
   <lastmod>2021-01-02T06:29:00Z</lastmod>
  </url>
@@ -327,6 +339,6 @@
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/tags.html</loc>
-  <lastmod>2021-01-02T11:43:00Z</lastmod>
+  <lastmod>2021-01-02T12:27:00Z</lastmod>
  </url>
 </urlset>

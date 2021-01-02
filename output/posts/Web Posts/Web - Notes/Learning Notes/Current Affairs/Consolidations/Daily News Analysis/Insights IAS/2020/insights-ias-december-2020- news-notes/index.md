@@ -33,15 +33,7 @@
 - [ ] | #national-parks : Vikramshila Dolphin Sanctuary ? 
 - [ ] What is International Financial Services Authority (IFSCA) ? 
 
-## 14th December 2020
-- [ ] What is Delimitation Commission Act, 2002 ? 
-- [ ] Who are the members of Delimitation Commission ? Who appoints the committee ? 
-- [ ] What is a Special Leave Petition ? Who can afford it ? What is the procedure ? 
-- [ ] What is the hierarchy in management of river waters between states ? Inter-State River Waters Disputes Act vs SC vs Tribunals vs River Management Boards vs Ministry of Water Resources ? 
-- [ ] What is emission intensity ? 
-- [ ] | #map : Shencottah Gap ? 
-- [ ] | #national-parks : Vazhachal Reserve Forest ? 
+## 4th - 9th December 2020
+- notes was deleted by mistake, notes to be re-made.
 
-## 15th December 2020
-- [ ] What is Maharashtra Shakti Bill, 2020 ? to what extent does it maintains a trade off between justice & curtailation of women's choices ?
-- [ ] 
+

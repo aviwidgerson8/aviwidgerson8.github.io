@@ -188,8 +188,8 @@
 - [ ] What is the relation between Law Ministry & Election Commission of India ?
 - [ ] Does Modal Code of Conduct has any statutory backing ? From which articles of the constitution does ECI draw its powers to implement MCC ? 
 - [ ] Who is the authority of District Child Protection Units ? What is the hierarchy of NCPCR from top to the ground level ? What is the realtion of Women & Child Welfare Ministry with NCPCR ? 
-- [ ]  | #data : Operation Muskaan ? in AP, 25k children of different states were rescued 
-- [ ]  | #interview : Do reservations have to be followed in professors recrutiment at IITs considering the lack of adequate numbers of PHDs ?
+- [ ]  #data : Operation Muskaan ? in AP, 25k children of different states were rescued 
+- [ ]  #interview : Do reservations have to be followed in professors recrutiment at IITs considering the lack of adequate numbers of PHDs ?
 - [ ]  What is the difference bw OCI cardholders & NRIs ?
 - [ ]  What are the differences between various types of vaccines ? (ex: m-RNA etc.)
 - [ ]  What is DakPay by Indian Postal Payments Bank ?
@@ -204,10 +204,10 @@
 - [ ]  What is MPEDA ? What are its functions ? Who is its authority ? 
 - [ ]  What are the functions of CMS-01 satelllite launched by PSLV-C50 ? 
 - [ ]  What do Adjusted Gross Revenue include ? 
-- [ ]  | #dictionary : armamentarium ?
+- [ ]  #dictionary : armamentarium ?
 - [ ]  What is Article - 15 ? 
 - [ ]  Who are the members of Chief of Staff Committe ? What are its functions ? 
-- [ ]   | #reports : United Nations Human Development Index ? What is the metric added into latest report ? 
+- [ ]   #reports : United Nations Human Development Index ? What is the metric added into latest report ? 
 - [ ]   Who is Bangbandhu ? 
 - [ ]   In which sectors was the PLI scheme announced ? 
 - [ ]   Did centre do any amendment to FRBM act to allow states to borrow an additional 2% over the existsing statutory limit of 3% of GSDP ? 
@@ -217,20 +217,20 @@
 - [ ] What is the significance of Chilahati & Halibdari rail link ? 
 - [ ] Who holds the power over IAS officers ? In the case of IAS & IPS officers, who holds the authority to depute them & who can block the order ? 
 - [ ] Critically analyse India's Neighbourhood First Policy ? 
-- [ ]  | #dictionary : elicit ? 
+- [ ]  #dictionary : elicit ? 
 - [ ]  What are the list of transboundary rivers between India & Bangladesh ?
-- [ ]  | #dictionary : cow-down ? 
+- [ ]  #dictionary : cow-down ? 
 - [ ]  What is electroni project appraisal management system (e-PAMS) ? 
 - [ ]  What are functions of Defense Acquisition Council ? Who is its authority ? 
 - [ ]  Wht is C band of frequency spectrum ? What are other bands in it ? 
 - [ ]  What is Geosynchronous Transfer Orbit ? 
 - [ ]  What are different series of satellites ? their functions ? 
-- [ ]  | #dictionary : depose ? 
+- [ ]  #dictionary : depose ? 
 - [ ]  What are the rules & restrictions on board & others in an organization under Companies Act ? 
-- [ ]  | #data : currently gas accounts for 6% of total energy mix in India, we plan to increase it to 15% by 2030 
+- [ ]  #data : currently gas accounts for 6% of total energy mix in India, we plan to increase it to 15% by 2030 
 - [ ]  What is the latest unvieled gas trading platform in India ?
 - [ ]  What are the locations of Petroleum Reserves in India ? are these reserves maintained completely by govt. or by PPP ? 
-- [ ]  | #dictionary : delinquency ?
+- [ ]  #dictionary : delinquency ?
 
 ## 19th December 2020
 - [ ] Who has the power to decide if there's a consitutional breakdown ? Executive / Judiciary / Legislature ? What does Article - 356 say ?
@@ -240,7 +240,25 @@
 - [ ] What is Montreal Convention related to airplanes ? What is the compensation paid to dead passengers ?
 - [ ] What is Indomethacin ? How is it related to Covid19 ?
 - [ ] How effective were Epidemic Diseases Act, 1897 & Diasaster Management Act, 2005 in dealing with the pandemic ?
-- [ ] 
+- [ ] | #dictionary : intermittent ?
+- [ ] What is Article - 25 ? 
+- [ ] What are the provisions, restrictions, benefits of PIL ? 
+- [ ] What is a Special Leave Petition ? 
+- [ ] | #data : Railways currently account for 27% of overall transportation of goods in the country & plan to increase it to 45% by 2030
+- [ ] What is National Rail Plan ? 
+- [ ] | #dictionary : brinkmanship ? 
+- [ ] What are the functions of Internaitonal Atomic Energy Agency ? Who is its authority ? 
+- [ ] Which sectors were given benefits of Production Linked Incentives ? 
+- [ ] What are white goods ? 
+- [ ] What is a purpose of Bad Banks ? How effective can they be ? 
+- [ ] What is an E20 fuel ? what are its components ? 20% - ethanol+gasoline, this fuel helps in reducing CO2 & HCs
+- [ ] From what foodstock can ethanol - biofuel be manufactured ? corn, sugarcane, hemp, potato etc.
+- [ ] | #data ; despite pandemic the deposits of bank grew by 11.3%yoy & credit grew by 5.7% - RBI
+
+## 20th December 2020
+- [ ] What is Rashtriya Bal Swasthya Karyakram (RBSK) ? What is the share of Centre & State ?
+- [ ] What is National Health Mission ? 
+- [ ] | #data: In Kerala, a tiff b/w SCTIMST & NHM has put lives of childrens with congenital heart disease in limbo, govt. refuses to pay bill till the institute complies with the rates set for RBSK under NHM, with 60:40 share b/w centre & states, almost 40% children being from other states, the state govt.s consider it as drain of their resources & are demanding a central fund for RBSK
 
 
 

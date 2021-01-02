@@ -192,7 +192,7 @@
     - What is Apada Mitra Scheme ? 
     - Who is the regulating authority of Oil in India ? 
 
-- [ ] ## 11th November 2020
+- [ ] | ## 11th November 2020
 
 - [ ] Who are Variamkunnath Kunjahamed Haji & Ali Musliar ? 
 - [ ] What happened in 1921 Malabar Rebellion ? 
