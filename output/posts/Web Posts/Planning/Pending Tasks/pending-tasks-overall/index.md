@@ -16,18 +16,18 @@
 <!-- TEASER_END -->
 
 ## Dec'20
-- [ ] 1st - 30th Dec'20 Insights IAS Daily News Analysis
-- [ ] 1st - 30th Dec'20 Only IAS Slides
-- [ ] 1st - 30th Dec'20 Opinion
+- [ ] 1st - 31st Dec'20 Insights IAS Daily News Analysis
+- [x] 1st - 31st Dec'20 Only IAS Slides
+- [ ] 1st - 31st Dec'20 Opinion
 - [ ] 1st - 30th Hindu News
-- [ ] 1st - 30th Dec'20 Insights IAS Editorials
-- [ ] 1st - 30th Dec'20 Drishti IAS Editorials
-- [ ] 1st - 30th Dec'20 Only IAS Editorials
-- [ ] 1st - 30th Dec'20 Insights Static Quiz
-- [ ] 1st - 30th Dec'20 Insights Current Affairs Quiz
-- [ ] 1st - 30th Dec'20 Insights Revision Quiz
-- [ ] 1st - 30th Dec'20 Drishti IAS Daily News Analysis (Optional)
-- [ ] 1st - 30th Dec'20 Business Standard News (Optional)
+- [ ] 1st - 31st Dec'20 Insights IAS Editorials
+- [ ] 1st - 31st Dec'20 Drishti IAS Editorials
+- [ ] 1st - 31st Dec'20 Only IAS Editorials
+- [ ] 1st - 31st Dec'20 Insights Static Quiz
+- [ ] 1st - 31st Dec'20 Insights Current Affairs Quiz
+- [ ] 1st - 31st Dec'20 Insights Revision Quiz
+- [ ] 1st - 31st Dec'20 Drishti IAS Daily News Analysis (Optional)
+- [ ] 1st - 31st Dec'20 Business Standard News (Optional)
 
 
 ## Nov'20

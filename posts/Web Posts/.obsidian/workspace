@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diary/Diary.md",
+            "file": "Planning/Pending Tasks/Pending Tasks - Overall.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Diary.md",
+                "file": "Planning/Pending Tasks/Pending Tasks - Overall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,9 +96,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Diary/Diary.md",
     "Planning/Pending Tasks/Pending Tasks - Overall.md",
     "Planning/Pending Tasks/Pending Tasks - Temporary.md",
+    "Diary/Diary.md",
     "Web - Notes/Learning Notes/Current Affairs/Daily News/PIB News/August 2020.md",
     "Web - Notes/Learning Notes/Current Affairs/Daily News/PIB News/July 2020.md",
     "Meditations.md",
