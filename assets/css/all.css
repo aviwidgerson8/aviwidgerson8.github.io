@@ -931,9 +931,9 @@ a {
   color: #bf1818;
   font-weight: inherit;
   background-color: transparent; }
-  a:hover {
+  /*a:hover {
     color: #3578E5;
-  }
+  }*/
 
 .verticalimage {
   display: block;
@@ -1022,21 +1022,21 @@ h2, .h2 {
 h3, .h3 {
   font-size: 1.4rem;
   font-weight: 500;
-  color: #3578E5;
+  /*color: #3578E5;*/
   text-decoration: underline;
 }
 
 h4, .h4 {
   font-size: 1.2rem;
   font-weight: 500;
-  color: firebrick;
+  /*color: firebrick;*/
   text-decoration: underline;
 }
 
 h5, .h5 {
   font-size: 1rem;
   font-weight: 500;
-  color: seagreen;
+  /*color: seagreen;*/
   text-decoration: underline;
 }
 
