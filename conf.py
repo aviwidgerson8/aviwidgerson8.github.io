@@ -20,7 +20,7 @@ BLOG_AUTHOR = "jeanbourgain8"  # (translatable)
 BLOG_TITLE = "#randomdots"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://jeanbourgain8.github.io/localsite/"
+SITE_URL = "https://jeanbourgain8.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
@@ -929,7 +929,7 @@ src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; <a href="mailto:{email}"> {author} </a> - {license}'
+CONTENT_FOOTER = 'Contents &copy; <a href="mailto:{email}"> {author} </a> - by Nikola {license}'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
