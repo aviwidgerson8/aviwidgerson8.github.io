@@ -15,13 +15,13 @@
 <!-- TEASER_END -->
 
 ## Dec'20
-- [ ] 15th - 30th Opinion
-- [ ] 19th Dec - 30th Dec : Hindu Newspaper
-- [ ] 4th Dec - 30th Dec : Insights IAS Daily News Analysis
-- [ ] 15th - 30th Only IAS Slides
-- [ ] 15th - 30th Only IAS Editorials
-- [ ] 15th - 30th Insights IAS Editorials
-- [ ] 15th - 30th Drishti IAS Editorials
-- [ ] 15th - 30th Dec'20 Insights Static Quiz
-- [ ] 15th - 30th Dec'20 Insights Current Affairs Quiz
-- [ ] 15th - 30th Dec'20 Insights Revision Quiz
+- [ ] 15th - 31st Dec'20 Opinion
+- [ ] 19th - 31st Dec'20 Hindu Newspaper
+- [ ] 4th - 31st Dec'20 Insights IAS Daily News Analysis
+- [x] 15th - 31st Dec'20 Only IAS Slides
+- [ ] 15th - 31st Dec'20 Only IAS Editorials
+- [ ] 15th - 31st Dec'20 Insights IAS Editorials
+- [ ] 15th - 31st Dec'20 Drishti IAS Editorials
+- [ ] 15th - 31st Dec'20 Insights Static Quiz
+- [ ] 15th - 31st Dec'20 Insights Current Affairs Quiz
+- [ ] 15th - 31st Dec'20 Insights Revision Quiz
