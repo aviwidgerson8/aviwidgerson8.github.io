@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Planning/Targets Timeline.md",
+            "file": "Diary/Maintainance.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning/Targets Timeline.md",
+                "file": "Diary/Maintainance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Diary/Maintainance.md",
+    "Answer Writing/Answer Writing.md",
+    "Diary/Diary.md",
+    "Diary/Untitled.md",
     "Planning/Targets Timeline.md",
     "Planning/Progress/Monthly/January 2021.md",
     "Planning/Pending Tasks/Pending Tasks - Temporary.md",
     "Planning/Pending Tasks/Pending Tasks - Overall.md",
-    "Diary/Diary.md",
     "Web - Notes/Learning Notes/Current Affairs/Daily News/PIB News/August 2020.md",
-    "Web - Notes/Learning Notes/Current Affairs/Daily News/PIB News/July 2020.md",
-    "Meditations.md",
-    "Planning/Schedule/Current Schedule (General Days).md",
-    "Planning/Schedule/Current Schedule (Running Days).md"
+    "Web - Notes/Learning Notes/Current Affairs/Daily News/PIB News/July 2020.md"
   ]
 }
