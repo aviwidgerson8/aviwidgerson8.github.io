@@ -33,7 +33,30 @@
 - [ ] | #national-parks : Vikramshila Dolphin Sanctuary ? 
 - [ ] What is International Financial Services Authority (IFSCA) ? 
 
-## 4th - 9th December 2020
+## 4th - 9th, 14th December 2020
 - notes was deleted by mistake, notes to be re-made.
 
+## 10th December 2020
+- [ ] How is NRC exercise related to Assam Accord ? 
+- [ ] What is the role of Public Information Officers ? What are the latest amendments to RTI ? What is the definition of public authority in RTI Act ? 
+- [ ] What are the important seas, straits & islands in South China Sea region ? 
+- [ ] What is PM-WANI scheme ? 
+- [ ] CRZs are declared under which statute ? What are the current CRZ conditions & norms ? 
+- [ ] What is Unlawful Activities (Prevention) Act ? under which conditions, persons & orgs are designated as terrorists ? 
 
+## 11th December 2020
+- [ ] What is Coronal Mass Ejection  & Why do they happen ? 
+- [ ] What is ASEAN Defence Ministers Meeting - Plus (ADMM-Plus) ? 
+- [ ] What is Quantum Key Distribution Technology ? 
+- [ ] What is UN Capital Development Fund ? 
+- [ ] What is a narrowband-IoT network ? 
+
+## 12th December 2020
+- [ ] What is the Shakti Act, 2020 proposed by Maharashtra govt. ? 
+- [ ] What is Rossby Wave & what are its effects on climate of Indian Sub-Continent ? 
+- [ ] What is Cryogenic Technology ? 
+- [ ] Which government holds responsibility of reporting on trade in exotic animals ? Who is the authority of Directorate of Revenue Intelligence ?
+- [ ] What is WHO's - Prequalification Project ? 
+
+## 15th December 2020
+- [ ] 
