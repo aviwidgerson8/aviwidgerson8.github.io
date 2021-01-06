@@ -14,6 +14,18 @@
 ***
 <!-- TEASER_END -->
 
+## Jan'21
+- [ ] 1st - 6th Jan'21 Opinion
+- [ ] 1st - 6th Jan'21 Hindu Newspaper
+- [ ] 1st - 6th Jan'21 Insights IAS Daily News Analysis
+- [ ] 1st - 6th Jan'21 Only IAS Slides
+- [ ] 1st - 6th Jan'21 Insights IAS Editorials
+- [ ] 1st - 6th Jan'21 Only IAS Editorials
+- [ ] 1st - 6th Jan'21 Drishti IAS Editorials
+- [ ] 1st - 6th Jan'21 Insights Static Quiz
+- [ ] 1st - 6th Jan'21 Insights Current Affairs Quiz
+- [ ] 1st - 6th Jan'21 Insights Revision Quiz
+
 ## Dec'20
 - [ ] 15th - 31st Dec'20 Opinion
 - [ ] 19th - 31st Dec'20 Hindu Newspaper

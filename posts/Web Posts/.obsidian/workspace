@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Planning/Pending Tasks/Pending Tasks - Overall.md",
+            "file": "Planning/Targets Timeline.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning/Pending Tasks/Pending Tasks - Overall.md",
+                "file": "Planning/Targets Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +84,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -96,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Planning/Pending Tasks/Pending Tasks - Overall.md",
+    "Planning/Targets Timeline.md",
+    "Planning/Progress/Monthly/January 2021.md",
     "Planning/Pending Tasks/Pending Tasks - Temporary.md",
+    "Planning/Pending Tasks/Pending Tasks - Overall.md",
     "Diary/Diary.md",
     "Web - Notes/Learning Notes/Current Affairs/Daily News/PIB News/August 2020.md",
     "Web - Notes/Learning Notes/Current Affairs/Daily News/PIB News/July 2020.md",
     "Meditations.md",
-    "Planning/Targets Timeline.md",
     "Planning/Schedule/Current Schedule (General Days).md",
-    "Planning/Schedule/Current Schedule (Running Days).md",
-    "Web - Notes/Tags - Prelims.md"
+    "Planning/Schedule/Current Schedule (Running Days).md"
   ]
 }
