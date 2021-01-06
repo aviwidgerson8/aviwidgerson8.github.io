@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://jeanbourgain8.github.io/</loc>
-  <lastmod>2021-01-02T12:27:00Z</lastmod>
+  <lastmod>2021-01-06T07:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/2017/</loc>
@@ -63,11 +63,11 @@
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/archive.html</loc>
-  <lastmod>2021-01-02T12:27:00Z</lastmod>
+  <lastmod>2021-01-06T07:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories.html</loc>
-  <lastmod>2021-01-02T12:27:00Z</lastmod>
+  <lastmod>2021-01-06T07:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/categories/business-standard/</loc>
@@ -163,15 +163,19 @@
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/index-1.html</loc>
-  <lastmod>2021-01-02T12:27:00Z</lastmod>
+  <lastmod>2021-01-06T07:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/index-2.html</loc>
-  <lastmod>2021-01-02T12:27:00Z</lastmod>
+  <lastmod>2021-01-06T07:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/index-3.html</loc>
-  <lastmod>2021-01-02T12:27:00Z</lastmod>
+  <lastmod>2021-01-06T07:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/index-4.html</loc>
+  <lastmod>2021-01-06T07:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/pages/about/</loc>
@@ -206,6 +210,10 @@
   <lastmod>2021-01-02T06:29:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Consolidations/Daily%20News%20Analysis/Drishti%20IAS/2021/drishti-ias-january-2021-news-notes/</loc>
+  <lastmod>2021-01-06T07:08:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Consolidations/Daily%20News%20Analysis/Insights%20IAS/2020/insights-ias-august-2020-news-notes/</loc>
   <lastmod>2021-01-02T06:29:00Z</lastmod>
  </url>
@@ -230,6 +238,10 @@
   <lastmod>2021-01-02T06:29:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Consolidations/Daily%20News%20Analysis/Insights%20IAS/2021/insights-ias-january-2021-%20news-notes/</loc>
+  <lastmod>2021-01-06T07:08:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Consolidations/Daily%20News%20Analysis/OnlyIAS/2020/only-ias-december-2020-news-notes/</loc>
   <lastmod>2021-01-02T06:29:00Z</lastmod>
  </url>
@@ -242,8 +254,16 @@
   <lastmod>2021-01-02T06:29:00Z</lastmod>
  </url>
  <url>
+  <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Consolidations/Daily%20News%20Analysis/OnlyIAS/2021/only-ias-january-2021-news-notes/</loc>
+  <lastmod>2021-01-06T07:08:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Consolidations/Editorials/Drishti%20IAS/2020/drishti-ias-november-2020-editorials-notes/</loc>
   <lastmod>2021-01-02T06:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Consolidations/Editorials/Drishti%20IAS/2021/drishti-ias-january-2021-editorials-notes/</loc>
+  <lastmod>2021-01-06T07:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Consolidations/Editorials/Insights%20IAS/2020/insights-ias-august-2020-editorials-notes/</loc>
@@ -252,6 +272,26 @@
  <url>
   <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Consolidations/Editorials/Insights%20IAS/2020/insights-ias-july-2020-editorials-notes/</loc>
   <lastmod>2021-01-02T06:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Consolidations/Editorials/Insights%20IAS/2021/insights-ias-january-2021-editorials-notes/</loc>
+  <lastmod>2021-01-06T07:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Daily%20News/Business%20Standard/2020/business-standard-december-2020-news-notes/</loc>
+  <lastmod>2021-01-06T07:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Daily%20News/Business%20Standard/2020/business-standard-november-2020-news-notes/</loc>
+  <lastmod>2021-01-06T07:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Daily%20News/Business%20Standard/2020/business-standard-october-2020-news-notes/</loc>
+  <lastmod>2021-01-06T07:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Daily%20News/Business%20Standard/2021/business-standard-january-2021-news-notes/</loc>
+  <lastmod>2021-01-06T07:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Daily%20News/Business%20Standard/business-standard-december-2020-news-notes/</loc>
@@ -339,6 +379,6 @@
  </url>
  <url>
   <loc>https://jeanbourgain8.github.io/tags.html</loc>
-  <lastmod>2021-01-02T12:27:00Z</lastmod>
+  <lastmod>2021-01-06T07:08:00Z</lastmod>
  </url>
 </urlset>
