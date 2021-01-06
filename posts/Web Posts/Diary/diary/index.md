@@ -15,10 +15,24 @@
 <!-- TEASER_END -->
 
 ## January'21
+### 6th January 2021
+#### Work Planned
+- [ ] 10th Dec - 30th Dec : Insights IAS Daily News Analysis
+- [ ] 19th Dec - 30th Dec : Hindu Newspaper
+- [ ] 9th Nov - 30th Nov : Insights IAS Daily News Analysis
+- [ ] 1st Jan - 6th Jan : Insights IAS Daily News Analysis
+- [ ] 1st Jan - 6th Jan : Hindu Newspaper
+- [ ] 1st jan - 6th Jan : Opinion
+
+### 3rd - 5th January 2021
+#### Work Planned & Done
+- None
+#### Personal 
+- I moved to Hyderabad, for rejuvenation & efficiency
 ### 2nd January 2021
 #### Work Planned 
-- [ ] 10th Dec - 28th Dec : Insights IAS Daily News Analysis
-- [ ] 19th Dec - 29th Dec : Hindu Newspaper
+- [ ] 10th Dec - 30th Dec : Insights IAS Daily News Analysis
+- [ ] 19th Dec - 30th Dec : Hindu Newspaper
 - [ ] 9th Nov - 30th Nov : Insights IAS Daily News Analysis
 
 ---
