@@ -7,7 +7,6 @@
 .. description: 
 .. type: text
 .. template: page.tmpl
-.. status: private
 
 **Description** : *my diet & exercise routine in preparation for UPSC*
 
