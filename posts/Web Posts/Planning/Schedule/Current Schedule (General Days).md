@@ -1,11 +1,12 @@
 .. title : Current Schedule 
 .. slug: schedule
 .. date: 2020-12-18 01:50 UTC+05:30
-.. tags: schedule
-.. category: schedule
 .. template: page.tmpl
+.. description: 
+.. type: text
+.. status: draft
 
-*time-table for normal days*
+**Description** : *time-table for normal days*
 <!-- TEASER_END -->
 
 ***
