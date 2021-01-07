@@ -37,10 +37,10 @@
 - [ ] UPSC Maths Syllabus
 - [ ] 60 PYs Prelims Test Series 
 #### Schedule
-- Goodreads / TCS : (3:00am - 4:00am)
-- UPSC - Maths : (4:00am - 6:00am + 9:30am - 1:30pm)
-- General Studies : (2:00pm - 5:00pm) + (running-days) - (7:00pm - 9:00pm)
-- Previous Years Prelims Test Series : 2/3 days(non-running days) - (7:00pm - 9:00pm)
+- UPSC - Maths : Primary - 1 & 2 + Personal - 1
+- General Studies : Secondary - 1 + Secondary - 2 (running days)
+- Previous Years Prelims Test Series : Secondary - 2 (non-running days)
+- Goodreads / TCS : Personal - 2
 
 ### Apr, May
 #### Targets
@@ -50,13 +50,13 @@
 - [ ] 30 UPSC Maths Previous Years Test Series
 - [ ] 30 Current Year Prelims Test Series
 #### Schedule
-- Programming : (3:00am - 4:00am)
-- UPSC Maths : (4:00am - 6:00am) 
-- Previous Years UPSC - Maths Practice Tests: (3:00am - 4:00am) - on alternate days
-- Previous Years Mains Test Series : (9:30am - 1:30pm)
-- Genereal Studies : (2:00pm - 5:00pm)
-- Current Year Prelims Test Series : (7:00pm - 9:00pm) - on alternate days
-- Goodreads : (7:00pm - 9:00pm) - other days
+- Programming : Personal - 1 (alternate days)
+- UPSC Maths : (Primary - 2  + Secondary - 2) (alternate days)
+- Previous Years UPSC Maths Practice : (Personal - 1 + Primary - 2) (alternate days)
+- Previous Years Mains Test Series : Primary - 1
+- Genereal Studies : Secondary - 1
+- Current Year Prelims Test Series : Secondary - 2 (alternate days)
+- Goodreads : Personal - 2
 
 ### Jun
 #### Targets
@@ -64,12 +64,12 @@
 - [ ] 30-45 Current Year Prelims Test Series
 - [ ] UPSC Prelims Exam
 #### Schedule
-- Programming : (3:00am - 4:00am)
-- UPSC Maths : (4:00am - 6:00am) 
-- Current Year Prelims Test Series : (9:30am - 1:30pm) - first 15days + (7:00pm - 9:00pm) - on alternate days
-- Prelims Final Revision + Practice : (9:30am - 1:30pm) - till exam
-- General Studies - Prelims Specific Revision : (2:00pm - 5:00pm)
-- Goodreads : (7:00pm - 9:00pm) - other days 
+- Programming : Personal - 1
+- UPSC Maths : Primary - 2
+- Current Year Prelims Test Series : Primary - 1 (first 15days) + Secondary - 2
+- Prelims Final Revision + Practice : Primary - 1 (15th - till exam)
+- General Studies - Prelims Specific Revision : Secondary - 1
+- Goodreads : Personal - 2
 
 ### Jul, Aug
 #### Targets
@@ -77,22 +77,24 @@
 - [ ] 30-60 UPSC Maths Current Year Test Series
 - [ ] 30-60 UPSC Essay & Language Current Year Test Series
 #### Schedule
-- Programming : (3:00am - 4:00am)
-- UPSC Essay / Language Paper Practice Tests : (4:00am - 6:00am)
-- UPSC General Studies Current Year Mains Test Series : (9:30am - 1:30pm)
-- UPSC Maths Current Year Test Series : (2:00pm - 5:00pm) + (7:00pm - 8:00pm)
-- Goodreads : (8:00pm - 9:00pm)
+- Programming : Personal - 1
+- UPSC Essay / Language Paper Practice Tests : Primary - 2
+- UPSC General Studies Current Year Mains Test Series : Primary - 1
+- UPSC Maths Current Year Test Series : Secondary - 1 
+- Paper Corrections / Learnings : Secondary - 2
+- Goodreads : Personal - 2
 
 ### Sept
 #### Targets
 - [ ] UPSC Mains General Studies
 - [ ] UPSC Mains Maths
 #### Schedule
-- Programming : (3:00am - 4:00am)
-- UPSC Essay / Language Paper Practice Tests : (4:00am - 6:00am)
-- UPSC General Studies - Revision / Current Year Mains Test Series : (9:30am - 1:30pm) 
-- UPSC Maths - Revision / Current Year Test Series : (2:00pm - 5:00pm) + (7:00pm - 8:00pm)
-- Goodreads : (8:00pm - 9:00pm)
+- Programming : Personal - 1
+- UPSC Essay / Language Paper Practice Tests : Primary - 2
+- UPSC General Studies - Revision / Current Year Mains Test Series : Primary - 1
+- UPSC Maths - Revision / Current Year Test Series : Secondary - 1
+- Paper Correction / Learnings - Secondary - 2
+- Goodreads : Personal - 2
 
 
 
