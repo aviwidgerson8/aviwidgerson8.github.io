@@ -2,7 +2,7 @@
 .. slug: pending-opinion-and-magazines-overall
 .. date: 2021-01-07 17:30 UTC+05:30
 .. tags: pending
-.. category: opinion & magazines
+.. category: pending opinion & magazines
 .. link: 
 .. description: 
 .. type: text
