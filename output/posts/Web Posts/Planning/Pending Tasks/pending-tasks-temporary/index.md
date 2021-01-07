@@ -3,7 +3,7 @@
 .. slug: pending-tasks-temporary
 .. date: 2020-12-18 19:57 UTC+05:30
 .. tags: pending
-.. category: tasks
+.. category: pending tasks
 .. template: page.tmpl
 .. description: 
 .. type: text

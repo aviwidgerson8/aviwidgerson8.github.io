@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1610024619.8489978
+_modified_time = 1610027363.301685
 _enable_loop = True
 _template_filename = '/home/nudginghead/nikola/lib/python3.8/site-packages/nikola/data/themes/base/templates/story.tmpl'
 _template_uri = 'story.tmpl'
@@ -41,10 +41,10 @@ def render_body(context,**pageargs):
         __M_locals = __M_dict_builtin(pageargs=pageargs)
         post = context.get('post', UNDEFINED)
         pheader = _mako_get_namespace(context, 'pheader')
-        enable_comments = context.get('enable_comments', UNDEFINED)
-        messages = context.get('messages', UNDEFINED)
-        comments = _mako_get_namespace(context, 'comments')
         math = _mako_get_namespace(context, 'math')
+        messages = context.get('messages', UNDEFINED)
+        enable_comments = context.get('enable_comments', UNDEFINED)
+        comments = _mako_get_namespace(context, 'comments')
         def content():
             return render_content(context._locals(__M_locals))
         site_has_comments = context.get('site_has_comments', UNDEFINED)
@@ -69,10 +69,10 @@ def render_content(context,**pageargs):
     try:
         post = context.get('post', UNDEFINED)
         pheader = _mako_get_namespace(context, 'pheader')
-        enable_comments = context.get('enable_comments', UNDEFINED)
-        messages = context.get('messages', UNDEFINED)
-        comments = _mako_get_namespace(context, 'comments')
         math = _mako_get_namespace(context, 'math')
+        messages = context.get('messages', UNDEFINED)
+        enable_comments = context.get('enable_comments', UNDEFINED)
+        comments = _mako_get_namespace(context, 'comments')
         def content():
             return render_content(context)
         site_has_comments = context.get('site_has_comments', UNDEFINED)

@@ -2,7 +2,7 @@
 .. slug: schedule
 .. date: 2020-12-18 01:50 UTC+05:30
 .. tags: schedule
-.. category: planning
+.. category: schedule
 .. status: private
 .. template: page.tmpl
 

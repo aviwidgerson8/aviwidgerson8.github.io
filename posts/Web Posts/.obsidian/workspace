@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Planning/Progress/Monthly/January 2021.md",
+            "file": "Planning/Food & Health/Diet & Exercise.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning/Progress/Monthly/January 2021.md",
+                "file": "Planning/Food & Health/Diet & Exercise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Planning/Progress/Monthly/January 2021.md",
+    "Planning/Food & Health/Diet & Exercise.md",
+    "Planning/Pending Opinion & Magazines/Pending Opinion & Magazines - Overall.md",
+    "Planning/Schedule/Current Schedule (General Days).md",
+    "Planning/Pending Opinion & Magazines/Pending Opinion & Magazines - Temporary.md",
+    "Planning/Pending Tasks/Pending Tasks - Temporary.md",
+    "Planning/Pending Tasks/Pending Tasks - Overall.md",
     "Planning/Progress/Overall/Economics.md",
-    "Planning/Progress/Overall/UPSC - General Studies.md",
-    "Planning/Progress/Overall/UPSC - Maths.md",
-    "Planning/Progress/Overall/TCS.md",
-    "Planning/Progress/Overall/Maths.md",
+    "Planning/Progress/Monthly/January 2021.md",
     "Planning/Progress/Overall/Goodreads.md",
-    "Planning/Opinion & Magazines/Pending Opinion & Magazines - Temporary.md",
-    "Planning/Opinion & Magazines/Pending Opinion & Magazines - Overall.md",
-    "Planning/Pending Tasks/Pending Tasks - Overall.md"
+    "Planning/Progress/Overall/Maths.md"
   ]
 }
