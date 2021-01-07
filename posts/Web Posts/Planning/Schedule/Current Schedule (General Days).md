@@ -3,7 +3,6 @@
 .. date: 2020-12-18 01:50 UTC+05:30
 .. tags: schedule
 .. category: schedule
-.. status: private
 .. template: page.tmpl
 
 *time-table for normal days*
