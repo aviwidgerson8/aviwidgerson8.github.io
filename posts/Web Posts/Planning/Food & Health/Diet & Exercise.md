@@ -3,10 +3,8 @@
 .. date: 2021-01-07 13:00 UTC+05:30
 .. tags: health
 .. category: food & health
-.. link: 
-.. description: 
-.. type: text
 .. template: page.tmpl
+.. status: private
 
 **Description** : *my diet & exercise routine in preparation for UPSC*
 

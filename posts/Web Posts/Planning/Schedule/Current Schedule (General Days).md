@@ -1,6 +1,7 @@
 .. title : Current Schedule 
 .. slug: schedule
 .. date: 2020-12-18 01:50 UTC+05:30
+.. category: schedule
 .. template: page.tmpl
 .. description: 
 .. type: text
