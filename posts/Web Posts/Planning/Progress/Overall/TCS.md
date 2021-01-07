@@ -1,5 +1,5 @@
 .. title: TCS for TIFR, JEST & CMI
-.. slug: booklist-for-tcs
+.. slug: progress-overall-tcs
 .. date: 2020-12-17 17:31:52 UTC+05:30
 .. tags: tcs
 .. category: progress

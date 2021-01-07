@@ -1,5 +1,5 @@
 .. title: Targets Timeline for Jan'21
-.. slug: tragets-timeline-january-2021
+.. slug: progress-january-2021
 .. date: 2020-12-18 19:57 UTC+05:30
 .. tags: timeline
 .. category: progress

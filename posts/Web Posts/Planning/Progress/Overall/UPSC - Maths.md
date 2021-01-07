@@ -1,5 +1,5 @@
 .. title: Maths for UPSC
-.. slug: booklist-for-upsc-maths
+.. slug: progress-overall-upsc-maths
 .. date: 2020-12-17 15:40:33 UTC+05:30
 .. tags: upsc, maths
 .. category: progress
