@@ -1,5 +1,5 @@
 .. title: General Studies for UPSC
-.. slug: booklist-for-upsc-general-studies
+.. slug: progress-overall-upsc-general-studies
 .. date: 2020-12-17 15:41:10 UTC+05:30
 .. tags: upsc
 .. category: progress
