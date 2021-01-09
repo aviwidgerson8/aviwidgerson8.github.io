@@ -37,7 +37,8 @@
 - [ ] UPSC Maths Syllabus
 - [ ] 60 PYs Prelims Test Series 
 #### Schedule
-- UPSC - Maths : Primary - 1 & 2 + Personal - 1
+- UPSC - Maths : Primary - 1 & 2
+- Pending Works : Personal - 1
 - General Studies : Secondary - 1 + Secondary - 2 (running days)
 - Previous Years Prelims Test Series : Secondary - 2 (non-running days)
 - Goodreads / TCS : Personal - 2
