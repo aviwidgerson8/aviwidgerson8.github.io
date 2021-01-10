@@ -15,6 +15,23 @@
 <!-- TEASER_END -->
 
 ## January'21
+### 10th January 2021
+#### Work Planned
+- [ ] 10th Dec - 30th Dec : Insights IAS Daily News Analysis
+- [ ] 19th Dec - 30th Dec : Hindu Newspaper
+- [ ] 9th Nov - 30th Nov : Insights IAS Daily News Analysis
+- [ ] 1st Jan - 9th Jan : Insights IAS Daily News Analysis
+
+### 9th January 2021
+#### Work Done
+- [x] 4th Jan - 9th Jan : Hindu Newspaper
+
+### 7th - 8th January 2021
+#### Work Planned & Done
+- None
+#### Personal
+- I have bought all the essentials for my stay & made all arrangements for seemless flow after the start. Also, I wasted some of my time by giving some thought for non-sensical issues but I re-learned that once the weakness know humans cannot stop themselves from exploiting it. So, the re-learned lesson is, "Never ever ever let anybody else know your weakness & Never ever put anybody else above you".
+
 ### 6th January 2021
 #### Work Planned
 - [ ] 10th Dec - 30th Dec : Insights IAS Daily News Analysis
@@ -23,6 +40,9 @@
 - [ ] 1st Jan - 6th Jan : Insights IAS Daily News Analysis
 - [ ] 1st Jan - 6th Jan : Hindu Newspaper
 - [ ] 1st jan - 6th Jan : Opinion
+
+#### Work Done 
+- None
 
 ### 3rd - 5th January 2021
 #### Work Planned & Done
