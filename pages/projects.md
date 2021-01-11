@@ -8,6 +8,7 @@
 .. type: text
 .. hidetitle: True
 .. template: page.tmpl
+.. status: private
 
 <div class="container" style="padding: 0px;">
 	<br>

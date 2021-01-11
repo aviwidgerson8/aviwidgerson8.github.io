@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/about.md",
+            "file": "pages/projects.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/about.md",
+                "file": "pages/projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,12 +97,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "pages/projects.md",
+    "pages/project.md",
     "pages/about.md",
     "posts/Old Posts/Software/Deep Learning Setup.md",
     "posts/Old Posts/Software/Audio Drivers Installation.md",
     "posts/Old Posts/Research/Asymptotic Sequential Learning.md",
-    "posts/Web Posts/Answer Writing/Answer Writing.md",
-    "pages/projects.md",
-    "pages/project.md"
+    "posts/Web Posts/Answer Writing/Answer Writing.md"
   ]
 }
