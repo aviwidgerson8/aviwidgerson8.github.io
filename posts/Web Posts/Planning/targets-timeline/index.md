@@ -31,15 +31,26 @@
 ---
 ## Timeline
 ---
-### Jan, Feb, Mar
+### Jan
 #### Targets
 - [ ] UPSC General Studies Syllabus 
 - [ ] UPSC Maths Syllabus
-- [ ] 60 PYs Prelims Test Series 
+- [ ] 10 PYs Prelims Test Series 
 #### Schedule
 - UPSC - Maths : Primary - 1 & 2
 - Pending Works : Personal - 1
-- General Studies : Secondary - 1 + Secondary - 2 (running days)
+- General Studies : Secondary - 1 + Secondary - 2 (running days) + Personal - 2
+- Previous Years Prelims Test Series : Secondary - 2 (non-running days)
+
+### Feb
+#### Targets
+- [ ] UPSC General Studies Syllabus 
+- [ ] UPSC Maths Syllabus
+- [ ] 40 PYs Prelims Test Series 
+#### Schedule
+- UPSC - Maths : Primary - 1 & 2
+- Pending Works : Personal - 1
+- General Studies : Secondary - 1 + Secondary - 2 (running days) 
 - Previous Years Prelims Test Series : Secondary - 2 (non-running days)
 - Goodreads / TCS : Personal - 2
 
