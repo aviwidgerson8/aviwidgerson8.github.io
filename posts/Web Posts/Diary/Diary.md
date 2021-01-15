@@ -15,6 +15,16 @@
 <!-- TEASER_END -->
 
 ## January'21
+### 16th January 2021
+#### Work Planned
+- [ ] 10th Dec - 30th Dec : Insights IAS Daily News Analysis
+- [ ] 12th NCERT - Macroeconomics
+- [ ] Real Analysis - Malik & Arora
+
+### 11th - 15th January 2021
+#### Work Planned & Done
+- I wasted time.
+
 ### 10th January 2021
 #### Work Planned
 - [ ] 10th Dec - 30th Dec : Insights IAS Daily News Analysis
