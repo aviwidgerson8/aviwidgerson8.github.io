@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diary/Diary.md",
-            "mode": "source"
+            "file": "Planning/Progress/Overall/UPSC - Maths.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Diary.md",
+                "file": "Planning/Progress/Overall/UPSC - Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Diary/Diary.md",
-    "Planning/Pending Tasks/Pending Tasks - Overall.md",
-    "Planning/Pending Tasks/Pending Tasks - Temporary.md",
+    "Planning/Progress/Overall/UPSC - Maths.md",
+    "Planning/Progress/Overall/Maths.md",
     "Planning/Targets Timeline.md",
+    "Planning/Pending Tasks/Pending Tasks - Overall.md",
+    "Planning/Schedule/Current Schedule (General Days).md",
+    "Diary/Diary.md",
+    "Planning/Pending Tasks/Pending Tasks - Temporary.md",
     "Planning/Food & Health/Monthly Update of Diet & Exercise Routine.md",
     "Planning/Food & Health/Diet & Exercise.md",
-    "Planning/Food & Health/Monthly Update.md",
-    "Planning/Food & Health/Untitled.md",
-    "Planning/Schedule/Current Schedule (General Days).md",
-    "Planning/Progress/Overall/UPSC - General Studies.md"
+    "Planning/Food & Health/Monthly Update.md"
   ]
 }
