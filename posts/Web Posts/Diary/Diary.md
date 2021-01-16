@@ -20,6 +20,8 @@
 - [ ] 10th Dec - 30th Dec : Insights IAS Daily News Analysis
 - [ ] 12th NCERT - Macroeconomics
 - [ ] Real Analysis - Malik & Arora
+#### Personal
+- I am promising on my mother, today is the end of Nidhi in my life - MOTHER PROMISE.
 
 ### 11th - 15th January 2021
 #### Work Planned & Done
