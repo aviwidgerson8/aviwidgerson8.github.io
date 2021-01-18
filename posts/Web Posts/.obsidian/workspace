@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diary/Diary.md",
+            "file": "Diary/Maintainance.md",
             "mode": "source"
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410
+    "width": 410,
+    "collapsed": true
   },
   "right": {
     "id": "623114e2b0b3e8ce",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Diary.md",
+                "file": "Diary/Maintainance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +98,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Diary/Maintainance.md",
+    "Meditations.md",
+    "Answer Writing/Answer Writing.md",
     "Diary/Diary.md",
-    "Planning/Targets Timeline.md",
-    "Planning/Progress/Monthly/January 2021.md",
+    "Planning/Food & Health/Monthly Update of Diet & Exercise Routine.md",
+    "Planning/Food & Health/Diet & Exercise Routine.md",
     "Planning/Pending Tasks/Pending Tasks - Temporary.md",
     "Planning/Pending Tasks/Pending Tasks - Overall.md",
-    "Planning/Pending Opinion & Magazines/Pending Opinion & Magazines - Overall.md",
     "Planning/Pending Opinion & Magazines/Pending Opinion & Magazines - Temporary.md",
-    "Planning/Progress/Overall/UPSC - Maths.md",
-    "Planning/Progress/Overall/Maths.md",
-    "Planning/Schedule/Current Schedule (General Days).md"
+    "Planning/Pending Opinion & Magazines/Pending Opinion & Magazines - Overall.md"
   ]
 }
