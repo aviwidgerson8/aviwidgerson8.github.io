@@ -22,6 +22,7 @@ I intend to use this blog as an account of my progress & efficiency wrt planning
 ## Self Explication
 - [Meditations](link://slug/meditations)
 - [Maintainance](link://slug/maintainance)
+
 ## UPSC 
 ### Schedule
 - [Daily Schedule](link://slug/current-schedule)

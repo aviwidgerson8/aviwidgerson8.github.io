@@ -14,31 +14,31 @@
 ### Big Fruit List
 I purchase fruits on block basis, so under Big Fruits I buy - 1pc from Set-1 & 2pcs from Set-2 for each block
 #### Set - 1
-- [ ] Papaya
+- [x] Papaya
 - [ ] Watermelon
-- [ ] Muskmelon
+- [x] Muskmelon
 - [ ] Pineapple
 
 #### Set - 2 
-- [ ] Apples - Royal Gala/ Washington/Shimla
-- [ ] Guava
-- [ ] Pomogranate
+- [x] Apples - Royal Gala/ Washington/Shimla
+- [x] Guava
+- [x] Pomogranate
 - [ ] Green Apples
 
 ### Small Fruits List
 I purchase fruits & vegetables on block basis, so under Small Fruits I buy - 5 pcs from Set-1 & 1pc from Set-2 for each block
 #### Set - 1
-- [ ] Keera
-- [ ] Banana
+- [x] Keera
+- [x] Banana
 - [ ] Sapota
-- [ ] Orange (Kamala)
+- [x] Orange (Kamala)
 - [ ] Orange (Baththaya)
-- [ ] Grapes (Green)
+- [x] Grapes (Green)
 - [ ] Grapes (Black)
 
 #### Set - 2
 - [ ] Kiwi
-- [ ] Pears
+- [x] Pears
 - [ ] Dragonfruit etc. & other esoteric fruits
 
 ### Vegetables List
@@ -50,7 +50,7 @@ I purchase 6 pcs of carrots, 3 pcs of lemons & some vegetables as optional addit
 
 #### Set - 2
 - [ ] Beetroot - 1pc
-- [ ] Tomatoes - 2pcs
+- [x] Tomatoes - 2pcs
 - [ ] Greenpeas - 100-150gms
 - [ ] Sweetcorn - 1pc
 - [ ] Amla - 3pcs
