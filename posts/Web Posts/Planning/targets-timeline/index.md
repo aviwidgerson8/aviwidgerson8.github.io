@@ -11,7 +11,7 @@
 ***
 <!-- TEASER_END -->
 
-## Targets List
+## Goals List
 ---
 - [ ] UPSC Prelims
 - [ ] UPSC Mains - General Studies
@@ -29,7 +29,24 @@
 - [ ] DSE - Economics
 
 ---
-## Timeline
+## Combined Targets List
+---
+- [ ] UPSC General Studies Syllabus 
+- [ ] UPSC Maths Syllabus
+- [ ] 60 PYs Prelims Test Series 
+- [ ] 60 Mains Previous Years Tests Series
+- [ ] UPSC General Studies - Note Making
+- [ ] UPSC General Studies - Revision - 1
+- [ ] 30 UPSC Maths Previous Years Test Series
+- [ ] 30 Current Year Prelims Test Series
+- [ ] Prelims Revision & Specific Revision
+- [ ] 30-45 Current Year Prelims Test Series
+- [ ] 30-60 UPSC General Studies Current Year Mains Test Series
+- [ ] 30-60 UPSC Maths Current Year Test Series
+- [ ] 30-60 UPSC Essay & Language Current Year Test Series
+
+---
+## Monthly Timeline
 ---
 ### Jan
 #### Targets
@@ -42,7 +59,7 @@
 - General Studies : Secondary - 1 + Secondary - 2 (running days) + Personal - 2
 - Previous Years Prelims Test Series : Secondary - 2 (non-running days)
 
-### Feb
+### Feb, Mar
 #### Targets
 - [ ] UPSC General Studies Syllabus 
 - [ ] UPSC Maths Syllabus
