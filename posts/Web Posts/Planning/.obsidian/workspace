@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "ef9fdafab65e989a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8e98dcf6aba1996",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pending Tasks/Pending Tasks - Overall.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4187f541f0a03d14",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae0b8984a9d16ec4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d216b0092949c85a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ef9465f337f354d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "38d08e6dc28e3fdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "7daff3c1f1d99424",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e4c81a41d404bb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pending Tasks/Pending Tasks - Overall.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Pending Tasks/Pending Tasks - Overall.md",
+    "Progress/Monthly/January 2021.md",
+    "Targets Timeline.md"
+  ]
+}

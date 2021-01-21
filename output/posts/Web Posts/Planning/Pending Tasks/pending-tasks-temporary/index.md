@@ -19,6 +19,7 @@
 - [x] 1st - 13th Jan'21 Hindu Newspaper
 - [ ] 14th - 21st Jan'21 Hindu Newspaper
 - [ ] 1st - 21st Jan'21 Insights IAS Daily News Analysis
+- [ ] 1st - 21st Jan'21 Drishti IAS Daily News Analysis
 - [ ] 1st - 21st Jan'21 Only IAS Slides
 - [ ] 1st - 21st Jan'21 Insights IAS Editorials
 - [ ] 1st - 21st Jan'21 Only IAS Editorials
