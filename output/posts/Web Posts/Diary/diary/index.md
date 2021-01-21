@@ -15,6 +15,14 @@
 <!-- TEASER_END -->
 
 ## January'21
+### 19th January 2021
+#### Work Done
+- [x] 10th Dec - 30th Dec : Insights IAS Daily News Analysis
+
+### 17th - 18th January 2021
+#### Work Planned & Done
+- None
+
 ### 16th January 2021
 #### Work Planned
 - [ ] 10th Dec - 30th Dec : Insights IAS Daily News Analysis
