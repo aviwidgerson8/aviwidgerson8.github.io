@@ -17,7 +17,8 @@ I intend to use this blog as an account of my progress & efficiency wrt planning
 - [Diary](link://slug/diary)
 
 ## Answer Writing
-- [Answer Writing Practice](link://slug/answer-writing-practice)
+- [Insights IAS - Answer Writing Practice](link://slug/insights-ias-answer-writing-practice)
+- [IAS Baba - Answer Writing Practice](link://slug/ias-baba-answer-writing-practice)
 
 ## Self Explication
 - [Meditations](link://slug/meditations)

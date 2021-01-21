@@ -1,4 +1,4 @@
-.. title: IAS Baba Answer Writing Practice
+.. title: IAS Baba - Answer Writing Practice
 .. slug: ias-baba-answer-writing-practice
 .. date: 2020-12-30
 .. tags: answer writing, ias baba
