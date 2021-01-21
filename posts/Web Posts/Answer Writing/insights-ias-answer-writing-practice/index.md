@@ -1,4 +1,4 @@
-.. title: Insights IAS Answer Writing Practice
+.. title: Insights IAS - Answer Writing Practice
 .. slug: insights-ias-answer-writing-practice
 .. date: 2020-12-29
 .. tags: answer writing, insights ias
