@@ -15,6 +15,7 @@
 <!-- TEASER_END -->
 
 # January'21
+---
 ## 22nd January 2021
 ### Work Planned
 #### Personal - 1
@@ -54,23 +55,27 @@
 #### Personal - 2
 - [ ] Jan'20 - Yojana Magazine
 
-
+---
 ## 21st January 2021
 ### Work Done
 - I got some of my light back. I tried rejig a part of my old plan
 
+---
 ## 20th January 2021
 ### Work Done
 - [x] 10th Jan - 13th Jan : Hindu News 
 
+---
 ## 19th January 2021
 ### Work Done
 - [x] 10th Dec - 30th Dec : Insights IAS Daily News Analysis
 
+---
 ## 17th - 18th January 2021
 ### Work Planned & Done
 - None
 
+---
 ## 16th January 2021
 ### Work Planned
 - [ ] 10th Dec - 30th Dec : Insights IAS Daily News Analysis
@@ -79,10 +84,12 @@
 ### Personal
 - I am promising on my mother, today is the end of Nidhi in my life - MOTHER PROMISE.
 
+---
 ## 11th - 15th January 2021
 ### Work Planned & Done
 - I wasted time.
 
+---
 ## 10th January 2021
 ### Work Planned
 - [ ] 10th Dec - 30th Dec : Insights IAS Daily News Analysis
@@ -90,16 +97,19 @@
 - [ ] 9th Nov - 30th Nov : Insights IAS Daily News Analysis
 - [ ] 1st Jan - 9th Jan : Insights IAS Daily News Analysis
 
+---
 ## 9th January 2021
 ### Work Done
 - [x] 4th Jan - 9th Jan : Hindu Newspaper
 
+---
 ## 7th - 8th January 2021
 ### Work Planned & Done
 - None
 ### Personal
 - I have bought all the essentials for my stay & made all arrangements for seemless flow after the start. Also, I wasted some of my time by giving some thought for non-sensical issues but I re-learned that once the weakness know humans cannot stop themselves from exploiting it. So, the re-learned lesson is, "Never ever ever let anybody else know your weakness & Never ever put anybody else above you".
 
+---
 ## 6th January 2021
 ### Work Planned
 - [ ] 10th Dec - 30th Dec : Insights IAS Daily News Analysis
@@ -112,6 +122,7 @@
 ### Work Done 
 - None
 
+---
 ## 3rd - 5th January 2021
 ### Work Planned & Done
 - None
