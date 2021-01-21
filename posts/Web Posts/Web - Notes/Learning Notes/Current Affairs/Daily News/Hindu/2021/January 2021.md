@@ -192,3 +192,57 @@
 - [ ]  What is the food security public stocking issue which India is stressing upon WTO to come up with a solution ?
 - [ ]  What is the revised Liquidity Management Framework of RBI ? 
 - [ ]  What are follow-on public offers ? 
+
+## 10th January 2021
+- [ ] What is Public Charitable Trusts Act ? What is its relation with PM-CARES Fund ? 
+- [ ] What protection does CM have against civil/criminal cases/convictions during his tenure ? 
+- [ ] What is a house motion petition ? 
+- [ ] What are the reasons behind recent hospital fire-accidents, How can such incidents be avoided in future ? 
+- [ ] | #dictionary : proscribe ? 
+- [ ] What is union's Sand-Mining Policy ? 
+- [ ] | #dictionary : disparagement ? 
+- [ ] | #dictionary : alluding ? 
+- [ ] | #data : Public Procurement accounts for an average 15% of GDP globally & in India it is 30% with central govt. accounting for major chunk
+- [ ] What is NM-QTA mission ? 
+- [ ] What is the current state of Quantum technology development in India wrt to the world ?
+
+## 11th January 2021
+- [ ] What is the significance of Dharani Portal ? 
+- [ ] What are palaeo-proterozoic carbonaceous phyllite rocks ?
+- [ ] Vanadium deposits of China > Russia > South Africa
+- [ ] | #dictionary : prune ? 
+- [ ] What is the significance of Chandanakkudam celebrations ?
+- [ ] What can be expected from to be drafted National Employment Policy ? 
+- [ ] What was the tuff b/w Qatar & Saudi Arbaia ? 
+- [ ] Which countries are the member states of Gulf Cooperation Council ? 
+
+## 12th January 2021
+- [ ] What is the significance of Kochi-Koottanad-Mangaluru LNG pipeline ? 
+- [ ] What is Heritage Conservation Committee ? 
+- [ ] | #national-parks : Vedanthangal Bird Sanctuary ?
+- [ ] What is the legality of writ appeal filed by SEC against the court's order on stay GP elections ?
+- [ ] Ar large farmers included in PM-KISAN Scheme ? from when ? 
+- [ ] | #map : Dzukou Valley ?
+- [ ] What is Article - 51(A) ?
+- [ ] | #dictionary : clandestine ? 
+- [ ] What is RBI's Financial Stability Report ? 
+- [ ] | #dictionary : apprise ? 
+- [ ] What +ve/-ve changes did the single window clearing system in commercial coal mining has brought ? 
+- [ ] Is mining state/union/concurrent subject ? 
+- [ ] | #dictionary : ab-initio ? 
+
+## 13th January 2021
+- [ ] | #traditions : Magh Bihu ? 
+- [ ] What are the rules against detention by NIA under UAPA ? What are the special power of NIA under UAPA ? 
+- [ ] | #dictionary : contraband ? 
+- [ ] | #dictionary : averment ? 
+- [ ] | #dictionary : delinquency ?
+- [ ] What is the airbubble agreement b/w nations for aircraft movement ? 
+- [ ] | #data : 22% of creative sector is forecast to lose more than 75% of annual income
+- [ ] | #dictionary : abridge ? 
+- [ ] What are the requirement to be declared as leader of opposition ? 
+- [ ] What is headline inflation ? Wht is core inflation ? 
+- [ ] What are the functions of Securities Apellate Tribunal ? Who is its authority ? What is its mandate ? 
+
+## 14th January 2021
+- [ ] 
