@@ -15,7 +15,7 @@
 <!-- TEASER_END -->
 
 ## Jan'21
-- [ ] 1st - 18th Jan'21 - Opinions : Hindu & IE
-- [ ] 1st - 18th Jan'21 - Magazines : Yojana & Kurukshetra
-- [ ] 1st - 18th Jan'21 - Magazines : Down to Earth, Economic & Political Weekly
-- [ ] 1st - 18th Jan'21 - Opinions : FE, HT, Business Line, Tribune, Livemint
+- [ ] 1st - 21st Jan'21 - Opinions : Hindu & IE
+- [ ] 1st - 21st Jan'21 - Magazines : Yojana & Kurukshetra
+- [ ] 1st - 21st Jan'21 - Magazines : Down to Earth, Economic & Political Weekly
+- [ ] 1st - 21st Jan'21 - Opinions : FE, HT, Business Line, Tribune, Livemint
