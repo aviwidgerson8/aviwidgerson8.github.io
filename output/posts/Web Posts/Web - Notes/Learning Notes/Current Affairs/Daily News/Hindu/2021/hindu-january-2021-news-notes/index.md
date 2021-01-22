@@ -244,5 +244,19 @@
 - [ ] What is headline inflation ? Wht is core inflation ? 
 - [ ] What are the functions of Securities Apellate Tribunal ? Who is its authority ? What is its mandate ? 
 
-## 14th January 2021
-- [ ] 
+## 14th - 20th January 2021
+
+## 21st January 2021
+- [ ] What is India Innovation Report ? Which states are in the top & which in the bottom ? Which UTs are in the top & which in the bottom ? 
+- [ ] What is Operation Seabird ? 
+- [ ] | #map : Karwar ? 
+- [ ] What is the current state of Defence PSUs, How effective have they been ? What changes are to be made to make it more impactful ? 
+- [ ] What is the legality if Aadhar law being passed as Money Bill with the approval of Speaker ? Can it be challenged in courts in any accounts ? What was the 2018 judgement in this regards ?
+- [ ] What is Article 110 (1) ?
+- [ ] What is Consequential Seniority in the act of 2017 ?
+- [ ] What is the tiff b/w Kerala govt. & CAG on KIIF ? 
+- [ ] What was the terrorism designation made by Trump on Yemen (Houthis) ? What is whole issue of conflict b/w Saudis & Yemen (houthis) ? What is the current status of Houthis ? Are they designated as terrorists ? 
+- [ ]  What are the componenents of fiscal deficit ? Revenue Deficit etc. What are the other components ?
+- [ ]  Bangladesh is one of the major trading partner of cotton with India
+- [ ]  #dictionary : froth ? 
+- [ ]  What are SOFR & USD-LIBOR ? 

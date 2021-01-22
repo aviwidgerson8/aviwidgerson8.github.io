@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diary/Diary.md",
-            "mode": "preview"
+            "file": "Web - Notes/Learning Notes/Current Affairs/Magazine/Yojana/2021/January 2021.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Diary.md",
+                "file": "Web - Notes/Learning Notes/Current Affairs/Magazine/Yojana/2021/January 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Web - Notes/Learning Notes/Current Affairs/Magazine/Yojana/2021/January 2021.md",
+    "Web - Notes/Learning Notes/Current Affairs/Opinion/2021/January 2021.md",
+    "Web - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/Drishti IAS/2021/January 2021.md",
+    "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2021/January 2021.md",
     "Diary/Diary.md",
     "Answer Writing/Insights IAS Answer Writing Practice.md",
     "Answer Writing/IAS Baba Answer Writing Practice.md",
     "Answer Writing/Untitled.md",
     "Answer Writing/Answer Writing.md",
-    "Diary/Maintainance.md",
-    "Planning/Targets Timeline.md",
-    "Planning/Pending Tasks/Pending Tasks - Temporary.md",
-    "Planning/Pending Tasks/Pending Tasks - Overall.md",
-    "Planning/Progress/Monthly/January 2021.md"
+    "Diary/Maintainance.md"
   ]
 }
