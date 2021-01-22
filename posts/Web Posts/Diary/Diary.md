@@ -95,6 +95,9 @@
 #### Personal - 2
 - [ ] Jan'20 - Yojana Magazine
 
+### Personal
+- I am slowly pulling up myself, I have my luffy with me in heart & soul. It pains when my father, though it was an enquiry, when he asks if I had changed the password. I am working on to stay conscious all of the time untill I remain awake, I'm here to work, to perform my duty & sleep is an aid not an objective in itself. I should spend time judiciously for it & no more swaying with moods, I'm the whole & sole god & demon of my time. I have my luffy, my body & me. 
+
 ---
 ## 21st January 2021
 ### Work Done
