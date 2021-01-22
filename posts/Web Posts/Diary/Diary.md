@@ -16,6 +16,46 @@
 
 # January'21
 ---
+## 23rd January 2021
+### Work Planned
+#### Personal - 1
+- [ ] Jan'20 - PRS Monthly Policy Review
+#### Primary - 2
+- [ ] Real Analysis - Malik & Arora
+#### Current Affairs
+- [ ] 22nd Jan'21 - Hindu News
+- [ ] 22nd Jan'21 - Business Standard News
+- [ ] 22nd Jan'21 - Insights IAS News Analysis
+- [ ] 22nd Jan'21 - Hindu Opinion
+- [ ] 22nd Jan'21 - Business Standard Opinion
+- [ ] 22nd Jan'21 - Drishti IAS News Analysis
+- [ ] 22nd Jan'21 - Only IAS News Analysis
+- [ ] 22nd Jan'21 - Insights IAS Editorials
+- [ ] 22nd Jan'21 - Drishti IAS Editorials
+- [ ] 22nd Jan'21 - Only IAS Editorials
+#### Primary - 1
+- [ ] Real Analysis - Malik & Arora
+#### Opinion / Magazine
+- [ ] 22nd Jan'21 - IE Opinion
+- [ ] 22nd Jan'21 - IE Explained
+- [ ] 22nd Jan'21 - Tribune Opinion
+- [ ] 22nd Jan'21 - FE Opinion
+- [ ] 22nd Jan'21 - Hindustan Times Opinion
+- [ ] 22nd Jan'21 - EPW
+- [ ] 22nd Jan'21 - Down to Earth
+#### Secondary - 1
+- [ ] TN 12th Economy
+#### Pending Works
+- [ ] Sept'20 - Insights IAS News Analysis
+#### Secondary - 2
+- [ ] Previous Years Prelims Series Practice Test - 1
+#### Answer Writing
+- [ ] Insights IAS Daily Answer Writing
+- [ ] IAS Baba Daily Answer Writing
+#### Personal - 2
+- [ ] Jan'20 - Yojana Magazine
+
+---
 ## 22nd January 2021
 ### Work Planned
 #### Personal - 1
@@ -23,12 +63,12 @@
 #### Primary - 2
 - [ ] Real Analysis - Malik & Arora
 #### Current Affairs
-- [ ] 21st Jan'21 - Hindu News
+- [x] 21st Jan'21 - Hindu News
 - [ ] 21st Jan'21 - Business Standard News
-- [ ] 21st Jan'21 - Insights IAS News Analysis
-- [ ] 21st Jan'21 - Hindu Opinion
+- [x] 21st Jan'21 - Insights IAS News Analysis
+- [x] 21st Jan'21 - Hindu Opinion
 - [ ] 21st Jan'21 - Business Standard Opinion
-- [ ] 21st Jan'21 - Drishti IAS News Analysis
+- [x] 21st Jan'21 - Drishti IAS News Analysis
 - [ ] 21st Jan'21 - Only IAS News Analysis
 - [ ] 21st Jan'21 - Insights IAS Editorials
 - [ ] 21st Jan'21 - Drishti IAS Editorials
@@ -36,10 +76,10 @@
 #### Primary - 1
 - [ ] Real Analysis - Malik & Arora
 #### Opinion / Magazine
-- [ ] 21st Jan'21 - IE Opinion
+- [x] 21st Jan'21 - IE Opinion
 - [ ] 21st Jan'21 - IE Explained
-- [ ] 21st Jan'21 - Tribune Opinion
-- [ ] 21st Jan'21 - FE Opinion
+- [x] 21st Jan'21 - Tribune Opinion
+- [x] 21st Jan'21 - FE Opinion
 - [ ] 21st Jan'21 - Hindustan Times Opinion
 - [ ] 21st Jan'21 - EPW
 - [ ] 21st Jan'21 - Down to Earth
