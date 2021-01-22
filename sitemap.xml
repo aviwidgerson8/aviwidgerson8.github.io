@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://maasaimara8.github.io/</loc>
-  <lastmod>2021-01-21T18:57:00Z</lastmod>
+  <lastmod>2021-01-22T16:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://maasaimara8.github.io/2017/</loc>
@@ -63,11 +63,11 @@
  </url>
  <url>
   <loc>https://maasaimara8.github.io/archive.html</loc>
-  <lastmod>2021-01-21T18:57:00Z</lastmod>
+  <lastmod>2021-01-22T16:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://maasaimara8.github.io/categories.html</loc>
-  <lastmod>2021-01-21T18:57:00Z</lastmod>
+  <lastmod>2021-01-22T16:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://maasaimara8.github.io/categories/business-standard/</loc>
@@ -110,6 +110,10 @@
   <lastmod>2021-01-21T18:57:00Z</lastmod>
  </url>
  <url>
+  <loc>https://maasaimara8.github.io/categories/magazine/</loc>
+  <lastmod>2021-01-22T16:23:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://maasaimara8.github.io/categories/news-analysis/</loc>
   <lastmod>2021-01-21T18:57:00Z</lastmod>
  </url>
@@ -126,16 +130,28 @@
   <lastmod>2021-01-21T18:57:00Z</lastmod>
  </url>
  <url>
+  <loc>https://maasaimara8.github.io/categories/opinion/</loc>
+  <lastmod>2021-01-22T16:23:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://maasaimara8.github.io/categories/upsc/</loc>
   <lastmod>2021-01-21T18:57:00Z</lastmod>
  </url>
  <url>
+  <loc>https://maasaimara8.github.io/categories/yojana/</loc>
+  <lastmod>2021-01-22T16:23:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://maasaimara8.github.io/index-1.html</loc>
-  <lastmod>2021-01-21T18:57:00Z</lastmod>
+  <lastmod>2021-01-22T16:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://maasaimara8.github.io/index-2.html</loc>
-  <lastmod>2021-01-21T18:57:00Z</lastmod>
+  <lastmod>2021-01-22T16:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://maasaimara8.github.io/index-3.html</loc>
+  <lastmod>2021-01-22T16:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://maasaimara8.github.io/pages/about/</loc>
@@ -262,7 +278,15 @@
   <lastmod>2021-01-21T18:57:00Z</lastmod>
  </url>
  <url>
+  <loc>https://maasaimara8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Magazine/Yojana/2021/yojana-january-2021-magazine-notes/</loc>
+  <lastmod>2021-01-22T16:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://maasaimara8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Opinion/2021/opinion-january-2021-notes/</loc>
+  <lastmod>2021-01-22T16:23:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://maasaimara8.github.io/tags.html</loc>
-  <lastmod>2021-01-21T18:57:00Z</lastmod>
+  <lastmod>2021-01-22T16:23:00Z</lastmod>
  </url>
 </urlset>
