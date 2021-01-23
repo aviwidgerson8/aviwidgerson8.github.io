@@ -16,6 +16,46 @@
 
 # January'21
 ---
+## 24th January 2021
+### Work Planned
+#### Personal - 1
+- [ ] Jan'20 - PRS Monthly Policy Review
+#### Primary - 2
+- [ ] Real Analysis - Malik & Arora
+#### Current Affairs
+- [ ] 23rd Jan'21 - Hindu News
+- [ ] 23rd Jan'21 - Business Standard News
+- [ ] 23rd Jan'21 - Insights IAS News Analysis
+- [ ] 23rd Jan'21 - Hindu Opinion
+- [ ] 23rd Jan'21 - Business Standard Opinion
+- [ ] 23rd Jan'21 - Drishti IAS News Analysis
+- [ ] 23rd Jan'21 - Only IAS News Analysis
+- [ ] 23rd Jan'21 - Insights IAS Editorials
+- [ ] 23rd Jan'21 - Drishti IAS Editorials
+- [ ] 23rd Jan'21 - Only IAS Editorials
+#### Primary - 1
+- [ ] Real Analysis - Malik & Arora
+#### Opinion / Magazine
+- [ ] 23rd Jan'21 - IE Opinion
+- [ ] 23rd Jan'21 - IE Explained
+- [ ] 23rd Jan'21 - Tribune Opinion
+- [ ] 23rd Jan'21 - FE Opinion
+- [ ] 23rd Jan'21 - Hindustan Times Opinion
+- [ ] 23rd Jan'21 - EPW
+- [ ] 23rd Jan'21 - Down to Earth
+#### Secondary - 1
+- [ ] TN 12th Economy
+#### Pending Works
+- [ ] Sept'20 - Insights IAS News Analysis
+#### Secondary - 2
+- [ ] Previous Years Prelims Series Practice Test - 1
+#### Answer Writing
+- [ ] Insights IAS Daily Answer Writing
+- [ ] IAS Baba Daily Answer Writing
+#### Personal - 2
+- [ ] Jan'20 - Yojana Magazine
+
+---
 ## 23rd January 2021
 ### Work Planned
 #### Personal - 1
