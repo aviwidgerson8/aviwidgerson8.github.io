@@ -13,9 +13,6 @@ I am **Jean Bourgain** (#pen-name).
 I intend to use this blog as an account of my progress & efficiency wrt planning in my preparation, in parallel, the blog would also be a comprehensive knowledge resource for the interested - especially on topics related to 
 <a href="/categories/tcs/">Theoretical Computer Science</a>,  <a href="/categories/maths/">Pure Mathematics</a>,  <a  href="/categories/economics/">Economics</a>, <a href="/categories/goodreads/">Psychology</a>.
 
-## Diary
-- [Diary](link://slug/diary)
-
 ## Answer Writing
 - [Insights IAS - Answer Writing Practice](link://slug/insights-ias-answer-writing-practice)
 - [IAS Baba - Answer Writing Practice](link://slug/ias-baba-answer-writing-practice)
