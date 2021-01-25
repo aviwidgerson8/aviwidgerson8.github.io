@@ -59,7 +59,6 @@
 - [ ] Flow : Mihaly Csikszentmihalyi
 - [ ] The Art of Thinking Clearly - Rolf Dobelli
 
-
 ## Non-Fiction
 - [ ] Man's Search for Meaning - Viktor E. Frankl
 - [ ] A Brief History of Humankind : Sapiens - Yuval Noah Harari

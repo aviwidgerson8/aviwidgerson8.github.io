@@ -1,5 +1,5 @@
-.. title: Targets Timeline for Jan'21
-.. slug: progress-january-2021
+.. title: Targets Timeline - 65 days
+.. slug: targets-timeline-65-days
 .. date: 2020-12-18 19:57 UTC+05:30
 .. tags: timeline
 .. category: progress
@@ -9,7 +9,7 @@
 .. type: text
 .. status: private
 
-**Description** : *account of progress in monthly targets*
+**Description** : *account of progress in targets for 65 days*
 
 ***
 <!-- TEASER_END -->
@@ -191,12 +191,6 @@
 - [ ] Eats, Shoots & Leaves - Lynne Truss
 
 ---
-## Economics
-- [ ] Principles of Economics - N. Gregory Mankiw
-- [ ] Microeconomics - N. Gregory Mankiw
-- [ ] Macroeconomics - N. Gregory Mankiw
-- [ ] Introduction to Game Theory - Osborne
-- [ ] International Economics : Theory & Policy - Paul R. Krugman
 
 
 
