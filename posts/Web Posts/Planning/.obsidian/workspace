@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pending Tasks/Pending Tasks - Overall.md",
+            "file": "Targets Timeline.md",
             "mode": "source"
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413
+    "width": 413,
+    "collapsed": true
   },
   "right": {
     "id": "38d08e6dc28e3fdb",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pending Tasks/Pending Tasks - Overall.md",
+                "file": "Targets Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +87,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Targets Timeline.md",
+    "Food & Health/Diet & Exercise Routine.md",
+    "Food & Health/Monthly Update of Diet & Exercise Routine.md",
+    "Progress/Temporary/January 2021.md",
     "Pending Tasks/Pending Tasks - Overall.md",
-    "Progress/Monthly/January 2021.md",
-    "Targets Timeline.md"
+    "Progress/Monthly/January 2021.md"
   ]
 }

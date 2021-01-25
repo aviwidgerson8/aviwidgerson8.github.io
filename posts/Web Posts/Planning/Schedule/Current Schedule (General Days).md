@@ -13,17 +13,17 @@
 ***
 ## Time-Table
 ### Work
-- 3:00am - 4:00am : Personal - 1
-- 4:00am - 6:00am : Primary - 2
-- 6:00am - 8:00am : Running (1/3 days) + Current Affairs (2/3 days)
-- 8:00am - 9:00am : Freshup + Breakfast + Temple + (Pending Works, Opinion/Magazines)
-- 9:00am - 1:00pm : Primary - 1
-- 1:00pm - 2:00pm : Groceries + Lunch + (Pendging Works, Opinion/Magazines)
-- 2:00pm - 5:00pm : Secondary - 1
-- 5:00pm - 6:00pm : Snacks + (Pending Works, Opinion/Magazines)
-- 6:00pm - 8:00pm : Secondary - 2
+- 3:00am - 4:00am : Insights IAS + Drishti IAS - News Analysis & Editorials + Quiz
+- 4:00am - 6:00am : Syllabus
+- 6:00am - 8:00am : (1/3 days) Running  + (2/3 days) Newspapers - Hindu, BS 
+- 8:00am - 9:00am : Freshup + Breakfast + Temple + Opinion/Magazines
+- 9:00am - 1:00pm : Syllabus
+- 1:00pm - 2:00pm : Groceries + Lunch + Opinion/Magazines
+- 2:00pm - 5:00pm : Syllabus
+- 5:00pm - 6:00pm : Snacks + Pending Works (Temporary)
+- 6:00pm - 8:00pm : Pending Tasks + Opinion & Magazines - (Overall)
 - 8:00pm - 9:00pm : Dinner + Answer Writing/Blog
-- 9:00pm - 10:00pm : Personal - 2
+- 9:00pm - 10:00pm : Goodreads / English
 
 ### Food, Health & Chores
 - 2:45am - 3:00am : Brushing + 2 Carrots + Eye Exercise

@@ -30,8 +30,8 @@ I intend to use this blog as an account of my progress & efficiency wrt planning
 ### Targets Timeline
 - [Targets Planning](link://slug/targets-timeline)
 ### Progress
-#### Monthly
-- [January 2021](link://slug/progress-january-2021)
+#### Temporary
+- [January 2021](link://slug/targets-timeline-65-days)
 #### Overall
 - [UPSC General Studies](link://slug/progress-overall-upsc-general-studies)
 - [UPSC Maths](link://slug/progress-overall-upsc-maths)

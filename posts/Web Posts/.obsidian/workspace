@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diary/Diary.md",
+            "file": "Planning/Progress/Overall/UPSC - General Studies.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Diary.md",
+                "file": "Planning/Progress/Overall/UPSC - General Studies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Diary/Diary.md",
-    "Web - Notes/Learning Notes/Current Affairs/Magazine/Yojana/2021/January 2021.md",
-    "Web - Notes/Learning Notes/Current Affairs/Opinion/2021/January 2021.md",
-    "Web - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/Drishti IAS/2021/January 2021.md",
-    "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2021/January 2021.md",
-    "Answer Writing/Insights IAS Answer Writing Practice.md",
-    "Answer Writing/IAS Baba Answer Writing Practice.md",
-    "Answer Writing/Untitled.md",
-    "Answer Writing/Answer Writing.md",
-    "Diary/Maintainance.md"
+    "Planning/Progress/Overall/UPSC - General Studies.md",
+    "Planning/Progress/Monthly/January 2021.md",
+    "Planning/Schedule/Current Schedule (General Days).md",
+    "Planning/Pending Tasks/Pending Tasks - Temporary.md",
+    "Planning/Progress/Overall/Goodreads.md",
+    "Planning/Targets Timeline.md",
+    "Planning/Progress/Overall/Maths.md",
+    "Planning/Progress/Overall/TCS.md",
+    "Planning/Pending Opinion & Magazines/Pending Opinion & Magazines - Temporary.md",
+    "Planning/Pending Opinion & Magazines/Pending Opinion & Magazines - Overall.md"
   ]
 }
