@@ -16,6 +16,56 @@
 
 # January'21
 ---
+## 27th January 2021
+### Work Planned
+#### Syllabus
+- [ ] 12th NCERT - Macroeconomics
+- [ ] 12th TN - Economics
+
+#### Insights & Drishti IAS
+- [ ] Insights IAS - News Analysis
+- [ ] Drishti IAS - News Analysis
+- [ ] Insights IAS - Editorials
+- [ ] Drishti IAS - Editorials
+- [ ] Insights IAS - Quiz : Static
+- [ ] Insights IAS - Quiz : Current Affairs
+- [ ] Insights IAS - Quiz : RTM
+
+#### Newspapers
+- [ ] Hindu News
+- [ ] Hindu Opinion
+- [ ] Business Standard News
+- [ ] Business Standard Opinion
+- [ ] PIB
+
+#### Opinion
+- [ ] IE Opinion
+- [ ] IE Explained
+- [ ] Tribune Opinion
+- [ ] Financial Express Opinion
+- [ ] Hindustan Times Opinion
+- [ ] Business Line Opinion
+
+#### Pending Tasks (Temporary)
+- [ ] 23rd Jan'21 - Hindu News
+
+#### Pending Tasks/ Magazines (Overall)
+- [ ] PRS Sept'20 - Monthly Policy Review
+- [ ] Insights IAS Sept'20 - News Analysis
+
+#### Answer Writing
+- [ ] Insights IAS - Daily Answer Writing
+- [ ] IAS Baba - Daily Answer Writing
+
+#### Goodreads
+- [ ] Will To Power - Nietszche
+
+---
+## 25th - 26th January 2021
+### Work Done
+- None
+
+---
 ## 24th January 2021
 ### Work Planned
 #### Personal - 1
