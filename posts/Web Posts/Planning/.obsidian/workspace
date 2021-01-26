@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413,
-    "collapsed": true
+    "width": 413
   },
   "right": {
     "id": "38d08e6dc28e3fdb",
@@ -88,10 +87,14 @@
   },
   "lastOpenFiles": [
     "Targets Timeline.md",
+    "Progress/Overall/Economics.md",
+    "Progress/Overall/Goodreads.md",
+    "Progress/Overall/Maths.md",
+    "Progress/Overall/TCS.md",
+    "Progress/Overall/UPSC - Maths.md",
+    "Progress/Overall/UPSC - General Studies.md",
+    "Schedule/Current Schedule (General Days).md",
     "Food & Health/Diet & Exercise Routine.md",
-    "Food & Health/Monthly Update of Diet & Exercise Routine.md",
-    "Progress/Temporary/January 2021.md",
-    "Pending Tasks/Pending Tasks - Overall.md",
-    "Progress/Monthly/January 2021.md"
+    "Food & Health/Monthly Update of Diet & Exercise Routine.md"
   ]
 }
