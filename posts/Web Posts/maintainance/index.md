@@ -1,13 +1,9 @@
 .. title: Maintainance
 .. slug: maintainance
 .. date: 2021-01-06 
-.. tags: diary
-.. category: diary
-.. link: 
-.. description: 
-.. type: text
-.. template: page.tmpl
-.. status: private
+.. tags: self
+.. category: personal
+.. status: draft
 
 **Description** : *talking to the self*
 
