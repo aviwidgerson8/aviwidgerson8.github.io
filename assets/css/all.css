@@ -976,11 +976,11 @@ padding-bottom: 0.5rem;
 }
 
 .headsborder {
-	border-style: solid;
-	/*border-top-style: none;*/
+	/*border-style: solid;*/
+	border-top-style: none;
   border-bottom-style: none;
-  border-top-left-radius: 0.5rem;
-  border-top-right-radius: 0.5rem;
+  /*border-top-left-radius: 0.5rem;*/
+  /*border-top-right-radius: 0.5rem;*/
 }
 
 .headingborder {
@@ -995,12 +995,12 @@ padding-bottom: 0.5rem;
 }
 
 .dotsborder {
-	border-style: solid;
-	/*border-top-style: none;*/
-	/*border-bottom-style: none;*/
+	/*border-style: solid;*/
+	border-top-style: none;
+	border-bottom-style: none;
 	padding-top: 1rem;
-	border-bottom-left-radius: 0.5rem;
-	border-bottom-right-radius: 0.5rem;
+	/*border-bottom-left-radius: 0.5rem;*/
+	/*border-bottom-right-radius: 0.5rem;*/
 }
 
 .bg-light {
