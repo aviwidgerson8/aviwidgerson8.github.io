@@ -204,7 +204,7 @@
 - [ ] Chardham Project - connecting Yamunotri, Gangotri, Bhadrinath, Kedarnath
 - [ ] What is Biomining ?
 - [ ] Solid Waste Management Rules, 2016 ?
-- [ ] | #river Kadambrayar ?
+- [ ]  #river Kadambrayar ?
 - [ ] Kaziranga National Park exists between Brahmaputra #river & Karbi Anglong Hills ? floods do help the region to maintain its landscape
 - [ ] Central Water Commission ? 
 - [ ] Agricultural and Processed Food Products Export Development (APEDA) ? 

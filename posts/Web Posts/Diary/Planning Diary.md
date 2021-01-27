@@ -7,6 +7,7 @@
 .. description: 
 .. type: text
 .. template: page.tmpl
+.. status: private
 
 **Description** : *daily plans & workings are reported here*
 

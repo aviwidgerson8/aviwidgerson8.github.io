@@ -10,47 +10,47 @@
 <!-- TEASER_END -->
 
 ## 1st - 30th Novemeber 2020
-- [ ] | #map : Aegan Sea ? 
-- [ ] | #map : Strait of Dardanelles
-- [ ] | #map : Sea of Marmara ? 
-- [ ] | #map : Black Sea ? 
-- [ ] | #map : Sea of Crete & Thracian Sea ? 
+- [ ]  #map : Aegan Sea ? 
+- [ ]  #map : Strait of Dardanelles
+- [ ]  #map : Sea of Marmara ? 
+- [ ]  #map : Black Sea ? 
+- [ ]  #map : Sea of Crete & Thracian Sea ? 
 - [ ] What were the committees headed by Sardar Vallabhai Patel ? 
 - [ ] What are the functions of Wildlife Institute of India ? Who is its authority ? 
-- [ ] | #map : Costa rica ? 
+- [ ]  #map : Costa rica ? 
 - [ ] EC derives its power to supervise elections from Article - 324 to Parliament & State Legislatures 
 - [ ] MCC is operational netween which dates ? from release of election shcedule to elections results release date
 - [ ] MCC is not enforcable by law, however certain provision of MCC can be enforced through statutes IPC, CrPC, RPA, 1951 ? How ? 
 - [ ] What is National Accredition Board for Certification Body (NABCB) ? What are its functions & Who is its authority ? 
 - [ ] What is Quality Council of India ? What are its funcitons & Who is its authority ? 
 - [ ] What is National Productivity Council ? Who is its authority ? What are its functions ?
-- [ ] | #map : Mansar Lake ? Surinsar Lake ? 
-- [ ] | #national-parks : Surinsar-Mansar Wildlife Sanctuary ? 
+- [ ]  #map : Mansar Lake ? Surinsar Lake ? 
+- [ ]  #national-parks : Surinsar-Mansar Wildlife Sanctuary ? 
 - [ ] Asteroid 16 Psyche b/w Mars & Jupiter 
-- [ ] | #dictionary : succour ?
+- [ ]  #dictionary : succour ?
 - [ ] What is World Wide Fund for Nature ? What is its role in internaitonal arena ? What are its functions & responsibilities & affiliations ? 
-- [ ] | #reports : Living Planet Report is published by WWF
+- [ ]  #reports : Living Planet Report is published by WWF
 - [ ] Who publishes Living Planet Index ? 
 - [ ] What is Debt-for Nature Swap ? 
-- [ ] | #national-parks : Panna Biosphere Reserve ? this was included in Man & Biosphere Programme 
+- [ ]  #national-parks : Panna Biosphere Reserve ? this was included in Man & Biosphere Programme 
 - [ ] What is Man & Biosphere Programme (MAB) ? Who is the governing authority ? List of areas in MAB from India ?
 - [ ] What is UNESCO's World Network of Biosphere Reserves ? 
 - [ ] Khjuraho Group of Monuments are part of World Heritage Sites 
-- [ ] | #river  : Ken
+- [ ]  #river  : Ken
 - [ ] What, When, How did Anglo-Sikh wars happen ? 
-- [ ] | #river  : Bhagmati ? 
+- [ ]  #river  : Bhagmati ? 
 - [ ] List of countries to which India reached out as part of Misison Sagar ? 
 - [ ] What are Articles-129 & 215 ? 
 - [ ] The power of HC to punish contempts of its sub-ordinate courts is derived from Sect 10 of Contempt of Courts Act, 1971 
 - [ ] What are the exemptions mentioned in Article-19's Freedom of Speech & Expression ?
 - [ ] What is Ecological Flow ? 
 - [ ] Yamuna is the second largest trib of Ganga after Ghaghara, it merges with Ganga at Prayagraj 
-- [ ] | #river  : Yamuna flows in which states ? 
+- [ ]  #river  : Yamuna flows in which states ? 
 - [ ] What are the objectives of National Mission for Clean Ganga ? 
 - [ ] What is UN-Habitat ? What are its objectives ? Who is its authority ? 
-- [ ] | #river : Satluj ? Indus tribs ? 
+- [ ]  #river : Satluj ? Indus tribs ? 
 - [ ] What is Project Lion ? What are the 6 identified sites to which Lions can be potentially relocated ?
-- [ ] | #species : Asiatic Lion ? 
+- [ ]  #species : Asiatic Lion ? 
 - [ ] What is National Infra Investment Fund ? 
 - [ ] What is the issue of Char-Chaporis in Assam ? 
 - [ ] What is National Monsoon Mission ? 
@@ -60,17 +60,17 @@
 - [ ] What does plug & play facility mean ? 
 - [ ] Who are the member countries of OPEC ? 
 - [ ] What is OPEC fund for International Development & Who are its member countries ? 
-- [ ] | #national-parks : Pakke Tiger Reserve ? 
+- [ ]  #national-parks : Pakke Tiger Reserve ? 
 - [ ] What is Brown Carbon ? 
 - [ ] What are Tar-Balls 
 - [ ] What is Naitonal Agriculture Higher Education Project ? 
 - [ ] What is RATS in SCO ? 
 - [ ] Thirty Meter Telescope is a collaboration of which countries ? 
-- [ ] | #map : Which countries surround the caspian sea ? 
+- [ ]  #map : Which countries surround the caspian sea ? 
 - [ ] What are morley-minto reforms ? 
 - [ ] What is the weekly journal by Abul Kalam Azad in Urudu - Al-Hilal, it played important role in forging Hindu-Muslim unity
-- [ ] | #national-parks : Hastinapur Wildlife Sanctuary ? 
-- [ ] | #river  : Solani ? 
+- [ ]  #national-parks : Hastinapur Wildlife Sanctuary ? 
+- [ ]  #river  : Solani ? 
 - [ ] What are the protection laws & rules present in support of wetlands ? 
 - [ ] What are the functions of International Atomic Energy Agency ? 
 - [ ] Pneumonia is caused by various agents - fungi, baceria & viruses 
@@ -79,36 +79,36 @@
 - [ ] Who are other service providers ? What is recent ease which was provided to these organizations ?
 - [ ] What are the functions of SERB ? Who is its authority ? 
 - [ ] Does chief minister have any role in summoning or prorouging the state legislative assembly ? What is the role of speaker & governor in this functions ?
-- [ ] | #map : Tristan da Cunha ? 
-- [ ] | #ramsar-sites : Lonar Wildlife Sanctuary ? Soor Sarovar ?
-- [ ] | #national-parks : Melghat Tiger Reserve ? 
-- [ ] | #lakes : Keetham Lake ? 
-- [ ] | #national-parks : Soor Sarovar Bird Sanctuary ? 
+- [ ]  #map : Tristan da Cunha ? 
+- [ ]  #ramsar-sites : Lonar Wildlife Sanctuary ? Soor Sarovar ?
+- [ ]  #national-parks : Melghat Tiger Reserve ? 
+- [ ]  #lakes : Keetham Lake ? 
+- [ ]  #national-parks : Soor Sarovar Bird Sanctuary ? 
 - [ ] What is Montreux Record ? 
-- [ ] | #national-parks : Keoladeo National Park ? 
-- [ ] | #lakes : Loktak Lake ? 
-- [ ] | #personalities : Jainacharya Shree Vijay Vallabh Surishwer Ji Maharaj ? 
+- [ ]  #national-parks : Keoladeo National Park ? 
+- [ ]  #lakes : Loktak Lake ? 
+- [ ]  #personalities : Jainacharya Shree Vijay Vallabh Surishwer Ji Maharaj ? 
 - [ ] What is Group of 77 ? 
 - [ ] President can also rporouge hte house while in session 
 - [ ] What is Article 217(1) ? 
 - [ ] Does CJI has the power to appoint additional judges to HC ? 
-- [ ] | #judgements : Romesh Thappar vs State of Madras,1950 - SC observed that Article 32 provides a gaurenteed remedy for the enforcement of fundamental rights (SC cannot refuse)
+- [ ]  #judgements : Romesh Thappar vs State of Madras,1950 - SC observed that Article 32 provides a gaurenteed remedy for the enforcement of fundamental rights (SC cannot refuse)
 - [ ] Under Article-32 SC cannot refuse to exercise its writ jurisdiction whereas under Article-226 it is discretionary HC may refuse to exercise writ jurisdiction
-- [ ] | #traditions : Hojagiri Folk Dance ?
-- [ ] | #traditions : Buisu ?
+- [ ]  #traditions : Hojagiri Folk Dance ?
+- [ ]  #traditions : Buisu ?
 - [ ] List of PVTGs ?
-- [ ] | #river : Chalakudy ? Tribs ? 
-- [ ] | #national-parks : Parambikulam Tiger Reserve ? 
-- [ ] | #rivers : Periyar ?
+- [ ]  #river : Chalakudy ? Tribs ? 
+- [ ]  #national-parks : Parambikulam Tiger Reserve ? 
+- [ ]  #rivers : Periyar ?
 - [ ] What is Green Energy COnvergence Project ? 
 - [ ] List of Drug Resitant TB Drugs ? Bedaquiline & Delamanid ? 
 - [ ] What is MDR-TB ? & XDR-TB ? Isoniazid & Rifampicin ? 
 - [ ] What are TB goals of India ? 
 - [ ] What is Nikshay Ecosystem related to TB?
-- [ ] | #map : Bolivia ? 
+- [ ]  #map : Bolivia ? 
 - [ ] What is National Super Computing Mission ? 
 - [ ] What is Human Papillomavirus Vaccine for ? 
-- [ ] | #data : India recorded tge highest estimated number of cervical cancer deaths in 2018, according to Lancet Global Health
+- [ ]  #data : India recorded tge highest estimated number of cervical cancer deaths in 2018, according to Lancet Global Health
 - [ ] Which vaccines are part of Naitonal Immunisation Programme ? 
 - [ ] NPR is conducted under the provisions of Citizenship Act, 1955 & Citizenship (Registration of Citizens & issue of National Identity Cards) Rules, 2003 ? 
 - [ ] What is Safaimitra Suraksha Challenge ? 
@@ -116,8 +116,8 @@
 - [ ] What is Global HIV Prevention Coalition ? What are its goals ? 
 - [ ] What is UNAIDS ? Who is its authority ? What are its functions ? 
 - [ ] What is Project Sunrise related to AIDS ? 
-- [ ] | #reports : Global Bribery Risk Matrix ? 
-- [ ] | #map : luxemborg ? 
+- [ ]  #reports : Global Bribery Risk Matrix ? 
+- [ ]  #map : luxemborg ? 
 - [ ] Luxemborg is the 3rd largest foreign investor in India 
 - [ ] What is India's International Stock Exchamge (INX) ? 
 - [ ] What is Coalition for Disaster Resilient Infrastructure (CDRI) ? 
@@ -132,7 +132,7 @@
 - [ ] What is the difference b/w SPS & GPS ? 
 - [ ] Who are Hindu Shahis ? 
 - [ ] What is Time use Survey & Who is the authority ? 
-- [ ] | #data : An average Indian woman spends 19.5% of her time engaged in either unpaid domestic/care-giving services where as man spends only 2.5% on such activities 
+- [ ]  #data : An average Indian woman spends 19.5% of her time engaged in either unpaid domestic/care-giving services where as man spends only 2.5% on such activities 
 - [ ] Exercise - SITMEX ? 
 - [ ] Exercises b/w India & Singapore - Bold Kurukshetra, Joint Military Training, SIMBEX ? 
 - [ ] What are Bioluminescent Fungi ? in fungi the bioluminescence comes from enzyme - luciferase 
@@ -145,18 +145,18 @@
 - [ ] What is FAO & What are its functions & Who is its authority ? 
 - [ ] What is Creation & Expansion of Food Preocessing & Prevention Capacities (CEFPPC) Scheme ? 
 - [ ] What is Frontier Highway Project ? 
-- [ ] | #national-parks : Dibang Wildlife Sanctuary ? 
+- [ ]  #national-parks : Dibang Wildlife Sanctuary ? 
 - [ ] What is Lunar Reconnaissance Orbiter (LRO) ? 
 - [ ] What are names proposed by India for tropical cyclones in BoB + Arabian Sea regions - as per formula agreed by WMO & UNECOSOC 
 - [ ] Why do storms formed in the north of equator rotate counter-clockwise ?
-- [ ] | #personalities : Guru Tej Bahadur ? 
+- [ ]  #personalities : Guru Tej Bahadur ? 
 - [ ] How can investors gain from -ve yield bonds ? 
 - [ ] What is Kadamba Nagara Style ? 
 - [ ] What is vesara style architecture ? 
 - [ ] What is Kala-Azar ? What is its status in India ? It is caused by Leishmania Parasite, What is miltefosine ? 
-- [ ] | #personalities : Lachit Borphukan ? 
+- [ ]  #personalities : Lachit Borphukan ? 
 - [ ] What are stunting & wasting ? 
-- [ ] | #personalities : Sir Chhotu Ram ? 
+- [ ]  #personalities : Sir Chhotu Ram ? 
 - [ ] What is Battle of Saraighat ? 
 - [ ] The recent DAP 2020 has introduced an option for leasing military platforms 
 - [ ] The authoiryt ot invoke ESMA law rests with the state govts. & this law was made under the List-33 of Concurrent List - 7th Schedule
@@ -173,14 +173,14 @@
 - [ ] What are the functions of National Command Control Communication & Intelligence System (NC3I) ?
 - [ ] What are the functions of Information Fusion Centre ? 
 - [ ] What are the color codes of Shipping ? What are white shipping agreements ?
-- [ ] | #national-parks : Pilibhit Tiger Reserve ? 
+- [ ]  #national-parks : Pilibhit Tiger Reserve ? 
 - [ ] What is TX2 program ? 
 - [ ] What is World Wildlife Foundation ? What are its functions ? Who is its authroity ? 
 - [ ] What ar the Tiger Range Countries ? 
 - [ ] What is TRAFFIC ? 
-- [ ] | #river : Sharada & Khakra ? 
+- [ ]  #river : Sharada & Khakra ? 
 - [ ] What is Wildlife Institute of India ? What are its functions ? 
-- [ ] | #map : Tarai Region ? 
+- [ ]  #map : Tarai Region ? 
 - [ ] What is Project Tiger ? 
 - [ ] What is National Tiger Conservation Authority (NTCA) ? What are its functions ? Who is its authority ? 
 - [ ] What is PRAGATI platform ? 

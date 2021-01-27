@@ -7,6 +7,7 @@
 .. description: 
 .. type: text
 .. template: page.tmpl
+.. status: private
 
 **Description** : *daily learnings are reported here*
 

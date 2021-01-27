@@ -18,9 +18,9 @@
 - [ ] What are peat-sensitive approaches to wild fire fighting ? 
 
 ## 5th October 2020
-- [ ] | #map :  Chardam Project ? 
-- [ ] | #map : (Nagorno Karabakh) South Caucusus 
-- [ ] | #map : New Caledonia
+- [ ]  #map :  Chardam Project ? 
+- [ ]  #map : (Nagorno Karabakh) South Caucusus 
+- [ ]  #map : New Caledonia
 - [ ] Section 29 of POCSO Act 
 
 ## 6th October 2020
@@ -63,7 +63,7 @@
 - [ ] Article 129 & 215 ? provide the power to SC & HC for the contempt of court, do lower courts have the power against contempt of court ? Contempt of Courts Act, 1971 gives the power to HC to punish for the contempt of subordinate courts 
 - [ ] Right ot protest comes under Article - 19 (1) a,b
 - [ ] What are the reasonable restrictions against freedom of speech of Article - 19(2) & 19(3) ?
-- [ ] | #river Boards Act, 1956 ? 
+- [ ]  #river Boards Act, 1956 ? 
 - [ ] Inter-State Water Disputes Act, 1956 ? 
 - [ ] What are the powers of SC in Inter-State Water Disputes ? 
 - [ ] Which countries constitute Sub-Saharan Region ? 
@@ -71,7 +71,7 @@
 - [ ] What are major & minor constituents of Natural Gas ? 
 - [ ] What is the hierarchial structure & functioning of Central Pollution Control Board ?
 - [ ] Constituents of Air Quality Index ? 
-- [ ] | #map : Abor HIlls ? 
+- [ ]  #map : Abor HIlls ? 
 - [ ] What are the functions & powers of Appointments Committe ? 
 - [ ] Does WB has any Autonomous District Council ? 
 
@@ -122,9 +122,9 @@
 - [ ] Are political parties in the scope of RTI ? RTI Amendment Bill, 2013 ? 
 - [ ] SVAMITVA scheme comes under Min. of Panchayat Raj & Rural Dev
 - [ ] What is learning adjusted years of schooling ?
-- [ ] | #map  : Dijbouti, Angola ?
+- [ ]  #map  : Dijbouti, Angola ?
 - [ ] What is Kaladan MultiModal Project ? 
-- [ ] | #map : Hambantota port ? 
+- [ ]  #map : Hambantota port ? 
 - [ ] What is the hierarchial structure & functioning of DCGI ? 
 - [ ] What are sensitivity & specificity in medical testing ? 
 - [ ] What is the difference b/w antigen & trunat test for covid19 ? 
@@ -132,13 +132,13 @@
 - [ ] Blue Flag certification is not exclusive for beaches, it can be given to marina, sustainable boating tourism operator also 
 - [ ] List of Blue Flag certified beaches ? 
 - [ ] What is UN World Tourism Organization ? 
-- [ ] | #map : Spain ? 
+- [ ]  #map : Spain ? 
 
 ## 13th October 2020 
 - [ ] Who can become the members of Asian Development Bank ? 
 - [ ] What are the functions of UNESCAP ? 
 - [ ] What is Asian Infrstructure Investment Bank (AIIB) ? 
-- [ ] | #map : Central Asian Countries ? 
+- [ ]  #map : Central Asian Countries ? 
 - [ ] In which areas do SCO countries co-operate with each other ? 
 - [ ] List of member countries, oberserver states, dialouge partners of India ? 
 - [ ] What was Shangai Five Mechanism ? 
@@ -180,7 +180,7 @@
 - [ ] What is radiation in flys ash ? how is it comparable to nuclear waste radiation ? 
 - [ ] What is the latest amendment of Foreign Contribution(Regulation) Act,(FCRA) 2020 ? 
 - [ ] What are the 5 officially agreed border personnel meeting points of India & China ? 
-- [ ] | #map : Chusul , Rezang la ? 
+- [ ]  #map : Chusul , Rezang la ? 
 - [ ] What is Aquaponics ? 
 
 ## 15th October 2020
@@ -190,7 +190,7 @@
 - [ ] What is Thalassaemia ? 
 - [ ] What is Hematopoietic Stem Cell Transplantation (HSCT) program ? 
 - [ ] What is Sickle-Cell Disease ? 
-- [ ] | #map : Thailand ? 
+- [ ]  #map : Thailand ? 
 - [ ] What is the difference b/w pulses, millets, cereals ? 
 - [ ] Who publishes State of the World's Forests & Global Report on Food Crises reports ? 
 - [ ] What is Rome Declaration (World Food Summit, 1996 by FAO) ? 
