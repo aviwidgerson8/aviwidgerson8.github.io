@@ -21,22 +21,22 @@ I intend to use this blog as an account of my progress & efficiency wrt planning
 
 ## UPSC 
 ### Schedule
-- [Current Daily Schedule](link://slug/current-schedule)
+- [Current - Daily Schedule](link://slug/current-schedule)
 ### Targets Timeline
-- [Targets Planning](link://slug/targets-timeline)
+- [Targets Timeline - Overall](link://slug/targets-timeline)
 ### Progress
 #### Temporary
 - [Targets Timeline - 65 Days](link://slug/targets-timeline-65-days)
 #### Overall
-- [UPSC General Studies](link://slug/progress-overall-upsc-general-studies), [UPSC Maths](link://slug/progress-overall-upsc-maths), [Economics](link://slug/progress-overall-economics), [TCS](link://slug/progress-overall-tcs), [Maths](link://slug/progress-overall-maths), [Goodreads](link://slug/progress-overall-goodreads).
+- [UPSC - General Studies](link://slug/progress-overall-upsc-general-studies), [UPSC - Maths](link://slug/progress-overall-upsc-maths), [Economics](link://slug/progress-overall-economics), [TCS](link://slug/progress-overall-tcs), [Maths](link://slug/progress-overall-maths), [Goodreads](link://slug/progress-overall-goodreads).
 ### Pending Tasks, Opinions & Magazines
 #### Tasks
-- [Overall Pending Tasks](link://slug/pending-tasks-overall), [Temporary Pending Tasks](link://slug/pending-tasks-temporary).
+- [Pending Tasks - Overall](link://slug/pending-tasks-overall), [Pending Tasks - Temporary](link://slug/pending-tasks-temporary).
 #### Opinions & Magazines
-- [Overall Pending Opinion & Magazines](link://slug/pending-opinion-and-magazines-overall), [Temporary Pending Opinion & Magazines](link://slug/pending-opinion-and-magazines-temporary).
+- [Pending Opinion & Magazines - Overall](link://slug/pending-opinion-and-magazines-overall), [Pending Opinion & Magazines - Temporary](link://slug/pending-opinion-and-magazines-temporary).
 
 ## Food & Health
-- [Diet & Exercise Routine](link://slug/diet-and-exercise-routine), [Monthly Update of Diet & Exercise Routine](link://slug/monthly-update-of-diet-and-exercise-routine).
+- [Diet & Exercise Routine - Plan](link://slug/diet-and-exercise-routine), [Diet & Exercise Routine - Monthly Update](link://slug/monthly-update-of-diet-and-exercise-routine).
 
 
 
