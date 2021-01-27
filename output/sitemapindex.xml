@@ -6,8 +6,20 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://aviwidgerson8.github.io/categories/answer-writing.xml</loc>
+  <lastmod>2021-01-27T04:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/business-standard.xml</loc>
   <lastmod>2021-01-25T14:37:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://aviwidgerson8.github.io/categories/cat_answer-writing.xml</loc>
+  <lastmod>2021-01-27T04:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://aviwidgerson8.github.io/categories/cat_diary.xml</loc>
+  <lastmod>2021-01-27T04:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/cat_research.xml</loc>
@@ -20,6 +32,10 @@
  <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/cat_upsc-pages.xml</loc>
   <lastmod>2021-01-25T14:37:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://aviwidgerson8.github.io/categories/diary.xml</loc>
+  <lastmod>2021-01-27T04:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/drishti-ias.xml</loc>
@@ -38,8 +54,12 @@
   <lastmod>2021-01-25T14:37:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://aviwidgerson8.github.io/categories/ias-baba.xml</loc>
+  <lastmod>2021-01-27T04:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/insights-ias.xml</loc>
-  <lastmod>2021-01-25T14:37:00Z</lastmod>
+  <lastmod>2021-01-27T04:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/installation.xml</loc>
@@ -79,10 +99,10 @@
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/rss.xml</loc>
-  <lastmod>2021-01-25T14:37:00Z</lastmod>
+  <lastmod>2021-01-27T04:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/sitemap.xml</loc>
-  <lastmod>2021-01-26T16:24:00Z</lastmod>
+  <lastmod>2021-01-27T04:34:00Z</lastmod>
  </sitemap>
 </sitemapindex>

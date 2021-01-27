@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6a57db62bd042ef7",
+        "id": "2bfa078884701a5e",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diary/Diary.md",
+            "file": "Meditations.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Diary.md",
+                "file": "Meditations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Diary/Diary.md",
-    "Planning/Schedule/Current Schedule (General Days).md",
-    "Planning/Pending Tasks/Pending Tasks - Temporary.md",
-    "Planning/Pending Tasks/Pending Tasks - Overall.md",
-    "Planning/Progress/Temporary/Targets Timeline - 65 days.md",
-    "Planning/Progress/Overall/UPSC - General Studies.md",
-    "Planning/Progress/Monthly/January 2021.md",
-    "Planning/Progress/Overall/Goodreads.md",
-    "Planning/Targets Timeline.md",
-    "Planning/Progress/Overall/Maths.md"
+    "Meditations.md",
+    "Maintainance.md",
+    "Diary/Learnings Diary.md",
+    "Diary/Personal Diary.md",
+    "Diary/Planning Diary.md",
+    "Diary/Learning Diary.md",
+    "Diary/Maintainance.md",
+    "Diary/Daily Planning Diary.md",
+    "Diary/Untitled.md",
+    "Diary/Work Diary.md"
   ]
 }
