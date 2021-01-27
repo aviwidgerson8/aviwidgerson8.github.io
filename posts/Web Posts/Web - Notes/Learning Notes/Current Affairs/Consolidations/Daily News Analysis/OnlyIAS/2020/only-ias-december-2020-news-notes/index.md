@@ -11,8 +11,8 @@
 
 ## 1st - 31st December 2020
 - [ ] Who are the member countries of organisation of Islamic Cooperation (OIC) ? 
-- [ ] | #passes : Mariam La ? 
-- [ ] | #map : Ziro Valley ? 
+- [ ]  #passes : Mariam La ? 
+- [ ]  #map : Ziro Valley ? 
 - [ ] What is Mission Organic Value Chain Development for NER (MOVCD-NER) ? 
 - [ ] What is APEDA ? What are its functions ? Who its its authority ? 
 - [ ] What is NAFED ? What are its functions & Who is its authority ? 
@@ -21,8 +21,8 @@
 - [ ] Does Attorney General post has the requirement of being an eminent jurist ? 
 - [ ] Article 143 ? What is the role of AG in this ? 
 - [ ] What is TRIFED ? What are its functions ? Who is its authority ? 
-- [ ] | #river : Saryu ?
-- [ ] | #map : Frecnh Guinea ? 
+- [ ]  #river : Saryu ?
+- [ ]  #map : Frecnh Guinea ? 
 - [ ] What is C32-LH2 tank ? 
 - [ ] What is Commission for Agricultural Costs & Prices ? Who is its authority ? What are its functions ?
 - [ ] What is Amit Khare Task Force ? 
@@ -32,15 +32,15 @@
 - [ ] What is World Meteorological Organization (WMO) ? What are its funcitons ? Who is its authority ? 
 - [ ] What is Battle of Longewala ? 
 - [ ] What is Operation Trident ? 
-- [ ] | #map : Sinai Desert ? Sinai Peninsula ? 
+- [ ]  #map : Sinai Desert ? Sinai Peninsula ? 
 - [ ] Which turtle species can be seen in India ? Green/Hawksbill/Loggerhead/Olive-Ridley/ Leatherback ? 
-- [ ] | #reports : Annual Energy Efficiency Report ? International Enery Agency (IEA)
+- [ ]  #reports : Annual Energy Efficiency Report ? International Enery Agency (IEA)
 - [ ] What are the functions of IEA ? Who is its authority ? India became an associate member in 2017
 - [ ] 2020 has seen the slowest pace in progress on energy efficiency since 2010, investments in energy - efficient buildings are also expected to decrease by 9%
 - [ ] Check out information about all UNESCO Worl Heritage Centres in India & their significiances ? 
 - [ ] Tharu tribes are inhabitants of which states ? UP, UK, Bihar
 - [ ] What is the change observed in the beaches moving from north to south & east to west, also the changes in the wave intensity & period changes ? 
-- [ ] | #reports : Climate Change Performance Index (CCPI) ? Germanwatch - an environment think tank
+- [ ]  #reports : Climate Change Performance Index (CCPI) ? Germanwatch - an environment think tank
 - [ ] What are the list of reports published by UNCTAD ? 
 - [ ] What is Invest India ? What are its functions ? Who is its authority ? 
 - [ ] What are the functions & mandate of UNCTAD ? 
@@ -51,23 +51,23 @@
 - [ ] Where is SAARC HQ located ? 
 - [ ] What is VISVAS Yojana ? 
 - [ ] What is PM-WANI Scheme ? What are the changes it is going to bring to the network connections/connectivity interface  
-- [ ] | #reports : Urban Governance Index ? OR>MH>Kerala>MP>Chattisgarh & JH,Arunachal, Meghalaya, Manipur & Nagaland are worst performers
+- [ ]  #reports : Urban Governance Index ? OR>MH>Kerala>MP>Chattisgarh & JH,Arunachal, Meghalaya, Manipur & Nagaland are worst performers
 - [ ] List of 11 islands of Lakshwadeep ? 
 - [ ] What is Universal Service Obligation Fund ? It has statutory status under Indian Telegraph (Amendment) Act, 2003 
-- [ ] | #reports : Emissions Gap Report ? by UNEP 
+- [ ]  #reports : Emissions Gap Report ? by UNEP 
 - [ ] Fossil Fuels & Carbonates - CO2 emmissions form the highest contributors to the global GHG emissions 
 - [ ] What are the functions & mandate of UNEP ? Who is its authority ? 
 - [ ] What is UN Population Fund (UNFPA) ? What are its functions & mandate ? 
-- [ ] | #river : Son ? 
+- [ ]  #river : Son ? 
 - [ ] Amarkantank is the starting point of multiple rivers - Son, Narmada, Johila & it is also a confluence point of VIndya & Satpura ranges
-- [ ] | #river : Johila ? 
+- [ ]  #river : Johila ? 
 - [ ] In which regions are black, red & laterite soil found ?
-- [ ] | #national-parks : Bhagwan Mahavir National Park ? 
+- [ ]  #national-parks : Bhagwan Mahavir National Park ? 
 - [ ] What does UN Declaration of Human RIghts, 1948 say ?
 - [ ] What is Paris Principles for Protection of Human Rights ? 
 - [ ] What type of body is NHRC ? statutory or constitutional ? it is established under Protection of Human Rights Act, 1993 ?
 - [ ] What are the powers of NHRC ? What are the recent amends made to it ? 
-- [ ] | #data : World Malaria Report 2020 said, cases in India dropped from 20M in 2000 to 5.6M in 2019
+- [ ]  #data : World Malaria Report 2020 said, cases in India dropped from 20M in 2000 to 5.6M in 2019
 - [ ] What is Article 246 ? 
 - [ ] What are powers of Finance Commission in providing recommendations ? Is request of President necessary to provide suggestions ? 
 - [ ] What are excotic species ? do animals under Schedules of Wild Life Protection Act, 1972 come under ? 
@@ -75,9 +75,9 @@
 - [ ] Who is Chief Wilfdlife Warden ? What are his/her functions ? Who is his/her authority ? 
 - [ ] What is Asia PAcific Vaccine Access Facility (APVAX) ? 
 - [ ] What is ADB ? What are its functions & mandate & who are its member countries ? 
-- [ ] | #dictionary : elusive ?
-- [ ] | #data : India has reduced its emission by 21% over 2005 levels
-- [ ] | #map : Mauritiana ? 
+- [ ]  #dictionary : elusive ?
+- [ ]  #data : India has reduced its emission by 21% over 2005 levels
+- [ ]  #map : Mauritiana ? 
 - [ ] What are big four species conserved in Kaziranga Naitonal Park ? 
 - [ ] Who appoints the members of Delimitation Commission ? President, does he recieve any suggestions as per rule/law ? 
 - [ ] What is Bhakshali Manuscript ? 

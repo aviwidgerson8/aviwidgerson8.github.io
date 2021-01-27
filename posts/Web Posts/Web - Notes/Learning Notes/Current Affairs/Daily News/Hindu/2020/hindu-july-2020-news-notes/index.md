@@ -32,7 +32,7 @@
 - [ ] ITER(International Thermonuclear Experimental Reactor) participating countries ? Eu, China, India, Japan, South Korea, Russia, USA
 - [ ] Emergency Credit Line Gaurentee Scheme (ECLGS) ? given by both public & private sector banks gaurenteed by govt.
 - [ ] Total liabilities & Proportion of Public Debt 
-- [ ] | #river  - Burhi Dihing, Dhansiri, Jia Bharali, Kopili, Puthimari ?
+- [ ]  #river  - Burhi Dihing, Dhansiri, Jia Bharali, Kopili, Puthimari ?
 - [ ] Hog Deer ? IUCN Status ? endemic regions ?
 
 ## 2nd Jul 2020
