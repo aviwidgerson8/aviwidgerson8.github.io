@@ -9,7 +9,7 @@
 
 I'm **Avi Widgerson** (#pen-name). 
 
-![](/images/tenor-2.gif)
+![](/images/luffy.jpg)
 
 I intend to use this blog as an account of my progress & efficiency wrt planning in my preparation, in parallel, the blog would also be a comprehensive knowledge resource for the interested - especially on topics related to :
 
