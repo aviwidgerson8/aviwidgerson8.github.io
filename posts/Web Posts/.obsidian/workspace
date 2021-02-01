@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Planning/Pending Opinion & Magazines/Pending Opinion & Magazines - Temporary.md",
+            "file": "Diary/Planning Diary.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning/Pending Opinion & Magazines/Pending Opinion & Magazines - Temporary.md",
+                "file": "Diary/Planning Diary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Planning/Pending Opinion & Magazines/Pending Opinion & Magazines - Temporary.md",
     "Diary/Planning Diary.md",
-    "Diary/Learnings Diary.md",
-    "Diary/Personal Diary.md",
-    "Planning/Targets Timeline.md",
     "Planning/Progress/Temporary/Targets Timeline - 65 days.md",
-    "Answer Writing/IAS Baba Answer Writing Practice/2021/January/IAS Baba Answer Writing Practice.md",
-    "Meditations.md",
-    "Maintainance.md",
-    "Diary/Learning Diary.md"
+    "Planning/Pending Tasks/Pending Tasks - Overall.md",
+    "Planning/Pending Tasks/Pending Tasks - Temporary.md",
+    "Planning/Schedule/Current Schedule (General Days).md",
+    "Diary/Personal Diary.md",
+    "Diary/Learnings Diary.md",
+    "Planning/Progress/Overall/UPSC - General Studies.md",
+    "Planning/Pending Opinion & Magazines/Pending Opinion & Magazines - Temporary.md",
+    "Planning/Targets Timeline.md"
   ]
 }

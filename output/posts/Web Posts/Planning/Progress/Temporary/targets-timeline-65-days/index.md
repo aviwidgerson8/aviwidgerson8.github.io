@@ -75,7 +75,7 @@
 ### Economy
 - [ ] TN 11th Economy
 - [ ] 11th NCERT - Economics
-- [ ] 12th NCERT - Macroeconomics
+- [x] 12th NCERT - Macroeconomics
 - [ ] TN 12th Economy
 - [ ] Mrunal PDF 
 - [ ] Wikipedia Summary
@@ -105,6 +105,15 @@
 - [ ] India Year Book
 - [ ] Economic Survey
 - [ ] PRS Annual Policy Review
+- [ ] Union Budget
+### Magazines
+- [ ] Yojana
+- [ ] Kurukshetra
+- [ ] Economic & Political Weekly
+### Opinions
+- [ ] Hindu
+- [ ] Indian Express
+- [ ] Indian Express - Explained
 
 ---
 ## UPSC Mathematics
