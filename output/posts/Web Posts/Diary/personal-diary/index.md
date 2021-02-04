@@ -14,6 +14,11 @@
 ***
 <!-- TEASER_END -->
 
+# February'21
+---
+## 3rd February 2021
+- At every instant carefully asses the parameters & tune the self that would fulfill the demands of the objectives important  for the moment. I'm feeling afraid implies that I'm not prepared, so to remove the fear, I need to finish the things.
+
 # January'21
 ---
 ## 23rd January 2021

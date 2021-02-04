@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://aviwidgerson8.github.io/</loc>
-  <lastmod>2021-01-27T16:22:00Z</lastmod>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/2017/</loc>
@@ -55,19 +55,23 @@
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/2021/</loc>
-  <lastmod>2021-01-27T16:22:00Z</lastmod>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/2021/01/</loc>
   <lastmod>2021-01-27T16:22:00Z</lastmod>
  </url>
  <url>
+  <loc>https://aviwidgerson8.github.io/2021/02/</loc>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://aviwidgerson8.github.io/archive.html</loc>
-  <lastmod>2021-01-27T16:22:00Z</lastmod>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories.html</loc>
-  <lastmod>2021-01-27T16:22:00Z</lastmod>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/answer-writing/</loc>
@@ -122,6 +126,10 @@
   <lastmod>2021-01-27T16:22:00Z</lastmod>
  </url>
  <url>
+  <loc>https://aviwidgerson8.github.io/categories/kurukshetra/</loc>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://aviwidgerson8.github.io/categories/magazine/</loc>
   <lastmod>2021-01-27T16:22:00Z</lastmod>
  </url>
@@ -146,6 +154,14 @@
   <lastmod>2021-01-27T16:22:00Z</lastmod>
  </url>
  <url>
+  <loc>https://aviwidgerson8.github.io/categories/prs/</loc>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/categories/static/</loc>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://aviwidgerson8.github.io/categories/upsc/</loc>
   <lastmod>2021-01-27T16:22:00Z</lastmod>
  </url>
@@ -155,15 +171,19 @@
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/index-1.html</loc>
-  <lastmod>2021-01-27T16:22:00Z</lastmod>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/index-2.html</loc>
-  <lastmod>2021-01-27T16:22:00Z</lastmod>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/index-3.html</loc>
-  <lastmod>2021-01-27T16:22:00Z</lastmod>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/index-4.html</loc>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/pages/about/</loc>
@@ -202,6 +222,10 @@
   <lastmod>2021-01-27T16:22:00Z</lastmod>
  </url>
  <url>
+  <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Consolidations/Daily%20News%20Analysis/Drishti%20IAS/2021/drishti-ias-february-2021-news-notes/</loc>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Consolidations/Daily%20News%20Analysis/Drishti%20IAS/2021/drishti-ias-january-2021-news-notes/</loc>
   <lastmod>2021-01-27T16:22:00Z</lastmod>
  </url>
@@ -230,6 +254,10 @@
   <lastmod>2021-01-27T16:22:00Z</lastmod>
  </url>
  <url>
+  <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Consolidations/Daily%20News%20Analysis/Insights%20IAS/2021/insights-ias-february-2021-%20news-notes/</loc>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Consolidations/Daily%20News%20Analysis/Insights%20IAS/2021/insights-ias-january-2021-%20news-notes/</loc>
   <lastmod>2021-01-27T16:22:00Z</lastmod>
  </url>
@@ -246,12 +274,20 @@
   <lastmod>2021-01-27T16:22:00Z</lastmod>
  </url>
  <url>
+  <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Consolidations/Daily%20News%20Analysis/OnlyIAS/2021/only-ias-february-2021-news-notes/</loc>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Consolidations/Daily%20News%20Analysis/OnlyIAS/2021/only-ias-january-2021-news-notes/</loc>
   <lastmod>2021-01-27T16:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Consolidations/Editorials/Drishti%20IAS/2020/drishti-ias-november-2020-editorials-notes/</loc>
   <lastmod>2021-01-27T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Consolidations/Editorials/Drishti%20IAS/2021/drishti-ias-february-2021-editorials-notes/</loc>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Consolidations/Editorials/Drishti%20IAS/2021/drishti-ias-january-2021-editorials-notes/</loc>
@@ -266,8 +302,16 @@
   <lastmod>2021-01-27T16:22:00Z</lastmod>
  </url>
  <url>
+  <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Consolidations/Editorials/Insights%20IAS/2021/insights-ias-february-2021-editorials-notes/</loc>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Consolidations/Editorials/Insights%20IAS/2021/insights-ias-january-2021-editorials-notes/</loc>
   <lastmod>2021-01-27T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Daily%20News/Business%20Standard/2021/business-standard-february-2021-news-notes/</loc>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Daily%20News/Business%20Standard/2021/business-standard-january-2021-news-notes/</loc>
@@ -294,19 +338,55 @@
   <lastmod>2021-01-27T16:22:00Z</lastmod>
  </url>
  <url>
+  <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Daily%20News/Hindu/2021/hindu-february-2021-news-notes/</loc>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Daily%20News/Hindu/2021/hindu-january-2021-news-notes/</loc>
   <lastmod>2021-01-27T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Magazine/Kurukshetra/2021/kurukshetra-january-2021-policy-review-notes/</loc>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Magazine/PRS/Monthly%20Policy%20Review/prs-january-2020-policy-review-notes/</loc>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Magazine/PRS/Monthly%20Policy%20Review/prs-january-2021-policy-review-notes/</loc>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Magazine/Yojana/2021/yojana-february-2021-magazine-notes/</loc>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Magazine/Yojana/2021/yojana-january-2021-magazine-notes/</loc>
   <lastmod>2021-01-27T16:22:00Z</lastmod>
  </url>
  <url>
+  <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Opinion/2021/opinion-february-2021-notes/</loc>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Current%20Affairs/Opinion/2021/opinion-january-2021-notes/</loc>
   <lastmod>2021-01-27T16:22:00Z</lastmod>
  </url>
  <url>
+  <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Static/GS-3/Economy/12th-ncert-macroeconomics-notes/</loc>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Static/GS-3/Economy/12th-tn-macroeconomics-notes/</loc>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/posts/Web%20Posts/Web%20-%20Notes/Learning%20Notes/Static/GS-3/Economy/mrunal-notes/</loc>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://aviwidgerson8.github.io/tags.html</loc>
-  <lastmod>2021-01-27T16:22:00Z</lastmod>
+  <lastmod>2021-02-04T16:47:00Z</lastmod>
  </url>
 </urlset>

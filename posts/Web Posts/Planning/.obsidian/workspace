@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pending Tasks/Pending Tasks - Temporary.md",
-            "mode": "preview"
+            "file": "Targets Timeline.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pending Tasks/Pending Tasks - Temporary.md",
+                "file": "Targets Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Pending Tasks/Pending Tasks - Temporary.md",
     "Targets Timeline.md",
+    "Schedule/Current Schedule (General Days).md",
     "Progress/Overall/Economics.md",
     "Progress/Overall/Goodreads.md",
-    "Progress/Overall/Maths.md",
+    "Pending Tasks/Pending Tasks - Temporary.md",
+    "Pending Tasks/Pending Tasks - Overall.md",
+    "Pending Opinion & Magazines/Pending Opinion & Magazines - Overall.md",
+    "Pending Opinion & Magazines/Pending Opinion & Magazines - Temporary.md",
     "Progress/Overall/TCS.md",
-    "Progress/Overall/UPSC - Maths.md",
-    "Progress/Overall/UPSC - General Studies.md",
-    "Schedule/Current Schedule (General Days).md",
-    "Food & Health/Diet & Exercise Routine.md"
+    "Progress/Overall/UPSC - General Studies.md"
   ]
 }

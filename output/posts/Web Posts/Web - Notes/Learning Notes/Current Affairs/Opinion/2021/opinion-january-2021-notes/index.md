@@ -18,11 +18,23 @@
 - [ ] How did china transform with a massive growth b/w 2000-12, what was the contribution of low interest rates in this growth ? 
 - [ ] What does low cost of capital mean ?
 - [ ] How is cost of capital affecting the India's growth potential ? 
-- [ ]  #data: The total market cost of credit is 8.67% in India whereas it is much less in other countries
-- [ ]  #dictionary : nickel-and-diming ? 
-- [ ]  #dictionary : navel-gazing ? 
-- [ ]  #data : According to NABARD - All India Rural Financial Survey, 2016-17 : average monthly income of agri households in India is 8.9K rupees & situation of small & marginal farmers is more grim
+- [ ] #data: The total market cost of credit is 8.67% in India whereas it is much less in other countries
+- [ ] #dictionary : nickel-and-diming ? 
+- [ ] #dictionary : navel-gazing ? 
+- [ ] #data : According to NABARD - All India Rural Financial Survey, 2016-17 : average monthly income of agri households in India is 8.9K rupees & situation of small & marginal farmers is more grim
 - [ ] What are the safety net practices in US & China to farmers compared to India ? What more should India do to support its agriculture ?
 - [ ] Why is the agricultural productivity low in India compared to Brazil, China, US etc. ?
 - [ ] What is need of continuing capital punishment in India ? Law commission in its 2015 report proposed to abolish it 
+
+## 23rd January 2021
+- [ ] #data : Titan Industries is a torch-bearer for employment of people with disabilities. In 2005, 4% of its employees are recorded to have some disability
+
+## 24th January 2021
+- [ ] What is Bhavantar Scheme ? How is it in line with MSP problem as an alternative solution ? How much positive impact did the MP realize ? 
+
+## 30th January 2021
+- [ ] What is drip irrigation ? What are its advantages to traditional one ?
+- [ ] What is Global Bond Index inclusion ? 
+- [ ] #data : The foreign ownership of centre's debt is very low (1.6%) compared to China (9.5%) & Indonesia (30%)
+- [ ] What was Jharkhand Scholarship Scam ? 
 - [ ] 
