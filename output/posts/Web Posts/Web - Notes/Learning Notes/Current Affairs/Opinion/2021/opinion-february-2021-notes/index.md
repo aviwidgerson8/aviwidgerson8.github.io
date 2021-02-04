@@ -12,9 +12,9 @@
 
 ## 1st February 2021
 - [ ] What are the different entities of Non-Personal Data Framework ? (Ex: Data Trustees etc.)
-- [ ] #dictionary : adage ?
-- [ ] #dictionary : affront ? 
-- [ ] #data : CCI in its market study has rightly recognized that - data privacy can take the form of "non-price competition & abuse of dominance can lower privacy protection"
-- [ ] #data : Only once in past 20 yrs has India seen two consecutive years of normal monsoon.
-- [ ] #dictionary : encore ? 
+- [ ]  #dictionary : adage ?
+- [ ]  #dictionary : affront ? 
+- [ ]  #data : CCI in its market study has rightly recognized that - data privacy can take the form of "non-price competition & abuse of dominance can lower privacy protection"
+- [ ]  #data : Only once in past 20 yrs has India seen two consecutive years of normal monsoon.
+- [ ]  #dictionary : encore ? 
 - [ ] 
