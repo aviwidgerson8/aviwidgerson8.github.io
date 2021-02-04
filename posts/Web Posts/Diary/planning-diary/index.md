@@ -17,7 +17,58 @@
 
 # February'21
 ---
-# 1st February 2021
+## 5th February 2021
+### Work Planned
+#### Syllabus
+- [ ] 12th TN - Economics
+- [ ] 11th NCERT - Understanding Society
+
+#### Insights & Drishti IAS
+- [ ] Insights IAS - News Analysis
+- [ ] Drishti IAS - News Analysis
+- [ ] Insights IAS - Editorials
+- [ ] Drishti IAS - Editorials
+- [ ] Insights IAS - Quiz : Static
+- [ ] Insights IAS - Quiz : Current Affairs
+- [ ] Insights IAS - Quiz : RTM
+
+#### Newspapers
+- [ ] Hindu News
+- [ ] Hindu Opinion
+- [ ] Business Standard News
+- [ ] Business Standard Opinion
+- [ ] PIB
+
+#### Opinion
+- [ ] IE Opinion
+- [ ] IE Explained
+- [ ] Tribune Opinion
+- [ ] Financial Express Opinion
+- [ ] Hindustan Times Opinion
+- [ ] Business Line Opinion
+
+#### Pending Tasks (Temporary)
+- [ ] 1st - 4th Feb'21 - Hindu News
+
+#### Pending Tasks/ Magazines (Overall)
+- [ ] PRS Dec'20 - Monthly Policy Review
+- [ ] Insights IAS Sept'20 - News Analysis
+
+#### Answer Writing
+- [ ] Insights IAS - Daily Answer Writing
+- [ ] IAS Baba - Daily Answer Writing
+
+#### Goodreads
+- [ ] Will To Power - Nietszche
+- [ ] A Practical English Grammar - A.J. Thomson & A.V Martinet
+
+---
+## 2nd - 4th February 2021
+### Work Planned & Done
+- None
+
+---
+## 1st February 2021
 ### Work Planned
 #### Syllabus
 - [ ] 12th TN - Economics
@@ -65,11 +116,11 @@
 
 # January'21
 ---
-# 30th - 31st January 2021
+## 30th - 31st January 2021
 - None
 
 ---
-# 29th January 2021
+## 29th January 2021
 ### Work Planned
 #### Syllabus
 - [ ] 12th TN - Economics

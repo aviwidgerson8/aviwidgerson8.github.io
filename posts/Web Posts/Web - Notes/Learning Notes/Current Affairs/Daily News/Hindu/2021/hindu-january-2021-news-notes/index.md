@@ -10,13 +10,13 @@
 <!-- TEASER_END -->
 
 ## 1st January 2021
-- [ ]  #dictionary : perusing ? 
-- [ ]  #data : manufacturing units of biopesticides & biofertilizers should be encouraged at the village level
+- [ ] #dictionary : perusing ? 
+- [ ] #data : manufacturing units of biopesticides & biofertilizers should be encouraged at the village level
 - [ ] What is the proportion of core sectors in IIP ? Who is the authority of IIP ? 
 - [ ]  #mains : What is the current Skill Development eco-system in India ? What are the programs run by govt. ? How effective have they been ? What are the associated bodies ? 
-- [ ]  #mains : What are the aspects that govt. should keep in mind before starting the vaccination program ? What can we learn from our past experiences ? How much helpful can it be to the current one ? 
+- [ ] #mains : What are the aspects that govt. should keep in mind before starting the vaccination program ? What can we learn from our past experiences ? How much helpful can it be to the current one ? 
 - [ ] What is Comprehensive Convention on International Terrorism(CCIT) proposed by India ? 
-- [ ]  #dictionary : dossier ? 
+- [ ] #dictionary : dossier ? 
 - [ ] What is Intergovernmental Negotiation Process under UNGA ? What is extent of power UNSC holds in restraining any reforms to UNSC ?
 - [ ]  MP > KA have the highest number of leapords in India
 - [ ]  What are Inam lands ? 
@@ -45,16 +45,16 @@
 - [ ] What is the extent to which private players can be involved in Defence ? What is the share of Defence products in GDP - export & import ?
 - [ ] What is Global Housing Technology Challenge-India Initiative ? What is the Ligth House Projects Program ? 
 - [ ] What is Bhima-Koregaon Battle ? 
-- [ ]  #river : Brahmavar ? Hebri ? Seetha ? 
-- [ ]  #map : Agartala ? 
+- [ ] #river : Brahmavar ? Hebri ? Seetha ? 
+- [ ] #map : Agartala ? 
 - [ ] What are the issues addressed by RERA Act ? What was the law before it ? 
 - [ ] What is the Cenral Rental Housing Projet concieved by the govt. ? What is its relation with PMAY - Urban ? 
 - [ ] What is the agreement which allows/demands exchange of information on nuclear installation & others b/w India & Pakistan ? 
 - [ ] What are the 3 Anglo-Maratha Wars ? 
-- [ ]  #dictionary : obelisk ? 
+- [ ] #dictionary : obelisk ? 
 - [ ] What is Elgaar Parishad clash ? Why were intellectuals arrested ? 
-- [ ]  #traditions : Lohiri ? 
-- [ ]  #dictionary : alleviate ?
+- [ ] #traditions : Lohiri ? 
+- [ ] #dictionary : alleviate ?
 - [ ] What measures should be taken inorder to overcome the vaccine hesistancy of public ?
 - [ ] What are the powers of President in relation with Congress in USA & What is the case in India on that regard ?
 - [ ] What are the functions of Insolvency & Bankruptcy Board of India (IBBI) ? Who is its authority ? 
@@ -67,60 +67,60 @@
 - [ ] What are minimum requireents of a party to be recognized by EC ? 
 - [ ] What are differences in the mandates 7 functioning of DCGI & CDSCO ? 
 - [ ] What is community farming ? What are its advantages & disadvantages ?
-- [ ]  #dictionary : cranny ?
+- [ ] #dictionary : cranny ?
 - [ ] What is Special Frontier Force ? What is its mandate ?
-- [ ]  #map : Dibang Valley ?
-- [ ]  #art-forms : Sambalpuri & Ikat textiles ? 
+- [ ] #map : Dibang Valley ?
+- [ ] #art-forms : Sambalpuri & Ikat textiles ? 
 - [ ] What is culturing of microbes ?
-- [ ]  #ramsar-sites : Deepor Beel ? 
-- [ ]  #traditions : Bhogali bihu ? 
+- [ ] #ramsar-sites : Deepor Beel ? 
+- [ ] #traditions : Bhogali bihu ? 
 - [ ] Which statute protects ramsar-sites in India ? 
 - [ ] What is convention on wetlands, 1971 ? 
-- [ ]  #map : Caspian Sea ? 
-- [ ]  #data : Deepor Beel, ramsar-site has decreased by 35% since 1991 due to losing connectivity with small rivers & city's expansion
+- [ ] #map : Caspian Sea ? 
+- [ ] #data : Deepor Beel, ramsar-site has decreased by 35% since 1991 due to losing connectivity with small rivers & city's expansion
 - [ ] What is City Gas Distribution System ? 
 - [ ] What has been the past experience of India in vaccination ? 
 - [ ] What is the latest Draft Model Standing Orders by Min. of Labour & Employment ? 
 - [ ] What is the necessity of Capital Punishment in India ? How can t be defended ? 
 - [ ] What is International Covenant on Civil & Political Rights ? 
-- [ ]  #map : Kazhakhstan ? 
+- [ ] #map : Kazhakhstan ? 
 - [ ] What are the functions of IAEA ? Who is its authority ? 
 - [ ] What is 2015 Vienna Accord ? 
-- [ ]  #data : 1/5 of world oil output flows through the Strait of Hormuz pass 
-- [ ]  #dictionary : bristle ? 
+- [ ] #data : 1/5 of world oil output flows through the Strait of Hormuz pass 
+- [ ] #dictionary : bristle ? 
 - [ ] What is recent Defence Bill approved by senate over-riding president's veto ? What is the power balance between congress & president in the case of law-making ? 
-- [ ]  #data : Wheat & Mustard are major Rabi crops 
+- [ ] #data : Wheat & Mustard are major Rabi crops 
 - [ ] What is the purpose of Agriculture Infra Fund ? 
 - [ ] What is the utility of GST e-invoice ? 
 - [ ] What are memory T Cells ? 
 - [ ] What is C40 cities report ? 
-- [ ]  #data : AC40 cities report, 2018 says that by 2050, over 570 low-lying coastal cities will face projected sea level rise - 0.5m, putting 800M lives at risk from the impacts of rising sea & storm surges
+- [ ] #data : AC40 cities report, 2018 says that by 2050, over 570 low-lying coastal cities will face projected sea level rise - 0.5m, putting 800M lives at risk from the impacts of rising sea & storm surges
 - [ ] What was India's twin balance sheet problem, stated by then CEA Arvind Subramanian ? 
-- [ ]  #dictionary : beset ? 
-- [ ]  #dictionary : upended ? 
+- [ ] #dictionary : beset ? 
+- [ ] #dictionary : upended ? 
 - [ ] What is Financial Stability Report released by RBI ? What is its significance ? 
 - [ ] What is India's Expanded Program on Immunization, 1978 ? 
-- [ ]  #data : roughly 9M immunisation sessions are conducted in India annually as per UNICEF, only about 60% of eligible children are fully immunised.
-- [ ]  #dictionary : unequivocal ? 
-- [ ]  #map : Brussels ? 
+- [ ] #data : roughly 9M immunisation sessions are conducted in India annually as per UNICEF, only about 60% of eligible children are fully immunised.
+- [ ] #dictionary : unequivocal ? 
+- [ ] #map : Brussels ? 
 
 ## 4th January 2021
 - [ ] What is Kudimaramathu Scheme ? 
 - [ ] What is a virion vaccine ? 
-- [ ]  #national-parks : Bandipur National Park ? 
+- [ ] #national-parks : Bandipur National Park ? 
 - [ ] WHO called for global elimination of transfats by 2023, FSSAI has slashed the permissible limits of trans fatty acids in oils & fats to 3% for 2021 & 2% for 2022 from current 5% limit
 - [ ] What was the SC directive given in 2018, directing to limit the period of stay granted by court to 6 months ? 
-- [ ]  #map : Minsk ? 
-- [ ]  #data : people in bilara block of Jodhpur district have started a campaign to fine the sellers & buyers of illicit drugs to fight the addiction, to crub the increasing crim rate
+- [ ] #map : Minsk ? 
+- [ ] #data : people in bilara block of Jodhpur district have started a campaign to fine the sellers & buyers of illicit drugs to fight the addiction, to crub the increasing crim rate
 
 ## 5th January 2021
 - [ ] By what power can SC stay a law of govt. ? 
-- [ ]  #national-parks : Mudumalai Tiger Reserve ? it is home for which endangered species ? 
-- [ ]  #dictionary : fortnight ? 
-- [ ]  #traditions : Kambala ? 
-- [ ]  #dictionary : misgivings ?
-- [ ]  #dictionary : execrable ? 
-- [ ]  #dictionary : macabre ? 
+- [ ] #national-parks : Mudumalai Tiger Reserve ? it is home for which endangered species ? 
+- [ ] #dictionary : fortnight ? 
+- [ ] #traditions : Kambala ? 
+- [ ] #dictionary : misgivings ?
+- [ ] #dictionary : execrable ? 
+- [ ] #dictionary : macabre ? 
 - [ ] Which countries are current elected members UNSC ? India, Ireland Mexico, Kenya & Norway - What are the conditions & procedures of selection ? 
 - [ ] What is provincial council system part of India-Sri Lanks Accord, 1987 ? 
 - [ ] What is the legality of 10 Goa Congress MLAs defection to BJP case, also including the delay in speaker's call ?
@@ -198,11 +198,11 @@
 - [ ] What protection does CM have against civil/criminal cases/convictions during his tenure ? 
 - [ ] What is a house motion petition ? 
 - [ ] What are the reasons behind recent hospital fire-accidents, How can such incidents be avoided in future ? 
-- [ ]  #dictionary : proscribe ? 
+- [ ] #dictionary : proscribe ? 
 - [ ] What is union's Sand-Mining Policy ? 
-- [ ]  #dictionary : disparagement ? 
-- [ ]  #dictionary : alluding ? 
-- [ ]  #data : Public Procurement accounts for an average 15% of GDP globally & in India it is 30% with central govt. accounting for major chunk
+- [ ] #dictionary : disparagement ? 
+- [ ] #dictionary : alluding ? 
+- [ ] #data : Public Procurement accounts for an average 15% of GDP globally & in India it is 30% with central govt. accounting for major chunk
 - [ ] What is NM-QTA mission ? 
 - [ ] What is the current state of Quantum technology development in India wrt to the world ?
 
@@ -210,7 +210,7 @@
 - [ ] What is the significance of Dharani Portal ? 
 - [ ] What are palaeo-proterozoic carbonaceous phyllite rocks ?
 - [ ] Vanadium deposits of China > Russia > South Africa
-- [ ]  #dictionary : prune ? 
+- [ ] #dictionary : prune ? 
 - [ ] What is the significance of Chandanakkudam celebrations ?
 - [ ] What can be expected from to be drafted National Employment Policy ? 
 - [ ] What was the tuff b/w Qatar & Saudi Arbaia ? 
@@ -219,27 +219,27 @@
 ## 12th January 2021
 - [ ] What is the significance of Kochi-Koottanad-Mangaluru LNG pipeline ? 
 - [ ] What is Heritage Conservation Committee ? 
-- [ ]  #national-parks : Vedanthangal Bird Sanctuary ?
+- [ ] #national-parks : Vedanthangal Bird Sanctuary ?
 - [ ] What is the legality of writ appeal filed by SEC against the court's order on stay GP elections ?
 - [ ] Ar large farmers included in PM-KISAN Scheme ? from when ? 
-- [ ]  #map : Dzukou Valley ?
+- [ ] #map : Dzukou Valley ?
 - [ ] What is Article - 51(A) ?
-- [ ]  #dictionary : clandestine ? 
+- [ ] #dictionary : clandestine ? 
 - [ ] What is RBI's Financial Stability Report ? 
-- [ ]  #dictionary : apprise ? 
+- [ ] #dictionary : apprise ? 
 - [ ] What +ve/-ve changes did the single window clearing system in commercial coal mining has brought ? 
 - [ ] Is mining state/union/concurrent subject ? 
-- [ ]  #dictionary : ab-initio ? 
+- [ ] #dictionary : ab-initio ? 
 
 ## 13th January 2021
-- [ ]  #traditions : Magh Bihu ? 
+- [ ] #traditions : Magh Bihu ? 
 - [ ] What are the rules against detention by NIA under UAPA ? What are the special power of NIA under UAPA ? 
-- [ ]  #dictionary : contraband ? 
-- [ ]  #dictionary : averment ? 
-- [ ]  #dictionary : delinquency ?
+- [ ] #dictionary : contraband ? 
+- [ ] #dictionary : averment ? 
+- [ ] #dictionary : delinquency ?
 - [ ] What is the airbubble agreement b/w nations for aircraft movement ? 
-- [ ]  #data : 22% of creative sector is forecast to lose more than 75% of annual income
-- [ ]  #dictionary : abridge ? 
+- [ ] #data : 22% of creative sector is forecast to lose more than 75% of annual income
+- [ ] #dictionary : abridge ? 
 - [ ] What are the requirement to be declared as leader of opposition ? 
 - [ ] What is headline inflation ? Wht is core inflation ? 
 - [ ] What are the functions of Securities Apellate Tribunal ? Who is its authority ? What is its mandate ? 
@@ -249,7 +249,7 @@
 ## 21st January 2021
 - [ ] What is India Innovation Report ? Which states are in the top & which in the bottom ? Which UTs are in the top & which in the bottom ? 
 - [ ] What is Operation Seabird ? 
-- [ ]  #map : Karwar ? 
+- [ ] #map : Karwar ? 
 - [ ] What is the current state of Defence PSUs, How effective have they been ? What changes are to be made to make it more impactful ? 
 - [ ] What is the legality if Aadhar law being passed as Money Bill with the approval of Speaker ? Can it be challenged in courts in any accounts ? What was the 2018 judgement in this regards ?
 - [ ] What is Article 110 (1) ?
@@ -260,3 +260,74 @@
 - [ ]  Bangladesh is one of the major trading partner of cotton with India
 - [ ]  #dictionary : froth ? 
 - [ ]  What are SOFR & USD-LIBOR ? 
+
+## 22nd January 2021
+- [ ] What is Article - 161 ? 
+- [ ] What is right to remain silent in a case ? Which statute gaurentees it ? 
+- [ ] What was the Land Acquisition Bill which Modi govt. in it's first stint had tried to pass ?
+- [ ]  #dictionary : depose ? 
+- [ ]  #dictionary : reprieve ? 
+- [ ]  Does the convict have an option to choose b/w President/Governor for pardon ? (the exercise of executive clemency was vested with President/Governor)
+- [ ]  Is there a privilege to compel a third person (non-legislative / government member) to appear in-front of a committee ?
+- [ ]  #river : Tsari Chu ? 
+- [ ]  What is the relation b/w RBI & pensions ? Does RBI hold any authority over IRDAI ? 
+
+## 23rd January 2021
+- [ ]  How was the data collected from the users without their authorization y Cambridge Analytica ? How caa one gaurentee that this won't repeat again ? 
+- [ ]  What is Article - 161 ?
+- [ ]  What are Operation Trident & Operation Python ? What has been the role of Navy in 1971 war opearations? 
+- [ ]  What are the proposed changes by RBI to NBFCs regualtory framework ?
+- [ ]  What is mixing layer height ? 
+
+## 24th January 2021
+- [ ]  #map : Yemen ? 
+- [ ]  #dictionary : privy ?
+- [ ]  What is significance of Punjab's fiscal information platform ? 
+- [ ]  What is Defence Acquisitoin Council ? What is its purpose ? Who is its authority ? 
+- [ ]  What is Sect-69A of IT Act ? What is its mandate & what authority it holds ? 
+- [ ]  What is Desert Knight exercise ? 
+- [ ]  What is National Security Council ? Who is its authority ? 
+- [ ]  #data : In Jan'20 India achieved a record 90% coverage of all vaccines to be given in infancy 
+
+##  25th January 2021
+- [ ]  Sunderbans account for 60% of mangrove forests in the country
+- [ ]  Mudflats exposed in low tides, rich in microorganism deposited during tidal activity are ideal feeding for migratory birds & also wetlands
+- [ ]  What has been the role of nuclear technology in non-defence areas ? India has been using radioisotopes for food, agri, industry, medicine, water resources & environment
+
+## 26th January 2021
+- [ ] #dictionary : deplorable ? 
+- [ ] #dictionary : ordeal ? 
+- [ ] What was Opearation Snow Leapord ? 
+- [ ] What is Article - 72 ?
+- [ ]  #dictionary : recourse ?
+- [ ]  How effective have the District Nutritional Committees been ? Who is their authority ? 
+- [ ]  What are the duties of Law Commission ? How effective have its recommendations / guidelines been in framing laws ? Who is its authority ? What is its connection with MHA ? 
+- [ ]  How is the centre dispensing the GST compensation to states ? From where is it making its borrowings ? 
+
+## 27th January 2021
+- [ ] #dictionary : zeitgeist ? 
+- [ ] What message can be taken from the suspension orders of internet under - Temporary Suspension of Telecom Services (Public Emergency or Public Safety Rules, 2017) of Indian Telegraph Act, 1885 ? these rules provide the MHA secretary to pass directions to suspend telecom services, including internet due to public emergency or public safety
+- [ ] What is the issue of NSCN in Nagaland again & what improvement has been observed after the appointment of an interlocutor ? 
+- [ ] What are the Intergovernmental Negotitiations (IGN) of UNSC ? 
+- [ ] What is the issue with retrospective taxation ? Why is every MNC winning over India in tribunals & why is govt. after those companies, does there exists any correlation ? 
+- [ ] What are the Bilateral Investment Treaties ? What is UNCITRAL ? What is New York Convention to which India is a signatory ? 
+- [ ] What is the purpose of Infrastructure Investment Trusts (InvITs) ? 
+- [ ] #data : Six miners died after a crane collapsed into the pit in East Jaintia Hills in Meghalaya, as part of illegal mining, previously 15 were drowned in Dec'18
+- [ ] What were the orders of NGT on rat-hole mining in 2014 ? is it banned ? 
+- [ ] How effective have the District Child Welfare Committees been in thwarting the issues of children ? 
+- [ ] can no-confidence motion be moved against a single legislative ? 
+
+## 28th January 2021
+- [ ] Does SEC have the authority to censure other govt. officers for not doing their duty ?
+- [ ] What is Immunisation Agenda 2030 by WHO ?
+- [ ]  Which is the largest protected forest area in India ? Nilgiri Biosphere
+- [ ]  #map : Sigur Plateau ? 
+- [ ]  #map : Nilgiri Hills? Moyar River Valley ? 
+- [ ]  What is the time constraint for the comments to be given by govt. on recommendations made by SC collegium ? 
+- [ ]  Can a court proceed under Prevention of Corruption Act, against public servant without prior sanction on the ground  that he had allegedly demitted office which he was alleged to have abused (yedyurappa's question to court)?
+- [ ]  What are prior sanctions required in order to prosecute a public servant ? 
+- [ ]  What is DNA technology Bill ? What is its significance ?
+- [ ]  #mains : How much will you agree with the statement that Indian Criminal Justice system has disproportionately incarcerated people from vulnerable sections ? 
+- [ ]  What is START treaty b/w Russia & USA ? What the list of past treaties between Russia & USA in regards with deterrence ? 
+
+
