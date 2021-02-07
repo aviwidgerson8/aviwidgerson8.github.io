@@ -17,6 +17,49 @@
 
 # February'21
 ---
+## 8th February 2021
+### Work Planned
+#### General Studies - Primary
+- [ ] 12th TN - MacroEconomics
+- [ ] 11th NCERT - Understanding Society
+#### Consolidations
+- [ ] Insights IAS News Analysis
+- [ ] Insights IAS Editorials
+- [ ] Drishti IAS News Analysis
+- [ ] Drishti IAS Editorials
+- [ ] Only IAS News Analysis
+- [ ] Only IAS Editorials
+#### Newspapers
+- [ ] Hindu
+- [ ] Business Standard (Optional)
+- [ ] Down to Earth (Optional)
+#### Opinions & Explained
+- [ ] Hindu Opinion
+- [ ] Indian Express Opinion
+- [ ] Business Standard Opinion 
+- [ ] Hindu Explained
+- [ ] Indian Express Explained
+- [ ] FE, BL, Tribune, HT, Livemint - Opinion
+#### Magazines
+- [ ] PRS - Articles / Blogs / Committee Reports / Policy Reports
+- [ ] PRS - Monthly Policy Review
+- [ ] Economic & Political Weekly
+- [ ] Down to Earth : In-Depth / Blogs
+- [ ] Yojana - Magazine
+- [ ] Kurukshetra - Magazine
+#### Pending Works
+- [ ] 6th & 7th - Current Affairs
+#### Answer Writing
+- [ ] Insights IAS : Secure - 2021
+- [ ] IAS Baba TLP - 2021 : Phase - 1
+#### Goodreads (English)
+- [ ] A Practical English Grammar - A.J. Thomson & A.V Martinet
+
+---
+## 6th - 7th February 2021
+### Work Planned & Done 
+- None
+
 ## 5th February 2021
 ### Work Planned
 #### Syllabus
@@ -33,7 +76,7 @@
 - [ ] Insights IAS - Quiz : RTM
 
 #### Newspapers
-- [ ] Hindu News
+- [x] Hindu News
 - [ ] Hindu Opinion
 - [ ] Business Standard News
 - [ ] Business Standard Opinion
@@ -48,7 +91,7 @@
 - [ ] Business Line Opinion
 
 #### Pending Tasks (Temporary)
-- [ ] 1st - 4th Feb'21 - Hindu News
+- [x] 1st - 4th Feb'21 - Hindu News
 
 #### Pending Tasks/ Magazines (Overall)
 - [ ] PRS Dec'20 - Monthly Policy Review

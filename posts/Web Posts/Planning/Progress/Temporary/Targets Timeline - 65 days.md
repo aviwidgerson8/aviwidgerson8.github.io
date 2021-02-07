@@ -189,10 +189,12 @@
 
 ---
 ## English
+### Grammar
 - [ ] A Practical English Grammar - A. J. Thomson
-- [ ] Basic English Usage - Michael Swan
-- [ ] Grammar Girls : quick & Direty Tops for Better Writing - Mignon Fogarty
 - [ ] The Only Grammar Book you'll ever need - Susan Thurman
+- [ ] Grammar Girls : quick & Direty Tops for Better Writing - Mignon Fogarty
+- [ ] Basic English Usage - Michael Swan
+### Writing
 - [ ] On Writing Well - William Zinsser
 - [ ] Bird by Bird - Anne Lamott
 - [ ] The Elements of Style - W. Strunk & E.B. White

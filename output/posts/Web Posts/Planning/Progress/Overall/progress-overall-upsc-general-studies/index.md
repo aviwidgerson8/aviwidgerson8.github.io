@@ -13,9 +13,7 @@
 ***
 <!-- TEASER_END -->
 
-### Prelims Syllabus (General)
-- Current Events of National & International Importance
-
+# Static
 ---
 ## Art & Culture
 ### Prelims Syllabus 
@@ -465,15 +463,60 @@
 - [ ] Ethics - Subba Rao
 
 ---
+# Current Affairs
+## Consolidations
+- [ ] Insights IAS News Analysis - Sept'20 - Sept'21
+- [ ] Drishti IAS News Analysis - Sept'20 - Sept'21
+- [ ] Only IAS News Analysis - Sept'20 - Sept'21
+- [ ] Insights IAS Editorials - Sept'20 - Sept'21
+- [ ] Drishti IAS Editorials - Sept'20 - Sept'21
+- [ ] Only IAS Editorials - Sept'20 - Sept'21
+## Newspapers
+- [ ] Hindu News - Sept'20 - Sept'21
+- [ ] Business Standard - Sept'20 - Sept'21 (Optional)
+- [ ] Down to Earth - Sept'20 - Sept'21 (Optional)
+## Opinions
+- [ ] Hindu & Indian Express : Opinion - Sept'20 - Sept'21
+- [ ] Hindu & Indian Express : Explained - Sept'20 - Sept'21
+- [ ] BS, Tribune, FE, BL, Hindustan Times, Livemint
+## PRS
+- [ ] PRS Monthly Policy Review - Sept'20 - Sept'21
+- [ ] PRS - Articles
+- [ ] PRS - Blogs
+- [ ] PRS - Committee Reports
+- [ ] PRS - Bills & Acts
+- [ ] PRS - Union Budget Analysis
+- [ ] PRS - Economic Survey
+- [ ] PRS Annual Policy Review : 20-21
+## Magazines
+- [ ] Yojana Magazines - Sept'20 - Sept'21
+- [ ] Kurukshetra Magazines - Sept'20 - Sept'21
+- [ ] Science Reporter - Sept'21 - Sept'21
+- [ ] Economic & Political Weekly Magazines - Sept'20 - Sept'21
+- [ ] Down to Earth Magazine - Sept'20 - Sept'21
 ## Govt. Reports
-- [ ] India Year Book
 - [ ] Economic Survey
 - [ ] Minister Year End Reviews 
-- [ ] PRS Annual Policy Review
+- [ ] PIB Magazines - Jan'21 - Sept'21
+- [ ] India Year Book
 
 ---
-## Toppers Notes
+# Answer Writing
+- [ ] Insights IAS - Secure 2021
+- [ ] IAS Baba - Daily Answer Writing 2021
+- [ ] Civils Daily - Daily Answer Writing
 
+---
+# Practice & Tests
+- [ ] Previous Year Prelims Question Papers : 2013 - 2020
+- [ ] Vision IAS Prelims Test Series - 2021
+- [ ] Insights IAS Prelims Test Series - 2021
+- [ ] Previous Year Mains Question Papers : 2013 - 2020
+- [ ] Vision IAS Mains Test Series - 2020
+- [ ] Vision IAS Mains Test Series - 2021
+- [ ] Insights IAS Mains Test Series - 2021
+
+## Toppers Notes
 ---
 ## Essay
 ### Mains
