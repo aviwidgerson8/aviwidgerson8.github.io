@@ -21,12 +21,99 @@
 
 ## 1st February 2021
 - [ ] What is Tarapur Martyr Day ? 
-- [ ]  #data : Garbage to Power plant in bowenpally, 500 units of power is generated/day from vegetable & fruit waste & 30Kg of green manure, this enables to light up the market
+- [ ] #data : Garbage to Power plant in bowenpally, 500 units of power is generated/day from vegetable & fruit waste & 30Kg of green manure, this enables to light up the market
 - [ ] What is Biomethanation Tech. based Anaerobic Gas Lift Reactor ? 
 - [ ] What is Official Language Act, 1963 ? is 3 language formula applicable to central govt . offices as per law/rules ? 
 - [ ] What are Articles - 343 to 351, related to official language ? 
 - [ ] What is Medical Termination of Pregnancy (MTP) Amendment Bill, 2020 ? What does the bill recommend regarding number of weeks
-- [ ]  #map : Vembanad Lake ? 
+- [ ] #map : Vembanad Lake ? 
 - [ ] What are the functions of Office of Registrar General ? Who is its authority ? 
-- [ ]  #national-parks : Onge Tribal Reserve ? 
-- [ ]  #map : Little Andaman ?
+- [ ] #national-parks : Onge Tribal Reserve ? 
+- [ ] #map : Little Andaman ?
+
+## 2nd February 2021
+- [ ] What are the MetroLite & MetroNeo services ? 
+- [ ] Can the change in FRBM Act bill be pushed along with the Finance Bill (Budget) or should the bill be produced seperately ?
+- [ ] Western Dedicated Freight Corridor - ? , Eastern Dedicated Freight Corridor - KGP to Vijayawada, East-West Corridor from Bhusaval to KGP, North-South Corridor - Itarsi to Vijaywada
+- [ ] Currently which rail gaue is in majority ? What are different types of rail gauges & their differences ?
+- [ ] #dictionary : reneging ? 
+- [ ] What is India-Myanmar-Thailand tri-lateral highway ? What is Kaladan multi-modal transport network ? What is SEZ plan at Sittwe deep-water port ? 
+- [ ] How many deep-water ports exists in India ? 
+- [ ] #dictionary : clamour ?
+- [ ] What are the advantages of Single Security Market Code ? How can it aid the ease of doing business ? 
+- [ ] Are custom duties shared with states ? 
+- [ ] Can govt. take loan from National Small Savings Fund ? What is the authority of govt. in borrowing money form such resources ? 
+- [ ] What is Contingency fund of India ? What is the reason behind the proposal to augment the fund from 500Cr to 30K Cr ?
+- [ ] What is PM AASHA scheme ? 
+- [ ] #map : Petuaghat ?
+- [ ] What is the significance of each of these schemes ? Saksham Anganwadi, POSHAN 2.0, Mission Shakti, Mission Vatsalya ? 
+- [ ] What is the siginificance of PM Matru Vandana Yojana (PMMVY) ? What is Samarthya ? 
+- [ ] #data : The budget allocaiton for Poshan Abhiyan was slashed by 27% for the coming year 
+- [ ] What is the mandate of Jal Jeevan Mission ? 
+- [ ] What is Bioremediation ? 
+- [ ] What are the key structural changes made in corporate management ?
+- [ ] What is Hongkong International Convention related to ? Recycling of Ships 
+- [ ] #data : India's share in current ship recycling business is 30% around the world
+- [ ] What are the current strategic sectors ? Atomic energy, Space & Defence, Transport & Telecomm., Power, Petroleum, Coal & other minerals, Banking, insurance & Financial Services 
+- [ ] What is significance of allowing FPIs to debt finance REITs & InvITs ? 
+- [ ] What was UDAY, 2015 scheme ? 
+- [ ] What are sovereign wealth funds ? what is its signifiance to the economy ? 
+- [ ] What is the siginificance of Public Account of India ? 
+- [ ] What is the Swaminathan Committees formula of MSP ? What is its difference with the present one ? 
+- [ ] What could be the possible impact on R&D with National Research Foundation?
+- [ ] What is tax buoyancy ? 
+
+## 3rd February 2021
+- [ ] How is Singapore International Arbitration Centre's judgement enforcable in India under Sect-17(2) of Arbitration & Conciliation Act 
+- [ ] What is the case of Amzon-FRL-Reliance ?
+- [ ] #data : A yield increase of 2.4%/year are required to meet the demand without putting more land under cultivation, annual production of cereals would need to go up by 50% to provide for 2050 population demand
+- [ ] Information technology & Law come under which list of 7th schedule ?
+- [ ] What is AMRUT scheme ? 
+- [ ] In JJM, 20% of water demand is expected to be met with reused water, Which ministry is the authority of JJM ? is it MoHUA or MoW&S ? 
+- [ ] #data : 340 sewers have died while cleaning sewers & septic tanks in past 5 yrs. UP>TN>Delhi.
+- [ ] What is the law prohibiting manual scavenging ? Prohibition of Employement as Manual Scavengers & their Rehabiliation Act, 2013
+- [ ] #map : Naypyidaw ?
+- [ ] What is the significance of InvITs ? 
+
+## 4th February 2021
+- [ ] Who are Hoyasalas ? 
+- [ ] Who is Jain Upasaka ? 
+- [ ] Article-328 & 37 of State list of 7th schedule of constitution provide rights to the state legislature to formulate law in the manner of holding elections within state ? What is authority or role of EC in this regards ? 
+- [ ] What is Madhwa Sculpture ?
+- [ ] #dictionary : putsch ? 
+- [ ] What is New START Treaty b/w US & Russia ? What are its limitations ?
+- [ ] What are red category industries as per NGT/MoEFCC ? 
+
+## 5th February 2021
+- [ ] What is Article-326 ? Who has the authority to create the electoral roll, is it state or SEC or EC ? 
+- [ ] What is New Industrial Policy 2020 ? 
+- [ ] What is Elderline ? What is Nasha Mukt Bharat Abhiyan ?
+- [ ] What is SC judgement, 2019 to define the powers of L-G ?
+- [ ] Who holds the power of ACB in states ? What are its boundaries of power ? SC held L-G to exercise power in relation to services & directing ACB
+- [ ] What is the judgement on L-G vs Council of Ministers ? Who holds the authroity at times of disagreement ?
+- [ ] What is Delhi govt.'s policy on EV ?
+- [ ] What is Delhi's Helath Information Management System ? 
+- [ ] #map : Uganda ?
+
+## 6th January 2021
+- [ ] What are c-Vigil & Nighaa apps ? 
+- [ ] #river : Phalguni (Gurupura) ?
+- [ ] #data : transfer of LPG by road has been hazardous due to the challenges posed by vehicle accidents & leakage 
+- [ ] What is the libarary movement held by Ishwar Chandra VIdya Sagar ? 
+- [ ] #data : the curious case of Jamtara with languishing cyber criminals, making public libraries accessible  by turning old govt. buildings into libraries
+- [ ] India's potential of emerging as a global & regional Maintainance, Repari & Overhaul Hub (MRO) ?
+- [ ] What has been the impact of registered un-recognized parties in Indian Elections ? Does it have any fradulent intentions along ?
+- [ ] #dictionary : sojourn ?
+- [ ] What is the significance & history of Kakatiya Dynastry & Rudrama Devi ? What was their architectural uniqueness ?
+- [ ] What is PMFBY ? How useful has the welfare scheme been ?
+- [ ] What is the recently launched Deep Ocean Mission ?
+- [ ] What are Agro floats ?
+- [ ] What are the current survellience programs of govt. Centralised Monitoring System, Network Traffic Analysis & National Intelligence Grid
+- [ ] #dictionary : carte blanche ? 
+- [ ] Which countries are bordering South China Sea ? Which countries are contensting for the disputed islands in the sea ? 
+- [ ] What is Holding to Maturity (HTM) related to g-secs by RBI ?
+- [ ] What is the siginificance of govt.'s MCA21 portal ?
+- [ ] What is the jurisdiction of Central Administrative Tribunal ?
+- [ ] #dictionary : glee ?
+- [ ] What are the powers of Lokayukta ?
+- [ ] 

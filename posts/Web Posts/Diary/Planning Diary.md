@@ -17,6 +17,47 @@
 
 # February'21
 ---
+## 9th February 2021
+### Work Planned
+#### General Studies - Primary
+- [ ] 12th TN - MacroEconomics
+- [ ] 11th NCERT - Understanding Society
+#### Consolidations
+- [ ] Insights IAS News Analysis
+- [ ] Insights IAS Editorials
+- [ ] Drishti IAS News Analysis
+- [ ] Drishti IAS Editorials
+- [ ] Only IAS News Analysis
+- [ ] Only IAS Editorials
+#### Newspapers
+- [ ] Hindu
+- [ ] Business Standard (Optional)
+- [ ] Down to Earth (Optional)
+#### Opinions & Explained
+- [ ] Hindu Opinion
+- [ ] Indian Express Opinion
+- [ ] Business Standard Opinion 
+- [ ] Hindu Explained
+- [ ] Indian Express Explained
+- [ ] FE, BL, Tribune, HT, Livemint - Opinion
+#### Magazines
+- [ ] PRS - Articles / Blogs / Committee Reports / Policy Reports
+- [ ] PRS - Monthly Policy Review
+- [ ] Economic & Political Weekly
+- [ ] Down to Earth : In-Depth / Blogs
+- [ ] Yojana - Magazine
+- [ ] Kurukshetra - Magazine
+#### Pending Works
+- [ ] 7th Feb'21 - Current Affairs
+- [ ] 8th Feb'21 - Current Affairs
+#### Answer Writing
+- [ ] Insights IAS : Secure - 2021
+- [ ] IAS Baba TLP - 2021 : Phase - 1 
+- [ ] Civils Daily : Answer Writing
+#### Goodreads (English)
+- [ ] A Practical English Grammar - A.J. Thomson & A.V Martinet
+
+---
 ## 8th February 2021
 ### Work Planned
 #### General Studies - Primary
@@ -48,10 +89,11 @@
 - [ ] Yojana - Magazine
 - [ ] Kurukshetra - Magazine
 #### Pending Works
-- [ ] 6th & 7th - Current Affairs
+- [x] 6th Feb'21 - Current Affairs
+- [ ] 7th Feb'21 - Current Affairs
 #### Answer Writing
 - [ ] Insights IAS : Secure - 2021
-- [ ] IAS Baba TLP - 2021 : Phase - 1
+- [x] IAS Baba TLP - 2021 : Phase - 1 (partial)
 #### Goodreads (English)
 - [ ] A Practical English Grammar - A.J. Thomson & A.V Martinet
 
