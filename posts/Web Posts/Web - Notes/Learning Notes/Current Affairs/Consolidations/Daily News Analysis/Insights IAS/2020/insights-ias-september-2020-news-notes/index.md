@@ -22,7 +22,6 @@
 - [ ] Aihole-Pattadakal Style ? 
 - [ ] Lotus Mahal ? Indo-Islamic Architecture 
 - [ ] World Heritage Monument ? 
-- [ ] Tungabhadra #river ? 
 - [ ] Article 137 ? SC is given the power of review it's judgements
 - [ ] Review Petition can be accepted only when a glaring omission or patent mistale or like grave error has crept in earlier by judicial fallibility, it is to be filed in 30days of judgement 
 - [ ] CrPC & SC Rules give the aggreived person to file a review (not necessarily only parties to the case can file, anyone can file a review)

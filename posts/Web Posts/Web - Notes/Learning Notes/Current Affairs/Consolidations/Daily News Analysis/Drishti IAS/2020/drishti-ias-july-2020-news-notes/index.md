@@ -66,9 +66,8 @@
 - [ ] National Skill Development Corporation (NSDC) - is a not for profit public limited company under Companies Act, 1956 by Min. of Finance as a PPP model; Min. of Skill Dev hols 49% of stake in the company and 51% lies wiht private sector
 - [ ] Dehing Patkai Wildlife Sanctuary(only sanctuary in India with 7 species of wild cats) ? Dehing river ?
 - [ ] Assamese Macaque - is a red list species
-- [ ] National Parks fall under Category - II of #protected-areas & Wildlife Sanctuaries fall under Category - IV
+- [ ] National Parks fall under Category - II of protected-areas & Wildlife Sanctuaries fall under Category - IV
 - [ ] Snake Bites are recognized as Neglected Tropical Disease by WHO
-- [ ] Kanger Valley National Park - Chattisgarh ? Kanger #river ?
 - [ ] Ophiocordyceps fungi can be used agaisnt pests & it also has medicinal properties
 - [ ] Fish CryoBanks ?
 - [ ] Sajnekhali Bird Sancturary ?
@@ -103,7 +102,6 @@
 - [ ] Fibrosis ?
 - [ ] Carrying Capacity of an Environment ? is the maximum population size of a biological species that can be sustained in that specific environment, given the food, habitat & other resources available
 - [ ] What is poaching ?
-- [ ] Chambal #river ?
 - [ ] Gangetic Dolphins(fresh water dolphins) are endemic to Ganges-Meghna-Brahmaputra & karnaphuli-sangu river systesms in India, Nepal & Bangladesh - IUCN Status - Endangered
 - [ ] Wildlife Protection Act,1972 ?
 - [ ] CITES ?
@@ -122,7 +120,7 @@
 - [ ] Membrane Technology ?
 - [ ] Promotion of Bulk Drug Parks & Production Linked Incentive (PLI) ? to promote domestic manufacturing of critical drugs intermediaries / APIs etc. in the country
 - [ ] HongKong Autonomy Act ? sanction of banks doing business with Chinese Officials, under USA's HongKong Policy Act, 1992 - USA treats HK as a semi-autonomous region with own legal & economic system
-- [ ] Azad Pattan - PoK Hydel Project (on river Jhelum)- China + Paksitan, earlier India has objected Diamer-Bhasha Dam over Indus #river in Gilgit-Baltistan Region of PoK
+- [ ] Azad Pattan - PoK Hydel Project (on river Jhelum)- China + Paksitan, earlier India has objected Diamer-Bhasha Dam over Indus river in Gilgit-Baltistan Region of PoK
 - [ ] Gwadar Port gives an strong hold for China to operate into West Indian Ocean Region which remains close to the vulnerable point for India - Strait of Hormuz from which India gets 60% of its oil supplies from Middle-East
 - [ ] Pneumococcal Conjugate Vaccine - Pneumococcal Polysaccharide indigenous made vaccine, Streptococcus pneumoiae - is the responsible bacteria for pneumonia
 - [ ] Universal Immunisation Program ?
@@ -204,8 +202,6 @@
 - [ ] Chardham Project - connecting Yamunotri, Gangotri, Bhadrinath, Kedarnath
 - [ ] What is Biomining ?
 - [ ] Solid Waste Management Rules, 2016 ?
-- [ ]  #river Kadambrayar ?
-- [ ] Kaziranga National Park exists between Brahmaputra #river & Karbi Anglong Hills ? floods do help the region to maintain its landscape
 - [ ] Central Water Commission ? 
 - [ ] Agricultural and Processed Food Products Export Development (APEDA) ? 
 - [ ] States which were conferred the GI tag for Basmati Rice ? (Indo-Gangetic Plains - HP, J&K, Punjab, Haryana, Uttharakhand, Western UP & Delhi)
@@ -291,7 +287,7 @@
 - [ ] Halophiles ? group of microorganism that can grow & often thrive in the areas of high salt concentrations, Haloarchaea is responsible for the pink colour of the Lonar Lake in Maharashtra
 - [ ] Punjab Preservation of Subsoil Water Act, 2009 has mandated farmers to delay sowing of paddy to late June to discourage groundwater extraction, this leading to the delayed harvesting - rice chaff burning coincides perfectly with the withdrawal of SW monsoon which was though to be  the reason for the AIR quality deteriation in Delhi (especially the timing of the stubble burning) but  a reasearch study has found that it is more to do with the quantity than with the timing.
 - [ ] National Clean Air Programme ? aims to reduce pollution by 20-30% in annual PM concentration by 2024
-- [ ] What are Invasive #species ?
+- [ ] What are Invasive Species ?
 
 ## 24th Jul 2020
 - [ ] Which streams were given permanent commission extension to Short Service Command ? Army Air Defence, Signals, Engineers, Army Aviation, Electronics & Mechanical Engineers, Army Services Corps, Army Ordanance Corps, Intelligence Corps, Judge & Advocate General, Army Educationals Corps

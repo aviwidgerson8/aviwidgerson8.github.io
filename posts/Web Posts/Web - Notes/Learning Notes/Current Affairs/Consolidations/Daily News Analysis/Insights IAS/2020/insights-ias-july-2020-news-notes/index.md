@@ -68,7 +68,6 @@
 - [ ] Central Zoo Authority ? Statutory Body under Environmental Ministry
 - [ ] Asadha Poornima / Dharam Chakra Day ? Buddha Poornima / Vesak ?
 - [ ] Swacch Sarvekshan, 2021 ? 
-- [ ] Zanskar Valley Location ? Zanskar #river ? Magnet Hill ?
 - [ ] Indian Boilers Act, 1923 ?
 - [ ] Personal Data Protection Bill, 2019 ?
 - [ ] What are Data Fiduciaries ?
@@ -92,7 +91,7 @@
 
 ## 8th Jul 2020
 
-- [ ] National Ganga Council (NGC), headed by PM was created under #river Ganga(Rejuvenation, Protection & Management) Authorities Order, 2016 dissolving National Ganga #river Basin Authority
+- [ ] National Ganga Council (NGC), headed by PM was created under river Ganga(Rejuvenation, Protection & Management) Authorities Order, 2016 dissolving National Ganga river Basin Authority
 - [ ] States CMs part of NGC are Uttarakhand, UP, Bihar, Jharkhan, WB
 - [ ] What is Ganga Gram ?
 - [ ] Ministerial Conference on Climate Action ?
@@ -192,7 +191,6 @@
   - it's voting rights are distributed in proportions similar to that of World Bank's based on the capital subscription 
   - It defines itself as social development org. inroder to reduce the poverty in Asia & Pacific
 - [ ] Hope(orbiter) - UAE's first mission to Mars
-- [ ] Dolphins in Chambal #river ? Chambal #river ? Gangetic Dolphin(India's National acquatic Animal) ? It's distribution in states - Assam, UP, M.P, Rajasthan, Bihar, Jharkhand & WB, they prefer deep waters, around confluences
 - [ ] Mont Blanc Mountain Range ? it is the second highest mountain in Europe after Mount Elburs
 - [ ] Milk Tea Alliance ?
 - [ ] Chiang Mai Initiative - managing liquidity problems without going for IMF between ASEAN, China, Japan & South Korea
@@ -254,7 +252,6 @@
 - [ ] ESA's Cosmic Vision 2015-25 Program ? 
 - [ ] Solar Dynamo ?
 - [ ] The main reason behind the instability of the Brahmaputra river in Assam are high sedimentatino & steep slopes, annually nearly 8000 hectres of land is expected to be lost due to erosion, bank erosion has caused the width of brahmaputra river increase to 15km, there's also a little positive side to these floods - they rejuvenate croplands in the alluvial areas
-- [ ] Barak #river ? 
 - [ ] It is expected that accurate weather/rain forecast and dispension of information could reduce the damages to a little extent
 - [ ] National Accredition Board for Testing & Calibration Labs - NABL ? constituent board of Quality Control of India  - autonomous body under DPIIT (Dept. for Promotion of Industry & Internal Trade) of Min. Commerce
   - It provides accredition to major fields of Sci & Engg.
@@ -264,7 +261,7 @@
 - [ ] Vertically transmitted Infection - infection caused by pathogens  where transmission happends from mother to child (to embryo/fetus/baby)
 - [ ] Maguri Motapung Beel Wetland ? Dibru-Saikhowa National Park(also Bio-Sphere Reserve - Assam) ? 
   - Magur : catfish, Beel means Wetland in Assamese
-  -  Critically Endangered #species  - (Baer's Pochard, Red-Headed Vulture, White-Bellied Heron)
+
 - [ ] Namdapha National Park (Arunachal Pradesh) ? 
 
 ## 21st Jul 2020
@@ -349,7 +346,6 @@
 - [ ] forest area managed by local. tribal & indigenous communities in India increased from 0 - 25M ha from 1990-2015
 - [ ] naturally regenrating forest rate is dissapointing with only 0.38% from 2010-20
 - [ ] India reported maximum employment in forestry sector in the world - where 12.5M people in whole world of which 6.23M in India
-- [ ] Nag #river ? Kanhan-Pench #river System ? 
 - [ ] Shimla Agreement ? 
 
 ## 28th Jul 2020
@@ -394,7 +390,6 @@
 - [ ] Global Tiger Initiative Council ? 
 - [ ] Nagarjuna Sagar Tiger Reserve ? largest tiger reserve in India
 - [ ] Section-69A of IT Act ? IT (Procedure & Safegaurds for Blocking of Access of Informaiton by Public) Rules, 2009 ? 
-- [ ] Pampa #river ? 
 
 ## 30th Jul 2020
 - [ ] National Educational Technolofy Forum ? 
