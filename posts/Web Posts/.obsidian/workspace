@@ -8,9 +8,10 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "images/arjun.jpg"
+            "file": "Answer Writing/IAS Baba Answer Writing Practice/2021/February'21.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#doubt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/arjun.jpg",
+                "file": "Answer Writing/IAS Baba Answer Writing Practice/2021/February'21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,10 +95,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
+    "Answer Writing/IAS Baba Answer Writing Practice/2021/February'21.md",
     "images/arjun.jpg",
     "Planning/Timeline/Schedule Timeline.md",
     "Planning/Current Schedule (General Days).md",
@@ -105,7 +107,6 @@
     "Planning/Resources/Goodreads.md",
     "Planning/Progress/Goodreads Booklist - I.md",
     "Planning/Progress/Monthly/Targets Timeline - Jun.md",
-    "Planning/Progress/Monthly/Targets Timeline - Apr, May.md",
-    "Planning/Progress/Monthly/Targets Timeline - Feb, Mar.md"
+    "Planning/Progress/Monthly/Targets Timeline - Apr, May.md"
   ]
 }
