@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1612934605.8510556
+_modified_time = 1612935467.8168337
 _enable_loop = True
 _template_filename = 'themes/custom/templates/tags.tmpl'
 _template_uri = 'tags.tmpl'
@@ -30,13 +30,13 @@ def render_body(context,**pageargs):
         __M_locals = __M_dict_builtin(pageargs=pageargs)
         len = context.get('len', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
-        def content():
-            return render_content(context._locals(__M_locals))
-        title = context.get('title', UNDEFINED)
         cat_hierarchy = context.get('cat_hierarchy', UNDEFINED)
         items = context.get('items', UNDEFINED)
-        cat_items = context.get('cat_items', UNDEFINED)
         range = context.get('range', UNDEFINED)
+        title = context.get('title', UNDEFINED)
+        def content():
+            return render_content(context._locals(__M_locals))
+        cat_items = context.get('cat_items', UNDEFINED)
         hidden_tags = context.get('hidden_tags', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n\n')
@@ -55,13 +55,13 @@ def render_content(context,**pageargs):
     try:
         len = context.get('len', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
-        def content():
-            return render_content(context)
-        title = context.get('title', UNDEFINED)
         cat_hierarchy = context.get('cat_hierarchy', UNDEFINED)
         items = context.get('items', UNDEFINED)
-        cat_items = context.get('cat_items', UNDEFINED)
         range = context.get('range', UNDEFINED)
+        title = context.get('title', UNDEFINED)
+        def content():
+            return render_content(context)
+        cat_items = context.get('cat_items', UNDEFINED)
         hidden_tags = context.get('hidden_tags', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n<h1>')
