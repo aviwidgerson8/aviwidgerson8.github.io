@@ -29,14 +29,14 @@ Rough
 - privatization doesn't always gaurentee efficiency
 - free's the company from obligations of public procurement & better management
 - privatization will have better access to advanced technolgoies
-- #doubt : Which committees have recommended or reported on disinvestments in PSUs ?
+-  #doubt : Which committees have recommended or reported on disinvestments in PSUs ?
 
 ## 9th February 2021
 ### 1. **Infrastructure expansion has significant multiplier effect for the economy. Do you agree? What are the current constraints of infrastructure expansion in India? Discuss.**
 Investment in infrastructure can be realized as development in multiple fronts like trade, employement, production, consumption which from the key factors of economy.
 
-- #doubt : A statistic of British India, how much increase in export of cotton happened with railways ?
-- #doubt : A statistic of how much investment in infra contributes how much of GDP ?
+-  #doubt : A statistic of British India, how much increase in export of cotton happened with railways ?
+-  #doubt : A statistic of how much investment in infra contributes how much of GDP ?
 - increases exports with better development of SEZs & enhanced supply chains
 - less input costs & latency with better enhanced supply chans 
 - less production cost & benefits to consumers, increases in consumption 
