@@ -22,7 +22,7 @@
 - [ ] Unlawful Activities(Prevention) Act ?
 - [ ] India disapproved US-Israel peace plan but didn't comment on Israel's plan to begin it's implementation on 1st Jul
 - [ ] Collection of Stamp duty on transactions of shares, debentures & other securities - Indian Stamp Act, 1899, has been amended to only either of buyer/seller to pay instead of both 
-- [ ] Globbaandersonii (dancing ladies / swan flowers - Critically endangered #species) - Teesta river valley, Sikkim Himalayas
+
 - [ ] Zingiberaceae (belonging to ginger/trumeric family)
 - [ ] Lithophyte (plant growing on a bare rock/stone)
 - [ ] Kossovo, Nicaragua locations ?
@@ -32,7 +32,6 @@
 - [ ] ITER(International Thermonuclear Experimental Reactor) participating countries ? Eu, China, India, Japan, South Korea, Russia, USA
 - [ ] Emergency Credit Line Gaurentee Scheme (ECLGS) ? given by both public & private sector banks gaurenteed by govt.
 - [ ] Total liabilities & Proportion of Public Debt 
-- [ ]  #river  - Burhi Dihing, Dhansiri, Jia Bharali, Kopili, Puthimari ?
 - [ ] Hog Deer ? IUCN Status ? endemic regions ?
 
 ## 2nd Jul 2020

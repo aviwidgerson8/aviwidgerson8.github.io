@@ -16,7 +16,6 @@
 
 - [ ] What is a cruise missile ? 
 - [ ] Missile Technology Control Regime (MTCR) ? 
-- [ ]  #map : Denmark
 
 ## 3rd October  2020
 
@@ -48,7 +47,6 @@
 - [ ] Global Environment Facility ? UNDP+ WB + UNEP, finances 5 international conventions
   - UNFCCC, Stockholm Convention, UNCCD, UNCBD, Minamata Convention 
 - [ ] Povert & Shared Prosperity Report - World Bank
-- [ ]  #map : Sambhar Lake ? 
 - [ ] India is the 2nd largest producer & largest consumer of cotton in the world
 - [ ] Right to Protest ? is it part of article 21 ? 
 - [ ] Namdapha Tiger Reserve ? 
@@ -71,7 +69,6 @@
 - [ ] What is an Anti-Radiation Missile ? 
 - [ ] RUDRAM missile ? gps enabled (inertial navigation system)
 - [ ] What is grey water management ?
-- [ ]  #map : Kyrgyzstan 
 - [ ] Collective Security Treaty Organization (CSTO) ? 
 - [ ] RBI hasn't kept any limitation over the ceiling amount of transfer by NEFT ? 
 - [ ] What all constitute Liquid Adjustment Facility ? 
@@ -79,7 +76,6 @@
 ## 14th October 2020
 - [ ] Commitment to Reducing Inequality Index (CRI), 2020 ? by Oxfam (158 countries)
 - [ ] Chilka Lake ? Asia's largest brackish water lake, also compare Chilka lake & Sambhar Lake 
-- [ ]  #map : Lake Victoria ? 
 - [ ] India Energy Modelling Forum ? 
 - [ ] Asian Development Bank ? 
 - [ ] Rashtriya Kamadhenu Aayog ? 
@@ -93,13 +89,11 @@
 - [ ] What is Dam Rehabilitation & Improvement Project (DRIP) ? it is being assisted by AIIB &  World Bank 
 - [ ] What is the composition & functioning of AIIB ? number of countries ?
 - [ ] What is the compoisition & functioning of World Bank ?
-- [ ]  #dictionary : appurtenances ? 
 - [ ] Dicitonary : incidental ? 
 - [ ] What is Union Territory of J&K Reorganisation (Adaption of Central Laws) Third Order, 2020 ? 
 - [ ] What are the functions of Real Estate (Regulation & Development) (RERA) Act, 2016 ? 
 - [ ] What is Strategic Area in J&K ? 
 - [ ] What were previous restrictions on Contract Farming ? What changes did the current laws bring ? 
-- [ ]  #species : Amur Falcon ? worlds largest travelling migratory raptors
 - [ ] Lake : Doyang Lake ? Nagaland 
 - [ ] What is a Suture Zone ? 
 - [ ] What is Opeartion Meri Saheli ? 

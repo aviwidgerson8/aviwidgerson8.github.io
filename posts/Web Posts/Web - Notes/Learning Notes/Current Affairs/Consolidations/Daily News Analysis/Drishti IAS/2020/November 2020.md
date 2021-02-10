@@ -13,9 +13,5 @@
 - [ ] What is input tax credit ?
 - [ ] What is the tax division schems of GST between Centre & States ?
 - [ ] What is gratuity ? 
-- [ ]  #map : Kotada Bhadli ? 
 - [ ] What are the techniques C16 & C18 related to ?
 - [ ] What is stable isotope analysis used for ? 
-- [ ]  #river : Ghaggar ? 
-- [ ]  #river : Bhogva ? 
-- [ ] 

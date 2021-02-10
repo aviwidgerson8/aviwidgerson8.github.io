@@ -25,12 +25,10 @@
 - [ ] Which countries involve in naming cyclones of IOR region ? 
 - [ ] What is Article 129 ? 
 - [ ] What was Odisha's Durgama Anchalare Malaria Nirakaran (DAMAN) initiative ? 
-- [ ]  #dictionary : rein ? 
 - [ ] What is the mandate of Apex Committee for Implementation of Paris Agreement (AIPA) constituted by MoEFCC ? 
 - [ ] Should countries revise their reduction targets for every 5 years in Paris Climate Agreement ?
 - [ ] Why was the rocket station constructed at Sriharikota on eastern coast of India ? What's the reason behind it ?
 - [ ] What is Biological Weapons Convention ? 
-- [ ]  #national-parks : Vikramshila Dolphin Sanctuary ? 
 - [ ] What is International Financial Services Authority (IFSCA) ? 
 
 ## 4th - 9th, 14th December 2020

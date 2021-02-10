@@ -24,21 +24,16 @@
 - [ ] What is NMR(Nuclear Magnetic Response test ? 
 - [ ] What is Article 254(2) ? 
 - [ ] What are different colour alerts issued by IMD ? 
-- [ ]  #dictionary : sifting ? 
 - [ ] What are the functions of Indian Navy's Infromation Fusion Centre ? 
 - [ ] What is the need of COVIN software ?
-- [ ]  #dictionary : fatalism ? 
-- [ ]  #dictionary : redacted ?
+
 - [ ] India is the world's biggest rice exporter & China is the biggest importer 
 
 ## 4th December 2020
 - [ ] What is the hierarchy of CDSCO & DCGI ? What are each's functions ? 
-- [ ]  #dictionary : recce ?
-- [ ]  #map : Great Bend of Brahmaputra ? 
 - [ ] What is the current restriction on legislators to contest for polls who are convicted as per Representation of People's Act, 1951? prison sentnece + 6 years thereafter
 - [ ] Is the difference between ban on legislators to contest again & public servants, judges etc.' life time ban justifiable ? 
 - [ ] Which ratio is best when it comes to understanding the progress wrt pandemic ? 
-- [ ]  #dictionary : beseech ?
 - [ ] Lottery, Gambilng & Betting are also taxable under GST Act & come under goods segment, What is that supports this claim ? 
 - [ ] Iran's Nuclear Deal involved which countries ? 
 - [ ] What is the role of SEBI in mergers & acquisitions of companies ?
@@ -49,31 +44,22 @@
 - [ ] What is the difference b/w revenue deficit & fiscal deficit ? What do they indicate ? 
 - [ ] What is the difference b/w revenue expenditure & capital expenditure ? 
 - [ ] What was the revenue deficit ceiling prescribed by 14th Finance Commission ? 
-- [ ]  #dictionary : perfunctory ? 
 - [ ] Who plays the role in local body elections which governor plays in general elections ?
-- [ ]  #dictionary : evince ? 
 - [ ] WHat is the spat between countries in Gulf, against Qatar ? 
 - [ ] Which nuclear reactors are common ones ? Fusion or Fission ? What does India have ? Is India the only country to have in collaboration to have a special reactor or does China also have a similar one ? 
-- [ ]  #map : Bhashan Char ? 
 - [ ] What are technical textiles ? 
 - [ ] What is National Technical Textiles Mission ? 
 - [ ] A large part of inflation pressures are emanating out from the supply-side disruptions at the level of retailer, very high margins being charged & also the effect of indirect taxes
 
 ## 6th December 2020
 - [ ] What is the exception in Data Protection Bill, 2019 which  centre included exempting any agency of govt. from application of the act ? 
-- [ ]  #dictionary : tamped ? 
-- [ ]  #map : Kuwait ? 
 - [ ] What were two options given by Centre, financing GST compensation to States ? 
-- [ ]  #map : Belgium ? 
 - [ ] What is Qualified Insitutions Placement route ? 
-- [ ]  #map : Angola ? 
-- [ ]  #national-parks : Malenad ? 
-- [ ]  #species : Bryde Whales / Tropical Whales have a preference for warmer waters in coastal waters of Indian, Pacific & Atlantic Ocean, including Gulf of Thailand 
+
 
 ## 7th December 2020
 - [ ] What are the current restrictions on Rat-Hole Mining ? with whom lies the authority to look over them ? Centre or State ? 
 - [ ] What was NGT's order in 2014, ban of Rat-hole Mining ? 
-- [ ]  #data : unregulated mining had contaminates the farm lands acidic & turns the streams acidic 
 - [ ] What is Article 2439(k) ? What is the governer or legislature's role in local body elections ? 
 - [ ] Directorate of Revenue Intelligence ? Who is its authority ? What are its functions ? 
 - [ ] What are Harmonised System Codes in Global Trade ? 
@@ -87,7 +73,6 @@
 
 ## 9th December 2020
 - [ ] India's regulatory framework has a specific provision for the grant of emergency use authorisation under New Drugs & Clinical Trial Rule, 2019 
-- [ ]  #data  : India is the home to world's third largest ecosystem
 - [ ] What are CRZ zones ? What are its restrictions ? 
 - [ ] What were Kamath Committee's recommendations ? 
 - [ ] What was Vyapam Scam ? 
@@ -101,38 +86,27 @@
 - [ ] What is 102nd Amendment of 2018 constitution ? 
 - [ ] What is Article - 338B ? Article - 342A ? 
 - [ ] Who has to specify to include a class or grant reservation to it in State ? Who has specify in case of centre(central list) ? 
-- [ ]  #map : Rakhigarhi, Farmana, Masudpur ? 
 - [ ] What is USCIRF ? What are its functions ? What are countries of particular concern under it ? 
-- [ ]  #dictionary : teetered ? 
 - [ ] What is the issue in NCLAT's judgement of Tata Sons ? 
 - [ ] What is NCLAT ? What are its functions ? Who is its authority ? 
 - [ ] What is a green shoe option (disinvestment) ? 
 
 ## 11th December 2020
 - [ ] What is National plan for Conservation of Migratory Birds & their Habitats along the Central Asian Flyway (2018-23) ? 
-- [ ]  #map : Central Asian Flyway ?
 - [ ] What is country's single species action plan, mentioned in 13th COP of Convention on Conservation of Migratory Species of Wild Animals ? 
 - [ ] What was Kasturi Rangan Report on Western Ghats Eco-Sensitive Zone ?
 - [ ] What is DArRT-PCR ? 
 - [ ] What is 12th century Anubhava Mantapam by Basaveshwara ? 
 - [ ] Who are Lichchavis & Shakyas ? 
-- [ ]  #dictionary : omnibus ? 
 - [ ] What is Article-300A ? 
-- [ ]  #map : Morocco ? 
-- [ ]  #map : Western Sahara ? 
-- [ ]  #map : Rabat ? 
-- [ ]  #dictionary : interred ? 
-- [ ]  #dictionary : recuperate ? 
 
 ## 12th December 2020 
 - [ ] What is SFURTI scheme ? 
 - [ ] What are Rossby wave of air currents in upper atmosphere ? What are its effects on India ? 
 - [ ] Why does highest amounts of monsoon rainfall is witnesses between mid-Jul to Aug ? does rainfall go down before & after this period, if so why ?
-- [ ]  #dictionary : besiege ? 
-- [ ]  #dictionary : smothered ? 
 - [ ] What are Capital Goods ? 
 - [ ] What does emitions intensity mean in NDC goals for Paris Agreement ? 
-- [ ] Where will COP26 - UNFCCC is scheduled to take place ? #map : Glasgow 
+- [ ] Where will COP26 - UNFCCC is scheduled to take place ?
 - [ ] Paris Agreement was adopted at COP21, Paris, 2015
 - [ ] What are uses of Line of Credit agreements or currency swaps ? List of countries with which India has such agreements ? 
 - [ ] What are the functions of Central Council of Indian Medicine ? Who is its authority ? Is it a statutory body ? 
@@ -145,30 +119,23 @@
 
 ## 13th December 2020
 - [ ] Where are Tropical Montane Grasslands located in India ? In India these forests have been classifed as waste lands 
-- [ ]  #map : Nilgiris, Palani, Anamalai ? 
 - [ ] What is TS-iPASS ? 
-- [ ]  #national-parks : mudumalai tiger reserve ? 
 - [ ] What is Article - 312 ?
 - [ ] What is 9th Schedule ? What is its speciality ? 
 - [ ] Who is the authoirity responsible for conducting National Family Health Survey ? 
 - [ ] India is a signatory to Program of Action of International Conference on Population & Development, 1994 ? What does it say ?
-- [ ]  #data : 2001-2011 was the 1st decade in 100 years, where the growth rate came down but also registered a sharpest decline in decadal growth from 21.54%(1991-2001) to 17.64%(2001-11)
+
 - [ ] What is wanted fertility ? it implies on average couples do not want more than 2 children
 - [ ] What is the election procedure in Territorial Councils ? 
 - [ ] Which states have Inner Line Permits ? 
 - [ ] What were Cod Wars in 1960s & 70s involving Iceland & Britian ?
-- [ ]  #map : Rabat ? Morocco ? Mauritiana ? 
 - [ ] What impact can integration of fintech into banking or credit result in ? 
-- [ ]  #data  : India's private credit/GDP ratio is lowest in the global economy peers 
+
 - [ ] What is the new scheme announced by Fin.Min. recently on Special assistance to states for Capital Expenditure ? 
-- [ ]  #dictionary : oversight ? 
 - [ ] As per New Drugs & Clinical Trials Rules,2019 depending on the severity, the regulator has the right to waive local clinical trials if a drug has been approved elsewhere
 
 ## 14th December 2020 
-- [ ]  #national-parks : Agasthyamalai ? 
-- [ ]  #national-parks : Kulathupuzha Reserve Forest ? 
 - [ ] What is the issue in Teesta water sharing b/w India & Bangladesh ? 
-- [ ]  #river : Monu, Muhuri, Khowai, Gomti, Dharla, Dudhkumar ? 
 - [ ] What is petroleum friendship pipeline b/w India & Bangladesh ? 
 - [ ] survelience of sewage waters has been helpful in polio's eradication & same is being used in covid-19
 
@@ -177,7 +144,6 @@
 - [ ] What is Bureau of Energy Efficiency (BEE) ? What are its functions ? Who is its authroity ? 
 - [ ] How correlated are WPI & CPI ? 
 - [ ] What does the relation Comprehensive Strategic Partnership mean ? What are different levels of relations b/w two countries ? 
-- [ ]  #data : private hospitals account for 63% of all PM-JAY claims & 75% of total claim value
 - [ ] What are out of pocket expenditure vs state expenditure on health in India ? 
 - [ ] What is necessity of a Development Finance Institution in the current economy setup ? What benefit it would be ? 
 
@@ -188,7 +154,7 @@
 - [ ] What is the relation between Law Ministry & Election Commission of India ?
 - [ ] Does Modal Code of Conduct has any statutory backing ? From which articles of the constitution does ECI draw its powers to implement MCC ? 
 - [ ] Who is the authority of District Child Protection Units ? What is the hierarchy of NCPCR from top to the ground level ? What is the realtion of Women & Child Welfare Ministry with NCPCR ? 
-- [ ]  #data : Operation Muskaan ? in AP, 25k children of different states were rescued 
+
 - [ ]  #interview : Do reservations have to be followed in professors recrutiment at IITs considering the lack of adequate numbers of PHDs ?
 - [ ]  What is the difference bw OCI cardholders & NRIs ?
 - [ ]  What are the differences between various types of vaccines ? (ex: m-RNA etc.)
@@ -204,10 +170,8 @@
 - [ ]  What is MPEDA ? What are its functions ? Who is its authority ? 
 - [ ]  What are the functions of CMS-01 satelllite launched by PSLV-C50 ? 
 - [ ]  What do Adjusted Gross Revenue include ? 
-- [ ]  #dictionary : armamentarium ?
 - [ ]  What is Article - 15 ? 
 - [ ]  Who are the members of Chief of Staff Committe ? What are its functions ? 
-- [ ]   #reports : United Nations Human Development Index ? What is the metric added into latest report ? 
 - [ ]   Who is Bangbandhu ? 
 - [ ]   In which sectors was the PLI scheme announced ? 
 - [ ]   Did centre do any amendment to FRBM act to allow states to borrow an additional 2% over the existsing statutory limit of 3% of GSDP ? 
@@ -217,20 +181,16 @@
 - [ ] What is the significance of Chilahati & Halibdari rail link ? 
 - [ ] Who holds the power over IAS officers ? In the case of IAS & IPS officers, who holds the authority to depute them & who can block the order ? 
 - [ ] Critically analyse India's Neighbourhood First Policy ? 
-- [ ]  #dictionary : elicit ? 
 - [ ]  What are the list of transboundary rivers between India & Bangladesh ?
-- [ ]  #dictionary : cow-down ? 
 - [ ]  What is electroni project appraisal management system (e-PAMS) ? 
 - [ ]  What are functions of Defense Acquisition Council ? Who is its authority ? 
 - [ ]  Wht is C band of frequency spectrum ? What are other bands in it ? 
 - [ ]  What is Geosynchronous Transfer Orbit ? 
 - [ ]  What are different series of satellites ? their functions ? 
-- [ ]  #dictionary : depose ? 
 - [ ]  What are the rules & restrictions on board & others in an organization under Companies Act ? 
-- [ ]  #data : currently gas accounts for 6% of total energy mix in India, we plan to increase it to 15% by 2030 
+
 - [ ]  What is the latest unvieled gas trading platform in India ?
 - [ ]  What are the locations of Petroleum Reserves in India ? are these reserves maintained completely by govt. or by PPP ? 
-- [ ]  #dictionary : delinquency ?
 
 ## 19th December 2020
 - [ ] Who has the power to decide if there's a consitutional breakdown ? Executive / Judiciary / Legislature ? What does Article - 356 say ?
@@ -240,25 +200,22 @@
 - [ ] What is Montreal Convention related to airplanes ? What is the compensation paid to dead passengers ?
 - [ ] What is Indomethacin ? How is it related to Covid19 ?
 - [ ] How effective were Epidemic Diseases Act, 1897 & Diasaster Management Act, 2005 in dealing with the pandemic ?
-- [ ]  #dictionary : intermittent ?
 - [ ] What is Article - 25 ? 
 - [ ] What are the provisions, restrictions, benefits of PIL ? 
 - [ ] What is a Special Leave Petition ? 
-- [ ]  #data : Railways currently account for 27% of overall transportation of goods in the country & plan to increase it to 45% by 2030
 - [ ] What is National Rail Plan ? 
-- [ ]  #dictionary : brinkmanship ? 
 - [ ] What are the functions of Internaitonal Atomic Energy Agency ? Who is its authority ? 
 - [ ] Which sectors were given benefits of Production Linked Incentives ? 
 - [ ] What are white goods ? 
 - [ ] What is a purpose of Bad Banks ? How effective can they be ? 
 - [ ] What is an E20 fuel ? what are its components ? 20% - ethanol+gasoline, this fuel helps in reducing CO2 & HCs
 - [ ] From what foodstock can ethanol - biofuel be manufactured ? corn, sugarcane, hemp, potato etc.
-- [ ]  #data ; despite pandemic the deposits of bank grew by 11.3%yoy & credit grew by 5.7% - RBI
+
 
 ## 20th December 2020
 - [ ] What is Rashtriya Bal Swasthya Karyakram (RBSK) ? What is the share of Centre & State ?
 - [ ] What is National Health Mission ? 
-- [ ]  #data: In Kerala, a tiff b/w SCTIMST & NHM has put lives of childrens with congenital heart disease in limbo, govt. refuses to pay bill till the institute complies with the rates set for RBSK under NHM, with 60:40 share b/w centre & states, almost 40% children being from other states, the state govt.s consider it as drain of their resources & are demanding a central fund for RBSK
+
 
 
 

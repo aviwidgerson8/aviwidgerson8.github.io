@@ -25,9 +25,7 @@
 - [ ] What are the functinos of Cyber Swacchata Kendras ? 
 - [ ] What are some siginificant species of Kaziranga National Park ? 
 - [ ] What are the rivers that flow nearby Kaziranga National Park ? Brahmaputra, Diphlu, Mora Diphlu, Mora Dhansiri ? 
-- [ ]  #river : Brahmaputra, Diphlu, Mora Diphlu, Mora Dhansiri ?
 - [ ] Details of Kevadia Tourism Circuit ? 
-- [ ]  #map : Mansar Lake ? 
 - [ ] What are the lakes under Ramsar Convention in J&K ? 
 - [ ] Which of Ramsar Conventions are also Tiger / Biosphere Reserves ? 
 
@@ -38,26 +36,15 @@
 - [ ] What are the three farm laws that were passed recently ? 
 - [ ] Agriculture & market come under State list & Food Items come under Concurrent list, Trade Area comes under Central list ?
 - [ ] What is Article 254(2) ? is president assent mandatory ? 
-- [ ]  #river : Yamuna ? 
 - [ ] Who is the authority of Bureau of India Standards ? is it a regulating or statutory or quasi-judicial body ? 
 - [ ] What is ecological flow in terms of sewage/river flow ? 
-- [ ]  #species : Travancore Tortoise ? 
 - [ ] Map locaiton : Eritrea ? Dijbouti ? Sudan ? South Sudan ? 
-- [ ]  #map : distribution of Indian Ocean Islands ?
 
 ## 4th November 2020
 - [ ] What is the impact of ENSO on Horn of Africa & Central Asia ? 
 - [ ] Horn of Africa constitutes which regions ? 
 - [ ] Which conditions are conducive to locust groth & attacks ? 
-- [ ]  #map : Tasmania ? 
-- [ ]  #map : Chatham Islands ? 
 - [ ] What is Project Lion ? 
-- [ ]  #protected-areas : Kuno-Palpur Wildlife Sanctuary ? 
-- [ ]  #protected-areas : Madhav National Park ? 
-- [ ]  #protected-areas : Sitamata Wildlife Sanctuary ? 
-- [ ]  #protected-areas : Gandhi Sagar Wildlife Sanctuary ? 
-- [ ]  #protected-areas : Kumbhalgarh Wildlife Sanctuary ? 
-- [ ]  #protected-areas : Jessore-Balaram Ambaji Wildlife Sanctuary ? 
 - [ ] What is the IUCN status of Asiatic Lions ? 
 - [ ] What is the function of World Wide Fund for Nature (WWF) ? Who is its authority ? 
 - [ ] How can conservations of wetlands help in dealing with climate change / water risk ? 

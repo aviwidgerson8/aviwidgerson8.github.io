@@ -32,12 +32,12 @@
 - [ ] What is the protocol of resolving water disputes - as of with tribunals & SC ? 
 - [ ] Mullaperiyar Dam though it exists in Kerala is operated by Tamil Nadu due to an agreement between - Maharaja of Travancore & then Secretary of State for India
   - the dam redirects the flow into BoB instead of Arabian Sea
-  - it is located at the confluence of Mullaya & Periyar #river ? locations ? river plains region ? 
+
   - In 1970s the agreement was renewed giving the rights of land & water - hence TN pays rent to Kerala , the authority also conceived to develop hydropower project but the increase in levels of dam has a potential problem of withstanding/earthquakes, 
   - as per CWC a recommendation was made to lower the water level but only further increase if necessary measures are taken. 
   - In 2006, SC directed that Kerala to not object the increase in level raise, so in response Kerala ammended -  Irrigation Water Conservation Act, 2003 to counter in last SC struck down the act as unconstitutional and directed GoI + Kerala + TN to prepare a contingency plan in case of disaster
 - [ ] Central Water Commission ? 
-- [ ] Interstate #river Waters Disputes Act, 1959 ? 
+- [ ] Interstate Rriver Waters Disputes Act, 1959 ? 
 - [ ] SKOCH Gold Award ? as highest civilian honour in the country conferred by an independent institution - it was awarded to Min.  of Tribal Affairs for its "Empowerment of Tribals thourgh IT enabled Scholarship Schemes" project
 - [ ] Muslim Women( Protection of Rights on Marriage) Act ? 
 - [ ] UN Economic Commission for Europe (UNECE ) ? 
@@ -108,9 +108,6 @@
 - Degradation of Aravali threatens NCR's water security, high levels of cracks and fissures make it a superior zone for recharging groundwater
 - Aravali moutatin range ? one of the oldest fold mountains in the world - it joins two of ancient earths crust segements - Aravalli Craton + Bundelkhand Craton
 - What does a Craton mean ? 
-- Valley of Banas ? 
-- Pipli Ghat ? Dewari ? Desuri are passes 
-- Banas, Sahibi rivers are tributaries of Yamuna & Luni #river all arise from Aravalli Range (Great Green Wall - acts as buffer against pollution)
 - Shivalik Range ? 
 - Galapagos Islands ? are part of Ecuador
 - Cold Humboldt Current ? it brings a high concentration of nutrients to the ecuadors islands this results in high congregation of marine species
@@ -291,7 +288,6 @@
 - Rajgrih ? Bodhgaya ? Varansi ? Kushinagar ?  places visited by Gautam Buddha in pirsuit of spiritual experience
 - Magadha Kingdom (one of 16 Mahajanapadhas ) ? included republic communities - Rajkmura, villaged had own assemblies under local chief - Gramakas
 	- Bimbisara & Ajatasatru were two famous Magadha rulers
-- #river Champa ? #river Son ?
 - When were Vedas scritpted ? 
 - Geothermal Springs ? produced bu the emergence of geothermallu headeted hroundwater that rises from the earth's crust
 - Garhwal regions - Uttarakhand ? 
@@ -373,7 +369,7 @@
 - Human - Elephants Conflict ? about 500 humans die every year in encouters with elephants 
 - Asian Elephants are listed as Endangered species by IUCN 
 - What is the difference betwenn IUCN & CITES classification of thretened speices ?
-- Convention of Migratory #species ? this year convention - CMS COP13 was held at Gandhinagar in India - added 7 new species to Appendix I - Bengal Florican, Little Bustard, Antipodean Albatross, Jaguar, Great Indian Bustard, Asian Elephant & Oceanic White-tip Shark
+- Convention of Migratory Sspecies ? this year convention - CMS COP13 was held at Gandhinagar in India - added 7 new species to Appendix I - Bengal Florican, Little Bustard, Antipodean Albatross, Jaguar, Great Indian Bustard, Asian Elephant & Oceanic White-tip Shark
 - India accounts of 60% of wild Asian elephants 
 - Pakke Wildlife Sanctuary ? Arunachal Pradesh
 - Papum Reserve Forest ? satellite study has flagged a high rate of deforestation in the region
@@ -450,12 +446,11 @@
 ## 19th August 2020
 - there exists no statutory prohibition on individuals to make voluntary contributions to NDRF - Sect - 46(1)b of DM Act
 - Article 266 ? Consolidated Fund & Public Account
-- #river Sutlej & Yamuna ? 
 - Eradi Tribunal ? in 1987 SC setup a tribunal and it recommended an increase in Punjab & Haryana - 5 & 3.83 MAF (million acre feet) respectively 
 - Beas is a tributary of ? 
 - Satluj Yamuna Link Canal ?  Tripartite Agreement ? Punjab, Haryana & Rajasthan
 - Article 262 ? adjudication of disputes relating to waters of Inter State rivers or river valleys
-- Interstate #river Water Disputes Act, 1956 ? 
+- Interstate Rriver Water Disputes Act, 1956 ? 
 - ARIIA,2020 (Atal Ranking of Istitutions on Innovation Achievements) ? intiative of MHRD to systemically rank of major higher educational institutions & universities in India
 - Digital Quality of Life Index 2020  - SurfShark
 	- India ranked 9th on internet affordability & 15th on e-government

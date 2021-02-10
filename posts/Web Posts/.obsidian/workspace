@@ -89,7 +89,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,14 +99,14 @@
   },
   "lastOpenFiles": [
     "Web - Notes/Learning Notes/Answer Writing/IAS Baba Answer Writing Practice/2021/February'21.md",
-    "Web - Notes/Answer Writing/Insights IAS Answer Writing Practice/2021/February'21.md",
-    "Web - Notes/Answer Writing/IAS Baba Answer Writing Practice/2021/February'21.md",
-    "Web - Notes/Answer Writing/IAS Baba Answer Writing Practice/2021/February.md",
-    "Web - Notes/Answer Writing/Insights IAS Answer Writing Practice/2021/January/Insights IAS Answer Writing Practice.md",
-    "Web - Notes/Answer Writing/IAS Baba Answer Writing Practice/2021/January/IAS Baba Answer Writing Practice.md",
-    "Diary/Planning Diary.md",
-    "Answer Writing/IAS Baba Answer Writing Practice/2021/January/IAS Baba Answer Writing Practice.md",
-    "Planning/Pending Opinion & Magazines/Pending Opinion & Magazines - Temporary.md",
-    "Planning/Pending Tasks/Pending Tasks - Overall.md"
+    "Web - Notes/Learning Notes/Answer Writing/Insights IAS Answer Writing Practice/2021/February'21.md",
+    "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/November 2020.md",
+    "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2021/January 2021.md",
+    "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2021/February 2021.md",
+    "Web - Notes/Learning Notes/Current Affairs/Opinion/2021/February 2021.md",
+    "Web - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/OnlyIAS/2020/December 2020.md",
+    "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/December 2020.md",
+    "Web - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/OnlyIAS/2020/November 2020.md",
+    "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/October 2020.md"
   ]
 }

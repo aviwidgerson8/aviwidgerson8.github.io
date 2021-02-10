@@ -54,12 +54,6 @@
 - [ ] What are chances of getting bail when booked under UAPA ? 
 
 ## 3rd October 2020
-### #dictionary
-- [ ] retorgrade
-- [ ] proclivity
-- [ ] abet
-- [ ] conviction
-- [ ] duping
 - [ ] What are different schedules under Wild Life Protection Act ? 
 - [ ] What are the restrictions on encroachment of forests ? 
 - [ ] National Green Tribunal derives power from which acts ? 
@@ -71,7 +65,6 @@
 - [ ] What are the latest amendments of Solid Waste Management Rules, 2016 ? 
 - [ ] What is waste segregation at source ?
 - [ ] What are specific measures taken by govt. in regrads to the Leapord conservation/protection ? 
-- [ ]  #river Kabini / Kapila ? Nanjanagoodu ? 
 - [ ] What is Beijing Declaration ? 
 - [ ] What is Gender Budgeting ? 
 - [ ] What are Industrial Tribunals ? What powers & functions do they constitute ? 
@@ -79,7 +72,7 @@
 - [ ] What are Leapord-Human Guidelines ? Which authority is responsible for those guidelines ? Bandipur Tiger Reserve ? Nagarhole Tiger Reserve ? Cauvery Wildlife Sanctuary ? Kemphole Reserved Forest ? Devarayanadurag State Forest ? Bukkapatna State Forest ? 
 - [ ] What is Reformative Theory of Justice ? 
 - [ ] What are present criteria for an early release from jails ? 
-- [ ] What was Bachawat Award in Krishna #river Waters dispute ? 
+- [ ] What was Bachawat Award in Krishna River Waters dispute ? 
 - [ ] What are the current regulations on extraction of minerals ? with whom lies the authority - centre or state ? what are the acts or rules which provide the power ?
 - [ ] What is IBC process ? history of the acts & rules in this regards ? 
 - [ ] From which acts, rules & policies does NCLAT derive its power ? 
@@ -87,15 +80,10 @@
 - [ ] What are the provisions of IBBI (Insolvency Resolution Process of Corporate Persons) Regulations, 2016 ? 
 - [ ] Are pre-budget meetings statutory ? constitutional ? general accepted procedure ? 
 - [ ] List of countries which are members of NATO ? 
-- [ ]  #map : Yerevan ?
-- [ ]  #map : Baku ? 
-- [ ] What is OSCE group ?
-- [ ]  #river : Kopili ? 
 
 ## 4th October 2020
 - [ ] Which act/rule/policy mandates for setting up of anti-human trafficking units in all districts ? 
 - [ ] AP ranks next to MH in human trafficking
-- [ ]  #map : Lahaul-Spiti Valley ? Manali ? 
 - [ ] What happened with CLAT exam ? What is all the fuss about ? 
 - [ ] What is Multi-Section Digital Axle Counter Technology in Railways ? 
 - [ ] Bannerghatta National Park ? 
@@ -104,7 +92,6 @@
 - [ ] CORPAT ? 
 - [ ] What are the terms of  Logistics Exchange Memorandum of Agreement (LEMOA) agreement between India & US
 - [ ] PASSEX ? 
-- [ ]  #map : Strait of Malacca ? 
 - [ ] India has logistics agreements with all the QUAD countries & maritime information sharing agreements with Japan & Australia
 - [ ] List of maritime vehicles in use ?
 - [ ] International Maritime Boundary Line ? what is the concept ? how is it decided ? 
@@ -117,9 +104,7 @@
 - [ ] What is FEMA act ? 
 - [ ] What is Armed Forces Special Porwes Act (AFSPA) ? 
 - [ ] Analyse the whole brexit issue from its origin 
-- [ ]  #map : New Caledonia ? 
 - [ ] What is Noumea Accord ? 
-- [ ]  #map : Juba ?
 - [ ] Why does the polarity of Sun reverse ? 
 - [ ] Ca II & H-alpha - spectrum measurements to identify magentic field locations(plages) & neutral magnetic lines(filaments) to understand the evolution of magentic field.
 - [ ] What is lyophilization of vaccine ? freeze drying ? 
@@ -128,7 +113,6 @@
 - [ ] What is Core-Interest Income ? 
 - [ ] What is a micro environment ? 
 - [ ] What is Chemical Oxygen Demand ? 
-- [ ] Sonneratia Caseolaris ? Mangrove #species
 - [ ] What is a bio-indicator ? 
 - [ ] What are earthquake swarms ? they don't have a focus point
 - [ ] What is herd immunity ? it is like having a barrier of people who are protected & break the chain of transmission 
@@ -142,16 +126,12 @@
 ## 5th October 2020
 - [ ] Suchindram Theroor Bird Sanctuary ?
 - [ ] Protcted Areas : Bandipur Tiger Reserve ? 
-- [ ]  #river : Nethravathi ? 
 - [ ] Does SC have a right if Centre refuses to finance in accordance to the states ? 
 - [ ] Structure of GST Council ? Members ? Does GST council have a Vice-Chairperson ? 
 - [ ] SC judgement in 2010 held that involuntary narco tests are an intrusion into a persons mental privacy & were an offence to dignity & liberty
-- [ ]  #dictionary : affront
 - [ ] What is Back to Village Program in J&K ? 
 - [ ] What is the general procedure for initiation of criminal contempt of court ? is this procedure statutory of constitutional ? 
 - [ ] What are Hawala transactions ? In depth-analysis ? 
-- [ ]  #protected-areas : Biligiri Ranganathaswamy Temple (BRT) Tiger Reserve ? 
-- [ ]  #protected-areas : Male Mahadeshwara Hills (M.M. Hills) Tiger reserve ? 
 - [ ] What is the BRI route ? What is the Silk Road route ? 
 - [ ] Who is the authority of common land in a village ? What are the uses of common land ? 
 - [ ] What is Land Bank ? does it have any statutory backing ?
@@ -168,19 +148,15 @@
 - [ ] East-West connectivity b/w India & ASEAN countries ? 
 - [ ] What is Blue Dot Network ? infra projects rating plan by US
 - [ ] Missile Assisted Release of Torpedo (SMART)
-- [ ]  #map : Wheeler Island ?
 - [ ] What are different Bio-Safety Levels ?
 - [ ] What is immunogenicity ? 
 - [ ] Waht is Operation P-Hunt_20.2 ?
 - [ ] What is Section 67 of IT Act ? 
 - [ ] Cyberdome ? 
-- [ ]  #dictionary : clandestine
 - [ ] Who are called as non-state actors ?
-- [ ]  #map : Mali ? 
 - [ ] FATF ? 
 - [ ] In which regions of the world do Savannahs exist ? 
 - [ ] What is Digital Capital ? Intelligent Data 
-- [ ]  #dictionary : corroborate ? 
 - [ ] What are e-way bills ? 
 - [ ] Adjuvants also enhance the sustainability of global vaccine supply 
 - [ ] NCR region includes areas from which states ? 
@@ -194,7 +170,6 @@
 - [ ] What is hypothecation ? 
 - [ ] What is Basic Exchange & Cooperation Agreement for Geo-Spatial Cooperation (BECA) ? 
 - [ ] Details about 2G Spectrum Scam & Coal Scam  ? 
-- [ ]  #map : Brahmadiha Coal Block ? JH
 - [ ] What is the structure od SDRF & NDRF funds ?
 - [ ] Which States have banned the investigative powers of CBI ? WB, AP, Rajasthan, Chattisgarh & MH
 - [ ] What powers does CBI derive from Delhi Special Police Establishment Act ? 
@@ -203,19 +178,13 @@
 - [ ] What is INCOIS service ? who is the authority of INCOIS service and what functions does it perform ? 
 - [ ] What is Intergovernmental Ocenographic Commission ? Which UN body is the authority of the commission ? 
 - [ ] What are the powers of Attorney General of India ? 
-- [ ]  #dictionary : bombast ? 
 - [ ] What are lastest amendments made to rules or policy/act of Elections in regards to the criminilization of legislatures ?
-- [ ]  #dictionary : cacophony ? 
-- [ ]  #map : Chile ? 
 - [ ] What is India's current Debt/GDP ratio ? 
 - [ ] What is the story of Syrian War ? 
-- [ ]  #map : Thailand ? 
 - [ ] What is India Energy Forum & What are its functions & responsibilities ? 
 - [ ] What is Force Multiplier ? 
 - [ ] What are the exploration & licencing policies of current time in India ? and earlier history of it ?
 - [ ] Why is India planning to increase its natural resources extraction ? 
-- [ ]  #dictionary : anemic ? 
-- [ ]  #dictionary : transpire ? 
 - [ ] What are the functions of Competition Commission of India ? What are the backing statutes or acts or policies from which it derives its power ? 
 
 ## 28th October
@@ -223,15 +192,12 @@
 - [ ] How does electoral bond scheme work ? 
 - [ ] What is a Strategic Area ? (especially in J&K) ? 
 - [ ] Who are referred to as Blue-Collar workers ? 
-- [ ]  #map : Kuwait ? 
 - [ ] What are the relations b/w India & Kuwait ? 
 - [ ] What is Rythu Bharosa Scheme in AP ? 
 - [ ] What is SAFAR in regards to Air Quality ? 
 - [ ] What is Kawasaki Disease ? 
 - [ ] What are the regions of waters that Turkey is contesting against Greece ? 
-- [ ]  #map : Taiwan Strait ? 
 - [ ] World Economic Outlook Report is released by IMF ? 
-- [ ]  #dictionary : fret
 - [ ] EU is among the top 3 partners in India's Engg. Trade - 17% of India's engg. exports
 - [ ] What is Vivad se Vishwas Scheme ? 
 - [ ] What is TPD in waste-to power plant ? 
@@ -242,20 +208,12 @@
 - [ ] 5.3% of rural children b/w 6-10 are not enrolled in school compared to 1.8% in 2018
 - [ ] What is Char-Chaporis ? 
 - [ ] Who is Srimanta Sankaradeva ? 
-- [ ]  #dictionary : Impasse ?
-- [ ]  #protected-areas : Mudumalai Tiger Reserve ? 
-- [ ]  #dictionary : Clandestine ? 
 - [ ] What is Motor Vehicles (Amendment) Act, 2019 ? 
 - [ ] Traffic, National Highways & Roads subject comes under which list ? State/Centre/Concurrent ? 
-- [ ]  #map : Central Asian Countries ? 
-- [ ]  #map : Kyrgyz Republic ? 
 - [ ] What are the functions of commercial wing of ISRO - New Spae India Ltd. (NSIL) ?
 - [ ] What are earth observatory satellites ? 
 - [ ] What is the speciality of PSLV rockets ? and their development history / comparison with GSLV ? 
-- [ ]  #dictionary : Complacence ? 
 - [ ] What is the political structure of Myanmar ? Democracy / Constiutional Monarchy / Republic etc. ? 
-- [ ]  #map : Bolivia ? 
-- [ ]  #map : Myanmar ? 
 - [ ] What is the political strucuture in Bolivia ? 
 - [ ] India & U.K have signed a new infra finance & policy partnership to help India execute National Infra Pipeline (as part of Economic & Financial Dialouge help regularly)
 - [ ] What is regulatory sandbox framwork & how does it work ? 
@@ -274,7 +232,6 @@
 - [ ] SC also previously held in past that reservation can be provided through executive order 
 - [ ] What is Rayalaseema Lift Scheme ? 
 - [ ] What is Index of Eight Core Industries ? What are the eight core industries ? 
-- [ ]  #dictionary : quandary ? 
 - [ ] Who are Kurubas (ethinicity) ? 
 - [ ] What is the proposed functioning of Rhythu Vedikas by Telangana govt. ?
 - [ ] What is permanent commisison to women ? in which areas are women allowed to take up roles ? 
@@ -290,7 +247,6 @@
 - [ ] What is Unlawful Activities (Prevention) Act ? 
 
 ## 7th October 2020
-- [ ]  #dictionary : accosted ?
 - [ ] What is Yakshagna Mela ? (also what oes Yakshagna mean ? )
 - [ ] What is Tirugata ? 
 - [ ] Nobel was awarded for discovering that black holes (invisible extremenly heavy object) governs the orbits of stars at the centre of our galaxy & theory of relativity can lead to the formation of black holes 
@@ -307,7 +263,6 @@
 - [ ] Which sectors in India hold the Production-Linked Incentive Scheme ? 
 - [ ] What is the current share of trade in GDP ? 
 - [ ] What is article 162 ? 
-- [ ]  #map : Tunisia ? 
 - [ ] What are the different Railways Gauges ?
 - [ ] Which laws in particular were replaced by the recent Labour Codes ? 
 - [ ] Who is a star campaigner in elections ? What are the speicific rules in regards to it ?
@@ -316,7 +271,6 @@
 - [ ] Australia has participated once in 2007 as part of Malabar exercise after 2007 this is the first time it is taking part again 
 - [ ] Malabar started b/w India & US, 1992 & Japan joined in 2015
 - [ ] What is Prevention of Money Laundering Act ? 
-- [ ]  #dictionary : reckon ? 
 - [ ] What are the funcitons of NAFED ? Who is the authority of NAFED ? 
 - [ ] What are the latest amendments made to Essentaila Commodities Act, in regards to Agriculture ?
 - [ ] Which countries are the largest producers of Onions in the world ? Which country is the largest trading partner of India in Onions ?
@@ -325,14 +279,9 @@
 - [ ] What are the provisions in FRBM act given for the states to breach the limits of 3% ?
 - [ ] What impact did the pandemic cause on federalism ?
 - [ ] What is the principle of  mirror order in Judiciary ?
-- [ ]  #river : Pampa ?
 - [ ] What are the Acts in which NGT holds power ? 
 - [ ] Is prior environmental clearance necessary in case of desilting dams, reservoirs, barrages, rivers & canals for the purpose of maintainance & disaster management ?
-- [ ]  #species : Olive Ridley Turtles ?
 - [ ] Which GDP is mentioned usually in reportings ? Real or Nominal ? 
-- [ ]  #dictionary : internecine ?
-- [ ]  #map : Aegan Sea ? 
-- [ ]  #map : Greece ? Greek Islands of Samos ? 
 - [ ] What were Plan & Non-Plan expenditures during the Planning Commission times ?
 - [ ] Which country is the largest exporter & importer of Plastics ? India's largest plastic trading partner ?
 - [ ] What are India's standings in Global Air Quality Index, Hunger Index, Inequality Index, Water Quality Index, Happiness Index, Press Freedom ? 
