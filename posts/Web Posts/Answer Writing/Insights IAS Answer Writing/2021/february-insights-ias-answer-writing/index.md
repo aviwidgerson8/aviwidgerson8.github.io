@@ -1,5 +1,5 @@
-.. title: February'21 - Insights IAS - Answer Writing Practice
-.. slug: february-insights-ias-answer-writing-practice
+.. title: February'21 - Insights IAS - Answer Writing
+.. slug: february-insights-ias-answer-writing
 .. date: 2021-02-08 22:34 UTC+05:30
 .. tags: answer writing, insights ias
 .. category: answer writing

@@ -1,5 +1,5 @@
-.. title: February'21 - IAS Baba - Answer Writing Practice
-.. slug: february-ias-baba-answer-writing-practice
+.. title: February'21 - IAS Baba - Answer Writing
+.. slug: february-ias-baba-answer-writing
 .. date: 2021-02-08 20:44 UTC+05:30
 .. tags: answer writing, ias baba
 .. category: answer writing
@@ -17,8 +17,8 @@
 ### 1. **Infrastructure expansion has significant multiplier effect for the economy. Do you agree? What are the current constraints of infrastructure expansion in India? Discuss.**
 Investment in infrastructure can be realized as development in multiple fronts like trade, employement, production, consumption which from the key factors of economy.
 
-- (#doubt) : A statistic of British India, how much increase in export of cotton happened with railways ?
-- (#doubt) : A statistic of how much investment in infra contributes how much of GDP ?
+- (#doubts) : A statistic of British India, how much increase in export of cotton happened with railways ?
+- (#doubts) : A statistic of how much investment in infra contributes how much of GDP ?
 - increases exports with better development of SEZs & enhanced supply chains
 - less input costs & latency with better enhanced supply chans 
 - less production cost & benefits to consumers, increases in consumption 
@@ -60,5 +60,5 @@ Rough
 - free's the company from obligations of public procurement & better management
 - privatization will have better access to advanced technolgoies
 
-- (#doubt) : Which committees have recommended or reported on disinvestments in PSUs ?
+- (#doubts) : Which committees have recommended or reported on disinvestments in PSUs ?
 
