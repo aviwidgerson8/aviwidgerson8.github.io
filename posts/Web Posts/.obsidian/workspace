@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "2bfa078884701a5e",
+        "id": "7ae3c5a3708ff5b8",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Web - Notes/Learning Notes/Answer Writing/IAS Baba Answer Writing Practice/2021/February'21.md",
-            "mode": "source"
+            "file": "images/arjun.jpg"
           }
         }
       }
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web - Notes/Learning Notes/Answer Writing/IAS Baba Answer Writing Practice/2021/February'21.md",
+                "file": "images/arjun.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Web - Notes/Learning Notes/Answer Writing/IAS Baba Answer Writing Practice/2021/February'21.md",
-    "Web - Notes/Learning Notes/Answer Writing/Insights IAS Answer Writing Practice/2021/February'21.md",
-    "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/November 2020.md",
-    "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2021/January 2021.md",
-    "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2021/February 2021.md",
-    "Web - Notes/Learning Notes/Current Affairs/Opinion/2021/February 2021.md",
-    "Web - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/OnlyIAS/2020/December 2020.md",
-    "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/December 2020.md",
-    "Web - Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/OnlyIAS/2020/November 2020.md",
-    "Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2020/October 2020.md"
+    "images/arjun.jpg",
+    "Planning/Timeline/Schedule Timeline.md",
+    "Planning/Current Schedule (General Days).md",
+    "Planning/Resources/UPSC - General Studies.md",
+    "Planning/Progress/Targets Timeline - Overall.md",
+    "Planning/Resources/Goodreads.md",
+    "Planning/Progress/Goodreads Booklist - I.md",
+    "Planning/Progress/Monthly/Targets Timeline - Jun.md",
+    "Planning/Progress/Monthly/Targets Timeline - Apr, May.md",
+    "Planning/Progress/Monthly/Targets Timeline - Feb, Mar.md"
   ]
 }
