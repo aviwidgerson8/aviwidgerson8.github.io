@@ -101,3 +101,74 @@
 - [ ] What is the functions of FSSAI ? Who is its authority ? 
 - [ ] Which articles in constitution define the powers of Human Rights Commissions in stsate & centre ? are the recommendations of NHRC/SHRC binding on government ? 
 - [ ] What is Article - 371(J) ? 
+- [ ] #value ; Telecom Operators are required to give access to govt. & law enforcement agencies of subscriber data registration (SDR) portal 
+- [ ] #dictionary : out of kilter ?
+- [ ] What is the judicial intervention (SC's) that lead to the adoption of CNG in Delhi ?
+- [ ] #statistics : As per WHO ~ 5.4L dealths take place annually globally because of intake of industrially produced trans-fatty acids & hence it called for elimination of industrially produced trans-fatty acids from global food supply by 2023
+- [ ] What is the level & gap between law & enformcement in case of FSSAI's trans-fatty acids
+- [ ] #dictionary : unswervingly ?
+- [ ] What is Yemen's crisis ?
+- [ ] #map : Aden ?
+- [ ] #value : India exports 33% of pima cotton from US & 45% of giza cotton from egypt
+- [ ] #value : few basins of himalayas - sutlej, thulo bheri, kali gandaki, dudh kosi & arun ?
+- [ ] Why would glacial melting decrease with decrease in snow fall ?
+- [ ] #value : What does the term intermediaries imply ? it includes any person on behalf of another recieves, stores or transmits any electronic record
+- [ ] What is J.J.Irani committee's report on One person companies ?
+
+## 8th February 2021
+- [ ] What are index funds ?
+- [ ] #rivers : Rishiganga ? Dhauliganga ?
+- [ ] What is the structure of Disaster Management in the country ? 
+- [ ] What is NCMC ? Who is its authority ? What is its function ? 
+- [ ] What are the functions of Central Water Commission ? Who is its authority ?
+- [ ] #map : Nanda Devi ?
+- [ ] What is the issue with glacial lakes ?
+- [ ] What was the Uttharakhand 2013 floods issue ?
+- [ ] What is Centre's FAME - II scheme ?
+- [ ] #rivers : Sharda ?
+- [ ] What is Glacial retreat & Permafrost thaw ? What are water pockets ?
+- [ ] #value : Glacial retreat & permafrost thaw are projected to decrease the stability of mountain slopes & increase the number & area of glacial lakes, says latest UN IPCC reports
+- [ ] #lakes : Vasudhara Tal ?
+- [ ] #national-parks : Nanda Devi National Park ?
+- [ ] #rivers : Mandhakini ?
+- [ ] What is Kiran Service by Dept. of Empowerment of PwD ?
+- [ ] #value #statistics : Almost 15,170 calls have been made to the Kiran Service of DEPwD, majority being males (70%) & of students category 
+- [ ] #mains : How effective can the changing the defence from service industry to exports industry be, wrt. economy & polity of the country ?
+
+## 9th February 2021
+- [ ] How is Tamil Nadu's reservation law protected under ninth schedule ? What is the unique thing about  it ?
+- [ ] #value : In 1983 survey was conducted based on which the 69% reservation was provided
+- [ ] What is the extent of implementation of reservations in private colleges ? are they mandated to do so ?
+- [ ] #map : Naypyidaw ?
+- [ ] What is Vidyagama Scheme ?
+- [ ] #tiger-reserves : Srivilliputhur Megamalai Tiger Reserve ? What are the other 4 Tiger Reserves in TN ?
+- [ ] What are significant provisions of Provision of Patents Act, 1970 ?
+- [ ] #dictionary : lampoon ?
+- [ ] #dictionary : reneging ?
+- [ ] What are the issues with spectrum pricing policies ?
+
+## 10th February 2021
+- [ ] Who constitutes Lokpal Selection/ Search Committe ? 
+- [ ] What is Sect 8(1) of RTI Act, which provides exemption from providing infromation by RTI ?
+- [ ] What are the functions of Permanent Court of Arbitration (PCA) ? 
+
+## 11th February 2021
+- [ ] What was trojan horse Netwire
+- [ ] #statistics : only 2.2%  ofcases registered under UAPA b/w 2016-19 ended in conviction by court
+- [ ] Is management of sand a state / centre's subject ?
+- [ ] #value : furnace oil from titanium factory leaks into sea in kerala
+- [ ]  What is Article 121 ? What is the tussle b/w Article 121 & privileges of parliament ? 
+- [ ]  #examples : In MH migrant workers who slept on the tracks were run over by a train 
+- [ ]  What is the significance of World Sustainable Development Summit'21 by TERI ?
+- [ ]  #value : Ancient Monuments and Archaeological Sites and Remains Act of 1958 defines an ancient monument as “any structure, erection or monument or any tumulus or place of interment or any cave, rock sculpture, inscription or monolith of historical, archaeological or artistic interest.”
+- [ ]  #dictionary : delinquent ?
+
+## 12th February 2021
+- [ ]  #judgements : Shreya Singhal vs Union of India, 2015 ?
+- [ ]  #statistics : < 7% of public buses in the country were fully accessible to wheelchair users as of Dec'20, whereas the traget is 25% by 2022 under Accessible India Campaign, initial deadline was 2018
+- [ ]  What is Accessible India Campaign ?
+- [ ]  What are the requireents to pass a privilege motion against a MP ?
+- [ ]  #dictionary : relenquish ?
+- [ ]  What are the functions & mandate of IAEA ?
+- [ ]  What is balance of convenience ?
+- [ ]  What is Sect 17(2) of Arbitration & Conciliation Act, 1996 ?

@@ -15,19 +15,19 @@
 <!-- TEASER_END -->
 
 ## Feb'21
-- [ ] 1st - 7th Feb'21 : Hindu & IE - Opinions
-- [ ] 1st - 7th Feb'21 : Yojana Magazine
-- [ ] 1st - 7th Feb'21 : Kurukshetra Magazine
-- [ ] 1st - 7th Feb'21 : EPW Magazine
-- [ ] 1st - 7th Feb'21 : BS, FE, HT, Business Line, Tribune, Livemint - Opinions
-- [ ] 1st - 7th Feb'21 : Down to Earth Magazine
-- [ ] 1st - 7th Feb'21 : Ideas for India
+- [ ] 1st - 21st Feb'21 : Hindu & IE - Opinions
+- [ ] 1st - 21st Feb'21 : Yojana Magazine
+- [ ] 1st - 21st Feb'21 : Kurukshetra Magazine
+- [ ] 1st - 21st Feb'21 : EPW Magazine
+- [ ] 1st - 21st Feb'21 : BS, FE, HT, Business Line, Tribune, Livemint - Opinions
+- [ ] 1st - 21st Feb'21 : Down to Earth Magazine
+- [ ] 1st - 21st Feb'21 : Ideas for India
 
 ## Jan'21
-- [ ] 1st - 27th Jan'21 : Hindu & IE - Opinions
-- [ ] 1st - 27th Jan'21 : Yojana Magazine
-- [ ] 1st - 27th Jan'21 : Kurukshetra Magazine
-- [ ] 1st - 27th Jan'21 : EPW Magazine
-- [ ] 1st - 27th Jan'21 : BS, FE, HT, Business Line, Tribune, Livemint - Opinions
-- [ ] 1st - 27th Jan'21 : Down to Earth Magazine
-- [ ] 1st - 27th Jan'21 : Ideas for India
+- [ ] 1st - 31st Jan'21 : Hindu & IE - Opinions
+- [ ] 1st - 31st Jan'21 : Yojana Magazine
+- [ ] 1st - 31st Jan'21 : Kurukshetra Magazine
+- [ ] 1st - 31st Jan'21 : EPW Magazine
+- [ ] 1st - 31st Jan'21 : BS, FE, HT, Business Line, Tribune, Livemint - Opinions
+- [ ] 1st - 31st Jan'21 : Down to Earth Magazine
+- [ ] 1st - 31st Jan'21 : Ideas for India
