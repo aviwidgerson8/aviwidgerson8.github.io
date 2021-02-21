@@ -23,7 +23,7 @@
 
 ## UPSC General Studies
 ### Art & Culture
-- [ ] 11th NCERT - 1
+- [x] 11th NCERT - 1
 - [ ] 11th NCERT - 2
 - [ ] CCRT Notes
 - [ ] Art & Culture - Slides
@@ -36,7 +36,7 @@
 ### Medieval History
 - [ ] NCERT - Theme - II
 - [ ] 7th NCERT - History
-- [ ] TN - Medieval History
+- [x] TN - Medieval History
 - [ ] Wikipedia Summary
 ### Modern History
 - [ ] NCERT - Theme - III

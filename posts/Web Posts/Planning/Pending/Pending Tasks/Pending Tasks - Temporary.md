@@ -15,18 +15,18 @@
 <!-- TEASER_END -->
 
 ## Feb'21
-- [ ] 1st - 10th Feb'21 : Hindu Newspaper
-- [ ] 1st - 10th Feb'21 : Opinion
-- [ ] 1st - 10th Feb'21 : Insights IAS Daily News Analysis
-- [ ] 1st - 10th Feb'21 : Drishti IAS Daily News Analysis
-- [ ] 1st - 10th Feb'21 : Only IAS Slides
-- [ ] 1st - 10th Feb'21 : Insights IAS Editorials
-- [ ] 1st - 10th Feb'21 : Only IAS Editorials
-- [ ] 1st - 10th Feb'21 : Drishti IAS Editorials
-- [ ] 1st - 10th Feb'21 : Insights Static Quiz
-- [ ] 1st - 10th Feb'21 : Insights Current Affairs Quiz
-- [ ] 1st - 10th Feb'21 : Insights Revision Quiz
-- [ ] 1st - 10th Feb'21 : Business Standard Newspaper
+- [ ] 1st - 21st Feb'21 : Hindu Newspaper
+- [ ] 1st - 21st Feb'21 : Opinion
+- [ ] 1st - 21st Feb'21 : Insights IAS Daily News Analysis
+- [ ] 1st - 21st Feb'21 : Drishti IAS Daily News Analysis
+- [ ] 1st - 21st Feb'21 : Only IAS Slides
+- [ ] 1st - 21st Feb'21 : Insights IAS Editorials
+- [ ] 1st - 21st Feb'21 : Only IAS Editorials
+- [ ] 1st - 21st Feb'21 : Drishti IAS Editorials
+- [ ] 1st - 21st Feb'21 : Insights Static Quiz
+- [ ] 1st - 21st Feb'21 : Insights Current Affairs Quiz
+- [ ] 1st - 21st Feb'21 : Insights Revision Quiz
+- [ ] 1st - 21st Feb'21 : Business Standard Newspaper
 
 ## Jan'21
 - [ ] 1st - 31st Jan'21 : Opinion

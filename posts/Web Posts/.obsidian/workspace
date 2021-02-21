@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Answer Writing/IAS Baba Answer Writing Practice/2021/February'21.md",
+            "file": "Planning/Pending/Pending Tasks/Pending Tasks - Temporary.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Answer Writing/IAS Baba Answer Writing Practice/2021/February'21.md",
+                "file": "Planning/Pending/Pending Tasks/Pending Tasks - Temporary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,18 +94,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "Planning/Pending/Pending Tasks/Pending Tasks - Temporary.md",
+    "Planning/Pending/Pending Tasks/Pending Tasks - Overall.md",
+    "Planning/Resources/UPSC - General Studies.md",
     "Answer Writing/IAS Baba Answer Writing Practice/2021/February'21.md",
     "images/arjun.jpg",
     "Planning/Timeline/Schedule Timeline.md",
     "Planning/Current Schedule (General Days).md",
-    "Planning/Resources/UPSC - General Studies.md",
     "Planning/Progress/Targets Timeline - Overall.md",
     "Planning/Resources/Goodreads.md",
-    "Planning/Progress/Goodreads Booklist - I.md",
-    "Planning/Progress/Monthly/Targets Timeline - Jun.md",
-    "Planning/Progress/Monthly/Targets Timeline - Apr, May.md"
+    "Planning/Progress/Goodreads Booklist - I.md"
   ]
 }
