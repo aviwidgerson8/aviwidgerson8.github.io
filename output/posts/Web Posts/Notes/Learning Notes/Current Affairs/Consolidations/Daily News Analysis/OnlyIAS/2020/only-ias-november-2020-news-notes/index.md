@@ -1,8 +1,8 @@
 .. title: Only IAS - November'20 News Analysis Notes
 .. slug: only-ias-november-2020-news-notes
 .. date: 2020-11-01 12:00 UTC+05:30
-.. tags: upsc, only ias, news analysis, notes
-.. category: upsc-pages
+.. tags: only ias, news analysis, notes
+.. category: upsc
 
 **Description** : *consolidated notes of monthly current affairs amagazines*
 
