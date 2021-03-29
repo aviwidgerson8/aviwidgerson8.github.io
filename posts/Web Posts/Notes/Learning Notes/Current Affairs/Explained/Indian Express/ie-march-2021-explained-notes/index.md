@@ -1,0 +1,16 @@
+.. title: Indian Express - March'21 Explained Notes
+.. slug: ie-march-2021-explained-notes
+.. date: 2021-03-29 08:38 UTC+05:30
+.. tags: indian express, explained, notes
+.. category: upsc
+
+**Description** : *consolidated notes of newspapers*
+
+***
+<!-- TEASER_END -->
+
+- [ ] #tiger-reserves : Satkosia Tiger Reserve ?
+- [ ] #tiger-reserves : Kanha Tiger Reserve ?
+- [ ] #dances : Ghodemodini ? Gopha ? Phugadi ?
+- [ ] #traditions : Shigmo ?
+- [ ] 

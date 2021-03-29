@@ -1,8 +1,8 @@
 .. title: Insights IAS - December'20 News Analysis Notes
 .. slug: insights-ias-december-2020- news-notes
 .. date: 2020-12-01 09:00 UTC+05:30
-.. tags: upsc, insights ias, news analysis, notes
-.. category: upsc-pages
+.. tags: insights ias, news analysis, notes
+.. category: upsc
 
 **Description** : *consolidated notes of monthly current affairs amagazines*
 

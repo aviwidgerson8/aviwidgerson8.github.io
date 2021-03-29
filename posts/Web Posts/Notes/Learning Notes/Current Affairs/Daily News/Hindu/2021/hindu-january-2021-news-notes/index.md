@@ -1,8 +1,8 @@
 .. title: Hindu - January'21  Notes
 .. slug: hindu-january-2021-news-notes
 .. date: 2021-01-01 08:28 UTC+05:30
-.. tags: upsc, hindu, newspapers, notes
-.. category: upsc-pages
+.. tags: hindu, news, notes
+.. category: upsc
 
 **Description** : *consolidated notes of newspapers*
 

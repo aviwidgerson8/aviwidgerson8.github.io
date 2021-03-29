@@ -1,8 +1,8 @@
 .. title: Drishti IAS - July'20 News Analysis Notes
 .. slug: drishti-ias-july-2020-news-notes
 .. date: 2020-07-01 
-.. tags: upsc, drishti ias, news analysis, notes
-.. category: upsc-pages
+.. tags: drishti ias, news analysis, notes
+.. category: upsc
 
 **Description** : *consolidated notes of monthly current affairs amagazines*
 
