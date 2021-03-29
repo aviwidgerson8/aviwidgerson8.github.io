@@ -1,10 +1,10 @@
-.. title: BS, BL, FE, HT, Tribune & Livemint - March'21 Opinion Notes
-.. slug: secondary-march-2021-opinion-notes
+.. title: Subsidary Resources - March'21 Opinion Notes
+.. slug: subsidary-resources-march-2021-opinion-notes
 .. date: 2021-03-29 08:38 UTC+05:30
 .. tags: opinion, notes
 .. category: upsc
 
-**Description** : *consolidated notes of opinions*
+**Description** : *consolidated notes of opinions - BS, BL, FE, Tribune, Livemint.*
 
 ***
 <!-- TEASER_END -->
