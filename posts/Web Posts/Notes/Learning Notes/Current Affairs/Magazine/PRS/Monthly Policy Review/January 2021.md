@@ -1,8 +1,8 @@
 .. title: PRS - January'21 Policy Review Notes
 .. slug: prs-january-2021-policy-review-notes
 .. date: 2021-02-04 13:46 UTC+05:30
-.. tags: upsc, prs, magazine, notes
-.. category: upsc-pages
+.. tags: prs, magazine, notes
+.. category: upsc
 
 **Description** : *consolidated notes of monthly magazine*
 

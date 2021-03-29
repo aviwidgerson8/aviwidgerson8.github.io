@@ -1,8 +1,8 @@
 .. title: Hindu - October'20  Notes
 .. slug: hindu-october-2020-news-notes
 .. date: 2020-10-01 08:00 UTC+05:30
-.. tags: upsc, hindu, newspapers, notes
-.. category: upsc-pages
+.. tags: hindu, news, notes
+.. category: upsc
 
 **Description** : *consolidated notes of newspapers*
 

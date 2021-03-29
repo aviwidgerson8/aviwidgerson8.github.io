@@ -1,8 +1,8 @@
 .. title: Hindu - February'21  Notes
 .. slug: hindu-february-2021-news-notes
 .. date: 2021-02-01 22:13 UTC+05:30
-.. tags: upsc, hindu, newspapers, notes
-.. category: upsc-pages
+.. tags: hindu, news, notes
+.. category: upsc
 
 **Description** : *consolidated notes of newspapers*
 
@@ -172,3 +172,29 @@
 - [ ]  What are the functions & mandate of IAEA ?
 - [ ]  What is balance of convenience ?
 - [ ]  What is Sect 17(2) of Arbitration & Conciliation Act, 1996 ?
+
+## 13th February 2021
+- [ ] What is India's National Wildlife Action Plan 2017-2035 ?
+- [ ] What are the powers of SEC wrt it's contempt 
+- [ ] What was last year's Padmanabha Swamy Temple verdict wrt royals as managers (shebait) ?
+- [ ] #rivers : Rishiganga ? Dhauliganga ?
+- [ ] #mains ; Are PILs infringing too much into the functioning of legislature ?
+- [ ] What is latest amendment of Arbitration and Conciliation (Amendment) Act, 2021 ?
+- [ ] What are the powers of Central Water Commission ? 
+- [ ] How effective has been the implementation of Sexual Harrasment of Women at Workplace (Prevention, Prohibition & Redressal) Act ?
+- [ ] What are the significant provisions under Unorganised Workers Social Security Act ? 
+- [ ]  What are different types of coffee grown in India ? 
+- [ ]  What has been the recent issue of Kerala Infra Investment Fund Board ? Which statutes support the state to take up such initiatives ? 
+- [ ]  What is Article 72 ? How long can the implementation be delayed ? 
+- [ ]  #art-forms : Tholpavakkoothu ? (Nizhalkkoothu or Olakkoothu)
+- [ ]  What is Kaladan Multi-Modal Transport Project ? Trilateral Highway Project ? 
+- [ ]  #statistics : 10% of 35M twitter handles & 350M Facebook accounts are fake 
+- [ ]  #statistics : About 4L children under 5 are in danger of dying of acute malnutrition in war-torn & impoverished Yemen, an increase of 22% over 2020
+- [ ]  #dictionary : misfeasance ? malfeasance ? 
+- [ ]  #dictionary : impleaded ? 
+
+
+## 14th February 2021
+- [ ]  
+
+

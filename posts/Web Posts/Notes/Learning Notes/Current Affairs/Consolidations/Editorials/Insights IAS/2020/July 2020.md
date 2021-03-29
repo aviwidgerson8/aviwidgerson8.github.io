@@ -1,8 +1,8 @@
 .. title: Insights IAS - July'20 Editorials Notes
 .. slug: insights-ias-july-2020-editorials-notes
 .. date: 2020-07-01 09:30 UTC+05:30
-.. tags: upsc, insights ias, editorials, notes
-.. category: upsc-pages
+.. tags: insights ias, editorial analysis, notes
+.. category: upsc
 
 **Description** : *consolidated notes of monthly current affairs magazines*
 

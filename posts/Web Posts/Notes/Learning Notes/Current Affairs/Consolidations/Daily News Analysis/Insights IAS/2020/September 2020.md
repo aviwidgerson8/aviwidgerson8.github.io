@@ -1,8 +1,8 @@
 .. title: Insights IAS - September'20 News Analysis Notes
 .. slug: insights-ias-september-2020-news-notes
 .. date: 2020-09-01 
-.. tags: upsc, insights ias, news analysis, notes
-.. category: upsc-pages
+.. tags: insights ias, news analysis, notes
+.. category: upsc
 
 **Description** : *consolidated notes of monthly current affairs amagazines*
 

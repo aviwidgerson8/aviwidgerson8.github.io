@@ -1,8 +1,8 @@
 .. title: Hindu - November'20  Notes
 .. slug: hindu-november-2020-news-notes
 .. date: 2020-11-01 08:00 UTC+05:30
-.. tags: upsc, hindu, newspapers, notes
-.. category: upsc-pages
+.. tags: hindu, news, notes
+.. category: upsc
 
 **Description** : *consolidated notes of newspapers*
 
@@ -168,7 +168,7 @@
     - What is Apada Mitra Scheme ? 
     - Who is the regulating authority of Oil in India ? 
 
-- [ ]  ## 11th November 2020
+## 11th November 2020
 
 - [ ] Who are Variamkunnath Kunjahamed Haji & Ali Musliar ? 
 - [ ] What happened in 1921 Malabar Rebellion ? 
