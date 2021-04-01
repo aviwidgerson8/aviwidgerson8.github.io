@@ -71,4 +71,20 @@
 - [ ] What is the issue of Teesta river, which remains unresolved ? 
 - [ ] What is significance of Chilahati-Halbidari railway link ?
 - [ ] #value : The right to know has long been enshrined as a part of right to freedom of expression 
+- [ ] What is Catch the Rain Campaigin ?
+- [ ] #statistics : India recieves per annum 3880 BCM but utilises only 699 BCM - 18%, rest is lost in evaporation& other factors
+- [ ] What is NITI's Composite Water Management Index ? What does it say ?
+- [ ] #statistics : As per NITI's Composite Water Management Index, approx. 75% do not have access to drinking water in their premises & India ranks 120/122 countries in terms of water quality
+- [ ] #statistics : 78% of fresh water is consumed by Agri. in India
+- [ ] #statistics : Only half of India's gross cropped area is irrigated, Ground water contributes - 64%, canals  - 23%, tanks - 2% & other resources - 11%
+- [ ] #value : Rice & Sugarcane alone consume 60% of India's irrigation water
+- [ ] What is fertigation ? 
+- [ ] What is Direct Seeded Rice ? System of Rice Intensification ? 
+- [ ] What is Family Drip System ? 
+- [ ] What is Pani Bachao, Paisa Kamao by World Bank + J-PAL in Punjab ? 
+- [ ] What are some major rivers which India & Bangladesh share ? What are their longstanding issues ? 
+- [ ] What are the road connectivity projects b/w India & Myanmar, Thailand ? 
+- [ ] #value : A recent World Bank study has projected exponential growth in trade with consequent effect on GDP if there is a free trade & liberal movement b/w Ind-Bangladesh
+- [ ] #significant-personalities : Chandrakanth Basu ? Bhai Parmanand ? #literature : Anand Math ? 
+- [ ] #dictionary : apostasy ? 
 - [ ] 
