@@ -3,6 +3,7 @@
 .. date: 2021-04-01 22:10 UTC+05:30
 .. tags: opinion, notes
 .. category: upsc
+.. status: draft
 
 **Description** : *consolidated notes of monthly opinions*
 
