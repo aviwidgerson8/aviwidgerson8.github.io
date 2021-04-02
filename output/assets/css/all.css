@@ -1030,15 +1030,15 @@ h2, .h2 {
   font-size: 1.6rem;
   font-weight: 600;
   color: #202020;
-  text-decoration: underline;
+  /*text-decoration: underline;*/
 }
 
 h3, .h3 {
   font-size: 1.5rem;
   font-weight: 600;
   color: #3578E5;
-/*  text-decoration: underline;
-*/}
+  text-decoration: underline;
+}
 
 h4, .h4 {
   font-size: 1.4rem;
