@@ -73,9 +73,6 @@ a {
   width: auto;
 }
 
-pre {
-  background: #f4f4f4;
-}
 
 .horizontalimage {
   display: block;
@@ -110,11 +107,12 @@ padding-bottom: 0.5rem;
 }
 
 .headsborder {
-	/*border-style: solid;*/
-	border-top-style: none;
-  border-bottom-style: none;
-  /*border-top-left-radius: 0.5rem;*/
-  /*border-top-right-radius: 0.5rem;*/
+	border-style: solid;
+	/*padding: 2rem;*/
+	/*border-top-style: none;*/
+  	/*border-bottom-style: none;*/
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
 }
 
 .headingborder {
@@ -129,12 +127,12 @@ padding-bottom: 0.5rem;
 }
 
 .dotsborder {
-	/*border-style: solid;*/
+	border-style: solid;
 	border-top-style: none;
-	border-bottom-style: none;
-	padding-top: 1rem;
-	/*border-bottom-left-radius: 0.5rem;*/
-	/*border-bottom-right-radius: 0.5rem;*/
+	/*border-bottom-style: none;*/
+	padding: 1.5rem;
+	border-bottom-left-radius: 0.5rem;
+	border-bottom-right-radius: 0.5rem;
 }
 
 .bg-light {
@@ -190,11 +188,11 @@ h6, .h6 {
 }
 
 .nav-link {
-	font-size: 1.5rem;
+	font-size: 1.6rem;
 }
 
 .navbar-light .navbar-brand {
-	font-size: 2.2rem;
+	font-size: 2.4rem;
 	font-weight: 600;
 	/*color: #3578E5;*/
 	color: black;
