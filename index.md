@@ -1,18 +1,17 @@
 .. title: Hi!
 .. slug: index
 .. template: page.tmpl
-.. hidetitle: true
 .. date: 2018-10-28 09:04:38 UTC+05:30
 
-Hi! I'm **Hasanth**.
+I'm **Hasanth**.
 
 <div class="twitter-feed">
     <div class="container">
         <div class="row">
-			<div class="col-md-8" style="padding-left: 0;">
+			<div class="col-md-6" style="padding-left: 0;">
 				<img src="/images/luffy.jpg">
 			</div>
-            <div class="col-md-4">
+            <div class="col-md-6">
               <!-- Twitter Embed Code -->
                <a class="twitter-timeline" data-width="250" data-height="350" href="https://twitter.com/aviwidgerson8?ref_src=twsrc%5Etfw">Tweets by aviwidgerson8</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                <!-- / Twitter Embed Code -->
