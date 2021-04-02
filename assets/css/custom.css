@@ -131,6 +131,7 @@ padding-bottom: 0.5rem;
 	border-top-style: none;
 	/*border-bottom-style: none;*/
 	padding: 1.5rem;
+	padding-bottom: 0rem;
 	border-bottom-left-radius: 0.5rem;
 	border-bottom-right-radius: 0.5rem;
 }
@@ -184,7 +185,7 @@ h6, .h6 {
 	border-top-style: solid;
 	border-width: 2px;
 	border-color: black;
-  padding-top: 10px;
+	padding-top: 0.75rem;
 }
 
 .nav-link {
