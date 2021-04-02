@@ -986,12 +986,12 @@ padding-bottom: 0.5rem;
 }
 
 .headsborder {
-	border-style: solid;
+	/*border-style: solid;*/
 	/*padding: 2rem;*/
-	/*border-top-style: none;*/
-  	/*border-bottom-style: none;*/
-  border-top-left-radius: 0.5rem;
-  border-top-right-radius: 0.5rem;
+	border-top-style: none;
+  	border-bottom-style: none;
+  /*border-top-left-radius: 0.5rem;*/
+  /*border-top-right-radius: 0.5rem;*/
 }
 
 .headingborder {
@@ -1006,13 +1006,13 @@ padding-bottom: 0.5rem;
 }
 
 .dotsborder {
-	border-style: solid;
+	/*border-style: solid;*/
 	border-top-style: none;
 	/*border-bottom-style: none;*/
 	padding: 1.5rem;
 	padding-bottom: 0rem;
-	border-bottom-left-radius: 0.5rem;
-	border-bottom-right-radius: 0.5rem;
+	/*border-bottom-left-radius: 0.5rem;*/
+	/*border-bottom-right-radius: 0.5rem;*/
 }
 
 .bg-light {
