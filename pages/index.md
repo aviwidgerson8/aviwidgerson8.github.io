@@ -31,9 +31,8 @@ In this blog, I write articles related to theoretical sciences & system hacks, w
 - [Book Reviews](link://tag/books).
 
 ## Extras
-During my preparation for UPSC, I have made some notes on 
-- [General Studies](link://category/upsc) & 
-- [Answer Writing](link://category/answer writing).
+- [UPSC - General Studies](link://category/upsc) & 
+- [UPSC - Answer Writing](link://category/answer writing).
 
  
 
