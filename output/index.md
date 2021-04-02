@@ -1,6 +1,7 @@
 .. title: Hi!
-.. hidetitle: true
 .. slug: index
+.. template: page.tmpl
+.. hidetitle: true
 .. date: 2018-10-28 09:04:38 UTC+05:30
 
 Hi! I'm **Hasanth**.
