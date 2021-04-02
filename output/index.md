@@ -1,8 +1,9 @@
 .. title: Hi!
+.. hidetitle: true
 .. slug: index
 .. date: 2018-10-28 09:04:38 UTC+05:30
 
-I'm **Hasanth** 
+Hi! I'm **Hasanth**.
 
 <div class="twitter-feed">
     <div class="container">
