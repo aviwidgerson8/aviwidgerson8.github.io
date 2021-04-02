@@ -24,9 +24,10 @@ In this blog, I write articles related to theoretical sciences & system hacks, w
 
 ## Content & Categories 
 - [Maths & Theoretical CS](link://tag/maths), 
-- [Psychology, Philosophy, Neurology & Neuroscience](link://tag/brain), 
+- [Psychology, Philosophy & Societies](link://tag/humans), 
 - [Programming & Software](link://tag/software), 
-- [Economics & Societies](link://tag/social), 
+- [Economics](link://tag/economics), 
+- [Physical & Biological Sciences](link://tag/science)
 - [Book Reviews](link://tag/books).
 
 ## Extras

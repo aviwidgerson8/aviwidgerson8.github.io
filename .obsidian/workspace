@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/Blog/Software/Deep Learning Setup.md",
+            "file": "pages/index.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Blog/Software/Deep Learning Setup.md",
+                "file": "pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +97,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "pages/index.md",
     "posts/Blog/Software/Deep Learning Setup.md",
     "posts/Blog/Software/Audio Drivers Installation.md",
-    "pages/index.md",
     "posts/Blog/Research/Asymptotic Sequential Learning.md",
     "posts/UPSC/Notes/Answer Writing/IAS Baba Answer Writing/2021/March 2021.md",
     "posts/UPSC/Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/OnlyIAS/2020/December 2020.md",
