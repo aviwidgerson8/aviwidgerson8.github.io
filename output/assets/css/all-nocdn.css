@@ -944,6 +944,10 @@ a {
   width: auto;
 }
 
+pre {
+  background: #f4f4f4;
+}
+
 .horizontalimage {
   display: block;
   margin-left: auto;

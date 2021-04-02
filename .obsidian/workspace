@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/about.md",
+            "file": "pages/index.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/about.md",
+                "file": "pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "pages/index.md",
+    "posts/Blog/Research/Asymptotic Sequential Learning.md",
+    "posts/UPSC/Notes/Answer Writing/IAS Baba Answer Writing/2021/March 2021.md",
+    "posts/Blog/Software/Audio Drivers Installation.md",
+    "posts/Blog/Software/Deep Learning Setup.md",
+    "posts/UPSC/Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/OnlyIAS/2020/December 2020.md",
     "pages/about.md",
-    "posts/Old Posts/Software/Audio Drivers Installation.md",
-    "posts/Old Posts/Software/Deep Learning Setup.md",
-    "posts/Old Posts/Research/Asymptotic Sequential Learning.md",
     "pages/readme.md",
-    "posts/Web Posts/Maintainance.md",
-    "pages/Untitled.md",
-    "posts/Web Posts/Web - Notes/Learning Notes/Current Affairs/Daily News/Hindu/2021/January 2021.md",
-    "pages/project.md",
-    "pages/projects.md"
+    "posts/UPSC/Notes/Learning Notes/Current Affairs/Opinion/Hindu & IE/April 2021.md",
+    "posts/UPSC/Notes/Learning Notes/Current Affairs/Opinion/Hindu & IE/February 2021.md"
   ]
 }

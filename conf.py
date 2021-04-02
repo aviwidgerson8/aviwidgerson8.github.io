@@ -136,8 +136,8 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-    	("/pages/about/","about"),
-    	("/","blog"),
+    	# ("/pages/about/","about"),
+    	("/categories/cat_blog/","blog"),
     	("/tags.html","topics"),
         ("/archive.html","archive")
         # ((("/categories.html","categories"),("/tags.html","topics"),),"")
@@ -227,7 +227,7 @@ POSTS = (
 )
 PAGES = (
     ("pages/*.rst", "pages", "page.tmpl"),
-    ("pages/*.md", "pages", "page.tmpl"),
+    ("pages/*.md", "", "page.tmpl"),
     ("pages/*.txt", "pages", "page.tmpl"),
     ("pages/*.html", "pages", "page.tmpl"),
 )
@@ -537,7 +537,7 @@ HIDDEN_AUTHORS = ['Guest']
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
 # (translatable)
-# INDEX_PATH = ""
+INDEX_PATH = "posts"
 
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
@@ -585,7 +585,7 @@ CREATE_MONTHLY_ARCHIVE = True
 # Final location for the blog main RSS feed is:
 # output / TRANSLATION[lang] / RSS_PATH / RSS_FILENAME_BASE RSS_EXTENSION
 # (translatable)
-# RSS_PATH = ""
+RSS_PATH = ""
 
 # Final location for the blog main Atom feed is:
 # output / TRANSLATION[lang] / ATOM_PATH / ATOM_FILENAME_BASE ATOM_EXTENSION
@@ -594,7 +594,7 @@ CREATE_MONTHLY_ARCHIVE = True
 
 # Atom filename base (without extension); used for indexes.
 # (translatable)
-ATOM_FILENAME_BASE = "feed"
+# ATOM_FILENAME_BASE = "feed"
 
 # Extension for Atom feed files
 # ATOM_EXTENSION = ".atom"
