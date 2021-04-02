@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/index.md",
+            "file": "posts/UPSC/Notes/Answer Writing/IAS Baba Answer Writing/2021/February 2021.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/index.md",
+                "file": "posts/UPSC/Notes/Answer Writing/IAS Baba Answer Writing/2021/February 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "posts/UPSC/Notes/Answer Writing/IAS Baba Answer Writing/2021/February 2021.md",
     "pages/index.md",
     "posts/Blog/Software/Deep Learning Setup.md",
     "posts/Blog/Software/Audio Drivers Installation.md",
@@ -105,7 +106,6 @@
     "posts/UPSC/Notes/Learning Notes/Current Affairs/Consolidations/Daily News Analysis/OnlyIAS/2020/December 2020.md",
     "pages/about.md",
     "pages/readme.md",
-    "posts/UPSC/Notes/Learning Notes/Current Affairs/Opinion/Hindu & IE/April 2021.md",
-    "posts/UPSC/Notes/Learning Notes/Current Affairs/Opinion/Hindu & IE/February 2021.md"
+    "posts/UPSC/Notes/Learning Notes/Current Affairs/Opinion/Hindu & IE/April 2021.md"
   ]
 }
