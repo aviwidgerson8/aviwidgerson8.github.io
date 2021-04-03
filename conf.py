@@ -929,7 +929,18 @@ src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents © <a href="mailto:{email}">{author}</a>, Nikola. <p style="font-style: italic;"> If you are not able to do what you have decide to do, how will you ever become who you want to ?</p>' 
+CONTENT_FOOTER = ''' <div class="container">
+        <div class="row">
+            <div class="col-md-6" style="padding-left: 0;">
+            <p style="margin-bottom: 0.5rem;">Contents © <a href="mailto:{email}">{author}</a></p>
+            <a href="https://twitter.com/aviwidgerson8?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">Follow @aviwidgerson8</a>
+            <a class="github-button" href="https://github.com/aviwidgerson8" data-size="large" aria-label="Follow @aviwidgerson8 on GitHub">Follow</a>
+            </div>
+            <div class="col-md-6">
+              <p style="font-style: italic;"> If you are not able to do what you have decided to do, How will you ever become who you want to ?</p>
+            </div>
+        </div>
+    </div> ''' 
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -1213,11 +1224,20 @@ INDEX_DISPLAY_POST_COUNT = 5
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-# EXTRA_HEAD_DATA = ""
+EXTRA_HEAD_DATA = """<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NDB4Z0BV0E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NDB4Z0BV0E');
+</script>"""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
-# BODY_END = ""
+BODY_END = """<script async defer src="https://buttons.github.io/buttons.js"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>"""
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
@@ -1298,13 +1318,13 @@ INDEX_DISPLAY_POST_COUNT = 5
 # Uncomment and modify to following lines to match your accounts.
 # Images displayed come from the `previewimage` meta tag.
 # You can specify the card type by using the `card` parameter in TWITTER_CARD.
-# TWITTER_CARD = {
-#     # 'use_twitter_cards': True,  # enable Twitter Cards
-#     # 'card': 'summary',          # Card type, you can also use 'summary_large_image',
-#                                   # see https://dev.twitter.com/cards/types
-#     # 'site': '@website',         # twitter nick for the website
-#     # 'creator': '@username',     # Username for the content creator / author.
-# }
+TWITTER_CARD = {
+    'use_twitter_cards': True,  # enable Twitter Cards
+    'card': 'summary',          # Card type, you can also use 'summary_large_image',
+                                  # see https://dev.twitter.com/cards/types
+    'site': '#randomdots',         # twitter nick for the website
+    'creator': 'aviwidgerson8',     # Username for the content creator / author.
+}
 
 # Bundle JS and CSS into single files to make site loading faster in a HTTP/1.1
 # environment but is not recommended for HTTP/2.0 when caching is used.

@@ -5,21 +5,19 @@
 
 I'm **Hasanth**.
 
-<div class="twitter-feed">
-    <div class="container">
+   <div class="container">
         <div class="row">
 			<div class="col-md-6" style="padding-left: 0;">
 				<img src="/images/luffy.jpg">
 			</div>
             <div class="col-md-6">
               <!-- Twitter Embed Code -->
-               <a class="twitter-timeline" data-width="250" data-height="300" href="https://twitter.com/aviwidgerson8?ref_src=twsrc%5Etfw">Tweets by aviwidgerson8</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+               <a class="twitter-timeline" data-width="250" data-height="280" href="https://twitter.com/aviwidgerson8?ref_src=twsrc%5Etfw">Tweets by aviwidgerson8</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                <!-- / Twitter Embed Code -->
             </div>
         </div>
+	<br>
     </div>
-</div>
-
 
 In this blog, I write articles related to theoretical sciences & system hacks, which I expect would serve both as - an account of my thoughts, progress & also as a comprehensive knowledge resource, for the interested.
 
