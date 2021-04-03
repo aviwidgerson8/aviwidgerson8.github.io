@@ -21,18 +21,6 @@ I'm **Hasanth**.
 
 In this blog, I write articles related to theoretical sciences & system hacks, which I expect would serve both as - an account of my thoughts, progress & also as a comprehensive knowledge resource, for the interested.
 
-## Content & Categories 
-- [Maths & Theoretical CS](link://tag/maths), 
-- [Psychology, Philosophy & Societies](link://tag/humans), 
-- [Programming & Software](link://tag/software), 
-- [Economics](link://tag/economics), 
-- [Physical & Biological Sciences](link://tag/science)
-- [Book Reviews](link://tag/books).
-
-## Extras
-- [UPSC - General Studies](link://category/upsc) & 
-- [UPSC - Answer Writing](link://category/answer writing).
-
  
 
 
