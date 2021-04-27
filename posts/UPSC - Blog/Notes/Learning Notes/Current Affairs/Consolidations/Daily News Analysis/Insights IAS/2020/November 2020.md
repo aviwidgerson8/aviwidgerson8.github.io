@@ -87,6 +87,268 @@
 - [ ] What is FAO & its functions, authority ? 
 - [ ] What is Atal Bimit Vyakti Kalyan Yojana ? 
 
+## 10th November
+- [ ] Which population census was considered in population report of 14th & 15th Finance Commissions ? 
+- [ ] What is Article - 280 ? 
+- [ ] What is Sect - 4 of Competition Act ? 
+- [ ] What is Competition Commission ? Where does it derive its power from ? What are its functions ? Who is its authority ?
+- [ ] Where can Appeals against CCI orders be filed ? 
+- [ ] Who are the member countries of OPEC+ ? 
+- [ ] #map : Brunei ?
+- [ ] Who are the member countries of OPEC ? Who are the founding members of the organization ? 
+- [ ] #map : Algeria, Angola, Equatorial Guinea, Gabon, Libiya, Nigeria, Republic of Congo, UAE, Venezuela ?
+- [ ] #map : All countries of African Continent ? 
+- [ ] OPEC members form what percentage of oil exports in the world ? What is the percentage of OPEC+ ?
+- [ ] What are the components & products, intermediaries in refining crude oil ? 
+- [ ] What is Vamsadhara - Nagavali link Project ? 
+- [ ] #map : Important Irrigation Projects & Also mentioned in Current Affairs recently ? 
+- [ ] #statistics : IN 148 days NCR air quality was in poor to severe quality in 2019 & it was 206 days in 2018 
+- [ ] What is the significance of mRNA type of vaccines ? 
+- [ ] When is herd immunity achieved ? 
+- [ ] What is the difference b/w RT-PCR, Rapid Antibody, Rapid Antigen tests ? 
+- [ ] What is NE Centre for Technolofy Application & Reach (NECTAR) ? What are its functions ? Who is its authorty ? 
+- [ ] #map : Pampore Region ? 
+- [ ] #species : European Mink ? 
+- [ ] What is Urban Mobility India Conference ? 
+
+## 11th November
+- [ ] #significant-personalities : Maulana Abul Kalam Azad ? 
+- [ ] #literature : Al-Hilal ? 
+- [ ] #significant-events : What are Morley-Minto Reforms ?
+- [ ] What is the principle of Wahadat-e-Din ? 
+- [ ] #map : Nagorno-Karabakh region ? 
+- [ ] #map Azerbhaijan ? Armenia ? 
+- [ ] What is an adjuvant ? What is its functions ? 
+- [ ] #map : Mauna Kea ? Hawaii ?
+- [ ] What is Thirty Metre Telescope ? Which countries are involved in the project ? What is its siginificance ? 
+- [ ] What is Graded Response Action Plan (GRAP) plan ? Who is the enforcing authority before Commission of Air Quality formation ? After the Commisison formation ? 
+- [ ] What are the levels of PM 2.5 & PM 10 for different categories of Air Quality ? 
+
+## 12th November
+- [ ] #tribes : Sarna ? 
+- [ ] What is the case of Zoroasters ? Under which religion are they recorded in census ? 
+- [ ] Which ministry is the overseeing authority of PLI scheme ? In which sectors the benefits are provided in scheme ? What is the total outlay of the scheme ? 
+- [ ] What is the concept of Maritime Clusters ? What is its significance to India ? 
+- [ ] What are the latest guidelines by Min. of I&B for OTT platforms ? 
+- [ ] What is Space-X's Crew Dragon, Falcon 9 ? What is their significance ? 
+- [ ] #national-parks : Panna National Park ? 
+- [ ] List of UNESCO's Biosphere Reserves in India ? 
+- [ ] What is UNESCO's MAB Program ? What are its objectives ? 
+- [ ] What is India's Naitonal Biodiversity Action Plan ? 
+- [ ] #wetlands : Heiderpur Wetland ? 
+- [ ] #rivers : Solani River ? 
+- [ ] Latest List of Ramsar Sites in India ? 
+
+## 13th November
+- [ ] What is Sect-14 of Contempt of Courts Act, 1971 ? Which cases don't need the consent of AG, and can be taken up by cognisance by SC, HCs ?
+- [ ] What are the powers of SCs & HCs wrt Contempt of Courts ? Does Constitution address this ? If so which article ? 
+- [ ] What is Sect-10 of Contempt of Courts Act, 1971 ? 
+- [ ] What is International Vaccine Access Centre (VAC) ? What are its functions ? Who is its authority ? What are the 5 vaccines monitored in its report ? DPT, Measles-Vaccine, Haemophilus Influenza - B, Pneumococcal Conjugate Vaccine(PCV), Rotavirus Vaccine 
+- [ ] What are the vaccines which India monitors or provides country wide every year to both children & elders ? 
+- [ ] #statistics : India's under-5 diarrhoea & pneumonia deaths in 2017 - 2,33,240
+- [ ] Which diseases have indigenously developed vaccines in India ? 
+- [ ] Which countries are members of RCEP ? Is RCEP an organization or grouping ?
+- [ ] What is Sino-Biritish Joint Declaration / Agreement ? When was it signed ? What are its conditions ? 
+- [ ] What is Non-Proliferation Treaty ? Which countries ratified & which didn't ? 
+- [ ] What is International Atomic Energy Agency ? What are its functions ? Who is its authority ? 
+- [ ] What is General Conference related to IAEA, by which its members are elected ? 
+- [ ] What are the peaceful usage of nuclear susbtances projects overseen / being a part by IAEA ? Program of Action for Cancer Therapy, Human Health Program, Water Availability Enhancement Project ? 
+- [ ] What is Project 75 ? What is the Kalvari Class of Ships ? 
+- [ ] What are the amendments made to the latest FCRA rules ? 
+
+## 16th November
+- [ ] #significant-events : What is Millienarian Movement ? 
+- [ ] What is faith of Birsait ? 
+- [ ] What is Ulgulan Resistance led by Birsa Munda ? 
+- [ ] What are the schemes taken up to address the imbalance in female sex-ratio ? What is Rashtriya Mahila Kosh ? What is PMMVY ? What is Sukanya Samriddhi Yojana ? What is Beti Bachao, Beti Padao ? 
+- [ ] What is the case of when no party gets a majority in election, What are the powers of Governor in this regard ? Is anything mentioned about it in the Constitution, whom to choose for the Chief Min. ?
+- [ ] Is any preliminary intimation, like 14 days, to the Speaker/House required to pass no-confidence motion ? 
+- [ ] What are the maximum number of days one can be detained as per Sect-167 CrPC ? What does Article - 22 detension clauses say in this regard ? 
+- [ ] Which fundamental rights dont apply to prisoners ? 
+- [ ] What is Permissible Differential under Income Tax Act b/w circle rate & agreement value to be raised from 10% to 20% for primary sale of new units till Jun'21 ?
+- [ ] What is National Infra Investment Fund ? What are its functions ? Who is its authority ? 
+- [ ] What is a technical recession, as said by RBI ? 
+- [ ] What is Scheduled Tribes & Other Forest Dwellers (Recognition of Forest RIghts) Act, 2006 ? What are its provisions ? 
+- [ ] What is the concept of natural justice ? to what extent it is used in reality by judiciary ? 
+- [ ] What are the conditions to qualify as Forest Dwelling ST ? What is the condition to qualify as Other Traditional Forest Dweller ? 
+- [ ] What is the case of Bamboo, in Forest Right0s (FRA) ? What are the latest amendments to FRA ? 
+- [ ] What is the role of Gram Sabha in defining/recognizing the Forest Rights ? 
+- [ ] What were conditions regarding IP in RCEP grouping ? What was India's calculation in this context ? Did it have any role in not entering RCEP ? 
+- [ ] What is UAE's golden visa scheme ? 
+- [ ] #map List of countries in Carribean Sea ? 
+- [ ] #map : Tristan da Cunha ? 
+
+## 17th November
+- [ ] What are Articles - 127 & 128 ?
+- [ ] What is the joint initiative b/w India & US - UN Peacekeeping Course for African Partners ? 
+- [ ] What are current ongoing peacekeeping missions ? What has been its significance in the past ? 
+- [ ] What is Kerala's Fibre Optic Network Project ? 
+- [ ] What is BharatNet ?. 
+- [ ] How is Kerala so succesful in many regards ? What is the rationale behind it ? 
+- [ ] What is Atmospheric Remote-Sensing Infrared Exoplante Large-Survey (Ariel) project by European Space Agency ? 
+- [ ] What is Gravitational Lensing ? What is its significance ? What is Wobbling Method ?
+- [ ] #significant-personalities : Jainacharya Shree Vijay Vallabh Surishwer Ji Maharaj ? 
+- [ ] What is Ashtadhatu ? 
+
+## 18th November
+- [ ] #tribes : Bru ? in which states are they distributed ? 
+- [ ] List of PVTGs z& their distribution in different states ? 
+- [ ] What are the hurricane seasons in oceans of USA ? Why is it so ? 
+- [ ] What is Article - 32 ? 
+- [ ] List of types of writs ? 
+- [ ] What was the One-Time Debt Restructuring Scheme proposed by KV Kamath Committee ? to what kind of organizations/firms is it applicable to ?
+- [ ] What is EBITDA ? What is amortization ? 
+- [ ] What is Debt Service Coverage Ratio ? What is Current Ratio ? What is Average Debt Service Coverage Ratio ? What do the parameters - outside liabilities / adjusted tangible networth, total debt / earnings before EBITDA mean & infer ? 
+- [ ] #statistics : Corporate Sector Debt worth 15.52L Cr has come under stress after Covid19, while another 22L Cr was already under stress before the pandemic
+- [ ] What is Bureau of Police Research & Development (BPRD) ? Under whose aegis does this think tank work ? 
+- [ ] What is Article - 363A ? What is 26th Amendment Act, 1971 ? Abolition of Privy Purse 
+- [ ] What is AICTE ? What are its functions ? Who is its authority ? What kind of body it is ? 
+
+## 19th November 
+- [ ] What are the statutes that enforce the implementation of decadal census ? 
+- [ ]  What are the leasing provisions in DAP'20 ? What are different categories of DAP ? 
+- [ ]  Who is the monitoring authority of MGNREGS ? What is the role of states in it ? 
+- [ ]  What is the role of Gram Sabhas, Panchayats in MGNREGS ? 
+- [ ]  What is passive immunisation ? 
+- [ ]  What is the latest BRICS counter-terrorism strategy ? What is it's Counter Terrorism Working Group ? What are its functions ? 
+- [ ]  #committees : Mahajan Commission ? 
+- [ ]  What is State Reorganization Act, 1956 ? 
+- [ ]  What are microwave weapons ? Does there exists any restriction regarding usage of such weapons ? What are the International Protocols/Conventions in this regard ? 
+
+## 20th November
+- [ ]  #value #statistics : Every third woman is undernourshied & second women is anaemic in India 
+- [ ]  Does PMMVY come in instalments ? What are the conditions for the cash transfer ? 
+- [ ]  What are Articles - 102(1)(a), 103, 191(1) ?
+- [ ]  What is the procedure, criteria to be followed to appoint members to NGT ?  Who appoints members to the tribunal ? NGT draws its powers from which statutes ? 
+- [ ]  #map : Luxembourg ? 
+- [ ]  Which countries are the highest foreign investors in India ? 
+- [ ]  What is India International Stock Exchange ? What is its significance ?
+- [ ]  What is Coalition for Disaster Resilient Infra (CDRI) ? Is the body in execution or still on paper ? Which countries have agreed to join/joined the coalition ? 
+- [ ]  What are some of the successful Disaster Management Practices, by India & World ? 
+- [ ]  #map : Dead Sea ? 
+- [ ]  What is Fourth Geneva Convention ? What is its mandate ? What is its significance ? 
+- [ ]  #dictionary : appropriate ? 
+- [ ]  What is APEC forum ? Who are its member countries ? What is its mandate ? How effective has it been till date ? 
+- [ ]  What is Cord Blood Banking ? What are cells present in Cord Blood ? Hematopoietic Stem Cells ? 
+- [ ]  What is Stem Cell Therapy, Banking ? What are its advantages & disadvantages ? What is the current status of its usage in India ? Are there any programs supporting it in India ? 
+- [ ]  What is the enforcement status of Prohibition of Employement as Manual Scavengers & their Rehabilitation Act, 2013 ? Why do still some continue to perform manual scavenging ? What steps are to be taken ?
+- [ ]  Which region is called as Palearctic ? 
+- [ ]  What is UNAIDS ? What are its functions ? Who is its authority ? 
+- [ ]  What is Global HIV Prevention Coalition ? 
+- [ ]  What is 2016 Political Declaration of Ending AIDS ? What are its targets ? Who are the member countries part of it ? 
+
+## 21st November
+- [ ]  What is Article - 226 ? What is Election Symbols (Reservation & Allotment) Order, 1968 ? What are the powers of EC regarding allocation of party symbols ? What are the types of symbols ? 
+- [ ]  What is National Digital Health Mission ? 
+- [ ]  What is National Health Authority ? What is its mandate ? What are its functions ? Who is its authority ? 
+- [ ]  What is National Health Policy, 2017 ? 
+- [ ]  #map : Bolivia ? 
+- [ ]  What is the problem of having Large Corporate or Industrial Houses as promoters of banks ? What are the conditions of being a promoter of a bank ? What are the necessary conditions of haivng a banking license ?
+- [ ]  What is the differnece b/w promoter shareholding & non-promoter shareholding ? 
+- [ ]  What are Non-Operative Financial Holding Companies (NOHFC) ?
+- [ ]  What are deemed forests ? 
+- [ ]  What are the different definitions of Forests as per laws in India ? 
+- [ ]  #judgements : TN Godavarman Thirumalpad Case,1996 ?
+- [ ]  Which states currently have the Inner-line permit ? 
+- [ ]  #rivers : Tungabhadra ?
+- [ ]  What is Inter Parliamentary Union ? What are its functions ? Who is its authority ? What is its mandate ? 
+
+## 23rd November
+- [ ]  What is Rajiv-Longowal Accord ? 
+- [ ]  What is Arria Formula ? 
+- [ ]  #map : Durand Line ? 
+- [ ]  What is UN International Sea Bed Authority ? What are its functions ? Who is its authority ? 
+- [ ]  What is Jason Continuit of Service (Jason-CS) Mission ? What is its significance ? 
+- [ ]  What is Sect - 66A & Sect - 118(d) that was repealed from Kerala's Police Act ? What is the latest Sect-118A introduced into the act ? What is/could be it's impact on free speech
+- [ ]  What is Arunachal Frontier Highway ? What is its significance ? 
+- [ ]  #defence-exercises : SITMEX ? 
+- [ ]  What is India Newborn Action Plan ? What is Global Every Newborn Action Plan ? 
+- [ ]  What is PMAY-G, ? How effective has its implementation been ? What were the reasons behind the delay if any exists ?
+
+## 24th November
+- [ ]  What are the cyclones witnessed by India recently & their names along with corresponding country's name who added it ? 
+- [ ]  What is UNECOSOC ? What are its functions ? Who is its authority ? What is its mandate ? Which countries are its members ? 
+- [ ]  List of countries in the IOR ?
+- [ ]  What was the criteria for land allocation in Roshni Act ? 
+- [ ]  What is the relation between Indian Economic Growth & US Treasury yields ? 
+- [ ]  What is Swiss Challenge Method ? 
+- [ ]  #map : Pangda Village ? India-Bhutam-China tri-junction ? Dokhlam Plateau ? 
+- [ ]  #national-parks : Sakteng Wildlife Sanctuary ? 
+- [ ]  What is Global Environment Facility ? What are its functions ? Who is its authority ? 
+- [ ]  #map : Silguri Corridor of India ? Chicken's Neck ? 
+- [ ]  #valleys : Chumbi Valley ?
+- [ ]  What is National Crisis Management Committee (NCMC) ? What are its functions ? Who is its authority ? 
+- [ ]  What are ATAL Faculty Development Programmes (ATAL FDPs) ? What is its mandate ? 
+- [ ]  #map : Italy ? 
+
+## 25th November
+- [ ]  #significant-events : Battle of Sairaghat ? Who was Ram Singh, on the sides of Mughals in this Battle ? 
+- [ ]  Ahom Kingdom, it's significance ? 
+- [ ]  #significant-personalities : Lachit Borphukan ? 
+- [ ]  How was La Nina condition responsible for subdued North Eastern Monsoon Rainfall ? 
+- [ ]  #map : Mahe ? 
+- [ ]  What is the impact of ENSO on different parts of the world climate ? 
+- [ ]  #judgements : What are Lily Thomas & Sarla Mudgal cases related to ? 
+- [ ]  Which parties does Poshan Abhiyaan deal with ? What are its targets for 2022 ? 
+- [ ]  What is National Family Health Survey ? Who is the authority which conducts this survey ? What is its mandate ? Which statutes support its enforcement ? 
+- [ ]  What are the recommednations of recent Internal Working group of RBI ? especially regarding corporates setting up banks ? 
+- [ ]  What is the downside of allowing large corporate/industrial houses to be promoters of private banks ? 
+- [ ]  What are Financial Holding Companies ? 
+- [ ]  What are the RBI Guidelines for banking Licenses ? regarding Promoters, Promoting Groups, Public, Voting Equity Shares, Board of Directors  etc. ?
+- [ ]  What is Connected Lending ? 
+- [ ]  What is Sect - 69A of Information Technology Act ? What is its significance ? What is its conflict with freedom ? 
+- [ ]  #significant-personalities : Sir Chhotu Ram ? 
+- [ ]  What is Sahakar Pragya Program ? What is National Cooperative Development Corporation (NCDC) ? What are its functions & Who is its authority ?
+
+## 26th November
+- [ ]  MPs conditioned to recommend every year 15% of MPLADS to areas inhabited by SCs & 7.5% for STs ? Is this statutory ? mandatory ? 
+- [ ]  Is MPLADS scheme statutory or executive 
+- [ ]  What is Sansad Adarsh Gram Yojana ? 
+- [ ]  What is Essential Services Maintainance Act, 1968 ? What is its significance ? How essential is it for the current times ? 
+- [ ]  What is the procedure of laws wrt Concurrent subjects ? Are states mandated to comply with them or do states have the authority to completely modify them ? are they only supposed to amend to add but not alter ?
+- [ ]  What is the siginificance of Special Purpose Vehicles ? What are body corporates ? 
+- [ ]  What is Mega Food Park Project/Scheme ? 
+- [ ] #judgements :  What is Anuradha Bhasin Case ? What are the amends made to Telecom Suspension Rules, 2017 ? What is the 2A rule added limiting the maximum period to 15 days ?
+- [ ] Despite 2017 rules, how can centre suspend the internet using Sec-144 of CrPC ? What are the associated orders, laws that regard this power ? Temporary Suspension of Telecom Services (Public Emergency or Public Service) Rules under the Telegraph Act ?
+- [ ] What is Sect 5(2) of Indian Telegraph Act ? 
+- [ ] #defence-equipment : What is MQ-9B Sea Gaurdian ? 
+- [ ] #defence-exercises : AUSINDEX ?
+- [ ] List of countries with which India has Free Trade Pacts ? 
+
+## 27th November 
+- [ ] What is Article - 72 ? What are the pardon powers of President ? 
+- [ ] Which articles in the constitution should be amended for One Nation One Election Process ?  Articles - 83, 85, 172
+- [ ] What changes have to be made to Representation of People's Act, 1951 for the One Nation One Election ?
+- [ ] What is Judicial Activism ? 
+- [ ] Upon what subjects can a PIL be issued ? What are the limitations of PILs ?
+- [ ] What is Bioluminescence ? 
+- [ ] #map : Juhu Beach ? Devgad Beach ? Sindhudurg ?
+- [ ] #species : dinoflagellates ? Noctiluca Scintillans ? 
+- [ ] What is Information Management & Analysis Centre (IMAC) ? 
+- [ ] What is National Maritime Domain Awareness Centre (NDMA) ? What is IONS ? 
+- [ ] What is National Command Control Communication & Intelligence System (NC3I) ?
+- [ ] What is SDG Investor Map ?  UNDP + Invest India ? 
+
+## 28th November
+- [ ] What is the case if Nominated member becomes a member of party within 6 months after becoming MP/MLA by nomination ?
+- [ ] #committees : What are the recommendations of Dinesh Goswami Committee regarding Anti-Defection Law ? 
+- [ ] Is Anti-Defection law applicable to Speaker ? 
+- [ ] What is ADMM-Plus ? Who are its members & dialouge partners ? What are the subjects of discussion & cooperation ? 
+- [ ] What is Humanitarian Mine Action ? 
+- [ ] What are Non-Debt Capital Reciepts ? 
+- [ ] What is NIIF ? What is its Debt-Platform ? 
+- [ ] What are Alternative Investment Funds ? What are different categories within it ? 
+- [ ] #tiger-reserves : Pilibhit Tiger Reserve ? 
+- [ ] What is Global Tiger Initiative ? by World Bank ? What is Global Tiger Initiative Council ? What are its functions ? What is its mandate ? What has it done till date ? 
+
+## 30th November
+- [ ] What is Organisation of Islamic Cooperation ? Who are its member countries ? 
+- [ ] What is World Organisation for Animal Health (OIE) ? What are its functions ? Who is its authority ? What is its mandate ? What is its governance structure ?  Who are its members ?
+- [ ] What is One Health Global Leaders Group on Antimicrobial Resistance ? by FAO + OIE + WHO. What is its mandate ? 
+- [ ] What is Japan's Hayabusa2 Mission ? 
+- [ ] What are different types of asteroids ? What is C-type asteroid ? 
+- [ ] What is RNA isolation step in RT-PCR tests ? 
+- [ ] What is Global Innovation & Technology Alliance ? 
 
 
 

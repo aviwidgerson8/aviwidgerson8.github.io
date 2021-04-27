@@ -212,7 +212,7 @@
 - [ ] What are the Special Courts related to PMLA ? 
 - [ ] #rivers : Beas ? 
 - [ ] #significant-personalities : Mannathu Padmanabhan ? 
-- [ ] #significant-events : vaikom Satyagraha ? 
+- [ ] #significant-events : Vaikom Satyagraha ? 
 
 
 - [ ] 

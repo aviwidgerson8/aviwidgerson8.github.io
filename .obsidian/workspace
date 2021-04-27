@@ -6,7 +6,6 @@
       {
         "id": "c7a45f37622eec4d",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -73,6 +72,8 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -96,6 +97,7 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "c7a45f37622eec4d",
   "lastOpenFiles": [
     "pages/index.md",
     "images/luffy.jpg",
