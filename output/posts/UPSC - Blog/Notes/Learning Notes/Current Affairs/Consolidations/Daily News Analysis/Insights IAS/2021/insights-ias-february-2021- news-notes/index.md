@@ -75,7 +75,15 @@
 - [ ] What is the difference b/w LLP & Partnership firm ? 
 - [ ] What is radio astronomy
 
-## 6th February 2021
+## 6th February
+- [ ] What are conditions to satisfy to become a recognized party ? 
+- [ ] What is Sect-29A of RPA, 1951 ? 
+- [ ] What are conditions of number of proposers in filing a nomination for elections ? 
+- [ ] What is National Agircultural Scheme & Modified Scheme of it ? What is PM Fasal Bhima Yojana ? What is PMFBY 2.0 ? What is the sharing pattern b/w centre & states in this scheme ? 
+- [ ] #map : North Sea ? 
+- [ ] #map : Denmark ? 
+- [ ] What are Central Monitoring System (CMS), Network Traffic Analysis (NETRA), National Intelligence Grid (NATGRID) ? What are thier functions ? What are their objectives ? Wht powers do these statutes hold under Indian Telegraph Act & Infromation Technology Act ? 
+- [ ] What is Parivar Pehchan Patra Scheme ? What are its objectives ? What is its significance ? What is Saral Platform realted to it ? 
 
 ## 8th - 10th February 2021
 - [ ] What is Article 243K ? What are the limits of powers of EC/SEC during conduct of elections ? For what kind of actions can EC/SEC impose plenary actions ? 
@@ -214,5 +222,18 @@
 - [ ] #significant-personalities : Mannathu Padmanabhan ? 
 - [ ] #significant-events : Vaikom Satyagraha ? 
 
+## 27th February 2021
+- [ ] What is the role of Law Ministry in making laws related to ECI ? 
+- [ ] What is Electronically Transmitted Postal Ballot System ? What is its siginificance ? 
+- [ ] #rivers : Cauvery ? Vellaru ? Vaigai ? Gundar ? 
+- [ ] What is Cauvery-Vellaru-Vaigai-Gundar river linking project ? What is its significance ? What is its objective ? 
+- [ ] What does Interstate River Water Disputes Act say on surplus water distribution b/w states ? 
+- [ ] What is Sarkaria Commission's recommendation on Interstate River Waters Disputes Act ? 
+- [ ] What is Article - 262 ? 
+- [ ] What is the role of SC in Interstate River Waters Disputes Act ? 
+- [ ] What is 2003 Ceasefire Agreement b/w India & Pakistan ? 
+- [ ] What is the realtion b/w inflation, money transmission & bond market ? 
+- [ ] What is Vivad Se Viswas Scheme ? What is its significance ? 
+- [ ] #statistics : 9.32L Cr worth revenue un Direct Taxes category is blocked in ~4.8L appeals pending at various IT Appellate Forums 
+- [ ] What are INS Utkrosh & INS Jarwa ? 
 
-- [ ] 

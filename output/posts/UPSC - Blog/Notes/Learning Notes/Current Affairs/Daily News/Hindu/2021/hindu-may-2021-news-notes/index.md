@@ -79,4 +79,20 @@
 - [ ] What is India Energy Exchange ? What is its significance ? Who is its authority ? 
 
 ## 8th May
+- [ ] #dictionary : prima facie ? 
+- [ ] What is Article - 226 ? 
+- [ ] #dictionary : preclude ? 
+- [ ] #dictionary : reneging ? 
+- [ ] #dictionary : stave off ? 
+- [ ] What is CT-Scan ? What is technology behind its functioning ? 
+- [ ] What is Special Leave Petition ? When can it be invoked ? 
+- [ ] What is Assam Accord, 1986 ? What is its significance ? What is its relation to the issue of citizenship ? 
+- [ ] What is Orunodai Scheme ? What is its significance ? 
+- [ ] What is National Commission for Women ? What are it functions ? Who is its authority & What is its mandate ? What kind of body it is ? 
+- [ ] What is the role of Registrar General of India in implementation of NRC in Assam ? 
+- [ ] #dictionary : mainstay ? 
+- [ ] What are the conventions or conferences realted to TRIPS agreements of WTO ? 
+- [ ] What is Innovators Growth Platform (IGP) related to startups listing ? What is its signifiance ? 
+
+## 9th May
 - [ ] 

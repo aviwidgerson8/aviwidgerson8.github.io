@@ -116,4 +116,177 @@
 - [ ] #valleys : Pasamlung & Jakarlung Valleys ? 
 - [ ] #national-parks : Saketeng Sanctuary ? 
 - [ ] What is UNDP-GEF ? What is its significance ? What is its mandate ? 
-- [ ] 
+- [ ] What are the rights specific to EEZ & Territorial waters ? Which domestic law governs them & What is their extent of compliance with UNCLOS ? 
+- [ ] #tiger-reserves : Panna Tiger Reserve ? 
+- [ ] What are the pros & cons of Ken-Betwa river linking project ? What are its effects on Panna Tiger Reserve ? 
+
+## 12th April 
+- [ ] #significant-personalities : Jyotiba Phule ? 
+- [ ] What is Sathyashodhak Samaj ? What is its significance ? 
+- [ ] What is Bombay Prevention of Beggary Act, 1959 ? What are its provisions ? What is its significance ?
+- [ ] What are the ethical reasons behind criminalization / decriminalization of begging ? 
+- [ ] What is Article - 25 ? 
+- [ ] #river : Umngot ? 
+- [ ] #map : Jaintia Hills ? Khasi Hills ? 
+
+## 14th April
+- [ ] What is Indian Ocean Dipole ? How does it affect India's Monsoon System ? 
+- [ ] What are the effects of IOD on Tropical Cyclones in BoB ? 
+- [ ] What is the procedure of appointment of CEC ? Is the procedure part of constitution ? HOw is he removed ? Is that part of the constitution ? 
+- [ ] What is Register of Indigenous Inhabitants of Nagaland (RIIN) ?
+- [ ] What is World Organization of Animal Health ? What is its mandate ? What is its significance ? What is its relation with WTO ? 
+- [ ] #national-parks : Manas National Park ? 
+- [ ] #national-parks : Pabitora Wild Life Sanctuary ? 
+- [ ] What is India Rhino Vision 2020 ? What is its significance ? Who are its members ?
+- [ ] #national-parks : Rajiv Gandhi Orang National Park ? 
+- [ ] What is Naitonal Rhino Conservation Strategy ? What is its mandate ? 
+- [ ] What is Poshan Gyan ? What is it & its significance ? 
+- [ ] What is e-SANTA platform ? What is its significance ? What is it motto of RAISE ? 
+- [ ] What is Aahar Kranti initiative ? What are its objectives ? 
+
+## 15th April
+- [ ] #significant-personalities : Satya Pal ? Saifudding Kitchlew ? 
+- [ ] What is Rowlatt Act ? Why was it opposed ? What was Jallianwalla Bagh Masaccre ? 
+- [ ] What were the list of issues opposed by India wrt RCEP ? 
+- [ ] What all kinds of assests or transactions are carried out through Public Account ? What is its purpose ? 
+- [ ] What is Article - 292 ? 
+- [ ] What are T-Bills ? What is their purpose ? 
+- [ ] What are changes brought in regarding area & other conditions in EIA,2018 Notification ? 
+- [ ] #dams : Mettur Sarabanga Lift Irrigation Project ? 
+- [ ] What is PM-STIAC ? What are its functions ? Who is its authority ? 
+- [ ] What is MANAS App ? What is its significance ? 
+
+## 16th April 
+- [ ] #value #reports  : UNFPA's State of World Population Report, 2021 titled - My Body is My Own, first time a UN report focussed on bodily autonomy 
+- [ ] #statistics #value : As per NHFS-4 (2015-16), only about 12% of married (15-49) independently make decisions about their own healthcare
+- [ ] What is UNFPA ? What are its funcitons ? Who is its authority ? What is its mandate ? 
+- [ ] What is the procedure of election of judges in collegium system ? 
+- [ ] What are the conditions for obtaining OCI card ? 
+- [ ] What is status of Dual Citizenship in India ? What is the wayforward in this respect ? 
+- [ ] What is National Startup Advisory Council ? What are its functions ? Who is its overseeing Min. ? Who is its authority ? Who are its members ? 
+- [ ] What is e-VISA ? In which categories it is allowed ? 
+- [ ] What is consulart access b/w coutries in diplomacy ? 
+- [ ] What is ICJ ? What is its jurisdiction ? What kind of cases are dealt by it ? Are its decisions binding on parties ? 
+- [ ] What is Viness Convention of Consular Relations, 1963 ? What are its provisions ?
+- [ ] What is UN Food Systems Summit ? What is its siginificance ? 
+- [ ] What is National Internet Exchange of India (NIXI) ? What is its purpose ? 
+
+## 17th April
+- [ ] What is Plenary Jurisdiciton of SC under Article - 142 ? 
+- [ ] What is on-tap licensing ? What is its significance ? 
+- [ ] What is International Atomic Energy Agency ? What is its significance ? 
+- [ ] What are the color coded classifications of cases by Interpol ? 
+- [ ] What are the provisions of Prevention of Money Laundering Act ? What is its significance ? How effective has it been till date in its funcitons ? 
+- [ ] ED derives & oversees cases under which statutes ? Is ED a statutory or executive or constitutional body ? 
+- [ ] What are the provisions under Fugitive Economic Offender Act ? 
+- [ ] What is Eat Right India initiative ? Which Min. are involved & oversees this ? 
+- [ ] What is Gender Samvaad ? What is its significance ? 
+
+## 19th April
+- [ ] #significant-personalities : Sri Ramanujacharya ? 
+- [ ] What is Vedanta School of Thought ? What is Vishishtadvaita ?
+- [ ] What is the speciality if Goa's Uniform Civil Code ? How did sustain this long ? 
+- [ ] What is International Council on Monuments & Sites (ICOMOS) ? What are its funcitons ? What is its mandate ? Who is its authority ? 
+- [ ] What is UNESCO ? What are its functions ? What is its mandate ? Who is its authority ? What is UNESCO's World Heritage Committe ? Who are its members & how are they elected ? 
+- [ ] List of World Heritage Sites in India ? 
+- [ ] #reports : Climate Vulnerability Assessment for Adaptation Planning in India using a Common Framework ? What is the significance & findings of the report ? 
+- [ ] What is National Action Plan on Climate Change ? What are its objectives ? What is its siginificance ? 
+- [ ] #national-parks : Nongkhyllem Wildlife Sanctuary ? 
+- [ ] What is Tiki formaiton in MP ? What is its significance ? 
+
+## 20th April
+- [ ] What is the significance of Chandela Dynasty ? 
+- [ ] What is the significance of ARCs in an economy ? How effective have they been wrt our eocnomy ? 
+- [ ] What is SARFAESI Act ? What are the differences b/w SARFAESI & IBC ? 
+- [ ] What is Startup India Seed Fund Scheme (SISFS) ? What is its significance ? Who is the overseeing authority of the scheme ? DPIIT
+- [ ] List of Straits, Bays in Indo-Pacific Region ? 
+- [ ] What is Perseverence Mission of NASA ? What is MOXIE (in-situ experiment) ?
+- [ ] #statistics : It is estimated that 15-20% of all plastics are entering oceans via riverine ecosystems, 90% are contributed by 10 of world' most polluting rivers
+- [ ] What is Cities Combating Plastic Entering the Marine Environment , cooperation agreement b/w India & Germany ? What is its significance & objective ? 
+- [ ] What is Vande Bharat Mission ? What is its objective ? 
+
+## 21st April
+- [ ] #map : Luzon Strait ? Taiwan Strait ? Strait of Malacca ? East China Sea ? Brunei ? 
+- [ ] What is Boao Forum ? What is its significance ? What is its mandate ? Who are its members ? 
+- [ ] What is UN's Global Youth Mobilization Local Solutions Campaign ?
+- [ ] What are different bodies of European Union ? EU Commission ? Council of EU ? EU Council ? EU Parliament ? EU Court of Justice ? 
+
+## 22nd April
+- [ ] List of Countries of Particular Concern by USCIRF ? 
+- [ ] What is Article - 311(2) ? What is its significance ? 
+- [ ] What is Article - 311 ? What provisions does it provide for civil servants ? 
+- [ ] Does HC have to seek permission of SC before appointing retired judges under Article - 224A ? What is the role of President & SC in this regards ? 
+- [ ] HCs with highest vacancies & pending cases ? 
+- [ ] #indices : World Press Freedom Index by Reports without Borders - 142/180
+- [ ] #committees : What is the significance of Narasimham Committee Reports - I & II - 1991,1998 ? How they stand to the test of time ? What is its impact on Indian Economy ? 
+- [ ] What are the provisions of Narcotic Drugs & Psychotropic Substances Act, 1985 ? What is PIT NDPS, 1998 ? 
+- [ ] What is Single Convention on Narcotic Drugs ? What is Convention on Psychotropic Substances ? What is UN Convention Against Illicit Traffic in NDPS ? What is the extent of complainse of NDPS Act, 1985 with the above conventions ? 
+- [ ] What are the role sof Central & State govts. wrt Narcotic Drugs & Psychotropic Substances ? 
+
+## 23rd April
+- [ ] What is UNICEF ? What are its functions ? Who is its authority ? What is its mandate ? 
+- [ ] What is Armenian Genocide ? What was its significance in World War - I ? 
+- [ ] What is the difference b/w Swine Fever & Flu ? 
+- [ ] What is Codex Alimentarius Commission (CAC) ? What are its functions ? What is its mandate ? Who is its authority ? FAO + WHO, 1963
+- [ ] What is Codex Committee on Species & Culinary Health (CCSCH) ? What are its functions ? Who is its authority ? What is its mandate ? 
+- [ ] What are the drawback in latest Whatsapp's Privacy Policy ? What needs to be done in this context ? 
+- [ ] What is FOSS4GOV innovation challenge ? What is its significance ? 
+
+## 24th April
+- [ ] What are componenet so f genome sequence ? What is each ones significance ? 
+- [ ] What is Prohibition of Chemical Weapons (OPCW) ? What is its mandate ? Who are its members ? Who is its authority ? 
+- [ ] What is Chemical Weapons Convention, 1997 ? What is its mandate ? 
+- [ ] What is SWAMITVA Scheme ? What is its significance ? Who is its implementation authority ? 
+- [ ] What is Ways & Means Allowance ? What is its significance ? How effective has it been till date ? 
+- [ ] What are the Tissue Chips being carreid in Crew-2 (SPACEX's Commerical Crew Programme) ? What is the siginificance of this program ? 
+- [ ] What is BRO ? What are its functions ? Who is its overseeing authority ? 
+- [ ] What are the commitments made by US in Leaders Summit on Climate, 2021 ? 
+
+## 26th April
+- [ ] Which regions of the world constituted the Ottoman Empire ? 
+- [ ] What was the Treaty of Berlin imposed on Ottomans ?
+- [ ]  What is Battle of Sarikamish ? 
+- [ ]  What are Pressure Swing Adsorption Oxygen Plants ? What is their siginificance ? What is Adsorption technique ? 
+- [ ]  What is PMNRF ? What is its significance ? What statues is it connected to ? 
+- [ ]  What is Cyber Crime Volunteer Program ? What is its significance & legality ? What are the potential drawbacks of this program ? 
+- [ ]  What is Indian Cyber Crime Coordination (I4C) ? What are its functions ? Who is its authority ? 
+- [ ]  #judgements : What is Shreya Singhal vs Union of India, 2013 judegement ? related to freedom of speech 
+- [ ]  What are the international laws & Indian laws with regards to compulsory licensing ? What are WTO's law or rules on this topic ? 
+- [ ]  What is Indian Patents Act, 1970 & Agreements on TRIPS , view on compulsory licensing ? 
+
+## 27th April
+- [ ]  #indices : Chandler Good Governance Index, India ranks 49/104
+- [ ]  What is Project Ladakh Ignited Minds : Centre for Excellence & Wellness ?  What are its objectives ? 
+- [ ]  What is Project DANTAK ? What is its significance & impact in Bhutan ? 
+- [ ]  What is China's Zhurong rover ? What is Tianwen-i probe ? What are their objectives & significance ? 
+- [ ]  What is National Executive Committee of Disaster Management ? What are its functions ? Who are its members ? Who is its authority ? 
+- [ ]  What is the Disaster Management governance structure ? What is its pros & cons ? What are the possible improvements or additions that could be made ? 
+- [ ]  #map : Sahel ? Chad ? 
+- [ ]  List of countries in the Sahel region ? 
+- [ ]  #map : Kowloon Peninsula ? 
+
+## 28th April
+- [ ]  What is Article - 223 ? Acting CJ of HC
+- [ ]  What is Supply Chain Resilience Initiative (SCRI) ? What is its significance ? What are its objectives ? 
+- [ ]  What is India-Japan Industrcal Competitiveness Partnership ? What is its significance ? 
+- [ ]  What is Large Area Certification Program ? What is Paramparagat Krishi Vikas Yojana (PKVY) ? 
+- [ ]  What is biochar ? What is its significance ? 
+- [ ]  What is Project Pyrasol ? What is its significance ? What is Indo-German Science & Tech. Centre ? What is 2+2 Projects program ? What are its objectives ?
+
+## 29th April
+- [ ]  What is Article - 217(1) ? Appointment of Additional Judges 
+- [ ]  What is the siginificance of Parliamentary Committees ? These draw their authority from Articles - 105, 118 ? Are these bodies mentioned in Constitution ? 
+- [ ]  Which Parliamentary Committees are exclusive to LS ? 
+- [ ]  What is Agriculture Infra Fund ? What is its significance ? What are its objectives ? Who is its authority ? What are the eligibility conditions ? 
+- [ ]  What is FPO Promotion Scheme ? 
+- [ ]  What is Aditya-L1-Mission ? What is its siginificance ? What are its objectives ? 
+- [ ]  What are Lagrangian Points ? What is their siginificance in Aditya-L1-Mission ? 
+- [ ]  What is Himalayan Frontal Thrust ? 
+- [ ]  #defence-exercises : Varuna ? 
+
+## 30th April
+- [ ]  What is 69th Amendment Act, 1991 related to Delhi legislature formaiton ? What are Articles - 239A? 239AA ? 
+- [ ]  #map : Thailand ? 
+- [ ]  #map : Myanmar ? 
+- [ ]  What is Net-Zero Producers Forum ? What are its objectives ? What is its significance ? Who are its members ? 
+- [ ]  What is MACS-1047 ? 
