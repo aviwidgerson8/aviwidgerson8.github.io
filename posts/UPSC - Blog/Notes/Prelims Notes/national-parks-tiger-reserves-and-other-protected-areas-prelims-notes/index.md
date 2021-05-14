@@ -3,6 +3,7 @@
 .. date: 2021-05-14 08:10 UTC+05:30
 .. tags: prelims, notes
 .. category: upsc
+.. status: draft
 
 **Description** : *consolidated notes of national parks, tiger-reserves & other protected areas for prelims*
 
