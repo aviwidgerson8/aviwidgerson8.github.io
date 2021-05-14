@@ -1,7 +1,7 @@
 .. title: Mathematics for UPSC
 .. slug: resources-upsc-maths
 .. date: 2020-12-17 15:40:33 UTC+05:30
-.. tags: upsc, maths, resources
+.. tags: maths, resources
 .. category: blog
 .. template: page.tmpl
 

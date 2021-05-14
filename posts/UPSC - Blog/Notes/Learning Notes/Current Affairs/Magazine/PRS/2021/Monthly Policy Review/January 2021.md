@@ -3,7 +3,6 @@
 .. date: 2021-01-01 13:46 UTC+05:30
 .. tags: prs, magazine, notes
 .. category: upsc
-.. status: draft
 
 **Description** : *consolidated notes of monthly magazine*
 
