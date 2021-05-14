@@ -27,7 +27,11 @@
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/2020/</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/2020/01/</loc>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/2020/07/</loc>
@@ -55,7 +59,7 @@
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/2021/</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/2021/01/</loc>
@@ -74,12 +78,16 @@
   <lastmod>2021-05-14T07:45:00Z</lastmod>
  </url>
  <url>
+  <loc>https://aviwidgerson8.github.io/2021/05/</loc>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://aviwidgerson8.github.io/archive.html</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories.html</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/answer-writing/</loc>
@@ -95,27 +103,39 @@
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/cat_upsc/</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/cat_upsc/index-1.html</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/cat_upsc/index-2.html</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/cat_upsc/index-3.html</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/cat_upsc/index-4.html</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/cat_upsc/index-5.html</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/categories/cat_upsc/index-6.html</loc>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/categories/cat_upsc/index-7.html</loc>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/categories/cat_upsc/index-8.html</loc>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/drishti-ias/</loc>
@@ -130,16 +150,28 @@
   <lastmod>2021-05-14T07:45:00Z</lastmod>
  </url>
  <url>
+  <loc>https://aviwidgerson8.github.io/categories/explained/</loc>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://aviwidgerson8.github.io/categories/goodreads/</loc>
   <lastmod>2021-05-14T07:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/hindu/</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/hindu/index-1.html</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/categories/hindu/index-2.html</loc>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/categories/hindu/index-3.html</loc>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/ias-baba/</loc>
@@ -151,7 +183,7 @@
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/indian-express/index-1.html</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/insights-ias/</loc>
@@ -195,31 +227,47 @@
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/news/</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/categories/news/index-1.html</loc>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/notes/</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/notes/index-1.html</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/notes/index-2.html</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/notes/index-3.html</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/notes/index-4.html</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/notes/index-5.html</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/categories/notes/index-6.html</loc>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/categories/notes/index-7.html</loc>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/categories/notes/index-8.html</loc>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/only-ias/</loc>
@@ -232,6 +280,10 @@
  <url>
   <loc>https://aviwidgerson8.github.io/categories/opinion/index-1.html</loc>
   <lastmod>2021-05-14T07:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/categories/prs/</loc>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/categories/research/</loc>
@@ -259,7 +311,7 @@
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/posts/</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/posts/Personal%20-%20Blog/Planning/Resources/resources-economics/</loc>
@@ -362,6 +414,10 @@
   <lastmod>2021-05-14T07:45:00Z</lastmod>
  </url>
  <url>
+  <loc>https://aviwidgerson8.github.io/posts/UPSC%20-%20Blog/Notes/Learning%20Notes/Current%20Affairs/Consolidations/Editorials/Drishti%20IAS/2020/drishti-ias-november-2020-editorials-notes/</loc>
+  <lastmod>2021-05-14T07:45:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://aviwidgerson8.github.io/posts/UPSC%20-%20Blog/Notes/Learning%20Notes/Current%20Affairs/Consolidations/Editorials/Insights%20IAS/2020/insights-ias-august-2020-editorials-notes/</loc>
   <lastmod>2021-05-14T07:45:00Z</lastmod>
  </url>
@@ -370,7 +426,51 @@
   <lastmod>2021-05-14T07:45:00Z</lastmod>
  </url>
  <url>
+  <loc>https://aviwidgerson8.github.io/posts/UPSC%20-%20Blog/Notes/Learning%20Notes/Current%20Affairs/Daily%20News/Hindu/2020/hindu-december-2020-news-notes/</loc>
+  <lastmod>2021-05-14T07:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/posts/UPSC%20-%20Blog/Notes/Learning%20Notes/Current%20Affairs/Daily%20News/Hindu/2020/hindu-july-2020-news-notes/</loc>
+  <lastmod>2021-05-14T07:45:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://aviwidgerson8.github.io/posts/UPSC%20-%20Blog/Notes/Learning%20Notes/Current%20Affairs/Daily%20News/Hindu/2020/hindu-november-2020-news-notes/</loc>
+  <lastmod>2021-05-14T07:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/posts/UPSC%20-%20Blog/Notes/Learning%20Notes/Current%20Affairs/Daily%20News/Hindu/2020/hindu-october-2020-news-notes/</loc>
+  <lastmod>2021-05-14T07:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/posts/UPSC%20-%20Blog/Notes/Learning%20Notes/Current%20Affairs/Daily%20News/Hindu/2021/hindu-april-2021-news-notes/</loc>
+  <lastmod>2021-05-14T07:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/posts/UPSC%20-%20Blog/Notes/Learning%20Notes/Current%20Affairs/Daily%20News/Hindu/2021/hindu-february-2021-news-notes/</loc>
+  <lastmod>2021-05-14T07:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/posts/UPSC%20-%20Blog/Notes/Learning%20Notes/Current%20Affairs/Daily%20News/Hindu/2021/hindu-january-2021-news-notes/</loc>
+  <lastmod>2021-05-14T07:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/posts/UPSC%20-%20Blog/Notes/Learning%20Notes/Current%20Affairs/Daily%20News/Hindu/2021/hindu-march-2021-news-notes/</loc>
+  <lastmod>2021-05-14T07:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/posts/UPSC%20-%20Blog/Notes/Learning%20Notes/Current%20Affairs/Daily%20News/Hindu/2021/hindu-may-2021-news-notes/</loc>
+  <lastmod>2021-05-14T07:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/posts/UPSC%20-%20Blog/Notes/Learning%20Notes/Current%20Affairs/Explained/Indian%20Express/2021/indian-express-march-2021-explained-notes/</loc>
+  <lastmod>2021-05-14T07:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/posts/UPSC%20-%20Blog/Notes/Learning%20Notes/Current%20Affairs/Magazine/PRS/2020/Monthly%20Policy%20Review/prs-january-2020-policy-review-notes/</loc>
+  <lastmod>2021-05-14T07:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/posts/UPSC%20-%20Blog/Notes/Learning%20Notes/Current%20Affairs/Magazine/PRS/2021/Monthly%20Policy%20Review/prs-january-2021-policy-review-notes/</loc>
   <lastmod>2021-05-14T07:45:00Z</lastmod>
  </url>
  <url>
@@ -415,34 +515,42 @@
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/posts/index-1.html</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/posts/index-2.html</loc>
-  <lastmod>2021-05-14T07:48:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/posts/index-3.html</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/posts/index-4.html</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/posts/index-5.html</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/posts/index-6.html</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/posts/index-7.html</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/posts/index-8.html</loc>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://aviwidgerson8.github.io/posts/index-9.html</loc>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://aviwidgerson8.github.io/tags.html</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T07:57:00Z</lastmod>
  </url>
 </urlset>
