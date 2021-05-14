@@ -135,6 +135,7 @@
 - [ ] What is the BRI route ? What is the Silk Road route ? 
 - [ ] Who is the authority of common land in a village ? What are the uses of common land ? 
 - [ ] What is Land Bank ? does it have any statutory backing ?
+- [ ] What is OSCE group ?
 
 ## 6th October 2020
 - [ ] Analyse & understand the details of IGST ? 

@@ -22,7 +22,6 @@
 - [ ] Which fundamental rights are violated by subjecting people to Narco tests ? Is it ethical & which laws/statutes enforce this ? 
 - [ ] What is Article - 20(3) ? rights against self-incrimination ? 
 - [ ] Which countries are caucasus countries ? 
-- [ ] #map : New Caledonia ?
 - [ ] What is Noumea Accord related to ? 
 - [ ] 
 
@@ -205,30 +204,20 @@
 - [ ] What is Saral Jeevan Bhima ? Why is it necessary ?
 - [ ] What is Hong Kong Convention for Ship Recycling ? What is Ship Recycling Act 2019 ? 
 - [ ] What is International Maritime Organization ? What are its functions ? Who is its authority ? 
-- [ ] #indices : Global Findex Database ? by World Bank 
-- [ ] #indices : Global Hunger Index ? 
 - [ ] What is Good Laboratory Practice working group of OECD ? 
 - [ ] Which are member countries of OECD ? 
 - [ ] What is Naitonal GLP Compliance Monitoring Authority (NGCMA) ? What are its functions ? Who is its authority ? Which ministry oversees its functions ? 
 - [ ] What are Five Eyes Nations ? Who are its members ? What is the groups mandate ? 
 - [ ] What are Chapter Proceedings ? 
-- [ ] #national-parks : Nandankanan Zoo Park ? 
-- [ ] #map : Taiwan Strait ? 
 - [ ] What is Yuddh Pradhushan ke Viruddh campaign by Delhi govt. ?
 - [ ] What is Eat Right Movement by FSSAI ? 
 - [ ] What is Coalition for Sustainable Climate Action ? What is its significance & purpose ? 
 
 ## 17th October
-- [ ] #indices : Global Hunger Index ? by Welthhungerhilfe & Concern Worldwide 
-- [ ] #value #statistics : India has the highest prevelance of wasted children < 5 yrs in the world, which implies undernutrition
-- [ ] #value : India ranks 94/107 whereas Bangladesh (75), Pakistan (88)
 - [ ] What is the system of equivalence in regards with market acess of EU to UK fin. services ?
 - [ ] What are the details of Brexit-Deal b/w EU & Britian ? IS it exclusive to trade ? Who are the beneficiaries of the deal ? What are upsides & downsides of Brexit ?
-- [ ] #map : Reed Bank ? Spratlys ? Scarborough Shoal ? 
-- [ ] #map : Countries/Islands in & surrounding South China Sea ? 
 - [ ] What is NEW START Treaty b/w US & Russia ? It replaced which treaty of past ? What were START - I, II & III treaties ? 
 - [ ] What are the functions of Insurance Ombudsman ? Who is its authority ? Who appoints the Ombudsman ? What is Insurance Council ? 
-- [ ] #map : Zojila Tunnel ? Zojila Pass ? 
 - [ ] What is Rashtriya Ajeevika Mission ?
 - [ ] What are RSETIs, SVEPs, AGEYs related to DAY-NRLM ?
 
@@ -236,16 +225,11 @@
 - [ ] What is National Power Grid ? How effective is its implementation ? 
 - [ ] What is National Highway Grid ? What is its significance (also interms of stats) ?
 - [ ] What are some rive-linking projects of Naitonal Importance ?
-- [ ] #statistics : 3/4 rural indians cannot afford a nutritious diet, 2/3 don't have money to pay for cheapest diet, 76% of rural indians cannot afford the recommended diet (doesn't include serving family members), when 1/3 of income is set aside for non-earning members,
-- [ ] #statistics #value : India has the world's highest prevelance of Child Wasting
 - [ ] Calculation of Poverty-Line by various committess ?
 - [ ] What are the eligibility criteria to lodge a case in International Court of Justice ? Can individual lodge a case or should it be only governments or organizations ? What is the mandate of ICJ ? 
 - [ ] What is the significance of Sittwe Port, Cox Bazar, Chittagong wrt relations with India ?
 - [ ] What is UNHRC ? What are its functions ? Who is its authority ? What is its governance mechanism ? member countries etc. ?
 - [ ] What is the relations & exchange mechanisms b/w UNGA & UNHRC ? Special provisions to sanction/penalise any country ? 
-- [ ] #map : Israel, UAE, Bahrain ? 
-- [ ] #passes : Sadhna Pass ? Nastachun Pass ? 
-- [ ] #defence-exercises : SLINEX ?
 - [ ] What is National Skill Development Coroporation (NSDC) ? What are its functions ? Who is its authority ? Which ministry adminsters & manages its finance ? 
 
 ## 20th October
@@ -260,11 +244,7 @@
 - [ ] What are Commons Service Centres ? How effective have they been in function since inception ? Which ministry oversees its functions ? 
 - [ ] What is the reason for pollution levels rising in October everyyear in Delhi ? What is its correlation with Monsoon Winds ? 
 - [ ] What are multi-modla logistic parks ? 
-- [ ] #valleys : Lahaul Valley ? Barak Valley
 - [ ] What is Asafoetida (Heeng/Hing) ?
-- [ ] #map : What is Melanesia region ? 
-- [ ] #map : Fiji ? 
-- [ ] #map : Lushai Hills ? 
 - [ ] Some important cities in the world & their locations wrt Tropics & Equators ? 
 
 ## 21st October
@@ -273,8 +253,6 @@
 - [ ] What is Sect 10A of RPA, 1951 ? 
 - [ ] Is there any limit to party spending in elections ? 
 - [ ] What was National Commission to Review the Working of Constitution, 2001 ? What recommendations & reports it has come up with ? 
-- [ ] #committees : Goswami Commite, Vohra Committtee, Indrajeet Gupta Committees on Electorial Reforms ? 
-- [ ] #dictionary : divest ? 
 - [ ] What was Financial Commission's recommendations on autonomous bodies, their expenditure in various departments, their merging & disengagement ? 
 - [ ] What is Wildlife Institure of India ? What are its functions ? Who is its authority ? 
 - [ ] What is the difference wrt governance& functioning of Statutory Bodies & Executive Bodies ? Why does Statutory Body seems more legitimate ? 
@@ -287,23 +265,18 @@
 - [ ] What is Indian Cyber Crime Coordination Centre (I4C) ? What are its functions ? Who is its authority ? 
 - [ ] What is National Critical Information Infra Protection Centre (NCIIPC) ? What are its functions ? Who its authority ? 
 - [ ] What is the role of Expert Appraisal Committee (EAC) in EIA process ? 
-- [ ] #rivers : Pranahitha ? 
 - [ ] What is Kaleshwaram Lift Irrigation Project ? What is its uniqueness ? How does it function ? 
 - [ ] What is IMO Convention SOLAS (Safety of LIfe at Sea) ?
 - [ ] What is VTMS ? How does it function & adhere to IMO Convention SOLAS ? 
 
 ## 22nd October
-- [ ] #significant-personalities : Rash Behari Bose ? S A Ayer ?
 - [ ] What is Article 243(C3) ? What is the relation b/w Governor & State Election Commissioner ? Who funds the elections in States ? State/Central govt. ?
 - [ ] What is Article 329 ? 243(O) ? interference of courts after election matters set in by EC/SECs ?
 - [ ] What is the difference b/w District Development Councils & existing District Planning & Development Boards in J&K ?
 - [ ] What is National Policy on Electronics ? 
-- [ ] #national-parks : Shoolpaneshwar Wildlife Sanctuary ? 
 - [ ] What is Inland Waterways Authority of India (IWAI) ? What are its functions ? Who is its authority ? 
-- [ ] #space-missions : NASA OSIRIS - REx Mission ? 
 - [ ] What are Near Earth Objects ? 
 - [ ] What is the status of National Super Computing Mission (NSM) ? What is National Knowledge network ? What are the objectives of NSM ? 
-- [ ] #value India faced the highest per capita pollution exposure - 83.2 ug/cubic metre, as per State of Global Air report
 - [ ] What is INS Kavaratii ? What is Project - 28 ? 
 
 ## 23rd October 
@@ -319,7 +292,6 @@
 - [ ] What is Life in Miniature project by Min. of Culture & partners ? 
 
 ## 24th October 
-- [ ] #dictionary : depose ? 
 - [ ] What is Data Protection Authority, part of Data Protection Bill ? What is its function & mandate ? 
 - [ ] What are the restrictions placed on Data fuduciares / intermediaries in Data Protection Bill ? 
 - [ ] Which types of data are stressed upon to store in the country ? Pesonal / Non-Personal etc. ?
@@ -330,8 +302,6 @@
 - [ ] What is the difference b/w European Union & European Council ? 
 - [ ] What is GCC ? What are its functions ? Who are its member countries ? What is its mandate ? 
 - [ ] Which states share border with Nepal ?
-- [ ] #map : Limpiyadhura, Lipulekh 7 Kalapani ?
-- [ ] #rivers : Kali River  ?
 - [ ] Who has the power to add or remove the items from the list of Essential Commodities Act ? 
 - [ ] What are list of items in Essential Commodities Act ? 
 - [ ] What is Bishkek Declaration ? What are the 12 countries that signed this declaration ? What is Himal Sanrakshak ? What is Project Snow Leapord ? 
@@ -341,26 +311,18 @@
 - [ ] What is World Meterological Organization ? What are its functions ? Who is its authority ? 
 
 ## 26th October
-- [ ] #map : Kotada Bhadli ? 
-- [ ] #map : List of Places related to Indus Valley Civilization ? 
 - [ ] Jordon river flows through which countries ? 
 - [ ] What happened in 1948 Arab-Israel war ? What are 1993 Oslo Accords ?
-- [ ] #map : Israel, Palestine, West Bank, Gaza Strip,Golan Heights ? 
 - [ ] What is Middle East Quartet ? 
 - [ ] What is International Labour Organization ? What are its functions ? Who is its authority ? Which conventions did the India sign/ratify of ILO ? 
-- [ ] #reports : World Employement & Social Outlook Report, Global Wage Report ? by ILO 
-- [ ] #species : Himalayan Red Bear ? 
-- [ ] #map : Mt. Girnar ?
 
 ## 27th October
-- [ ] #map : Poland ? 
 - [ ] Why does India import Coal from other countries despite having the worlds largest Coal Reserves ? 
 - [ ] What are the latest changes brought into Coal Sector ? 
 - [ ] How & Why did Coal India fail in addressing the deman & supply gap ? 
 - [ ] What is Captive Consumption related to Coal Mining ?
 - [ ] Currently which countries have active polio virus endmic ? 
 - [ ] What are the conditions to declare a country Polio free ? 
-- [ ] #map : Oaxaca ? 
 - [ ] What is the criteria for Women's Child Care Leave ? What are the recent amendments made in this respect ? 
 
 ## 28th October
@@ -372,13 +334,10 @@
 - [ ] What is Maastricht Treaty ? What is it related to ? What is Treaty of Lisbon ? 
 - [ ] What is Euro Zone ?
 - [ ] What is Genomics for Public Health (IndiGen) Program ? 
-- [ ] #map : Sudan ? 
 
 ## 29th October
 - [ ] What is the procedure of setting up of a Joint Parliamentary Committee ? Till date how many JPCs were formed ?
 - [ ] What are the surveys conducted by GoI wrt Education in India ? What are the sources it uses in policy making ?
-- [ ] #reports : Annual State of Education Report by Pratham ? 
-- [ ] #statistics : About 20% of rural children have no text books at home, 1/3 rural children had done no learning activity at all (in the week of survey), only 1/10 had access to live online classes
 - [ ] What is Central Information Commission ? What is the role of Chief Information Commissoner ? What is the Commission's governance structure ? What statutes does it derive power from & abide to ? What is the tenure of CIC ? What are the functions of CIC ? 
 - [ ] What are Green Crackers ? 
 - [ ] What is NASA's Stratopheric Observatory for Infrared Astronomy (SOFIA) ? What is it's objective ? 
@@ -393,9 +352,6 @@
 - [ ] In case of revocation of President's rule, does parliament has any say, without President order, can parliament push for revokation at anytime ? 
 - [ ] Is CVC a statutory or executive or constitutional body ? Which committee recommended its creation ? Who is its authority ? Who is it responsible for ? To whom does it submit the annual report ? What is tenure of CVC ? 
 - [ ] Who has the power to remove CVC from office ? What is the procedure ? What role do Parliament /  Supreme Court hold in it ?
-- [ ] #valleys : Chusul Valley ?
-- [ ] #lakes : Spangur Lake ?
-- [ ] #statistics : Nearly 3.7L workers & several lakh farm families are dependent for their livelihood on jutre sectores 
 - [ ] What is Asian Infra Investment Bank ? Who are its member countries ? What are its functions ? Who is its authority ? 
 - [ ] What is Dam Rehabilitaiton & Improvement Project - Phase II & III ? Who are supporting the project ? Who is the authority to oversee the project ? 
 - [ ] What is Central Water Commission ? Is it a statutory or executive body ? What are its functions ? Who is its authority ? How effective has it been in functions till date ? 
@@ -405,7 +361,6 @@
 - [ ] What is Commisison for Air Quality Management in NCR Region & Adjoing Areas ? What the difference b/w it & EPCA ? Who is its authority ? Who are the members of the body ? 
 - [ ] What are the 8 sectors of IIP ? What is the relative weightage of each sector in IIP ? 
 - [ ] What are derivatives ? What is Credit Default Swap ? What is the rationale behind it ? 
-- [ ] #map : Chile ? 
 - [ ] What is National Productivity Council ? What are its functions ? Who is its authority ? 
 - [ ] What is Naitonal Accrediation Board for Certification Body (NABCB) ? What are its funcitons ? Who is its authority ? 
 - [ ] What is Quality Council of India ? What are its functions ? Who is its authority ? 
@@ -418,8 +373,6 @@
 - [ ] What is the significance of Prevention of Sexual Harassment (PoSH) law, 2013 ? What the provisions in it for women ? 
 - [ ] What is Rural Development Fund ? What are the functions of FCI ? What are its obligations wrt food procurement ? Is it a statutory body ? 
 - [ ] What is the Draft Model Act of Land Titling by NITI Aayog ? What are the functions of Land Titling Apellate Tribunal ? What is the whole schema of process ? 
-- [ ] #rivers : Debi River ? 
-- [ ] #map : Gahirmatha Beach ? 
 - [ ] What is POWER scheme for Women Scientists ? 
 
 

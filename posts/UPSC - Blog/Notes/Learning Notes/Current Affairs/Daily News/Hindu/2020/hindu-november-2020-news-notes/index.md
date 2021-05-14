@@ -268,7 +268,6 @@
 - [ ] What are the powers of CAG & Accountant General in auditing govt., private or any supported entitites by govt. ? 
 - [ ] What is Article 151 ? 
 - [ ] How can goernors rule be imposed in District councils ? What are the differences in elections b/w District Councils & Local body or ULB elections ? 
-- [ ]  #defence-equipment : QRSAM ? 
 - [ ] What is National Biofuels Policy ? 
 - [ ] What are measures needed to be taken to avoid the bailing out of Banks ? 
 - [ ] What is the one-time COVID19-debt restructuting plan offered by RBI ? 
