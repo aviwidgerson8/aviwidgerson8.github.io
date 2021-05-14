@@ -1,4 +1,4 @@
-.. title: Hindu - October'20  Notes
+.. title: Hindu - October'20  News Notes
 .. slug: hindu-october-2020-news-notes
 .. date: 2020-10-01 08:00 UTC+05:30
 .. tags: hindu, news, notes

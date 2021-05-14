@@ -1,4 +1,4 @@
-.. title: Hindu - February'21  Notes
+.. title: Hindu - February'21 News Notes
 .. slug: hindu-february-2021-news-notes
 .. date: 2021-02-01 22:13 UTC+05:30
 .. tags: hindu, news, notes
