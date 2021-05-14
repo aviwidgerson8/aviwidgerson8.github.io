@@ -1,4 +1,4 @@
-.. title: Hindu - December'20  Notes
+.. title: Hindu - December'20  News Notes
 .. slug: hindu-december-2020-news-notes
 .. date: 2020-12-01 08:00 UTC+05:30
 .. tags: hindu, news, notes

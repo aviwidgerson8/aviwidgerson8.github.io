@@ -1,4 +1,4 @@
-.. title: Hindu - July'20  Notes
+.. title: Hindu - July'20  News Notes
 .. slug: hindu-july-2020-news-notes
 .. date: 2020-07-01 08:00 UTC+05:30
 .. tags: hindu, news, notes

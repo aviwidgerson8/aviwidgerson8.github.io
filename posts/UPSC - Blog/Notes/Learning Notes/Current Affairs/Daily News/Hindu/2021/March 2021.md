@@ -1,4 +1,4 @@
-.. title: Hindu - March'21  Notes
+.. title: Hindu - March'21 News Notes
 .. slug: hindu-march-2021-news-notes
 .. date: 2021-03-03 08:38 UTC+05:30
 .. tags: hindu, news, notes

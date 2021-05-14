@@ -1,4 +1,4 @@
-.. title: Hindu - January'21  Notes
+.. title: Hindu - January'21 News Notes
 .. slug: hindu-january-2021-news-notes
 .. date: 2021-01-01 08:28 UTC+05:30
 .. tags: hindu, news, notes
