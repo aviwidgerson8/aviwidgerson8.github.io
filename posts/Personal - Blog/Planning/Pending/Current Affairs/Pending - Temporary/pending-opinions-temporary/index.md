@@ -2,6 +2,7 @@
 .. slug: pending-opinions-temporary
 .. date: 2021-01-07 17:00 UTC+05:30
 .. tags: pending
+.. category: personal
 .. template: page.tmpl
 .. status: private
 

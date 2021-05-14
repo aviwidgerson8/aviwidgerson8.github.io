@@ -3,6 +3,7 @@
 .. date: 2020-11-01 09:30 UTC+05:30
 .. tags: drishti ias, news analysis, notes
 .. category: upsc
+.. status: draft
 
 **Description** : *consolidated notes of monthly current affairs amagazines*
 

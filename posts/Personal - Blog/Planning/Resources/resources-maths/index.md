@@ -1,10 +1,9 @@
 .. title: Mathematics for IIT-JAM & CMI
 .. slug: resources-maths
 .. date: 2020-12-17 15:41:52 UTC+05:30
-.. tags: maths, syllabus
-.. category: resources
+.. tags: maths, resources
+.. category: blog
 .. template: page.tmpl
-.. status: draft
 
 **Description** : *syllabus & account of progress in maths preparation for IIT-JAM & CMI*
 
