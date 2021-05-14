@@ -36,14 +36,10 @@
 - [ ] What is Article - 41 of DPSP ? 
 - [ ] Relief of the Disables & Unemployable comes under State subject
 - [ ] What is Accessible India Campaign ? What is DeenDayal Disabled Rehabilitation Scheme ? 
-- [ ] #statistics : As per UN report of 2015, Indian diaspora population around the world is 16M
 - [ ] What do eth bills lapse ? both in RS & LS, what are conditions specific for each ? 
-- [ ] #map : Bhasan Char ? 
 - [ ] What was ICJs / ICCs ruling on Rohingyas ? 
 - [ ] What is the definition of goods in Goods & Services Tax Act, 2017 ? 
 - [ ] What is Declaration & Programme of Action on a Culture of Peace ? adopted by UNGA. What is the mandate or significance of such sessions ? 
-- [ ] #value : In the latest session India has asked UN to expand its criticism of hatred & violence against religions beyond three abhrahamic religions 
-- [ ] #map : Puerto Rico ? 
 
 ## 5th December
 - [ ] What is National Technical Textiles Misison ? What is its mandate ? 
@@ -66,7 +62,6 @@
 - [ ] What are the different provisions & objectives of Forest Conservation Act, 1980 & Indian Forest Act, 1927 ? 
 - [ ] What is Asian Elephant Alliance ? What is its mandate ? What is its governance strucutre ? Who are its members ? 
 - [ ] What is International Fund for Animal Welfare ? Who maintains the fund ? Who are its members ? 
-- [ ] #statistics : Between 1987-2017, 265 elephants were killed by train accidents in India 
 - [ ] Which states have the highest elephant population in India ?
 - [ ] How does nuclear fusion process generate electricity in reactors ? Which kind of nuclear reactors are better for generation of power ? In India how many nuclear facilities exists of each kind ?
 
@@ -76,10 +71,7 @@
 - [ ] Which body oversees the approval for Biofortification in India ? 
 - [ ] What are eco-bridges ? What is its significance ? 
 - [ ] What is Theravada Buddism ?  
-- [ ] #tribes : Tharu ?
 - [ ] What is Landlord model of development/investment/partnership ?
-- [ ] #map : Vadhavan Port ? 
-- [ ] #significant-personalities : Ashfaque Ullah Khan ?
 - [ ] What is Central Zoo Authority ? What are its functions ? Who is its authority ? 
 - [ ] What is UNCTAD ? What are its functions ? Who is its authority ? What is its governance structure ? Who are members of the body ? 
 
@@ -91,7 +83,6 @@
 - [ ] What is the  Selection Committee that selects the members of NCLAT ? Who are its members ? 
 - [ ] What are 10 major chemical of major public health concern identified by WHO ?
 - [ ] Which country is the largest primary producer of lead ? 
-- [ ] #map : Eritrea ? Tajikisthan ? Turkmenisthan ? Comoros ? Nicaragua ? 
 - [ ] What is the List of Countries of Particular Concern by US State Dept. ?
 - [ ] What is local content criteria for Make in India ? 
 - [ ] What is the share of service sector in GDP ? 
@@ -133,14 +124,10 @@
 - [ ] What is a Special Leave Petition ? Who can file it ? 
 - [ ] What is the significance of River Management Boards ? What powers do they hold ? What is Apex Council in this regards ? 
 - [ ] What is Inter-Sates River Water Disputes Act, 1956 ? What is its significance ? 
-- [ ] #space-missions : Chang e-5 probe ? 
 - [ ] What  are India's NDCs ? 
-- [ ] #statistics : India has achieved 21% of its emissions intensity reduction target as a portion of GDP in line with its pledge of 33-35% reduction by 2030
 - [ ] What is International Climate Ambition Summit ? 
 - [ ] What is Emissions Intensity wrt Climate Change ? Green House Gas emissions Volume / GDP
 - [ ] Which countries haven't signed the Paris Agreement ? 
-- [ ] #statistics : According to NHFS-5 more women seem to have got married even before turning 18, the percentage increased from 30.8 to 31.8%
-- [ ] #national-parks : Vazhachal Reserve Forest ?
 - [ ] What is Birdlife International ? 
 - [ ] What is the significance of having Independent Directors in Board ? What are the functions of Independent Director Boards ? 
 - [ ] What is Lancent's Citizens Commission ? What are its objectives ? 
@@ -152,7 +139,6 @@
 - [ ] What is cVIGIL mobile app ? What is its utility purpose ? 
 - [ ] What is the ceiling of 75L in MPLADS is it a mandatory implementation ceiling or limiting ceiling ? 
 - [ ] What is National Health Agency ? What are its functions ? Who is its authority ? 
-- [ ] #statistics As per NHA's report on PM-JAY, private hospitals account for over half of empanelled hospitals, nearly 2/3rd of claims by volume & 3/4th of claim outlays in the scheme
 - [ ] What is funding split b/w Centre & States in PM-JAY ?
 - [ ] What is the objective of NITI's recently released Vision 2035: Public Health Surveillance in India ? 
 - [ ] What is the difference b/w China & India in their economic growth & poverty reduction trajectories ? 
@@ -166,7 +152,6 @@
 - [ ] What is Sect - 497 of IPC ?
 - [ ] What is the difference b/w PIO & OIC ? What is the eligibility criteria to become OIC cardholder ? What was the criteria with PIO before ? 
 - [ ] What are the types of sanctions imposed thorugh CATSAA ? 
-- [ ] #map : Xinjiang ? 
 - [ ] What is India-Bangladesh Land Boundary Agreement ? 
 - [ ] What is DakPay by IPPB ? What are the functions of India Post Payments Bank ? In which category of banks does IPPB fall in ? Who is the authority ? What is its mandate ? 
 - [ ] What is Financial Stability & Development Conucil, headed by Min. Fin ? Is it a statutory body ? No
@@ -195,8 +180,6 @@
 - [ ] What are the emergency provisions of IPS Cadre Rule, 1954 ?
 - [ ] Rules regarding deputation of IAS, IPS officers & the conflicts between state & centre ? 
 - [ ] What is Civil Services Board ? 
-- [ ] #indices : India ranks 111/162 in Human Freedom Index by Cato Institute + Fraser Institute
-- [ ] #indices : Democracy Index ? by Freedom House, Global Economic Freedom Index ? World Press Freedom Index ? 
 - [ ] What are latest amendments envisages in Karnataka Land Reforms (Amendment) Bill, 2020 ? What are Sections - 79A,B,C of the Act ? What purpose will this amendment serve ? 
 - [ ] What is GeoSynchronous Transfer Orbit ? What is CMS-01 satellite ? What is its siginificance ? 
 - [ ] What are GeoSynchronous & Geo Stationary Orbits ? 
@@ -215,15 +198,11 @@
 - [ ] What is National Policy on Biofuels, 2018 ? What is the protocol/prodecure to divert excess food stock for conversion into Biofuels 
 - [ ] What is ethanol ? What are its uses in general ? What are the benefits of ethanol blending with petrol ? 
 - [ ] What is Intentional Genomic Alteration ? 
-- [ ] #map : Nigeria ? Chad ? Niger ? Cameroon ? Lake Chad ? 
-- [ ] #defence-exercises : IND-INDO CORPAT ? 
 - [ ] What is Coalition for Disaster Resilient Infrstructure (CDRI) ? What is its mandate ? What are its functions ? Who is its authority ? Who are its members ? 
 - [ ] What is Great Conjunction - Christmas Star event ? 
 
 ## 21st & 22nd December
 - [ ] What was Anushilan Samithi ? 
-- [ ] #significant-personalities : Khudiram Bose ? Prafulla Chaki ? 
-- [ ] #tribes : Sentinelese ? Onge ? Jarawa ? Shompens ? Great Andamanese ? 
 - [ ] What are tribal reserves ? Which statute protects them from encroachments ? 
 - [ ] What is the commercial contract to be finalised b/w U.S's Westinghouse Electric Company & Nuclear Power Corporation of India (NPCIL) to build 6 reactors in AP ?
 - [ ] What are the provisions & protections under Banning of Unregulated Deposit Scheme, 2019 ? How can Ponzi Schemes be eliminated ? What are the current drawbacks ? 
@@ -241,7 +220,6 @@
 - [ ] What are types of Alternative Investment Funds ? 
 - [ ] Who hold the authority over CBI ? What is its relation with MHA ? On which subjects does the jurisdiction of CBI correspond to ? 
 - [ ] What is National Water Mission ? What is Jalshakti Abhiyaan II - Catch the Rain campaign ? 
-- [ ] #reports : Status of Leopards Report ? by MoEFCC 
 
 ## 23rd December
 - [ ] What are the rights of President & Governor over the Terriorial Councils / Autonomous District Councils under 6th Schedule ? 
@@ -264,11 +242,9 @@
 - [ ] What are latest Electricity (Rights of Consumers) Rules, 2020 ? What is its significance ? What are exceptions wrt agricultural purposes ? What are the changes ? 
 - [ ] What is Sachet Portal of RBI ? What is its utility ? What are the latest guidelines issued by RBI on digital lending apps ? 
 - [ ] What is Tour of Duty recruitment model mooted by govt. ? 
-- [ ] #statistics : As per Standing Committee Report of Defence, 2019 there is a deficiency of 14% in officer cadre of Indian Army 
 - [ ] What is the need for merger of film media units with National Film Development Corporation ? 
 - [ ] What is the reason behind mandatory physical verification of business premises for GST registraion ? 
 - [ ] How are the IGST taxes divided ? 
-- [ ] #map : Kilauea Volcano ? 
 
 ## 25th December
 - [ ] What is Article - 174 ? What is Article - 163 ? Does governor has the descritionary power to summon assmbly without due advice or confirmation from council of ministers
@@ -282,28 +258,13 @@
 - [ ] Which laws have been used to block the internet in J&K ? Information Technology Act, 2000, Sect-144 of CrPC, 1973, Sect - 5 of Telegraph Act, 1885 ? 
 - [ ] What are Temporary Suspension of Telecom Services (Public Emergency or Public Service) Rules under Telegraph Act ? 
 - [ ] What is PM-JAY SEHAT Scheme for J&K ? 
-- [ ] #map : List of OPEC+ countries ? Also their relative order of capacities of oil production & reserves ?
 - [ ] India depends which countries for its crude oil imports ? 
-- [ ] #wetlands : Tso Kar Wetland ? 
-- [ ] #wetlands : List of ramsar wetlands in India & also their classification into salt & fresh waters ?
-- [ ] #lakes : Startsapuk Tso ? 
+
 - [ ] What is Convention on Wetlands (of International Importance), 1975 ? What is Montreux Record related to the convention ? List of sites which are part of the record from India ?
-- [ ] #national-parks : Keoladeo National Park ? 
-- [ ] #lakes : Loktak Lake ?
 - [ ] What is Central Asian Flyway ? 
 - [ ] What is BBX11 gene ? What is its significance ? What is ProtoChlorophyllide ? What is its utility ? 
 
 ## 28th December
-- [ ] #significant-personalities : Ahmad Shah Abdali ?
-- [ ] #significant-personalities : Sadashivrao Bhau ? 
-- [ ] #significant-personalities : Najib Khan Rohilla ?
-- [ ] #significant-personalities : Dattaji Shinde ?
-- [ ] #significant-personalities : Vishwas Rao ?
-- [ ] #significant-personalities : Suraj Mal Jat ? 
-- [ ] #significant-events : Battle of Panipar,1761 ? 
-- [ ] #significant-personalities : King Hemu - Vikramaditya ? 
-- [ ] #significant-events : Second Battle of Panipat, 1556 ? 
-- [ ] #significant-personalities : Shuja-ud-Daula ? 
 - [ ] What is Streptococcus Pneumonia ? What are the cause of penumonia ? Bacteria/Virus/fungi ?  
 - [ ] What is Pneumococcal Polysaccharide Vaccine (PPSV23) ? What are Conjugate Vaccines ? How does this vaccine function ? wrt antigens & antibodies ?
 - [ ] What is the procedure for vaccine to get approval ? which bodies are involved/consulted in the process ? 
@@ -311,11 +272,8 @@
 - [ ] What is unutilized input tax credit ? 
 - [ ] What is Composition Scheme under GST ? Why can't hey claim Input Tax Credit ? 
 - [ ] What are the pros & cons of necessiating businesses to pay at least 1% GST liability in cash, in case of businesses with monthly turnover of 50L ? 
-- [ ] #map : What is Eastern Dedicated Freight Corridor ? Bhaupur ? Khurja ? Ludhiana ? Dankuni ? 
 - [ ] Eastern Dedicated Freight Corridor passes through which & how many states ? 
 - [ ] What is the utility of Eastern Freight Corridor ? Transfer of which goods is aimed to benefit ? Coal from east to North, Cement , Fertilizers from Rajasthan to East etc. ? 
-- [ ] #statistics : The Dedicated Freight Corridors carry 52% of passenger traffic & 58% of freight traffic
-- [ ] #species : Portulaca Laljii ? 
 - [ ] What is Sahi Fasal Campaign by National Water Mission ? 
 - [ ] What is KVIC ? What are its functions ? Who is its authority ? 
 
@@ -329,7 +287,6 @@
 - [ ] What are Daure Sakar  & Paray Samadhan initiatives ? 
 
 ## 30th December
-- [ ] #judgements : Lilythomas & Sarla Mudgal Cases ? 
 - [ ] What is Global Alliance for Vaccine & Immunisation (GAVI) ? What are its functions ? What is its mandate ? Who is its authority ? Who are its members ? 
 - [ ] What are UN Millenium Developmental Goals ? 
 - [ ] What is Global Vaccine Summit ? 
@@ -337,12 +294,9 @@
 - [ ] What are Zero Coupon Bonds ? What the difference between it & traditional bonds ? How did govt.'s isusance to Punjab & Sindh Bank of these bonds help ? 
 - [ ] What is TiHAN - IIT Hyderabad Project ? Test Bed for Autonomous Navigation Systems (Terrestrial & Areial) by DST
 - [ ] What is National Mission on Interdisciplinary Cyber-Physical Systems ? 
-- [ ] #map : Gaza ? 
 - [ ] What is Tribes India Collection ? What is its significance ? 
-- [ ] #tribes : Malayali Tribes ? 
 - [ ] What is Indian National Centre for Oceanic Information Services (INCOIS) ? What are its functions ? Who is its authority ? What is its mandate ? 
 - [ ] What is Digital Ocean by INCOIS, MoES ? 
-- [ ] #map : Dha-Baima ? Drass ? Changthang ? Khalsi ? Nubra ? Zanskar ? Kargil ?
 
 ## 31st December
 - [ ] Tourism is part of which list in 7th Schedule ? 
@@ -351,12 +305,7 @@
 - [ ] What is a Viral Vector Vaccine ? How does it work ? What are T-Cells ? What are memory cells associated with vaccine functions ? What are antibodies ?
 - [ ] Is usage of Facial Recognition Technolgoy legalized in India ? Is govt. using FRT ? How does this encounter freedom of privacy ? 
 - [ ] What is a function creep ? What are Cabinet notes ? 
-- [ ] #judgements : What does Puttaswamy Judgement say reagrding law making on dealing with encroachment of individual privacy ? What are the necessary conditions to be met ? 
 - [ ] Ethanol can be produced from which products ? What is Ethanol Blended Petrol Program ? What are its objectives ? What are benefits of blending ethanol ? 
 - [ ] What is Armed Forces Special Powers Act ? In which states is this act imposed ? What are the conditions for enforcement of this act ? Who is the authority to enforce this act ? 
 - [ ] What were recommendation sof B P Jeevan Reddy on AFPSA ? 
-- [ ] #national-parks : Dibru-Saikhowa National Park ? 
-- [ ] #wetlands : Maguri Motapung ? 
-- [ ] #map : Estonia ? Paraguay ? Dominican Republic ? 
-- [ ] #defence-equipment : Aksash (SAM) Missile ? 
 

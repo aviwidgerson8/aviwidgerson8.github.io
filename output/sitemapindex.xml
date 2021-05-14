@@ -15,7 +15,7 @@
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/cat_upsc.xml</loc>
-  <lastmod>2021-05-14T07:57:00Z</lastmod>
+  <lastmod>2021-05-14T13:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/drishti-ias.xml</loc>
@@ -31,7 +31,7 @@
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/explained.xml</loc>
-  <lastmod>2021-05-14T07:57:00Z</lastmod>
+  <lastmod>2021-05-14T13:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/goodreads.xml</loc>
@@ -39,7 +39,7 @@
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/hindu.xml</loc>
-  <lastmod>2021-05-14T07:57:00Z</lastmod>
+  <lastmod>2021-05-14T13:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/ias-baba.xml</loc>
@@ -47,11 +47,11 @@
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/indian-express.xml</loc>
-  <lastmod>2021-05-14T07:57:00Z</lastmod>
+  <lastmod>2021-05-14T13:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/insights-ias.xml</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T13:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/installation.xml</loc>
@@ -62,20 +62,24 @@
   <lastmod>2021-05-14T07:57:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://aviwidgerson8.github.io/categories/mains.xml</loc>
+  <lastmod>2021-05-14T13:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/maths.xml</loc>
   <lastmod>2021-05-14T07:57:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/news-analysis.xml</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T13:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/news.xml</loc>
-  <lastmod>2021-05-14T07:57:00Z</lastmod>
+  <lastmod>2021-05-14T13:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/notes.xml</loc>
-  <lastmod>2021-05-14T07:57:00Z</lastmod>
+  <lastmod>2021-05-14T13:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/only-ias.xml</loc>
@@ -83,7 +87,11 @@
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/opinion.xml</loc>
-  <lastmod>2021-05-14T07:45:00Z</lastmod>
+  <lastmod>2021-05-14T13:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://aviwidgerson8.github.io/categories/prelims.xml</loc>
+  <lastmod>2021-05-14T13:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/prs.xml</loc>
@@ -106,19 +114,15 @@
   <lastmod>2021-05-14T07:45:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://aviwidgerson8.github.io/categories/upsc.xml</loc>
-  <lastmod>2021-05-14T07:48:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://aviwidgerson8.github.io/categories/yojana.xml</loc>
   <lastmod>2021-05-14T07:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/rss.xml</loc>
-  <lastmod>2021-05-14T07:57:00Z</lastmod>
+  <lastmod>2021-05-14T13:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://aviwidgerson8.github.io/sitemap.xml</loc>
-  <lastmod>2021-05-14T07:57:00Z</lastmod>
+  <lastmod>2021-05-14T13:34:00Z</lastmod>
  </sitemap>
 </sitemapindex>

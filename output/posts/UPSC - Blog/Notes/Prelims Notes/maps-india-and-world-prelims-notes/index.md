@@ -1,0 +1,282 @@
+.. title: Maps : India & World - Prelims Notes
+.. slug: maps-india-and-world-prelims-notes
+.. date: 2021-05-14 08:10 UTC+05:30
+.. tags: prelims, notes
+.. category: upsc
+
+**Description** : *consolidated notes of maps for prelims*
+
+***
+<!-- TEASER_END -->
+
+#map 
+
+- [ ]  #map : Great Bend of Brahmaputra ? 
+- [ ]  #map : Ziro Valley ? 
+- [ ]  #map : Bhashan Char ? 
+- [ ]  #map : Frecnh Guinea ? 
+- [ ]  #map : Angola ? 
+- [ ]  #map : Belgium ? 
+- [ ]  #map : Kuwait ? 
+- [ ]  #map : Sinai Desert ? Sinai Peninsula ? 
+- [ ]  #map : Rakhigarhi, Farmana, Masudpur ? 
+- [ ]  #map : Mauritiana ? 
+- [ ]  #map : Central Asian Flyway ?
+- [ ]  #map : Eswatini ? 
+- [ ]  #map : Morocco ? 
+- [ ]  #map : Western Sahara ? 
+- [ ]  #map : Rabat ? 
+- [ ]  #map : Changthang Wetlands ? 
+- [ ]  #map : Shaksgam Valley ?
+- [ ]  #map : Comoros ? Muritius ? Seychelles ? Maldives ? 
+- [ ]  #map : Nilgiris, Palani, Anamalai ? 
+- [ ]  #map : Bay of Naples ? Pompeii ?
+- [ ]  #map : Sea of Galilee ? 
+- [ ]  #map : Jordan river flows through which countries ? 
+- [ ]   #map : Glasgow 
+- [ ]  #map : Rabat ? Morocco ? Mauritiana ? 
+- [ ] #map : Vembanad Lake ? 
+- [ ] #map : Little Andaman ?
+- [ ] #map : Petuaghat ?
+- [ ] #map : Naypyidaw ?
+- [ ] #map : Uganda ?
+- [ ]  #map : Yerevan ? 
+- [ ]  #map : Lahaul- Spiti Valley ? 
+- [ ]  #map : Yemen ? 
+- [ ]  #map : Agartala ? 
+- [ ]  #map : Dibang Valley ?
+- [ ]  #map : Caspian Sea ? 
+- [ ]  #map : Dzukou Valley ?
+- [ ]  #map : Minsk ? 
+- [ ]  #map : Kazhakhstan ? 
+- [ ]  #map : Sigur Plateau ? 
+- [ ]  #map : Nilgiri Hills? Moyar River Valley ? 
+- [ ]  #map : Mansar Lake ? 
+- [ ]  #map : Idukki Dam ? 
+- [ ]  #map : Kotada Bhadli ? 
+- [ ]  #map : Kosovo ? 
+- [ ]  #map : Barak Valley ?
+- [ ]  #map : Karwar ? 
+- [ ]  #map : Yemen ? 
+- [ ]  #map : Tasmania ? 
+- [ ]  #map : Chatham Islands ? 
+- [ ]  #map : distribution of Indian Ocean Islands ?
+- [ ]  #map  : Lithuania ? Luxemborg ? 
+- [ ]  #map : Yemen ? 
+- [ ]  #map : Gairsain ? 
+- [ ]  #map : Mali ? 
+- [ ]  #map : Ethiopia ? 
+- [ ]  #map : Sudan ? 
+- [ ]  #map : Eritrea ? 
+- [ ]  #map : Gaza Strip ? 
+- [ ]  #map : Cyprus ? 
+- [ ]  #map : tigray ? 
+- [ ]  #map : Chandipur ? 
+- [ ]  #map : Swabhiman Anchal ? 
+- [ ]  #map : caucasus regions ? 
+- [ ]  #map : Riyadh ? 
+- [ ]  #map : Luxembourg ? 
+- [ ]  #map : Java Sea ? 
+- [ ]  #map : Idukki reservoir ? 
+- [ ]  #map : taiwan ? 
+- [ ]  #map : Baku ? 
+- [ ]  #map : Kalapani ? Lipulekh ? Limpyadhura ? 
+- [ ]  #map : Dokhlam Plateau ? 
+- [ ]  #map : Bahrain ? 
+- [ ]  #map : Assomption Island ? Seychelles ? 
+- [ ]  #map : Argentine Patagonia ? 
+- [ ]  #map : Gaza Strip ? 
+- [ ]  #map : Tigray ? 
+- [ ]  #map : NEOM ? 
+- [ ]  #map : Doha ? 
+- [ ]  #map : Mahadayi Valley ? 
+- [ ]  #map : countries surrounding Red Sea ? 
+- [ ]  #map : Reunion Island ? 
+- [ ]  #map : Strait of Hormuz ? 
+- [ ]  #map : Aegan Sea ? 
+- [ ]  #map : Strait of Dardanelles
+- [ ]  #map : Sea of Marmara ? 
+- [ ]  #map : Black Sea ? 
+- [ ]  #map : Sea of Crete & Thracian Sea ? 
+- [ ]  #map : Costa rica ? 
+- [ ]  #map : Mansar Lake ? Surinsar Lake ? 
+- [ ]  #map : Which countries surround the caspian sea ? 
+- [ ]  #map : Tristan da Cunha ? 
+- [ ]  #map : Bolivia ? 
+- [ ]  #map : Tarai Region ? 
+- [ ]  #map : Lahaul-Spiti Valley ? Manali ? 
+- [ ]  #map : Denmark
+- [ ]  #map :  Chardam Project ? 
+- [ ]  #map : (Nagorno Karabakh) South Caucusus 
+- [ ]  #map : New Caledonia
+- [ ]  #map : Yerevan ?
+- [ ]  #map : Baku ? 
+- [ ]  #map : luxemborg ? 
+- [ ]  #map : Abor HIlls ? 
+- [ ]  #map : Strait of Malacca ? 
+- [ ]  #map  : Dijbouti, Angola ?
+- [ ]  #map : Hambantota port ? 
+- [ ]  #map : Juba ?
+- [ ]  #map : New Caledonia ? 
+- [ ]  #map : Spain ? 
+- [ ]  #map : Mali ?
+- [ ]  #map : Benin, Burkina Faso, Chad & Mali
+- [ ]  #map : Brahmadiha Coal Block ? JH
+- [ ]  #map : Thailand ? 
+- [ ]  #map : Taiwan Strait ? 
+- [ ]  #map : Central Asian Countries ? 
+- [ ]  #map : Chile ? 
+- [ ]  #map : Thailand ? 
+- [ ]  #map : Kuwait ? 
+- [ ]  #map : Kyrgyz Republic ? 
+- [ ]  #map : Mekele ? 
+- [ ]  #map : Bolivia ? 
+- [ ]  #map : Myanmar ? 
+- [ ]  #map : Chusul , Rezang la ? 
+- [ ]  #map : Wheeler Island ?
+- [ ]  #map : Aegan Sea ? 
+- [ ]  #map : Greece ? Greek Islands of Samos ? 
+- [ ]  #map : Tunisia ? 
+- [ ]  #map : Sambhar Lake ? 
+- [ ]  #map : Kyrgyzsdtan 
+- [ ]  #map : Lake Victoria ? 
+- [ ]  #map : Dzukou Valley ?
+- [ ]  #map : Brussels ? 
+- [ ] #map : Chad ? What is the current crisis in the country ? What issues does it grapple with ?
+- [ ] #map : Niger ? 
+- [ ] #map : Lake Baikal ? 
+- [ ] #map : Crimean Peninsula ? 
+- [ ] #map : Depasang, Gogra, Hotsprings, Demchok ? 
+- [ ] #map : Bandar Abbas Port ? 
+- [ ] #map : Taklamakan Desert ? 
+- [ ] #map : Ukraine ? 
+- [ ] #map : Nalabana Island ? 
+- [ ] #map : Ukraine ? 
+- [ ] #map : North Macedonia ? 
+- [ ] #map : Bab el Mandeb Strait ? Gulf of Aden ? Gulf of Aqaba ? Gulf of Suez ? Red Sea ?
+- [ ] #map : Jaintia Hills ? Khasi Hills ? 
+- [ ] #map : Luzon Strait ? Taiwan Strait ? Strait of Malacca ? East China Sea ? Brunei ? 
+- [ ]  #map : Sahel ? Chad ? 
+- [ ]  #map : Kowloon Peninsula ? 
+- [ ]  #map : Thailand ? 
+- [ ]  #map : Myanmar ? 
+- [ ] #map : Bhasan Char ? 
+- [ ] #map : Puerto Rico ? 
+- [ ] #map : Vadhavan Port ? 
+- [ ] #map : Eritrea ? Tajikisthan ? Turkmenisthan ? Comoros ? Nicaragua ? 
+- [ ] #map : Xinjiang ? 
+- [ ] #map : Nigeria ? Chad ? Niger ? Cameroon ? Lake Chad ? 
+- [ ] #map : Kilauea Volcano ? 
+- [ ] #map : List of OPEC+ countries ? Also their relative order of capacities of oil production & reserves ?
+- [ ] #map : What is Eastern Dedicated Freight Corridor ? Bhaupur ? Khurja ? Ludhiana ? Dankuni ? 
+- [ ] #map : Gaza ? 
+- [ ] #map : Dha-Baima ? Drass ? Changthang ? Khalsi ? Nubra ? Zanskar ? Kargil ?
+- [ ] #map : Estonia ? Paraguay ? Dominican Republic ? 
+- [ ] #map : North Sea ? 
+- [ ] #map : Nanda Devi ?
+- [ ] #map : Chabahar Port ? 
+- [ ] #map : Gulf of Oman ? 
+- [ ] #map : Petuaghat ? 
+- [ ] #map : Naypyidaw ?
+- [ ] #map : North Sea ? 
+- [ ] #map : Denmark ? 
+- [ ] #map : Aden ?
+- [ ] #map : Columbia ? Venezuela ? 
+- [ ] #map : Burkina Faso ? 
+- [ ] #map : Uthuru Thila Falhu ? 
+- [ ] #map : Senkaku Islands ? 
+- [ ] #map : Ghana ? Accra ? 
+- [ ] #map : Scotland ? 
+- [ ] #map : Qatar ? 
+- [ ] #map : Xinjiang ? What are the countries surrounding the area ? 
+- [ ] #map : Semeru Volcano ? 
+- [ ] #map : Scotland ? 
+- [ ] #map : Sigur Plateau ? 
+- [ ] #map : Mosul ? 
+- [ ] #map : Qatar ? 
+- [ ] #map : Gulf of Aden ? 
+- [ ] #map : Lava Hills ? 
+- [ ] #map : Mandalay ? 
+- [ ] #map : Turkmenistan ? 
+- [ ] #map : Baku ? Bandar Abbas ? Astrakhan ? 
+- [ ] #map : El-Salvador ? 
+- [ ] #map : List of OPEC & OPEC+ countries ? 
+- [ ] #map : Gogra-Hot Springs ? Demchok ? Depsang Plains ? 
+- [ ] #map : Uzbhekistan ? 
+- [ ] #map : Myanmar, it's bordering Indian states ? 
+- [ ]  #map : East & West Container Terminals - Sri Lanka ? 
+- [ ] #map : Cayman Islands ? 
+- [ ] #map : libiya ? What is the issue with govt. in the country ? 
+- [ ]  #map : Kenya ? Somalia ? 
+- [ ] #map : Bordering countries of Myanmar ? 
+- [ ] #map : Which states are bordering Myanmar ? 
+- [ ]  #map : Hodeidah Port ? 
+- [ ]  #map : Sana'a ? 
+- [ ] #map : Yellow Sea, East China Sea, South China Sea ? 
+- [ ] #map : Zaberwan Range ? 
+- [ ] #map : Macedonia ? Malawi ? Montenegro ? 
+- [ ] #map : Reed Bank ? 
+- [ ] #map : Taiwan Strait ? Luzon Strait ? 
+- [ ] #map : List of countries arounf Suez Canal ? 
+- [ ] #map : Chamundi Hills ?
+- [ ] #map : Tripura ? 
+- [ ] #map : Tajikistan & Kyrgyzstan ? 
+- [ ] #map : Romania ? 
+- [ ]  #map : Democratic Republic of Congo ? 
+- [ ] #map : Mojave Desert ? 
+- [ ] #map : Palk Strait ? 
+- [ ] #map : Manama ? 
+- [ ] #map : Atherkhet Fault ? Kopiili Fault ? Siang Fracture ? Yemla Fault ? Namula Thrust ? Canyon Thrust ? Main Himalayan Thrust ? 
+- [ ] #map : Brunei ?
+- [ ] #map : Algeria, Angola, Equatorial Guinea, Gabon, Libiya, Nigeria, Republic of Congo, UAE, Venezuela ?
+- [ ] #map : All countries of African Continent ? 
+- [ ] #map : Important Irrigation Projects & Also mentioned in Current Affairs recently ? 
+- [ ] #map : Pampore Region ? 
+- [ ] #map : Nagorno-Karabakh region ? 
+- [ ] #map Azerbhaijan ? Armenia ? 
+- [ ] #map : Mauna Kea ? Hawaii ?
+- [ ] #map List of countries in Carribean Sea ? 
+- [ ] #map : Tristan da Cunha ? 
+- [ ]  #map : Luxembourg ? 
+- [ ]  #map : Dead Sea ? 
+- [ ]  #map : Bolivia ? 
+- [ ]  #map : Durand Line ? 
+- [ ]  #map : Pangda Village ? India-Bhutam-China tri-junction ? Dokhlam Plateau ? 
+- [ ]  #map : Silguri Corridor of India ? Chicken's Neck ? 
+- [ ]  #map : Italy ? 
+- [ ]  #map : Mahe ? 
+- [ ] #map : New Caledonia ?
+- [ ] #map : Taiwan Strait ? 
+- [ ] #map : Reed Bank ? Spratlys ? Scarborough Shoal ? 
+- [ ] #map : Countries/Islands in & surrounding South China Sea ? 
+- [ ] #map : Zojila Tunnel ? Zojila Pass ? 
+- [ ] #map : Israel, UAE, Bahrain ? 
+- [ ] #map : Juhu Beach ? Devgad Beach ? Sindhudurg ?
+- [ ] #map : What is Melanesia region ? 
+- [ ] #map : Fiji ? 
+- [ ] #map : Lushai Hills ? 
+- [ ] #map : Limpiyadhura, Lipulekh 7 Kalapani ?
+- [ ] #map : Kotada Bhadli ? 
+- [ ] #map : List of Places related to Indus Valley Civilization ? 
+- [ ] #map : Israel, Palestine, West Bank, Gaza Strip,Golan Heights ? 
+- [ ] #map : Mt. Girnar ?
+- [ ] #map : Poland ? 
+- [ ] #map : Oaxaca ? 
+- [ ] #map : Sudan ? 
+- [ ] #map : Chile ? 
+- [ ] #map : Hague ?
+- [ ] #map : Cyprus Islands ? Mediterranean Sea ? 
+- [ ] #map : Turkey ? Greece ? 
+- [ ] #map : North Macedonia ? 
+- [ ] Are member countries of NATO, exclusively atlantic countries ? 
+- [ ] #map : Countries surrounding North Atlantic Ocean ? 
+- [ ] #map : Iran ? 
+- [ ] #map : Karbi Anglong Hills ? 
+- [ ] #map : Timor-Leste ?
+- [ ] #map : APJ Abdul Kalam Island ?
+- [ ]  #map : Diego Garcia ? 
+- [ ]  #map : Shinkun La Tunnel ? 
+- [ ]  #map : Kazakhastan ? 
+- [ ] #map : Hauge ? 
+- [ ] #map : Azerbhaijan ? Armenia ? 
+- [ ] #map : Gahirmatha Beach ? 

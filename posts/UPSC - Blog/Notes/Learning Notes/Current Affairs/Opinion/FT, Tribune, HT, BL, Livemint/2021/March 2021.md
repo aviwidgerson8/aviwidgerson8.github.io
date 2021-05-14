@@ -10,5 +10,4 @@
 <!-- TEASER_END -->
 
 ## 5th March
-- [ ] #statistics : India's 1.34B population has almost 2/3rd of its people under 30
 - [ ] 

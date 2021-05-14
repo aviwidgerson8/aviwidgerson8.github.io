@@ -18,10 +18,7 @@
 - [ ] Who decides the MSP for MFP & with whom lies the responsibility of purchasing the MFP ? 
 - [ ] What is the current status of timber ? does it come under MFP ? 
 - [ ] International North-South Corridor travels through which countries ?
-- [ ] #map : Chabahar Port ? 
 - [ ] What is the advatage wrt trade due to the development of Chabahar port ?
-- [ ] #map : Gulf of Oman ? 
-- [ ] #lakes : vembanad lake ? 
 - [ ] What are the articles of constitutions related to national language & statutes/law corresponding to 3-language policy ? 
 - [ ] What are Official Language Act, 1963 ?  Official Language Rules, 1976 ?
 - [ ] What are the functions of Wildlife Crime Control Bureau (WCCB) ?
@@ -34,7 +31,6 @@
 - [ ] What is the current status of developments & schemes under Swacch Bharath Mission ? 
 - [ ] What is Naitonal Hydrogen Mission ? 
 - [ ] What is City Gas Distribution Program ? What are its advantages ?
-- [ ] #map : Petuaghat ? 
 - [ ] What has been the impact on states due to the creation of non-lapsable fund for defence & internal security ? 
 - [ ] What are Non-Debt Capital receipts ? reciepts for which govt. doesn't hold the responsibility of future repayment. What are Debt Reciepts ? Borrowings 
 - [ ] What the role of RBI wrt inflation control before FRBM Act ? What inspired the tabulation of FRBM Act ? 
@@ -44,10 +40,6 @@
 - [ ] What is AMASR Act related to protection of archeological sites ?  
 - [ ] What are the functions of National Monument Authority ?  Who is its authority ? 
 - [ ] What was the significance of Jagannath sect emanated during Ganga rulers of 12th century ? 
-- [ ] #lakes : Bindusagar lake ?
-- [ ] #significant-events : Jallian Walag Bagh Massacre ? 
-- [ ] #significant-events : Rowlatt Act ? 
-- [ ] #significant-events : Chauri-Chaura incident ? 
 - [ ] Which ministry is responsible for Gobardhan scheme ? Jal-Shakti 
 - [ ] What is Anaerobic Digestion ? 
 - [ ] What is Convention on Wetlands of International Importance, 1971 - Ramsar Convention ? 
@@ -62,10 +54,8 @@
 - [ ] Which products/means did the govt. approve for ethanol production ?
 - [ ] What are Telecom Commercial Communication Customer Preference Regulation (TCCCPR), 2018 ? 
 - [ ] How can Distributed Ledger Tech be utilized in controlling the fradulent activities through telecom services ? 
-- [ ] #species : Orobanche ? 
 
 ## 5th February 2021
-- [ ] #statistics ; With PMMVY, the percentage of institutional deliveries out of reported deliveries increased from 85 per cent in FY 2013-14 to 92 per cent in FY 2017-18.
 - [ ] What are the functions of International Criminal Court ? Who is its authority ? 
 - [ ] What is Rome Statute in the creation of ICC ? 
 - [ ] What are the functions of Internaitonal Court of Justice ? 
@@ -80,8 +70,6 @@
 - [ ] What is Sect-29A of RPA, 1951 ? 
 - [ ] What are conditions of number of proposers in filing a nomination for elections ? 
 - [ ] What is National Agircultural Scheme & Modified Scheme of it ? What is PM Fasal Bhima Yojana ? What is PMFBY 2.0 ? What is the sharing pattern b/w centre & states in this scheme ? 
-- [ ] #map : North Sea ? 
-- [ ] #map : Denmark ? 
 - [ ] What are Central Monitoring System (CMS), Network Traffic Analysis (NETRA), National Intelligence Grid (NATGRID) ? What are thier functions ? What are their objectives ? Wht powers do these statutes hold under Indian Telegraph Act & Infromation Technology Act ? 
 - [ ] What is Parivar Pehchan Patra Scheme ? What are its objectives ? What is its significance ? What is Saral Platform realted to it ? 
 
@@ -94,18 +82,12 @@
 - [ ] What is diff. b/w PEMO & REPO wrt Open Market Operations by RBI ? 
 - [ ] What is PM Urja Ganga Project ? 
 - [ ] List of Space Mission by NASA & ISRO in past 3 yrs ? 
-- [ ] #lakes : Vasudhara Tal ? 
-- [ ] #rivers : Dhauliganga ? 
-- [ ] #national-parks : Nanda Devi National Park ?
 - [ ] What is National Safety Council ? What are its functions ? Who is its authority ? 
 - [ ] Why was UNHRC formed after UNCHR ? are it's recommendations binding on states ? What are the impendiments in effective functioning of UNHRC ? 
-- [ ] #national-parks : Wayanad Wildlife Sanctuary ? 
 - [ ] What are the rules/restrictions of ESZ wrt Wildlife Sanctuaries ? What is the effectiveness of a Buffer Zone ? 
-- [ ] #rivers : Kabani rivers ? 
 - [ ] What is the rationale of Special Marriage Act, 1954 ?
 - [ ] What is Article 356 ?
 - [ ] What is the conditional approval of President's Rule in Parliament ? 
-- [ ] #map : Columbia ? Venezuela ? 
 - [ ] What is significance of APMC Model ordinance of Orissa ? 
 
 ## 11th February 2021
@@ -114,7 +96,6 @@
 - [ ] What is landlord port model ? 
 
 ## 12th February 2021
-- [ ] #lakes : Spangur Lake ? 
 - [ ] What is International Energy Agency ? 
 - [ ] What has been the effect of Nationalization of Banks ? Did the objective succeed ? 
 - [ ] What is the difference in the banking system b/w India & China ? 
@@ -129,20 +110,14 @@
 - [ ] What are Aticles - 50, 122, 212, 53, 154, 121, 211, 361 ? 
 
 ## 15th February 2021
-- [ ] #map : Burkina Faso ? 
 - [ ] What is Naitonal Coal Index ? What is its utility ? 
 - [ ] What are NavIC, Bhuvan, VEDAS, MOSDAC ? 
-- [ ] #species : Dickinsonia ? 
 - [ ] What is Ediacaran Period ? What are Cryogenian Period & Cambrian Period ? 
 
 ## 16th February 2021
 - [ ] What is Marrakesh Agreement ? 
 - [ ] What is Uruguay Round related to WTO ? 
 - [ ] What are the administrative bodies of WTO ? 
-- [ ] #significant-personalities : Maharaja Suheldev ? 
-- [ ] #significant-personalities : Abd-ur-Rahman Chisti ? 
-- [ ] #national-parks : Odisha's Karlapat Sanctuary ? 
-
 ## 17th February 2021
 - [ ] How does the removal of governor take place ? 
 - [ ] What is Article 239A ?
@@ -171,7 +146,6 @@
 - [ ] What is ASEAN summit ? What is its siginificance ? 
 - [ ] What is green or blue hydrogen ? 
 - [ ] What is adsorption ? absorption ? 
-- [ ] #rivers : Barak ? 
 - [ ] What is Mahabahu Brahmaputra initiative ? 
 - [ ] What is the significance of Dhubri-Phulbari Bridge ? 
 - [ ] What are the functions of FAO ? Who is its authority ? 
@@ -185,14 +159,12 @@
 ## 22nd February 2021
 - [ ] What is One Naiton One Standard Misison ? 
 - [ ] Whaat are the functions of BIS ? Who is its authority ? 
-- [ ] #significant-personalities : Sant Ravidasji ?
 
 ## 23rd February 2021
 - [ ] What are recent amendments made to the RTI Act ? 
 - [ ] What is the hierarchial difference b/w CIC & CEC ? 
 - [ ] How does deep sea trawling affect the marine environment ? 
 - [ ] What is National Cyber Security Strategy ? 
-- [ ] #map : Uthuru Thila Falhu ? 
 
 ## 24th February 2021
 - [ ] What is Mission Indradhanush 3.0 ? 
@@ -201,31 +173,22 @@
 
 ## 25th February 2021
 - [ ] What are articles - 338 & 338A ? 
-- [ ] #dictionary : tenuous ? 
-- [ ] #map : Senkaku Islands ? 
 - [ ] What is Potsdam Declaration ? What is San Francisco Peace Treaty ? 
 - [ ] Xinjiang shares border with which countries ? 
-- [ ] #map : Ghana ? Accra ? 
 - [ ] What is National Urban Innovation Stack ? 
 - [ ] Which sectors are covered under PLI scheme ? 
 - [ ] What are white goods ? 
 - [ ] What is incremental investment in PLI scheme ? 
 
 ## 26th February 2021
-- [ ] #significant-personalities : Nilakantha Somayaji ? 
-- [ ] #significant-personalities : Domingo Paes ? Fernao Nuniz ? 
 - [ ] What is Swacch Iconic Places program ? 
 - [ ] What are alternative investment funds (AIFs) ?
 - [ ] What are PCI, Cable TV Networks (Regulation) Act norms ? 
 - [ ] What are the Special Courts related to PMLA ? 
-- [ ] #rivers : Beas ? 
-- [ ] #significant-personalities : Mannathu Padmanabhan ? 
-- [ ] #significant-events : Vaikom Satyagraha ? 
 
 ## 27th February 2021
 - [ ] What is the role of Law Ministry in making laws related to ECI ? 
 - [ ] What is Electronically Transmitted Postal Ballot System ? What is its siginificance ? 
-- [ ] #rivers : Cauvery ? Vellaru ? Vaigai ? Gundar ? 
 - [ ] What is Cauvery-Vellaru-Vaigai-Gundar river linking project ? What is its significance ? What is its objective ? 
 - [ ] What does Interstate River Water Disputes Act say on surplus water distribution b/w states ? 
 - [ ] What is Sarkaria Commission's recommendation on Interstate River Waters Disputes Act ? 
@@ -234,6 +197,5 @@
 - [ ] What is 2003 Ceasefire Agreement b/w India & Pakistan ? 
 - [ ] What is the realtion b/w inflation, money transmission & bond market ? 
 - [ ] What is Vivad Se Viswas Scheme ? What is its significance ? 
-- [ ] #statistics : 9.32L Cr worth revenue un Direct Taxes category is blocked in ~4.8L appeals pending at various IT Appellate Forums 
 - [ ] What are INS Utkrosh & INS Jarwa ? 
 
