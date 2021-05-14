@@ -1,4 +1,3 @@
-
 .. title: Insights IAS - October'20 News Analysis Notes
 .. slug: insights-ias-october-2020-news-notes
 .. date: 2020-10-01 09:00 UTC+05:30

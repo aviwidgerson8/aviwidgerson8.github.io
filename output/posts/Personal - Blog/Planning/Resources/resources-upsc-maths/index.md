@@ -1,12 +1,9 @@
 .. title: Maths for UPSC
 .. slug: resources-upsc-maths
 .. date: 2020-12-17 15:40:33 UTC+05:30
-.. tags: upsc, maths
-.. category: resources
+.. tags: upsc, maths, resources
+.. category: blog
 .. template: page.tmpl
-.. description: 
-.. type: text
-.. status: draft
 
 **Description** : *account of progress in mathematics preparation for UPSC*
 

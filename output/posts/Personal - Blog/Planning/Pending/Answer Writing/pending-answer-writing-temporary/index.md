@@ -2,6 +2,7 @@
 .. slug: pending-answer-writing-temporary
 .. date: 2021-02-10 16:28 UTC+05:30
 .. tags: pending
+.. category: personal
 .. template: page.tmpl
 .. status: private
 

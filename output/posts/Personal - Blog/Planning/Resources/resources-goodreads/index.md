@@ -2,11 +2,8 @@
 .. slug: resources-goodreads
 .. date: 2020-12-17 16:09:15 UTC+05:30
 .. tags: goodreads
-.. category: resources
+.. category: blog
 .. template: page.tmpl
-.. description: 
-.. type: text
-.. status: draft
 
 **Description** : *account of reading of my goodreads booklist*
 

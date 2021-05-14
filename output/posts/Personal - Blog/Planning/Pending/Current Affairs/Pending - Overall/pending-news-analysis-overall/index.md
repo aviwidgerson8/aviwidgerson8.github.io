@@ -2,6 +2,7 @@
 .. slug: pending-news-analysis-overall
 .. date: 2021-01-07 17:30 UTC+05:30
 .. tags: pending
+.. category: personal
 .. template: page.tmpl
 .. status: private
 

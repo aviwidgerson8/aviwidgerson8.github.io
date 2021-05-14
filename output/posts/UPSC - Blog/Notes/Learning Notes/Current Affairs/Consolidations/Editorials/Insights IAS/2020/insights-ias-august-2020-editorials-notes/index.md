@@ -16,8 +16,6 @@
 - [ ] Chennai - Vladivostok maritime corridor ? 
 
 ## New Educational Policy 5+3+3+4 to replace 10+2 structure
-![Education Policy  Timeline](https://www.insightsonindia.com/wp-content/uploads/2020/08/national_education_policy-614x1536.png)
-
 - [ ] Kothari Commission,1964
 - [ ] 1st NEP, 1968. 2nd NEP, 1986 - modified again in 1992
 - [ ] Education changed to concurrent list, 1976

@@ -1,12 +1,9 @@
 .. title: TCS for TIFR, JEST & CMI
 .. slug: resources-tcs
 .. date: 2020-12-17 17:31:52 UTC+05:30
-.. tags: tcs
-.. category: resources
+.. tags: tcs, resources
+.. category: blog
 .. template: page.tmpl
-.. description: 
-.. type: text
-.. status: draft
 
 **Description** : *syllabus & account of progress in preparation of TCS for TIFR, JEST & CMI*
 

@@ -2,6 +2,7 @@
 .. slug: overall-career-planning
 .. date: 2021-02-07 16:01 UTC+05:30
 .. tags: planning
+.. category: personal
 .. template: page.tmpl
 .. status: private
 

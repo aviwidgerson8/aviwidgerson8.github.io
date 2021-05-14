@@ -2,6 +2,7 @@
 .. slug: pending-magazines-overall
 .. date: 2021-01-07 17:30 UTC+05:30
 .. tags: pending
+.. category: personal
 .. template: page.tmpl
 .. status: private
 
@@ -12,16 +13,6 @@
 
 ## Primary
 ### Economic & Political Weekly
-- [ ] Sept'20
-- [ ] Oct'20
-- [ ] Nov'20
-- [ ] Dec'20
-- [ ] Jan'20
-- [ ] Feb'20
-- [ ] Mar'20
-- [ ] Apr'20
-- [ ] May'20
-### Down to Earth
 - [ ] Sept'20
 - [ ] Oct'20
 - [ ] Nov'20

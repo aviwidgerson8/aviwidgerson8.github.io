@@ -1,8 +1,8 @@
 .. title : Schedule Timeline
 .. slug: schedule-timeline
 .. date: 2021-2-7 16:01 UTC+05:30
-.. tags: timeline
-.. category: planning
+.. tags: planning
+.. category: personal
 .. template: page.tmpl
 .. status: private
 

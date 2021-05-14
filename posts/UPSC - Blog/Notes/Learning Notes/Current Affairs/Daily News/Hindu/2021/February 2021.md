@@ -3,6 +3,7 @@
 .. date: 2021-02-01 22:13 UTC+05:30
 .. tags: hindu, news, notes
 .. category: upsc
+.. status: draft
 
 **Description** : *consolidated notes of newspapers*
 

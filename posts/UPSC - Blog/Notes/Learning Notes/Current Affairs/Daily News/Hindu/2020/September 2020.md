@@ -3,6 +3,7 @@
 .. date: 2020-09-01 08:00 UTC+05:30
 .. tags: hindu, news, notes
 .. category: upsc
+.. status: draft
 
 **Description** : *consolidated notes of newspapers*
 

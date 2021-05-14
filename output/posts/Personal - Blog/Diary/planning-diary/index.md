@@ -2,6 +2,7 @@
 .. slug: planning-diary
 .. date: 2020-03-05 
 .. tags: diary
+.. category: personal
 .. template: page.tmpl
 .. status: private
 

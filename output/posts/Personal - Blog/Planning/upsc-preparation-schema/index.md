@@ -1,6 +1,8 @@
 .. title : UPSC - Preparation Schema
 .. slug: upsc-preparation-schema
 .. date: 2021-04-12 18:20 UTC+05:30
+.. tag: planning
+.. category: personal
 .. template: page.tmpl
 .. status: private
 

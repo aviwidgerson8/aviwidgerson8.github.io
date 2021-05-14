@@ -1,12 +1,9 @@
 .. title: Economics for DSE
 .. slug: resources-economics
 .. date: 2020-12-17 15:40:20 UTC+05:30
-.. tags: economics
-.. category: resources
+.. tags: economics, resources
+.. category: blog
 .. template: page.tmpl
-.. description: 
-.. type: text
-.. status: draft
 
 **Description** : *account of progress in preparation for DSE-Economics*
 
