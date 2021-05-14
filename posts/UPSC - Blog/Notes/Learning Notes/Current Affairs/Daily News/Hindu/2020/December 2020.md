@@ -26,8 +26,7 @@
 - [ ] What are different colour alerts issued by IMD ? 
 - [ ] What are the functions of Indian Navy's Infromation Fusion Centre ? 
 - [ ] What is the need of COVIN software ?
-
-- [ ] India is the world's biggest rice exporter & China is the biggest importer 
+- [ ] India is the world's biggest rice exporter & China is the biggest importer ?
 
 ## 4th December 2020
 - [ ] What is the hierarchy of CDSCO & DCGI ? What are each's functions ? 
