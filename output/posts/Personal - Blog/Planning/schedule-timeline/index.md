@@ -13,44 +13,59 @@
 
 ## UPSC Schedule Timeline
 
-## 15th May'21 - Jun'21
-- 2:00am - 3:00am : English Grammar
-- 3:00am - 5:00am : UPSC General Studies - Prelims Practice Test Series
-- 5:00am - 6:00am : Pending - Opinions/News/Magazines
+## Jun'21
+- 2:00am - 3:00am : Pending - Opinions/News/Magazines
+- 3:00am - 5:00am : UPSC General Studies
+- 5:00am - 6:00am : Goodreads
 - 6:00am - 7:00am : Insights + Drishti IAS + Only IAS - Daily New Analysis & Editorials
 - 7:00am - 9:00am : (2/3) Newspapers + Opinions + Magazines + (1/3) Exercise + Freshup 
-- 9:00am - 1:00pm : General Studies
+- 9:00am - 1:00pm : UPSC General Studies
 - 1:00pm - 2:00pm : Opinions + Groceries/Milk
 - 2:00pm - 5:00pm : UPSC Mathematics
 - 5:00pm - 6:00pm : Pending - News/Opinion/Magazines
-- 6:00pm - 8:00pm : General Studies
+- 6:00pm - 8:00pm : UPSC Mathematics
 - 8:00pm - 8:30pm : Dinner + Insights Quizzes
 - 8:30pm - 10:00pm : Answer Writing - Daily + Pending
 
 ## Jul'21
 - 2:00am - 3:00am : Pending - Opinions/News/Magazines
-- 3:00am - 5:00am : UPSC General Studies - Notes Making
-- 5:00am - 6:00am : Pending - Opinions/News/Magazines
+- 3:00am - 5:00am : UPSC General Studies 
+- 5:00am - 6:00am : Goodreads
 - 6:00am - 7:00am : Insights + Drishti IAS + Only IAS - Daily New Analysis & Editorials
 - 7:00am - 9:00am : (2/3) Newspapers + Opinions + Magazines + (1/3) Exercise + Freshup 
-- 9:00am - 1:00pm : UPSC Mathematics
+- 9:00am - 1:00pm : UPSC General Studies
 - 1:00pm - 2:00pm : Opinions + Groceries/Milk
 - 2:00pm - 5:00pm : UPSC Mathematics
 - 5:00pm - 6:00pm : Pending - News/Opinion/Magazines
-- 6:00pm - 8:00pm : UPSC General Studies - Notes Making
+- 6:00pm - 8:00pm : UPSC Mathematics
 - 8:00pm - 8:30pm : Dinner + Insights Quizzes
 - 8:30pm - 10:00pm : Answer Writing - Daily + Pending
 
-## Aug'21 - Sept'21
-- 2:00am - 3:00am : Daily Notes - Updating 
-- 3:00am - 6:00am : UPSC General Studies - Mains Practice Tests Series
+## Aug'21
+- 2:00am - 3:00am : Pending - Opinions/News/Magazines
+- 3:00am - 5:00am : UPSC General Studies - Prelims Practice Test Series
+- 5:00am - 6:00am : Goodreads
 - 6:00am - 7:00am : Insights + Drishti IAS + Only IAS - Daily New Analysis & Editorials
 - 7:00am - 9:00am : (2/3) Newspapers + Opinions + Magazines + (1/3) Exercise + Freshup 
-- 9:00am - 1:00pm : Practices Tests - Correction + UPSC General Studies/Maths - Revision
+- 9:00am - 1:00pm : UPSC General Studies - Revision + Notes Making
+- 1:00pm - 2:00pm : Opinions + Groceries/Milk
+- 2:00pm - 5:00pm : UPSC Mathematics
+- 5:00pm - 6:00pm : Pending - News/Opinion/Magazines
+- 6:00pm - 8:00pm : UPSC Mathematics
+- 8:00pm - 8:30pm : Dinner + Insights Quizzes
+- 8:30pm - 10:00pm : Answer Writing - Daily + Pending
+
+## Sept'21
+- 2:00am - 3:00am : Daily Notes - Updating
+- 3:00am - 5:00am : UPSC General Studies - Prelims Practice Tests Series
+- 5:00am - 6:00am : Goodreads
+- 6:00am - 7:00am : Insights + Drishti IAS + Only IAS - Daily New Analysis & Editorials
+- 7:00am - 9:00am : (2/3) Newspapers + Opinions + Magazines + (1/3) Exercise + Freshup 
+- 9:00am - 1:00pm : UPSC General Studies - Mains Practice Tests Series + Corrections
 - 1:00pm - 2:00pm : Opinions + Groceries/Milk
 - 2:00pm - 5:00pm : UPSC Mathematics - Mains Practice / Test Series 
 - 5:00pm - 6:00pm : Pending - News/Opinion/Magazines
-- 6:00pm - 8:00pm : UPSC General Studies - Prelims Practice Tests Series
+- 6:00pm - 8:00pm : UPSC General Studies - Revision + Notes Making
 - 8:00pm - 8:30pm : Dinner + Insights Quizzes
 - 8:30pm - 10:00pm : Answer Writing - Daily + Pending
 

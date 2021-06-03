@@ -13,7 +13,8 @@
 
 ## Primary
 ### Hindu
-- [ ] 9th - 13th May'21
+- [ ] 1st - 3rd Jun'21
 
+## Secondary
 ### Business Standard
-- [ ] 1st - 13th May'21
+- [ ] 1st - 3rd Jun'21

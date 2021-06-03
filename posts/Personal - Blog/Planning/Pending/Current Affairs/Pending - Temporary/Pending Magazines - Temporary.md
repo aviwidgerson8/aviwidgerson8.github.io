@@ -12,8 +12,8 @@
 <!-- TEASER_END -->
 
 ### Economic & Political Weekly
-- [ ] 1st - 13th May'21
+- [ ] 1st - 30th Jun'21
 ### Yojana
-- [ ] May'21
+- [ ] Jun'21
 ### Kurukshetra
-- [ ] May'21
+- [ ] Jun'21

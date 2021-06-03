@@ -4,6 +4,7 @@
 .. tags: tcs, resources
 .. category: blog
 .. template: page.tmpl
+.. status: private
 
 **Description** : *syllabus & account of progress in preparation of TCS for TIFR, JEST & CMI*
 

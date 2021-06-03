@@ -12,6 +12,6 @@
 <!-- TEASER_END -->
 
 ### Hindu
-- [ ] 1st - 13th May'21
+- [ ] 1st - 3rd Jun'21
 ### Indian Express
-- [ ] 1st - 13th May'21
+- [ ] 1st - 3rd Jun'21
