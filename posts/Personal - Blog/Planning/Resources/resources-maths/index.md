@@ -4,6 +4,7 @@
 .. tags: maths, resources
 .. category: blog
 .. template: page.tmpl
+.. status: private
 
 **Description** : *syllabus & account of progress in maths preparation for IIT-JAM & CMI*
 

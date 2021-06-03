@@ -4,6 +4,7 @@
 .. tags: economics, resources
 .. category: blog
 .. template: page.tmpl
+.. status: private
 
 **Description** : *account of progress in preparation for DSE-Economics*
 

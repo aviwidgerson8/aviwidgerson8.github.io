@@ -12,10 +12,10 @@
 <!-- TEASER_END -->
 
 ### Hindu & IE
-- [ ] 1st - 13th May'21
+- [ ] 1st - 3rd Jun'21
 ### Down to Earth
-- [ ] 1st - 13th May'21
+- [ ] 1st - 3rd Jun'21
 ### Business Standard
-- [ ] 1st - 13th May'21
+- [ ] 1st - 3rd Jun'21
 ### FE, Tribune, BL, Livemint, HT
-- [ ] 1st - 13th May'21
+- [ ] 1st - 3rd Jun'21

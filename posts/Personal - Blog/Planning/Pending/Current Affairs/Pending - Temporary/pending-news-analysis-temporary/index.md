@@ -13,10 +13,10 @@
 
 ## Primary
 ### Insights IAS
-- [ ] 6th - 13th May'21
+- [ ] 1st - 3rd Jun
 ### Only IAS
-- [ ] 1st - 13th May'21
+- [ ] 1st - 3rd Jun
 
 ## Secondary
 ### Drishti IAS
-- [ ] 1st - 13th May'21
+- [ ] 1st - 3rd Jun

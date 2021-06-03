@@ -13,13 +13,14 @@
 
 ## Primary
 ### Insights IAS
-- None
+- [ ] 7th - 31st May'21
 ### Only IAS
 - [ ] 15th - 30th Oct'20
 - [ ] 1st - 31st Jan'21
 - [ ] 1st - 28th Feb'21
 - [ ] 1st - 31st Mar'21
 - [ ] 1st - 30th Apr'21
+- [ ] 1st - 31st May'21
 
 ---
 ## Secondary
@@ -32,4 +33,4 @@
 - [ ] Feb'21
 - [ ] Mar'21
 - [ ] Apr'21
-- [ ] 1st - 15th May'21
+- [ ] May'21

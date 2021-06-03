@@ -4,6 +4,7 @@
 .. tags: goodreads
 .. category: blog
 .. template: page.tmpl
+.. status: private
 
 **Description** : *account of reading of my goodreads booklist*
 

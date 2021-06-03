@@ -13,13 +13,13 @@
 
 ## Primary
 ### PRS
-- [ ] May'21 - Monthly Policy Review
-- [ ] May'21 - Blogs & Articles
-- [ ] May'21 - Committee & Analytical Reports
-- [ ] May'21 - Bills & Acts
+- [ ] Jun'21 - Monthly Policy Review
+- [ ] Jun'21 - Blogs & Articles
+- [ ] Jun'21 - Committee & Analytical Reports
+- [ ] Jun'21 - Bills & Acts
 
 ### PIB Magazines
-- [ ] May'21
+- [ ] Jun'21
 
 ### Ideas for India
-- [ ] 1st - 13th May'21 
+- [ ] 1st - 31st Jun'21 
